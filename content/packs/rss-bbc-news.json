@@ -1,0 +1,137 @@
+{
+  "id": "rss-bbc-news",
+  "name": "BBC News · Top Stories · 2026-10-19",
+  "type": "passage",
+  "generatedAt": "2026-10-19T07:29:52.796Z",
+  "items": [
+    {
+      "id": "rss-bbc-news-1",
+      "title": "UK inflation falls to lowest level in th…",
+      "source": "BBC News · Top Stories · RSS 摘要（个人学习用）",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/fixture-1",
+      "sentences": [
+        "Inflation in the UK has fallen to its lowest level in almost three years, official figures show.",
+        "Falling energy prices were the main driver of the decline, although housing costs continued to rise in most regions.",
+        "Economists expect interest rates to remain unchanged until at least the spring.",
+        "The Bank of England said it welcomed the data but wanted clearer evidence before acting.",
+        "UK inflation falls to lowest level in three years"
+      ],
+      "vocab": [
+        {
+          "w": "inflation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "official",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "figures",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "falling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "although",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/fixture-1"
+    },
+    {
+      "id": "rss-bbc-news-2",
+      "title": "Tech firms race to build greener data ce…",
+      "source": "BBC News · Top Stories · RSS 摘要（个人学习用）",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/fixture-2",
+      "sentences": [
+        "Major technology companies are investing billions in data centres powered entirely by renewable energy.",
+        "The shift comes as demand for artificial intelligence computing surges worldwide.",
+        "Critics argue that efficiency gains have historically been offset by rising overall consumption.",
+        "Industry analysts say the next two years will determine whether green pledges translate into measurable reductions.",
+        "Tech firms race to build greener data centres"
+      ],
+      "vocab": [
+        {
+          "w": "technology",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "companies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "centres",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "powered",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/fixture-2"
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Graduate job vacancies rise for the firs…",
+      "source": "BBC News · Top Stories · RSS 摘要（个人学习用）",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/fixture-3",
+      "sentences": [
+        "Vacancies for recent graduates have risen for the first time in four years, according to a new report.",
+        "Employers in engineering, healthcare and data roles are recruiting most aggressively.",
+        "However, competition remains intense, with an average of eighty applications per opening in the largest cities.",
+        "Careers advisers say candidates who demonstrate strong communication skills continue to have a clear advantage.",
+        "Graduate job vacancies rise for the first time since 2022"
+      ],
+      "vocab": [
+        {
+          "w": "intense",
+          "cn": "强烈的"
+        },
+        {
+          "w": "demonstrate",
+          "cn": "证明；演示"
+        },
+        {
+          "w": "vacancies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "graduates",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "employers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "engineering",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/fixture-3"
+    }
+  ]
+}

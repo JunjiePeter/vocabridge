@@ -1,0 +1,19 @@
+{
+  "id": "p003",
+  "name": "自由陈述话题卡·补充",
+  "type": "cue",
+  "items": [
+    {
+      "t": "Describe a time you delivered results under a tight deadline.",
+      "b": ["The deadline & why it moved", "What you cut", "How you communicated risk", "The final outcome"]
+    },
+    {
+      "t": "Talk about a skill you want to develop this year.",
+      "b": ["Which skill & why now", "How it helps your career", "Your plan", "How you will measure progress"]
+    },
+    {
+      "t": "Describe a cultural difference you experienced at work.",
+      "b": ["Where & with whom", "What surprised you", "How you adapted", "What you would do differently"]
+    }
+  ]
+}

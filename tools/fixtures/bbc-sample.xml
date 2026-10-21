@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BBC News - Top Stories (test fixture)</title>
+    <item>
+      <title>UK inflation falls to lowest level in three years</title>
+      <description><![CDATA[Inflation in the UK has fallen to its lowest level in almost three years, official figures show. Falling energy prices were the main driver of the decline, although housing costs continued to rise in most regions. Economists expect interest rates to remain unchanged until at least the spring. The Bank of England said it welcomed the data but wanted clearer evidence before acting.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/fixture-1</link>
+    </item>
+    <item>
+      <title>Tech firms race to build greener data centres</title>
+      <description><![CDATA[Major technology companies are investing billions in data centres powered entirely by renewable energy. The shift comes as demand for artificial intelligence computing surges worldwide. Critics argue that efficiency gains have historically been offset by rising overall consumption. Industry analysts say the next two years will determine whether green pledges translate into measurable reductions.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/fixture-2</link>
+    </item>
+    <item>
+      <title>Graduate job vacancies rise for the first time since 2022</title>
+      <description><![CDATA[Vacancies for recent graduates have risen for the first time in four years, according to a new report. Employers in engineering, healthcare and data roles are recruiting most aggressively. However, competition remains intense, with an average of eighty applications per opening in the largest cities. Careers advisers say candidates who demonstrate strong communication skills continue to have a clear advantage.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/fixture-3</link>
+    </item>
+  </channel>
+</rss>

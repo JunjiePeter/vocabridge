@@ -1,0 +1,30 @@
+{
+  "id": "p002",
+  "name": "跟读素材·职场报道",
+  "type": "passage",
+  "items": [
+    {
+      "id": "p-bbc-jobs",
+      "title": "海外招聘市场回暖",
+      "source": "BBC News · 风格仿写（原创）",
+      "accent": "en-GB",
+      "level": "6.5-7.0",
+      "topic": "就业 / 科技",
+      "intro": "跟面试相关的词汇密集，适合练话题联想。",
+      "sentences": [
+        "Employers across Europe are stepping up recruitment of overseas engineers.",
+        "A recent survey suggests that a third of technology roles will be filled remotely this year.",
+        "Companies say the biggest shortage is in mid-level candidates with five to eight years of experience.",
+        "Recruiters warn that visa processing remains the most common bottleneck.",
+        "Candidates who can demonstrate strong spoken English continue to command a clear premium.",
+        "Analysts expect salaries for data roles to rise by around nine percent next year."
+      ],
+      "vocab": [
+        { "w": "step up", "cn": "加大、加强" },
+        { "w": "mid-level", "cn": "中级岗位" },
+        { "w": "bottleneck", "cn": "瓶颈" },
+        { "w": "command a premium", "cn": "获得溢价" }
+      ]
+    }
+  ]
+}

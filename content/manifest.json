@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "updatedAt": "2026-10-19",
+  "minApp": 1,
+  "packs": [
+    {
+      "id": "p001",
+      "name": "雅思高频补充词·第一批",
+      "type": "vocab",
+      "file": "content/packs/p001-ielts-extra.json",
+      "version": 1
+    },
+    {
+      "id": "p002",
+      "name": "跟读素材·职场报道",
+      "type": "passage",
+      "file": "content/packs/p002-passage.json",
+      "version": 1
+    },
+    {
+      "id": "p003",
+      "name": "自由陈述话题卡·补充",
+      "type": "cue",
+      "file": "content/packs/p003-cues.json",
+      "version": 1
+    },
+    {
+      "id": "p004",
+      "name": "视频包·示例与模板",
+      "type": "video",
+      "file": "content/packs/p004-video.json",
+      "version": 1
+    },
+    {
+      "id": "rss-bbc-news",
+      "name": "BBC News · Top Stories · 2026-10-19",
+      "type": "passage",
+      "file": "content/packs/rss-bbc-news.json",
+      "version": 1
+    }
+  ]
+}

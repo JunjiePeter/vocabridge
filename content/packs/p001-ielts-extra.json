@@ -1,0 +1,21 @@
+{
+  "id": "p001",
+  "name": "雅思高频补充词·第一批",
+  "type": "vocab",
+  "deck": "ielts",
+  "tag": "extra",
+  "items": [
+    ["plausible", "/ˈplɔːzəbl/", "adj.", "貌似可信的", "His excuse sounded plausible at first.", "他的借口乍一听还挺可信。", "argument"],
+    ["scrutiny", "/ˈskruːtəni/", "n.", "仔细审查", "The proposal came under intense scrutiny.", "该提案受到了严格审查。", "academic"],
+    ["resilient", "/rɪˈzɪliənt/", "adj.", "有韧性的", "Supply chains need to become more resilient.", "供应链需要更有韧性。", "society"],
+    ["transparent", "/trænsˈpærənt/", "adj.", "透明的", "Fee structures should be transparent.", "收费结构应当透明。", "society"],
+    ["compromise", "/ˈkɒmprəmaɪz/", "n./v.", "折中；妥协", "The final design was a sensible compromise.", "最终的设计是合理的折中方案。", "work"],
+    ["hierarchy of needs", "/ˈhaɪərɑːki əv niːdz/", "n.", "需求层次", "Safety sits high in the hierarchy of needs.", "安全在需求层次中排位很高。", "society"],
+    ["mitigate", "/ˈmɪtɪɡeɪt/", "v.", "减轻", "Early investment can mitigate later losses.", "早期投入可以减轻后续损失。", "environment"],
+    ["pragmatic", "/præɡˈmætɪk/", "adj.", "务实的", "A pragmatic solution beats a perfect one that never ships.", "务实的方案胜过永远落不了地的完美方案。", "work"],
+    ["scrutinise", "/ˈskruːtənaɪz/", "v.", "仔细核查", "Every claim in the report was scrutinised.", "报告中的每一项主张都被仔细核查过。", "academic"],
+    ["trade-off", "/ˈtreɪd ɒf/", "n.", "权衡取舍", "There is a trade-off between speed and accuracy.", "速度与准确性之间存在权衡。", "argument"],
+    ["turbulent", "/ˈtɜːbjələnt/", "adj.", "动荡的", "The market has been turbulent this quarter.", "本季度市场动荡不安。", "data"],
+    ["underpin", "/ˌʌndəˈpɪn/", "v.", "支撑", "Trust underpins every durable partnership.", "信任支撑着每一段持久的合作关系。", "argument"]
+  ]
+}

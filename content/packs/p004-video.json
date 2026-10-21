@@ -1,0 +1,32 @@
+{
+  "id": "p004",
+  "name": "视频包·示例与模板",
+  "type": "video",
+  "items": [
+    {
+      "id": "v-demo-tts",
+      "title": "演示：用系统语音当「视频音轨」",
+      "source": "内置模板（无外部视频文件，离线可用）",
+      "type": "mp4",
+      "url": "",
+      "sentences": [
+        { "start": null, "end": null, "text": "Welcome back to the channel." },
+        { "start": null, "end": null, "text": "Today we're breaking down how to answer salary questions." },
+        { "start": null, "end": null, "text": "The short answer: anchor with data, then stay quiet." },
+        { "start": null, "end": null, "text": "Let's get into it." }
+      ]
+    },
+    {
+      "id": "v-demo-mp4",
+      "title": "功能演示视频（需联网 · 无对白）",
+      "source": "公开测试素材 · Big Buck Bunny",
+      "type": "mp4",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "sentences": [
+        { "start": 0, "end": 8, "text": "The rabbit wakes up in the forest." },
+        { "start": 8, "end": 16, "text": "It stretches and looks around." }
+      ],
+      "note": "演示时间轴跳转用的公开测试视频，请把 URL 换成你自己的英语素材。"
+    }
+  ]
+}
