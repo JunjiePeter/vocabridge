@@ -62,27 +62,33 @@ content/packs/*.json       实际内容（词汇/语法/跟读/情景/话题/视
 
 自定义内容源：「设置 → 内容更新 → 内容源地址」改成你自己的静态托管 URL（如 GitHub Pages / Vercel / CloudStudio），即可用你自己的渠道持续下发。
 
-### 实时嫁接 BBC News（自动采集器）
+### 实时嫁接新闻/演讲源（自动采集器）
 
-`tools/fetch-content.js` 把任意 RSS 源直接转成影子跟读素材包：
+`tools/fetch-content.js` 把 RSS / Podcast / 本地文本直接转成影子跟读素材包。默认源：
+
+| 源 | 类型 | 说明 |
+| --- | --- | --- |
+| BBC News（Top / 科技 / 商业） | RSS | 稳定可用，主力自动源 |
+| The Economist | RSS | 可能因订阅墙失败 → 自动跳过；**最可靠方式是 `--file` 手动投递**你复制的文章 |
+| TED Talks | Podcast + 全文 transcript | 尽力抓取演讲全文作跟读素材；RSS 失效时改用 `--file` 投递讲稿 |
 
 ```bash
-# 默认抓 BBC Top / 科技 / 商业三个源
+# 默认抓全部源（BBC / Economist / TED），任一源失败不影响其它源
 node tools/fetch-content.js
 
 # 自定义任意 RSS
 node tools/fetch-content.js --feed "https://feeds.bbci.co.uk/news/world/rss.xml" --name bbc-world --accent en-GB
 
-# 离线/人工投递：用本地 XML 文件
-node tools/fetch-content.js --file tools/fixtures/bbc-sample.xml --name bbc-news --label "BBC News · Top Stories"
+# 手动投递（最适合付费墙源：把文章/讲稿存成 txt，空行分段）
+node tools/fetch-content.js --file my-article.txt --name economist --label "The Economist"
 ```
 
-流程：抓 RSS → 提取标题+摘要 → 拆句清洗 → 从内置词库匹配重点词中文释义 → 写入 `content/packs/rss-*.json` → **自动把 manifest 版本号 +1**。应用（http/https 部署版）下次打开即自动合并新素材到「影子跟读」列表。
+流程：抓源 → 提取标题+正文/摘要 → 拆句清洗 → 从内置词库匹配重点词中文释义 → 写入 `content/packs/rss-*.json` → **自动把 manifest 版本号 +1**。应用（http/https 部署版）下次打开即自动合并新素材到「影子跟读」列表。
 
-已配每日 08:30 自动运行（自动化任务「VocaBridge 每日内容采集」）。
+> 💡 想加更多源：编辑 `tools/fetch-content.js` 顶部的 `DEFAULT_FEEDS` 数组，加一项 `{ name, url, accent, label, type }` 即可（`type: 'ted'` 走 transcript 抓取，留空走普通 RSS）。
 
-> ⚠️ 版权提醒：RSS 摘要版权归原媒体（BBC 等）所有，本流程仅适合**个人学习用途**，不要把采集到的文本二次发布到公开渠道。
-> ⚠️ 采集器需要在能访问外网的机器上运行（WorkBuddy 沙盒内网络被限制，请在普通终端跑）。
+> ⚠️ 版权提醒：RSS/文章/演讲文本版权归原媒体所有，本流程仅适合**个人学习用途**，不要把采集到的文本二次发布到公开渠道。
+> ⚠️ 采集器需要在能访问外网的机器上运行（WorkBuddy 沙盒内网络被限制，请在普通终端或用 GitHub Actions 跑）。
 
 ## 视频跟读
 

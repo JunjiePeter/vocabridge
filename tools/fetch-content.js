@@ -1,14 +1,20 @@
 /* ===========================================================
- * 内容采集器：RSS → 影子跟读素材包
+ * 内容采集器：RSS / Podcast / 文件 → 影子跟读素材包
+ * 支持的内容源：
+ *   - BBC 新闻/科技/商业（RSS，稳定可用）
+ *   - The Economist（latest RSS，可能因订阅墙失败 → 自动跳过；
+ *       最可靠的方式是用 --file 手动投递你复制的文章文本）
+ *   - TED Talks（podcast RSS + 尽力抓取演讲全文 transcript 作为影子跟读素材）
+ *
  * 用法：
- *   node tools/fetch-content.js                      # 抓默认源（BBC 新闻/科技/商业）
- *   node tools/fetch-content.js --feed <url> --name <id> --accent en-US
- * 行为：
- *   1. 拉取 RSS → 提取每条新闻的标题与摘要
- *   2. 拆句、清洗 HTML、过滤过短/过长句
- *   3. 从内置词库匹配重点词中文释义（离线可查的那部分）
- *   4. 生成 content/packs/rss-<name>.json，并自动把 manifest 版本 +1
- * 版权提醒：RSS 摘要文本版权归原媒体所有，仅适合个人学习使用，不要二次分发。
+ *   node tools/fetch-content.js                                   # 抓全部默认源
+ *   node tools/fetch-content.js --feed <url> --name <id>          # 自定义 RSS 源
+ *   node tools/fetch-content.js --file <path> --name economist    # 手动投递（最适合付费墙源）
+ *
+ * 行为：拉取 → 拆句 → 匹配内置词库中文释义 → 生成 content/packs/rss-<name>.json
+ *       → 自动把 manifest 版本 +1。每个源独立 try/catch，单个源失败不影响其它源。
+ *
+ * 版权提醒：RSS/文章/演讲文本版权归原媒体所有，仅限个人学习使用，不要二次分发。
  * =========================================================== */
 const fs = require('fs');
 const path = require('path');
@@ -18,9 +24,13 @@ const packsDir = path.join(rootDir, 'content', 'packs');
 const manifestPath = path.join(rootDir, 'content', 'manifest.json');
 
 const DEFAULT_FEEDS = [
-  { name: 'bbc-news', url: 'https://feeds.bbci.co.uk/news/rss.xml', accent: 'en-GB', label: 'BBC News · Top Stories' },
-  { name: 'bbc-tech', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', accent: 'en-GB', label: 'BBC News · Technology' },
-  { name: 'bbc-biz', url: 'https://feeds.bbci.co.uk/news/business/rss.xml', accent: 'en-GB', label: 'BBC News · Business' }
+  { name: 'bbc-news',  url: 'https://feeds.bbci.co.uk/news/rss.xml',            accent: 'en-GB', label: 'BBC News · Top Stories', level: '6.5-7.5', topic: '时事新闻' },
+  { name: 'bbc-tech',  url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', accent: 'en-GB', label: 'BBC News · Technology',  level: '6.5-7.5', topic: '科技' },
+  { name: 'bbc-biz',   url: 'https://feeds.bbci.co.uk/news/business/rss.xml',   accent: 'en-GB', label: 'BBC News · Business',    level: '6.5-7.5', topic: '商业' },
+  { name: 'economist', url: 'https://www.economist.com/latest/rss.xml',         accent: 'en-GB', label: 'The Economist · Latest', level: '7.0-8.5', topic: '商业与时事',
+    note: '订阅墙可能导致失败，失败会自动跳过；可用 --file 手动投递文章文本' },
+  { name: 'ted',       url: 'https://feeds.feedburner.com/tedtalks_audio', type: 'ted', accent: 'en-US', label: 'TED Talks · Daily', level: '6.5-8.0', topic: '演讲与观点',
+    note: 'podcast RSS + 尽力抓全文 transcript；RSS 失效时可改用 --file 投递讲稿' }
 ];
 
 /* ---------------- 参数 ---------------- */
@@ -38,7 +48,7 @@ const feeds = args.feed
     ? [{ name: args.name || 'local', file: args.file, accent: args.accent || 'en-GB', label: args.label || args.name || '本地源' }]
     : DEFAULT_FEEDS;
 
-/* ---------------- RSS 解析（无依赖，轻量正则解析） ---------------- */
+/* ---------------- 通用工具 ---------------- */
 function stripHtml(s) {
   return String(s || '')
     .replace(/<!\[CDATA\[|\]\]>/g, '')
@@ -48,6 +58,23 @@ function stripHtml(s) {
     .replace(/\s+/g, ' ').trim();
 }
 
+async function fetchWithTimeout(url, opts = {}, ms = 9000) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), ms);
+  try {
+    return await fetch(url, { ...opts, signal: ctrl.signal });
+  } finally {
+    clearTimeout(t);
+  }
+}
+
+async function getXML(feed) {
+  const res = await fetchWithTimeout(feed.url, { headers: { 'User-Agent': 'VocaBridge-ContentBot/1.0' } });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return res.text();
+}
+
+/* ---------------- RSS 解析（无依赖，轻量正则） ---------------- */
 function parseRSS(xml) {
   const items = [];
   const re = /<item>([\s\S]*?)<\/item>/g;
@@ -59,11 +86,66 @@ function parseRSS(xml) {
       return mm ? stripHtml(mm[1]) : '';
     };
     const title = get('title');
-    const desc = get('description');
+    let desc = get('description');
+    // 描述过短时尝试用 content:encoded 补充
+    if (desc.length < 60) {
+      const ce = get('content:encoded');
+      if (ce.length > desc.length) desc = ce;
+    }
     const link = get('link');
-    if (title && desc) items.push({ title, desc, link });
+    const enc = block.match(/<enclosure[^>]*url="([^"]+)"/i);
+    const audio = enc ? enc[1] : '';
+    if (title && desc) items.push({ title, desc, link, audio });
   }
   return items;
+}
+
+/* ---------------- TED：RSS + 尽力抓全文 transcript ---------------- */
+async function fetchTED(feed) {
+  const xml = await getXML(feed);
+  const items = parseRSS(xml);
+  if (!items.length) throw new Error('TED RSS 未解析到内容');
+  const out = [];
+  for (const it of items.slice(0, 6)) {
+    let text = it.desc || '';
+    const audio = it.audio || '';
+    // 尽力抓取演讲全文 transcript（talk 页面公开 JSON 接口）
+    try {
+      const slug = (it.link.match(/ted\.com\/talks\/([a-z0-9_\-]+)/i) || [])[1];
+      if (slug) {
+        const tRes = await fetchWithTimeout(
+          'https://www.ted.com/talks/' + slug + '/transcript.json?language=en',
+          { headers: { 'User-Agent': 'VocaBridge-ContentBot/1.0' } }
+        );
+        if (tRes.ok) {
+          const tj = await tRes.json();
+          const paras = (tj.paragraphs || [])
+            .map(p => (p.cues || []).map(c => c.text).join(' '))
+            .join(' ');
+          if (paras && paras.length > text.length) text = paras;
+        }
+      }
+    } catch (e) { /* transcript 抓取失败则回退到描述 */ }
+    out.push({ title: it.title, desc: text, link: it.link, audio });
+  }
+  return out;
+}
+
+/* ---------------- 手动投递（--file）：最适合付费墙源 ---------------- */
+function readFileFeed(feed) {
+  const raw = fs.readFileSync(feed.file, 'utf8');
+  const chunks = raw.split(/\n\s*\n+/).map(s => s.trim()).filter(Boolean);
+  // 单块（没有空行分隔）整体作为一篇；多块按篇拆分
+  return (chunks.length > 1 ? chunks : [raw])
+    .map(c => ({ title: c.slice(0, 40), desc: c, link: '', audio: '' }));
+}
+
+/* ---------------- 统一入口：按源类型分发 ---------------- */
+async function fetchFeedItems(feed) {
+  if (feed.file) return readFileFeed(feed);
+  if (feed.type === 'ted') return fetchTED(feed);
+  const xml = await getXML(feed);
+  return parseRSS(xml);
 }
 
 /* ---------------- 拆句 ---------------- */
@@ -74,7 +156,7 @@ function splitSentences(text) {
     .map(s => s.trim())
     .filter(s => {
       const w = s.split(/\s+/).length;
-      return w >= 8 && w <= 32 && /[a-z]/i.test(s);
+      return w >= 5 && w <= 34 && /[a-z]/i.test(s);
     });
 }
 
@@ -108,20 +190,22 @@ function extractVocab(sentences, dict) {
 /* ---------------- 生成内容包 ---------------- */
 function buildPassagePack(feed, items) {
   const passages = items.map((it, i) => {
-    const sents = splitSentences(it.desc + ' ' + it.title).slice(0, 7);
+    let sents = splitSentences(it.desc).slice(0, 8);
+    if (sents.length < 2) sents = splitSentences(it.title + '. ' + it.desc).slice(0, 8);
     return {
       id: 'rss-' + feed.name + '-' + (i + 1),
       title: it.title.length > 40 ? it.title.slice(0, 40) + '…' : it.title,
-      source: feed.label + ' · RSS 摘要（个人学习用）',
+      source: feed.label + ' · 个人学习用',
       accent: feed.accent,
-      level: '6.5-7.5',
-      topic: '时事新闻',
+      level: feed.level || '6.5-7.5',
+      topic: feed.topic || '时事新闻',
       intro: it.link ? '原文：' + it.link : '',
-      sentences: sents.length >= 4 ? sents : splitSentences(it.title + '. ' + it.desc),
+      sentences: sents,
       vocab: extractVocab(sents, VOCAB_DICT),
-      link: it.link
+      link: it.link,
+      audio: it.audio || ''   // podcast 音频（TED/BBC 音频源），供后续原生听力播放
     };
-  }).filter(p => p.sentences && p.sentences.length >= 3);
+  }).filter(p => p.sentences && p.sentences.length >= 1);
 
   return {
     id: 'rss-' + feed.name,
@@ -147,19 +231,12 @@ function bumpManifest(packFile, packMeta) {
 /* ---------------- 主流程 ---------------- */
 const VOCAB_DICT = loadVocabDict();
 
-async function getXML(feed) {
-  if (feed.file) return fs.readFileSync(feed.file, 'utf8');   // 本地文件模式（离线/人工投递）
-  const res = await fetch(feed.url, { headers: { 'User-Agent': 'VocaBridge-ContentBot/1.0' } });
-  if (!res.ok) throw new Error('HTTP ' + res.status);
-  return res.text();
-}
-
 (async () => {
   for (const feed of feeds) {
     try {
       console.log('抓取', feed.label, '…');
-      const xml = await getXML(feed);
-      const items = parseRSS(xml);
+      if (feed.note) console.log('   （' + feed.note + '）');
+      const items = await fetchFeedItems(feed);
       if (!items.length) throw new Error('未解析到内容');
       const pack = buildPassagePack(feed, items);
       const file = 'content/packs/rss-' + feed.name + '.json';
