@@ -1,0 +1,464 @@
+{
+  "id": "rss-bbc-biz",
+  "name": "BBC News · Business · 2026-10-21",
+  "type": "passage",
+  "generatedAt": "2026-10-21T04:49:26.813Z",
+  "items": [
+    {
+      "id": "rss-bbc-biz-1",
+      "title": "Elon Musk says Tesla-SpaceX merger being…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elon Musk says Tesla-SpaceX merger being considered.",
+        "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+      ],
+      "vocab": [
+        {
+          "w": "tesla-spacex",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "considered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "special",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "committees",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "companies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "possible",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Why does Elon Musk want to merge Tesla a…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Why does Elon Musk want to merge Tesla and SpaceX?.",
+        "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
+      ],
+      "vocab": [
+        {
+          "w": "companies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "history",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Google resolves cloud outage affecting U…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Google resolves cloud outage affecting UK banks and websites.",
+        "Revolut was one of the hardest hit, with banking services going down for many customers."
+      ],
+      "vocab": [
+        {
+          "w": "resolves",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "affecting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "websites",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revolut",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hardest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "banking",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "UK government expected to approve Jackda…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "UK government expected to approve Jackdaw gas field.",
+        "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
+      ],
+      "vocab": [
+        {
+          "w": "controversial",
+          "cn": "有争议的"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "approve",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "jackdaw",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "long-awaited",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Trump sued over Canadian tariffs in late…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Trump sued over Canadian tariffs in latest legal challenge.",
+        "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+      ],
+      "vocab": [
+        {
+          "w": "canadian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tariffs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "challenge",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lawsuit",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "exceeded",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "authority",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "The tech helping crack decades-old cold …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The tech helping crack decades-old cold cases.",
+        "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
+      ],
+      "vocab": [
+        {
+          "w": "helping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decades-old",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investigative",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "genetic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "genealogy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "criminals",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Audit regulator looking into Manchester …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Audit regulator looking into Manchester City accounting.",
+        "No formal investigation has started, but the regulator is making inquiries into the case."
+      ],
+      "vocab": [
+        {
+          "w": "regulator",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "looking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "manchester",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accounting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investigation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "started",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Paddy Power cuts 1,400 jobs and blames b…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Paddy Power cuts 1,400 jobs and blames betting tax rises.",
+        "The government increased taxes on online casino and sports betting in last year's Budget."
+      ],
+      "vocab": [
+        {
+          "w": "betting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "increased",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Union attacks NatWest plans to get worke…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Union attacks NatWest plans to get workers back to the office.",
+        "The bank says workers will be required to attend the office at least two days a week from February."
+      ],
+      "vocab": [
+        {
+          "w": "attacks",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "natwest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "required",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "february",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
+      "title": "Chancellor rejects calls to raise Capita…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Chancellor rejects calls to raise Capital Gains Tax in Budget.",
+        "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+      ],
+      "vocab": [
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rejects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "capital",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "influential",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "figures",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pushing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-11",
+      "title": "OpenAI CEO Sam Altman wins dismissal of …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit.",
+        "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+      ],
+      "vocab": [
+        {
+          "w": "dismissal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sister's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lawsuit",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "district",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dismissed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "refused",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-12",
+      "title": "Jobless rate falls but small firms cut b…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Jobless rate falls but small firms cut back hiring.",
+        "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+      ],
+      "vocab": [
+        {
+          "w": "jobless",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scaling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "statistics",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    }
+  ]
+}
