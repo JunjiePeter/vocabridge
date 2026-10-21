@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 12,
   "updatedAt": "2026-10-21",
   "minApp": 1,
   "packs": [
@@ -36,35 +36,35 @@
       "name": "BBC News · Top Stories · 2026-10-21",
       "type": "passage",
       "file": "content/packs/rss-bbc-news.json",
-      "version": 2
+      "version": 3
     },
     {
       "id": "rss-bbc-tech",
       "name": "BBC News · Technology · 2026-10-21",
       "type": "passage",
       "file": "content/packs/rss-bbc-tech.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "rss-bbc-biz",
       "name": "BBC News · Business · 2026-10-21",
       "type": "passage",
       "file": "content/packs/rss-bbc-biz.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "rss-economist",
       "name": "The Economist · Latest · 2026-10-21",
       "type": "passage",
       "file": "content/packs/rss-economist.json",
-      "version": 1
+      "version": 2
     },
     {
       "id": "rss-ted",
       "name": "TED Talks · Daily · 2026-10-21",
       "type": "passage",
       "file": "content/packs/rss-ted.json",
-      "version": 1
+      "version": 2
     }
   ]
 }
