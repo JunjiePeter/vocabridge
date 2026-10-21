@@ -1,9 +1,9 @@
 name: Update Content (RSS: BBC / Economist / TED)
 
-on:
+"on":
+  workflow_dispatch:
   schedule:
-    - cron: '30 1 * * *'         # 每天 09:30 北京时间（01:30 UTC）
-  workflow_dispatch: {}          # 允许在 Actions 页面手动触发
+    - cron: "30 1 * * *"   # 09:30 北京时间（01:30 UTC）
 
 permissions:
   contents: write
