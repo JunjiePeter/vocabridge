@@ -1,4 +1,4 @@
-name: Update Content (RSS: BBC / Economist / TED)
+name: "Update Content (RSS: BBC / Economist / TED)"
 
 "on":
   workflow_dispatch:
