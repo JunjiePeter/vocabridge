@@ -110,3 +110,23 @@ js/ui.js              事件总线（含全局错误提示）与 UI 组件
 js/views-*.js         各功能模块视图（含 views-exam.js 测评）
 js/app.js             路由与启动
 ```
+
+## 在线版（GitHub Pages）
+
+已部署到公开仓库，任意设备浏览器直开（含 iOS / 安卓 Safari）：
+
+**https://junjiepeter.github.io/vocabridge/**
+
+- 该地址即多文件版，支持「内容热更新」：打开时自动从 `content/` 拉取最新素材包。
+- **内容自动更新**：仓库内置 GitHub Actions 工作流（`.github/workflows/update-content.yml`），每天定时抓取 BBC 等 RSS，生成影子跟读素材并自动提交，手机端打开即为含最新新闻跟读内容的版本。
+  - 工作流需仓库的 `workflow` 权限；若你重新生成 PAT，请勾选 `workflow` 作用域后推送该文件即可启用。
+  - 也可在仓库 Actions 页面手动 `Run workflow` 立即更新一次。
+- 想要自己的在线版：Fork 本仓库 → Settings → Pages 选 `main` 分支 → 得到 `https://你的名.github.io/vocabridge/`。
+
+## 本地维护（开发者）
+
+```bash
+git pull                                   # 拉取最新（含 CI 自动提交的内容包）
+node tools/fetch-content.js                # 手动采集一次 BBC 新闻（本地预览用）
+python -m http.server 8765                 # 本地预览 http://127.0.0.1:8765
+```
