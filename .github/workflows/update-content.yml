@@ -1,0 +1,38 @@
+name: Update Content (BBC & RSS)
+
+on:
+  schedule:
+    - cron: '0 1 * * *'          # 每天 09:00 北京时间（01:00 UTC）
+  workflow_dispatch: {}          # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest content (BBC RSS -> shadowing packs)
+        run: node tools/fetch-content.js
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "VocaBridge Bot"
+          git config user.email "bot@vocabridge.local"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无新内容，跳过提交"
+          else
+            git commit -m "chore: auto-update content packs ($(date -u +%Y-%m-%d))"
+            git push
+          fi
