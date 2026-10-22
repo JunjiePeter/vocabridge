@@ -1,343 +1,251 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-21",
+  "name": "The Economist · Latest · 2026-10-22",
   "type": "passage",
-  "generatedAt": "2026-10-21T04:49:41.964Z",
+  "generatedAt": "2026-10-22T01:55:57.587Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "AI-powered personal assistants could res…",
+      "title": "The second may soon be redefined",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined",
       "sentences": [
-        "AI-powered personal assistants could reshape the digital economy.",
-        "But they will first have to prove they are safe for users and helpful for businesses"
+        "The second may soon be redefined.",
+        "Several atomic clocks are competing for the job"
       ],
       "vocab": [
         {
-          "w": "ai-powered",
+          "w": "redefined",
           "cn": "（查词典）"
         },
         {
-          "w": "personal",
+          "w": "several",
           "cn": "（查词典）"
         },
         {
-          "w": "assistants",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reshape",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "digital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economy",
+          "w": "competing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
+      "link": "https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Donald Trump, human wrecking-ball",
+      "title": "Japan’s mission to Mars’s moons takes of…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/10/20/donald-trump-human-wrecking-ball",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
       "sentences": [
-        "The world mostly loathes Trumpian foreign policy.",
-        "It may not change that much"
+        "Japan’s mission to Mars’s moons takes off.",
+        "It will collect samples and search for signs of ancient life"
       ],
       "vocab": [
         {
-          "w": "loathes",
+          "w": "mission",
           "cn": "（查词典）"
         },
         {
-          "w": "trumpian",
+          "w": "collect",
           "cn": "（查词典）"
         },
         {
-          "w": "foreign",
+          "w": "samples",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ancient",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/international/2026/10/20/donald-trump-human-wrecking-ball",
+      "link": "https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "Germany’s young conservatives are angry …",
+      "title": "How France became ungovernable at home y…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/10/20/germanys-young-conservatives-are-angry-with-their-own-party",
+      "intro": "原文：https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels",
       "sentences": [
-        "Germany’s young conservatives are angry with their own party.",
-        "Members are disappointed with Friedrich Merz, but pleased with themselves"
+        "How France became ungovernable at home yet unstoppable in Brussels.",
+        "The paradox of Parisian power"
       ],
       "vocab": [
         {
-          "w": "germany",
+          "w": "ungovernable",
           "cn": "（查词典）"
         },
         {
-          "w": "conservatives",
+          "w": "unstoppable",
           "cn": "（查词典）"
         },
         {
-          "w": "members",
+          "w": "brussels",
           "cn": "（查词典）"
         },
         {
-          "w": "disappointed",
+          "w": "paradox",
           "cn": "（查词典）"
         },
         {
-          "w": "friedrich",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pleased",
+          "w": "parisian",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/europe/2026/10/20/germanys-young-conservatives-are-angry-with-their-own-party",
+      "link": "https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "The late Perry Mehrling explained the hi…",
+      "title": "Either AI or public debt could crash mar…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+      "intro": "原文：https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
       "sentences": [
-        "The late Perry Mehrling explained the hierarchy of money."
+        "Either AI or public debt could crash markets.",
+        "If AI stocks collapse, bond yields will fall"
       ],
       "vocab": [
         {
-          "w": "hierarchy",
-          "cn": "等级制度"
-        },
-        {
-          "w": "mehrling",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "explained",
+          "w": "collapse",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+      "link": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
       "audio": ""
     },
     {
       "id": "rss-economist-5",
-      "title": "Europe’s dependence on America in space …",
+      "title": "Polls suggest a sweeping Democrat victor…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/10/20/europes-dependence-on-america-in-space-is-hard-to-escape",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/10/21/polls-suggest-a-sweeping-democrat-victory-history-suggests-caution",
       "sentences": [
-        "Europe’s dependence on America in space is hard to escape.",
-        "To reach autonomy in rockets and satellites, Europe needs more thrust"
+        "Polls suggest a sweeping Democrat victory.",
+        "Predictable polling errors might reduce the size of the midterms margin"
       ],
       "vocab": [
         {
-          "w": "dependence",
+          "w": "suggest",
           "cn": "（查词典）"
         },
         {
-          "w": "america",
+          "w": "sweeping",
           "cn": "（查词典）"
         },
         {
-          "w": "autonomy",
+          "w": "democrat",
           "cn": "（查词典）"
         },
         {
-          "w": "rockets",
+          "w": "victory",
           "cn": "（查词典）"
         },
         {
-          "w": "satellites",
+          "w": "predictable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "polling",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/europe/2026/10/20/europes-dependence-on-america-in-space-is-hard-to-escape",
+      "link": "https://www.economist.com/graphic-detail/2026/10/21/polls-suggest-a-sweeping-democrat-victory-history-suggests-caution",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "China’s universities are rich. But they'…",
+      "title": "Is Netflix losing the plot?",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
+      "intro": "原文：https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
       "sentences": [
-        "Researchers can’t escape a bleak economy"
+        "Is Netflix losing the plot?.",
+        "The rise of YouTube has shifted the ground under the streamer’s feet"
       ],
       "vocab": [
         {
-          "w": "researchers",
+          "w": "netflix",
           "cn": "（查词典）"
         },
         {
-          "w": "economy",
+          "w": "youtube",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shifted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "streamer",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
+      "link": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "Middle East Dispatch newsletter: Why Leb…",
+      "title": "How the 2010s remade business",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/20/middle-east-dispatch-newsletter-why-lebanon-is-in-limbo",
+      "intro": "原文：https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
       "sentences": [
-        "Middle East Dispatch newsletter: Why Lebanon is in limbo.",
-        "Fraser McIlwraith, our foreign correspondent, explains why talks between Israel and Lebanon are unlikely to yield productive results"
+        "How the 2010s remade business.",
+        "The revolutionary decade deserves a revisionist eye"
       ],
       "vocab": [
         {
-          "w": "dispatch",
+          "w": "business",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "revolutionary",
           "cn": "（查词典）"
         },
         {
-          "w": "lebanon",
+          "w": "deserves",
           "cn": "（查词典）"
         },
         {
-          "w": "mcilwraith",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "foreign",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
+          "w": "revisionist",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/20/middle-east-dispatch-newsletter-why-lebanon-is-in-limbo",
+      "link": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "Analysing Africa newsletter: Joseph Kabi…",
+      "title": "AI eats science 1: the mathpocalypse",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/20/analysing-africa-newsletter-joseph-kabilas-gamble-in-eastern-congo",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/21/ai-eats-science-1-the-mathpocalypse",
       "sentences": [
-        "Analysing Africa newsletter: Joseph Kabila’s gamble in eastern Congo.",
-        "John McDermott, our chief Africa correspondent, explains why the former president is backing the M23 armed group"
-      ],
-      "vocab": [
-        {
-          "w": "analysing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "eastern",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mcdermott",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explains",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/20/analysing-africa-newsletter-joseph-kabilas-gamble-in-eastern-congo",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Indonesia’s experiment with populism is …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/10/20/indonesias-experiment-with-populism-is-wavering",
-      "sentences": [
-        "Indonesia’s experiment with populism is wavering.",
-        "How will Prabowo Subianto respond to crashing approval ratings?"
-      ],
-      "vocab": [
-        {
-          "w": "indonesia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experiment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "populism",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wavering",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "prabowo",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "subianto",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/asia/2026/10/20/indonesias-experiment-with-populism-is-wavering",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "An interview with the author of “Taiwan …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/20/an-interview-with-the-author-of-taiwan-travelogue",
-      "sentences": [
-        "Our weekly podcast on China.",
-        "This week, we ask the winner of this year’s International Booker Prize what her novel reveals about Taiwan today"
+        "Our podcast on science and technology.",
+        "This week, the first episode of our four-part series on how scientists are grappling with AI"
       ],
       "vocab": [
         {
@@ -345,97 +253,151 @@
           "cn": "（查词典）"
         },
         {
-          "w": "international",
+          "w": "science",
           "cn": "（查词典）"
         },
         {
-          "w": "reveals",
+          "w": "technology",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "episode",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "four-part",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scientists",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/10/20/an-interview-with-the-author-of-taiwan-travelogue",
+      "link": "https://www.economist.com/podcasts/2026/10/21/ai-eats-science-1-the-mathpocalypse",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "Are there too many art fairs?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/21/are-there-too-many-art-fairs",
+      "sentences": [
+        "Are there too many art fairs?.",
+        "But FOMO keeps collectors and dealers going to them"
+      ],
+      "vocab": [
+        {
+          "w": "collectors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dealers",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/21/are-there-too-many-art-fairs",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "Can Lula, now the underdog, pull off one…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-americas/2026/10/21/can-lula-now-the-underdog-pull-off-one-last-trick",
+      "sentences": [
+        "Can Lula, now the underdog, pull off one last trick?.",
+        "The polls are tightening with just days to go"
+      ],
+      "vocab": [
+        {
+          "w": "underdog",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tightening",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-americas/2026/10/21/can-lula-now-the-underdog-pull-off-one-last-trick",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "Blighty newsletter: The tinpot “terroris…",
+      "title": "Cash test: can Europe support Ukraine al…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/10/20/blighty-newsletter-the-tinpot-terrorists",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/21/cash-test-can-europe-support-ukraine-alone",
       "sentences": [
-        "Blighty newsletter: The tinpot “terrorists”.",
-        "Hugo Gye, our Britain political correspondent, on the absurdity of Palestine Action"
+        "Cash test: can Europe support Ukraine alone?.",
+        "Also on the daily podcast: America’s private science institutions thrive and a spike in art heists"
       ],
       "vocab": [
         {
-          "w": "blighty",
+          "w": "support",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "terrorists",
+          "w": "podcast",
           "cn": "（查词典）"
         },
         {
-          "w": "britain",
+          "w": "america",
           "cn": "（查词典）"
         },
         {
-          "w": "political",
+          "w": "private",
           "cn": "（查词典）"
         },
         {
-          "w": "correspondent",
+          "w": "science",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/10/20/blighty-newsletter-the-tinpot-terrorists",
+      "link": "https://www.economist.com/podcasts/2026/10/21/cash-test-can-europe-support-ukraine-alone",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "Mockery keeps Britain’s politicians hone…",
+      "title": "How the “lost generation” found itself",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/10/20/mockery-keeps-britains-politicians-honest-almost",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/21/how-the-lost-generation-found-itself",
       "sentences": [
-        "Mockery keeps Britain’s politicians honest (almost).",
-        "The ancient art of the parliamentary sketch is thriving in the digital era"
+        "How the “lost generation” found itself.",
+        "A handpicked article read aloud from the latest issue of The Economist"
       ],
       "vocab": [
         {
-          "w": "mockery",
+          "w": "generation",
           "cn": "（查词典）"
         },
         {
-          "w": "britain",
+          "w": "handpicked",
           "cn": "（查词典）"
         },
         {
-          "w": "politicians",
+          "w": "article",
           "cn": "（查词典）"
         },
         {
-          "w": "ancient",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "parliamentary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thriving",
+          "w": "economist",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/10/20/mockery-keeps-britains-politicians-honest-almost",
+      "link": "https://www.economist.com/podcasts/2026/10/21/how-the-lost-generation-found-itself",
       "audio": ""
     }
   ]

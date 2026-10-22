@@ -1,11 +1,52 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-21",
+  "name": "TED Talks · Daily · 2026-10-22",
   "type": "passage",
-  "generatedAt": "2026-10-21T04:49:42.658Z",
+  "generatedAt": "2026-10-22T01:55:58.062Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How would you design your dream city? | …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/jamesrojas",
+      "sentences": [
+        "Through play and storytelling, he shows how we can use our childhood memories and imaginations to shape the places we live and love.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "storytelling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "childhood",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "memories",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "imaginations",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "privacy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/jamesrojas",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Why the best learners talk to themselves…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +89,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "What if you could read the DNA of your f…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -92,7 +133,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Sunday Pick: How to reclaim your narrati…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -135,7 +176,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Inside Venezuela's uncertain path to fre…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -179,7 +220,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa6f7b3381b9dbb7c315e/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Is your body language working against yo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -220,49 +261,6 @@
       ],
       "link": "http://go.ted.com/carahalealter",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa672b3381b9dbb7c315d/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "How to stop homelessness before it start…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/jenloving",
-      "sentences": [
-        "Homelessness can feel like an issue that’s too big and complicated to fix, something we've learned to walk past.",
-        "Jen Loving, who leads the nonprofit Destination: Home, has spent her entire life proving that mindset is wrong.",
-        "(This ambitious idea is part of The Audacious Project, TED's initiative to inspire and fund global change.) Hosted on Acast.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "initiative",
-          "cn": "举措；主动性"
-        },
-        {
-          "w": "homelessness",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "complicated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "something",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "learned",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nonprofit",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/jenloving",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa619b3381b9dbb7c315c/media.mp3"
     }
   ]
 }

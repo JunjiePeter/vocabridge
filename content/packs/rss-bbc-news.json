@@ -1,118 +1,28 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-10-21",
+  "name": "BBC News · Top Stories · 2026-10-22",
   "type": "passage",
-  "generatedAt": "2026-10-21T04:49:41.778Z",
+  "generatedAt": "2026-10-22T01:55:57.018Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Two men re-arrested on suspicion of assi…",
+      "title": "Burnham defends Jackdaw decision as Bade…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident.",
-        "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\"."
+        "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences.",
+        "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
       ],
       "vocab": [
         {
-          "w": "re-arrested",
+          "w": "burnham",
           "cn": "（查词典）"
         },
         {
-          "w": "suspicion",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "assisting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "intelligence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fairford",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "incident",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "US envoy to meet Putin in Russia as Zele…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'.",
-        "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
-      ],
-      "vocab": [
-        {
-          "w": "zelensky",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "intelligence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sharing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accused",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "withholding",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "UK government expected to approve Jackda…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK government expected to approve Jackdaw gas field.",
-        "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
-      ],
-      "vocab": [
-        {
-          "w": "controversial",
-          "cn": "有争议的"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "approve",
+          "w": "defends",
           "cn": "（查词典）"
         },
         {
@@ -120,352 +30,434 @@
           "cn": "（查词典）"
         },
         {
-          "w": "long-awaited",
+          "w": "decision",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "badenoch",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "overturn",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-2",
+      "title": "Websites taken down worldwide as critica…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Websites taken down worldwide as critical cyber-security update issued.",
+        "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+      ],
+      "vocab": [
+        {
+          "w": "significant",
+          "cn": "重大的"
+        },
+        {
+          "w": "websites",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "worldwide",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "critical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vulnerabilities",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Missiles hit Kyiv after Russia agrees to…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks.",
+        "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
+      ],
+      "vocab": [
+        {
+          "w": "missiles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ukraine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "principle",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "closest",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-4",
-      "title": "Tory MP questions government advisor's p…",
+      "title": "Rosenberg: US diplomatic push offers lit…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Tory MP questions government advisor's position after wife's Palestine Action post.",
-        "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
+        "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace.",
+        "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
       ],
       "vocab": [
         {
-          "w": "questions",
+          "w": "rosenberg",
           "cn": "（查词典）"
         },
         {
-          "w": "government",
+          "w": "diplomatic",
           "cn": "（查词典）"
         },
         {
-          "w": "advisor's",
+          "w": "imminent",
           "cn": "（查词典）"
         },
         {
-          "w": "position",
+          "w": "ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "palestine",
+          "w": "president",
           "cn": "（查词典）"
         },
         {
-          "w": "downing",
+          "w": "vladimir",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-5",
-      "title": "King praises Strait of Hormuz peace effo…",
+      "title": "Criminals who skip sentencing will face …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "King praises Strait of Hormuz peace efforts at glittering banquet.",
-        "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit."
+        "Criminals who skip sentencing will face solitary confinement or lose social visits.",
+        "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
       ],
       "vocab": [
         {
-          "w": "praises",
+          "w": "criminals",
           "cn": "（查词典）"
         },
         {
-          "w": "efforts",
+          "w": "sentencing",
           "cn": "（查词典）"
         },
         {
-          "w": "glittering",
+          "w": "solitary",
           "cn": "（查词典）"
         },
         {
-          "w": "banquet",
+          "w": "confinement",
           "cn": "（查词典）"
         },
         {
-          "w": "eastern",
+          "w": "tougher",
           "cn": "（查词典）"
         },
         {
-          "w": "strategic",
+          "w": "punishments",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-6",
-      "title": "Why does Elon Musk want to merge Tesla a…",
+      "title": "Diabetes and ADHD drugs to be tested on …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Why does Elon Musk want to merge Tesla and SpaceX?.",
-        "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
+        "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study.",
+        "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia."
       ],
       "vocab": [
         {
-          "w": "companies",
+          "w": "simultaneously",
+          "cn": "同时地"
+        },
+        {
+          "w": "diabetes",
           "cn": "（查词典）"
         },
         {
-          "w": "biggest",
+          "w": "alzheimer's",
           "cn": "（查词典）"
         },
         {
-          "w": "history",
+          "w": "patients",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "process",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finding",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-7",
-      "title": "What happened inside court for man charg…",
+      "title": "The real reasons US politicians are gett…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "What happened inside court for man charged with Australian MP attack.",
-        "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
+        "The real reasons US politicians are getting older.",
+        "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
       ],
       "vocab": [
         {
-          "w": "happened",
+          "w": "reasons",
           "cn": "（查词典）"
         },
         {
-          "w": "charged",
+          "w": "politicians",
           "cn": "（查词典）"
         },
         {
-          "w": "australian",
+          "w": "getting",
           "cn": "（查词典）"
         },
         {
-          "w": "describes",
+          "w": "country",
           "cn": "（查词典）"
         },
         {
-          "w": "unfolded",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wangaratta",
+          "w": "political",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-8",
-      "title": "France is divided over who to blame for …",
+      "title": "The 'trillion pound' oil fund the govern…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "France is divided over who to blame for weekend riots and what to learn from them.",
-        "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
+        "The 'trillion pound' oil fund the government believes Britain could have built.",
+        "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
       ],
       "vocab": [
         {
-          "w": "widespread",
-          "cn": "普遍的"
-        },
-        {
-          "w": "divided",
+          "w": "'trillion",
           "cn": "（查词典）"
         },
         {
-          "w": "weekend",
+          "w": "government",
           "cn": "（查词典）"
         },
         {
-          "w": "disagreement",
+          "w": "believes",
           "cn": "（查词典）"
         },
         {
-          "w": "history",
+          "w": "britain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "treasury",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "calculates",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Giant tunnel proposed to clean up Winder…",
+      "title": "Airbnb hosts can no longer make guests s…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Giant tunnel proposed to clean up Windermere's sewage problem.",
-        "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
+        "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules.",
+        "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
       ],
       "vocab": [
         {
-          "w": "eliminate",
-          "cn": "消除"
-        },
-        {
-          "w": "proposed",
+          "w": "updated",
           "cn": "（查词典）"
         },
         {
-          "w": "windermere's",
+          "w": "reservations",
           "cn": "（查词典）"
         },
         {
-          "w": "problem",
+          "w": "accommodation",
           "cn": "（查词典）"
         },
         {
-          "w": "windermere",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "turning",
+          "w": "november",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Government failings allowed Covid 'to sp…",
+      "title": "The four locations in the running to be …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds.",
-        "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital."
+        "The four locations in the running to be UK City of Culture 2029.",
+        "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities."
       ],
       "vocab": [
         {
-          "w": "government",
+          "w": "locations",
           "cn": "（查词典）"
         },
         {
-          "w": "failings",
+          "w": "running",
           "cn": "（查词典）"
         },
         {
-          "w": "allowed",
+          "w": "culture",
           "cn": "（查词典）"
         },
         {
-          "w": "wildfire'",
+          "w": "announced",
           "cn": "（查词典）"
         },
         {
-          "w": "inquiry",
+          "w": "receive",
           "cn": "（查词典）"
         },
         {
-          "w": "criticises",
+          "w": "deliver",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "Schools should recognise antisemitism as…",
+      "title": "Only one female scientist named in GCSEs…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Schools should recognise antisemitism as distinct form of harm, review says.",
-        "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell."
+        "Only one female scientist named in GCSEs, research finds.",
+        "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications."
       ],
       "vocab": [
         {
-          "w": "distinct",
-          "cn": "明显的；截然不同的"
-        },
-        {
-          "w": "schools",
+          "w": "scientist",
           "cn": "（查词典）"
         },
         {
-          "w": "recognise",
+          "w": "research",
           "cn": "（查词典）"
         },
         {
-          "w": "antisemitism",
+          "w": "rosalind",
           "cn": "（查词典）"
         },
         {
-          "w": "government",
+          "w": "franklin",
           "cn": "（查词典）"
         },
         {
-          "w": "expected",
+          "w": "science",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "specifications",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "Tighter rules planned to protect people …",
+      "title": "Pope does not need further treatment aft…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong.",
-        "There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027."
+        "Pope does not need further treatment after lung cancer surgery.",
+        "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
       ],
       "vocab": [
         {
-          "w": "tighter",
+          "w": "further",
           "cn": "（查词典）"
         },
         {
-          "w": "planned",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "protect",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cosmetic",
+          "w": "treatment",
           "cn": "（查词典）"
         },
         {
@@ -473,11 +465,19 @@
           "cn": "（查词典）"
         },
         {
-          "w": "restrictions",
+          "w": "results",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confirmed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "diagnosis",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

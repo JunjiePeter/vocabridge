@@ -1,24 +1,77 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-10-21",
+  "name": "BBC News · Technology · 2026-10-22",
   "type": "passage",
-  "generatedAt": "2026-10-21T04:49:41.809Z",
+  "generatedAt": "2026-10-22T01:55:57.184Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Why does Elon Musk want to merge Tesla a…",
+      "title": "Trump's green card curbs test Indian tec…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Trump's green card curbs test Indian tech workers' American dream.",
+        "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+      ],
+      "vocab": [
+        {
+          "w": "trump's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "workers'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "american",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "immigration",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cutting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "foreign",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Why is Elon Musk plotting a mega-merger …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Why does Elon Musk want to merge Tesla and SpaceX?.",
-        "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
+        "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?.",
+        "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
       ],
       "vocab": [
         {
-          "w": "companies",
+          "w": "plotting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mega-merger",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "there's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "combining",
           "cn": "（查词典）"
         },
         {
@@ -34,24 +87,110 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
-      "title": "Elon Musk says Tesla-SpaceX merger being…",
+      "id": "rss-bbc-tech-3",
+      "title": "Websites taken down worldwide as critica…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Websites taken down worldwide as critical cyber-security update issued.",
+        "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+      ],
+      "vocab": [
+        {
+          "w": "significant",
+          "cn": "重大的"
+        },
+        {
+          "w": "websites",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "worldwide",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "critical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vulnerabilities",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "Just Eat apologises for AI food mistakes…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Just Eat apologises for AI food mistakes after social media ridicule.",
+        "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
+      ],
+      "vocab": [
+        {
+          "w": "apologises",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mistakes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ridicule",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spokesperson",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "removing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inaccurate",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "Elon Musk confirms he is considering mer…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Elon Musk says Tesla-SpaceX merger being considered.",
+        "Elon Musk confirms he is considering merging Tesla and SpaceX.",
         "Musk says special committees within both companies have been formed to look at a possible mega-merger."
       ],
       "vocab": [
         {
-          "w": "tesla-spacex",
+          "w": "confirms",
           "cn": "（查词典）"
         },
         {
-          "w": "considered",
+          "w": "considering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "merging",
           "cn": "（查词典）"
         },
         {
@@ -65,17 +204,13 @@
         {
           "w": "companies",
           "cn": "（查词典）"
-        },
-        {
-          "w": "possible",
-          "cn": "（查词典）"
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-6",
       "title": "The tech helping crack decades-old cold …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -116,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-7",
       "title": "OpenAI CEO Sam Altman wins dismissal of …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -157,7 +292,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-8",
       "title": "Google resolves cloud outage affecting U…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -198,7 +333,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-9",
       "title": "UK asks Apple to widen access to its pay…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -239,7 +374,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-10",
       "title": "Ex-OpenAI worker accused of planting bug…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -280,7 +415,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-11",
       "title": "US bans China's DeepSeek from government…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -321,7 +456,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-12",
       "title": "Uber wins bid to throw out £200m black c…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -343,129 +478,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Musk and Anthropic pledge public share g…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Musk and Anthropic pledge public share giveaways.",
-        "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
-      ],
-      "vocab": [
-        {
-          "w": "anthropic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "giveaways",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "announcement",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pledged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "benefit",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "blockbuster",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "China's growth accelerates as AI boom he…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "China's growth accelerates as AI boom helps boost exports.",
-        "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
-      ],
-      "vocab": [
-        {
-          "w": "china's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accelerates",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tensions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outlook",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Don't fall for this - how to protect you…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Don't fall for this - how to protect yourself from AI scams.",
-        "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
-      ],
-      "vocab": [
-        {
-          "w": "protect",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "yourself",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "trading",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "standards",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "officers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "super-charging",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

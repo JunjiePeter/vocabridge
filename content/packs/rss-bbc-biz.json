@@ -1,65 +1,221 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-21",
+  "name": "BBC News · Business · 2026-10-22",
   "type": "passage",
-  "generatedAt": "2026-10-21T04:49:41.825Z",
+  "generatedAt": "2026-10-22T01:55:57.399Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Elon Musk says Tesla-SpaceX merger being…",
+      "title": "The 'trillion pound' oil fund the govern…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Elon Musk says Tesla-SpaceX merger being considered.",
-        "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+        "The 'trillion pound' oil fund the government believes Britain could have built.",
+        "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
       ],
       "vocab": [
         {
-          "w": "tesla-spacex",
+          "w": "'trillion",
           "cn": "（查词典）"
         },
         {
-          "w": "considered",
+          "w": "government",
           "cn": "（查词典）"
         },
         {
-          "w": "special",
+          "w": "believes",
           "cn": "（查词典）"
         },
         {
-          "w": "committees",
+          "w": "britain",
           "cn": "（查词典）"
         },
         {
-          "w": "companies",
+          "w": "treasury",
           "cn": "（查词典）"
         },
         {
-          "w": "possible",
+          "w": "calculates",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-2",
-      "title": "Why does Elon Musk want to merge Tesla a…",
+      "title": "Websites taken down worldwide as critica…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Websites taken down worldwide as critical cyber-security update issued.",
+        "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+      ],
+      "vocab": [
+        {
+          "w": "significant",
+          "cn": "重大的"
+        },
+        {
+          "w": "websites",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "worldwide",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "critical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vulnerabilities",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Meta fined $25bn for 'lies' over user da…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Meta fined $25bn for 'lies' over user data privacy.",
+        "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+      ],
+      "vocab": [
+        {
+          "w": "privacy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "largest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "facebook's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Airbnb hosts can no longer make guests s…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules.",
+        "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+      ],
+      "vocab": [
+        {
+          "w": "updated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reservations",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accommodation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "november",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "The grads ditching the UK for a fresh st…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The grads ditching the UK for a fresh start abroad.",
+        "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
+      ],
+      "vocab": [
+        {
+          "w": "ditching",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "graduate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reported",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "considering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "emigrating",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "Why is Elon Musk plotting a mega-merger …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Why does Elon Musk want to merge Tesla and SpaceX?.",
-        "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
+        "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?.",
+        "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
       ],
       "vocab": [
         {
-          "w": "companies",
+          "w": "plotting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mega-merger",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "there's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "combining",
           "cn": "（查词典）"
         },
         {
@@ -75,303 +231,24 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
-      "title": "Google resolves cloud outage affecting U…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Google resolves cloud outage affecting UK banks and websites.",
-        "Revolut was one of the hardest hit, with banking services going down for many customers."
-      ],
-      "vocab": [
-        {
-          "w": "resolves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affecting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "websites",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revolut",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hardest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "banking",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
-      "title": "UK government expected to approve Jackda…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK government expected to approve Jackdaw gas field.",
-        "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
-      ],
-      "vocab": [
-        {
-          "w": "controversial",
-          "cn": "有争议的"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "approve",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jackdaw",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "long-awaited",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "Trump sued over Canadian tariffs in late…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Trump sued over Canadian tariffs in latest legal challenge.",
-        "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
-      ],
-      "vocab": [
-        {
-          "w": "canadian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tariffs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "challenge",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lawsuit",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exceeded",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "authority",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "The tech helping crack decades-old cold …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The tech helping crack decades-old cold cases.",
-        "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
-      ],
-      "vocab": [
-        {
-          "w": "helping",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decades-old",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigative",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "genetic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "genealogy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "criminals",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
       "id": "rss-bbc-biz-7",
-      "title": "Audit regulator looking into Manchester …",
+      "title": "Faisal Islam: Inflation and borrowing fi…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Audit regulator looking into Manchester City accounting.",
-        "No formal investigation has started, but the regulator is making inquiries into the case."
+        "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge.",
+        "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
       ],
       "vocab": [
         {
-          "w": "regulator",
+          "w": "inflation",
           "cn": "（查词典）"
         },
         {
-          "w": "looking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "manchester",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accounting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "started",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Paddy Power cuts 1,400 jobs and blames b…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Paddy Power cuts 1,400 jobs and blames betting tax rises.",
-        "The government increased taxes on online casino and sports betting in last year's Budget."
-      ],
-      "vocab": [
-        {
-          "w": "betting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "increased",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Union attacks NatWest plans to get worke…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Union attacks NatWest plans to get workers back to the office.",
-        "The bank says workers will be required to attend the office at least two days a week from February."
-      ],
-      "vocab": [
-        {
-          "w": "attacks",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "natwest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "required",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "february",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Chancellor rejects calls to raise Capita…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Chancellor rejects calls to raise Capital Gains Tax in Budget.",
-        "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
-      ],
-      "vocab": [
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rejects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "capital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "influential",
+          "w": "borrowing",
           "cn": "（查词典）"
         },
         {
@@ -379,85 +256,208 @@
           "cn": "（查词典）"
         },
         {
-          "w": "pushing",
+          "w": "illustrate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chancellor's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "challenge",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Inflation and government borrowing highe…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Inflation and government borrowing highest for a year ahead of next week's Budget.",
+        "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+      ],
+      "vocab": [
+        {
+          "w": "inflation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "borrowing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "highest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accelerated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "september",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Burnham proposes plan to cut standing ch…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Burnham proposes plan to cut standing charges from gas bills.",
+        "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
+      ],
+      "vocab": [
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "proposes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "standing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "provided",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
+      "title": "Just Eat apologises for AI food mistakes…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Just Eat apologises for AI food mistakes after social media ridicule.",
+        "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
+      ],
+      "vocab": [
+        {
+          "w": "apologises",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mistakes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ridicule",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spokesperson",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "removing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inaccurate",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-11",
-      "title": "OpenAI CEO Sam Altman wins dismissal of …",
+      "title": "What is the Budget and what could be in …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit.",
-        "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+        "What is the Budget and what could be in it?.",
+        "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       ],
       "vocab": [
         {
-          "w": "dismissal",
+          "w": "chancellor",
           "cn": "（查词典）"
         },
         {
-          "w": "sister's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lawsuit",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "district",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dismissed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "refused",
+          "w": "october",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-12",
-      "title": "Jobless rate falls but small firms cut b…",
+      "title": "Civil servant admits he 'made mistakes' …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Jobless rate falls but small firms cut back hiring.",
-        "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+        "Civil servant admits he 'made mistakes' juggling five government jobs.",
+        "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
       ],
       "vocab": [
         {
-          "w": "jobless",
+          "w": "servant",
           "cn": "（查词典）"
         },
         {
-          "w": "scaling",
+          "w": "mistakes'",
           "cn": "（查词典）"
         },
         {
-          "w": "national",
+          "w": "juggling",
           "cn": "（查词典）"
         },
         {
-          "w": "statistics",
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chowdhury",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contracted",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
