@@ -1,11 +1,53 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-22",
+  "name": "TED Talks · Daily · 2026-10-23",
   "type": "passage",
-  "generatedAt": "2026-10-22T01:55:58.062Z",
+  "generatedAt": "2026-10-23T01:56:57.947Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "I can't speak. Here's how I get people t…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/jessicairwin",
+      "sentences": [
+        "Jessica Irwin is many things: a photographer, artist, author, performer.",
+        "She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "jessica",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "photographer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "performer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "happens",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nonverbal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cerebral",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/jessicairwin",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How would you design your dream city? | …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -46,7 +88,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Why the best learners talk to themselves…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -89,7 +131,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "What if you could read the DNA of your f…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -133,7 +175,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Sunday Pick: How to reclaim your narrati…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -176,7 +218,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Inside Venezuela's uncertain path to fre…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -218,49 +260,6 @@
       ],
       "link": "http://go.ted.com/leopoldolopez2026",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa6f7b3381b9dbb7c315e/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Is your body language working against yo…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/carahalealter",
-      "sentences": [
-        "What does confidence look like?",
-        "Public speaking expert Cara Hale Alter studies how to project confidence and credibility — and she's pinpointed two key behaviors that shape how others see you.",
-        "In this actionable talk, she explains how to make sure you're showing your true potential at work and beyond.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "potential",
-          "cn": "潜在的；潜力"
-        },
-        {
-          "w": "confidence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "speaking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "studies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "project",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "credibility",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/carahalealter",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa672b3381b9dbb7c315d/media.mp3"
     }
   ]
 }

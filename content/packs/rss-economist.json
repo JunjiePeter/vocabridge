@@ -1,403 +1,414 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-22",
+  "name": "The Economist · Latest · 2026-10-23",
   "type": "passage",
-  "generatedAt": "2026-10-22T01:55:57.587Z",
+  "generatedAt": "2026-10-23T01:56:57.431Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "The second may soon be redefined",
+      "title": "Sam Bankman-Fried on effective altruism",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/22/sam-bankman-fried-on-effective-altruism",
       "sentences": [
-        "The second may soon be redefined.",
-        "Several atomic clocks are competing for the job"
+        "Our podcast on markets, the economy and business.",
+        "This week, SBF talks exclusively to Money Talks from a prison phone"
       ],
       "vocab": [
         {
-          "w": "redefined",
+          "w": "podcast",
           "cn": "（查词典）"
         },
-        {
-          "w": "several",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "competing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-2",
-      "title": "Japan’s mission to Mars’s moons takes of…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
-      "sentences": [
-        "Japan’s mission to Mars’s moons takes off.",
-        "It will collect samples and search for signs of ancient life"
-      ],
-      "vocab": [
-        {
-          "w": "mission",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collect",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "samples",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ancient",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-3",
-      "title": "How France became ungovernable at home y…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels",
-      "sentences": [
-        "How France became ungovernable at home yet unstoppable in Brussels.",
-        "The paradox of Parisian power"
-      ],
-      "vocab": [
-        {
-          "w": "ungovernable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unstoppable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brussels",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "paradox",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "parisian",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Either AI or public debt could crash mar…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
-      "sentences": [
-        "Either AI or public debt could crash markets.",
-        "If AI stocks collapse, bond yields will fall"
-      ],
-      "vocab": [
         {
           "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "collapse",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "Polls suggest a sweeping Democrat victor…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/graphic-detail/2026/10/21/polls-suggest-a-sweeping-democrat-victory-history-suggests-caution",
-      "sentences": [
-        "Polls suggest a sweeping Democrat victory.",
-        "Predictable polling errors might reduce the size of the midterms margin"
-      ],
-      "vocab": [
-        {
-          "w": "suggest",
+          "w": "economy",
           "cn": "（查词典）"
         },
-        {
-          "w": "sweeping",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrat",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "victory",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "predictable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "polling",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/graphic-detail/2026/10/21/polls-suggest-a-sweeping-democrat-victory-history-suggests-caution",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "Is Netflix losing the plot?",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
-      "sentences": [
-        "Is Netflix losing the plot?.",
-        "The rise of YouTube has shifted the ground under the streamer’s feet"
-      ],
-      "vocab": [
-        {
-          "w": "netflix",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "youtube",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shifted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "streamer",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "How the 2010s remade business",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
-      "sentences": [
-        "How the 2010s remade business.",
-        "The revolutionary decade deserves a revisionist eye"
-      ],
-      "vocab": [
         {
           "w": "business",
           "cn": "（查词典）"
         },
         {
-          "w": "revolutionary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "deserves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revisionist",
+          "w": "exclusively",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
+      "link": "https://www.economist.com/podcasts/2026/10/22/sam-bankman-fried-on-effective-altruism",
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
-      "title": "AI eats science 1: the mathpocalypse",
+      "id": "rss-economist-2",
+      "title": "Sam Bankman-Fried says he has paid his d…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/21/ai-eats-science-1-the-mathpocalypse",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
       "sentences": [
-        "Our podcast on science and technology.",
-        "This week, the first episode of our four-part series on how scientists are grappling with AI"
+        "Sam Bankman-Fried says he has paid his debts.",
+        "The crypto tycoon speaks with The Economist from prison in California"
       ],
       "vocab": [
         {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "science",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "technology",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "episode",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "four-part",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scientists",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/21/ai-eats-science-1-the-mathpocalypse",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Are there too many art fairs?",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/21/are-there-too-many-art-fairs",
-      "sentences": [
-        "Are there too many art fairs?.",
-        "But FOMO keeps collectors and dealers going to them"
-      ],
-      "vocab": [
-        {
-          "w": "collectors",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dealers",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/21/are-there-too-many-art-fairs",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Can Lula, now the underdog, pull off one…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-americas/2026/10/21/can-lula-now-the-underdog-pull-off-one-last-trick",
-      "sentences": [
-        "Can Lula, now the underdog, pull off one last trick?.",
-        "The polls are tightening with just days to go"
-      ],
-      "vocab": [
-        {
-          "w": "underdog",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tightening",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-americas/2026/10/21/can-lula-now-the-underdog-pull-off-one-last-trick",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Cash test: can Europe support Ukraine al…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/21/cash-test-can-europe-support-ukraine-alone",
-      "sentences": [
-        "Cash test: can Europe support Ukraine alone?.",
-        "Also on the daily podcast: America’s private science institutions thrive and a spike in art heists"
-      ],
-      "vocab": [
-        {
-          "w": "support",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "private",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "science",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/21/cash-test-can-europe-support-ukraine-alone",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "How the “lost generation” found itself",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/21/how-the-lost-generation-found-itself",
-      "sentences": [
-        "How the “lost generation” found itself.",
-        "A handpicked article read aloud from the latest issue of The Economist"
-      ],
-      "vocab": [
-        {
-          "w": "generation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "handpicked",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "article",
+          "w": "bankman-fried",
           "cn": "（查词典）"
         },
         {
           "w": "economist",
           "cn": "（查词典）"
+        },
+        {
+          "w": "california",
+          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/10/21/how-the-lost-generation-found-itself",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "How personal rivalries and clashes are s…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race",
+      "sentences": [
+        "How personal rivalries and clashes are shaping the AI race.",
+        "A new book offers a rollicking tale of the people shaping Silicon Valley’s new obsession"
+      ],
+      "vocab": [
+        {
+          "w": "personal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rivalries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "clashes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shaping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rollicking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "silicon",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Jeffrey Archer’s career was worthy of hi…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/obituary/2026/10/22/jeffrey-archers-career-was-worthy-of-his-most-improbable-plots",
+      "sentences": [
+        "Jeffrey Archer’s career was worthy of his most improbable plots.",
+        "The bestselling novelist, conman and politician died on October 5th, aged 86"
+      ],
+      "vocab": [
+        {
+          "w": "jeffrey",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "improbable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bestselling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "novelist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "politician",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/obituary/2026/10/22/jeffrey-archers-career-was-worthy-of-his-most-improbable-plots",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Leadership lessons from Napoleon",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
+      "sentences": [
+        "How the French emperor’s management style ultimately led to his fall"
+      ],
+      "vocab": [
+        {
+          "w": "ultimately",
+          "cn": "最终"
+        },
+        {
+          "w": "emperor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "management",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "How Ella Langley two-stepped to the top …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts",
+      "sentences": [
+        "How Ella Langley two-stepped to the top of the charts.",
+        "Country music is riding high, thanks to a new generation of stars and fans"
+      ],
+      "vocab": [
+        {
+          "w": "langley",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "two-stepped",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "country",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "generation",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Are film critics as snooty and out of to…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/interactive/culture/2026/10/22/are-film-critics-as-snooty-and-out-of-touch-as-people-think",
+      "sentences": [
+        "Are film critics as snooty and out of touch as people think?.",
+        "We look at the data to find out"
+      ],
+      "vocab": [
+        {
+          "w": "critics",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/interactive/culture/2026/10/22/are-film-critics-as-snooty-and-out-of-touch-as-people-think",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Multinational businesses are losing conf…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
+      "sentences": [
+        "Multinational businesses are losing confidence in Indonesia.",
+        "Its bountiful resources and vast population are attractive, but its government is a nightmare"
+      ],
+      "vocab": [
+        {
+          "w": "multinational",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "businesses",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confidence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "indonesia",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bountiful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "resources",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "If AI displaces human workers, they will…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "sentences": [
+        "If AI displaces human workers, they will lose more than just pay.",
+        "Work has value beyond the income it provides"
+      ],
+      "vocab": [
+        {
+          "w": "displaces",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "provides",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "China’s party elite gathers with purges …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind",
+      "sentences": [
+        "China’s party elite gathers with purges and promotions in mind.",
+        "Xi seeks new ways to curb corruption before a leadership shake-up"
+      ],
+      "vocab": [
+        {
+          "w": "gathers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "promotions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "corruption",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "leadership",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shake-up",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "Rastafarians in Jamaica want more rights",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-americas/2026/10/22/rastafarians-in-jamaica-want-more-rights",
+      "sentences": [
+        "Rastafarians in Jamaica want more rights.",
+        "The government is keen to atone for past abuses"
+      ],
+      "vocab": [
+        {
+          "w": "rastafarians",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "jamaica",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-americas/2026/10/22/rastafarians-in-jamaica-want-more-rights",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "America’s attack on the International Cr…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan",
+      "sentences": [
+        "America’s attack on the International Criminal Court is a headache for Japan.",
+        "It’s hard to support international law when your main ally wants to destroy it"
+      ],
+      "vocab": [
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "international",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "criminal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "headache",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "support",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "destroy",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan",
       "audio": ""
     }
   ]

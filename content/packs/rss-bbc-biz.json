@@ -1,11 +1,245 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-22",
+  "name": "BBC News · Business · 2026-10-23",
   "type": "passage",
-  "generatedAt": "2026-10-22T01:55:57.399Z",
+  "generatedAt": "2026-10-23T01:56:57.337Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "Grid operator says lights will stay on t…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Grid operator says lights will stay on this winter after concerns.",
+        "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
+      ],
+      "vocab": [
+        {
+          "w": "adequate",
+          "cn": "充足的"
+        },
+        {
+          "w": "operator",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concerns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "assurance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concern",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Zuckerberg wins Meta deal to help him fo…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax.",
+        "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+      ],
+      "vocab": [
+        {
+          "w": "zuckerberg",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "possible",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billionaire",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "L'Oreal says weight loss drugs are impac…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "L'Oreal says weight loss drugs are impacting beauty and skin care sales.",
+        "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+      ],
+      "vocab": [
+        {
+          "w": "phenomenon",
+          "cn": "现象"
+        },
+        {
+          "w": "l'oreal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "impacting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "giant's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "important",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "'I wasn't thinking straight' says five j…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'I wasn't thinking straight' says five jobs civil servant.",
+        "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
+      ],
+      "vocab": [
+        {
+          "w": "thinking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "straight'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "servant",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chowdhury",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accused",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fraudulently",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Barclays cutting 5,000 jobs as it increa…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Barclays cutting 5,000 jobs as it increases reliance on AI.",
+        "The bank says it is using more AI leading to a 5% reduction in its workforce."
+      ],
+      "vocab": [
+        {
+          "w": "barclays",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cutting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "increases",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reliance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "leading",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reduction",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "Tank barrel production returns to UK aft…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Tank barrel production returns to UK after 20 years.",
+        "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces."
+      ],
+      "vocab": [
+        {
+          "w": "production",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "returns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "business",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weapons",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
       "title": "The 'trillion pound' oil fund the govern…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +280,89 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-8",
+      "title": "What is PHP and why did it spark a globa…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What is PHP and why did it spark a global cyber-security scramble?.",
+        "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+      ],
+      "vocab": [
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scramble",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "uncovered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "long-hidden",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "programming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "triggering",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "No order, no seat: Starbucks China rolls…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "No order, no seat: Starbucks China rolls out new store policy.",
+        "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
+      ],
+      "vocab": [
+        {
+          "w": "starbucks",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "improving",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "customers'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "in-store",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "experience",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "competes",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
       "title": "Websites taken down worldwide as critica…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +403,36 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-11",
+      "title": "Is an 'AI war' complicating your job sea…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Is an 'AI war' complicating your job search?.",
+        "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?"
+      ],
+      "vocab": [
+        {
+          "w": "complicating",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "recruitment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "happens",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-12",
       "title": "Meta fined $25bn for 'lies' over user da…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -117,347 +462,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
-      "title": "Airbnb hosts can no longer make guests s…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules.",
-        "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
-      ],
-      "vocab": [
-        {
-          "w": "updated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reservations",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accommodation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "november",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "The grads ditching the UK for a fresh st…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The grads ditching the UK for a fresh start abroad.",
-        "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
-      ],
-      "vocab": [
-        {
-          "w": "ditching",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "graduate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reported",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "considering",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emigrating",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "Why is Elon Musk plotting a mega-merger …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?.",
-        "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
-      ],
-      "vocab": [
-        {
-          "w": "plotting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mega-merger",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "there's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "combining",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biggest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "history",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "Faisal Islam: Inflation and borrowing fi…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge.",
-        "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
-      ],
-      "vocab": [
-        {
-          "w": "inflation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "borrowing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "figures",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "illustrate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chancellor's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "challenge",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Inflation and government borrowing highe…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Inflation and government borrowing highest for a year ahead of next week's Budget.",
-        "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
-      ],
-      "vocab": [
-        {
-          "w": "inflation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "borrowing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "highest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accelerated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "september",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Burnham proposes plan to cut standing ch…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Burnham proposes plan to cut standing charges from gas bills.",
-        "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
-      ],
-      "vocab": [
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "proposes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "standing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charges",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "provided",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Just Eat apologises for AI food mistakes…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Just Eat apologises for AI food mistakes after social media ridicule.",
-        "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
-      ],
-      "vocab": [
-        {
-          "w": "apologises",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mistakes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ridicule",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spokesperson",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "removing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inaccurate",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "What is the Budget and what could be in …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What is the Budget and what could be in it?.",
-        "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-      ],
-      "vocab": [
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Civil servant admits he 'made mistakes' …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Civil servant admits he 'made mistakes' juggling five government jobs.",
-        "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
-      ],
-      "vocab": [
-        {
-          "w": "servant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mistakes'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "juggling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chowdhury",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contracted",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
