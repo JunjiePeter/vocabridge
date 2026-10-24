@@ -1,11 +1,131 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-23",
+  "name": "The Economist · Latest · 2026-10-24",
   "type": "passage",
-  "generatedAt": "2026-10-23T01:56:57.431Z",
+  "generatedAt": "2026-10-24T01:57:00.089Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "Are some protein powders better than oth…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/23/are-some-protein-powders-better-than-others",
+      "sentences": [
+        "Are some protein powders better than others?.",
+        "Pure whey is the way to go"
+      ],
+      "vocab": [
+        {
+          "w": "protein",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "powders",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/10/23/are-some-protein-powders-better-than-others",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "How could Donald Trump interfere with th…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/23/how-could-donald-trump-interfere-with-the-midterms",
+      "sentences": [
+        "Our weekly podcast on America.",
+        "This week, the ways the election could be disrupted"
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "disrupted",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/10/23/how-could-donald-trump-interfere-with-the-midterms",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "What to watch this week",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/23/what-to-watch-this-week",
+      "sentences": [
+        "What to watch this week.",
+        "Three things that are wonderfully weird—and one that is just plain odd"
+      ],
+      "vocab": [
+        {
+          "w": "wonderfully",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/23/what-to-watch-this-week",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Songs of disenchantment: the sorrow of N…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/23/songs-of-disenchantment-the-sorrow-of-nigeria",
+      "sentences": [
+        "Songs of disenchantment: the sorrow of Nigeria.",
+        "Also on the daily podcast: can Europe match Starlink and remembering novelist Jeffrey Archer"
+      ],
+      "vocab": [
+        {
+          "w": "disenchantment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nigeria",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "starlink",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "remembering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "novelist",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/10/23/songs-of-disenchantment-the-sorrow-of-nigeria",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
       "title": "Sam Bankman-Fried on effective altruism",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -42,7 +162,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-6",
       "title": "Sam Bankman-Fried says he has paid his d…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -71,7 +191,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-7",
       "title": "How personal rivalries and clashes are s…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -112,7 +232,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-8",
       "title": "Jeffrey Archer’s career was worthy of hi…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -153,7 +273,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-9",
       "title": "Leadership lessons from Napoleon",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -181,7 +301,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-10",
       "title": "How Ella Langley two-stepped to the top …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -214,7 +334,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
+      "id": "rss-economist-11",
       "title": "Are film critics as snooty and out of to…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -235,7 +355,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
+      "id": "rss-economist-12",
       "title": "Multinational businesses are losing conf…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -273,142 +393,6 @@
         }
       ],
       "link": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "If AI displaces human workers, they will…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-      "sentences": [
-        "If AI displaces human workers, they will lose more than just pay.",
-        "Work has value beyond the income it provides"
-      ],
-      "vocab": [
-        {
-          "w": "displaces",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "provides",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "China’s party elite gathers with purges …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind",
-      "sentences": [
-        "China’s party elite gathers with purges and promotions in mind.",
-        "Xi seeks new ways to curb corruption before a leadership shake-up"
-      ],
-      "vocab": [
-        {
-          "w": "gathers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "promotions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "corruption",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leadership",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shake-up",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Rastafarians in Jamaica want more rights",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-americas/2026/10/22/rastafarians-in-jamaica-want-more-rights",
-      "sentences": [
-        "Rastafarians in Jamaica want more rights.",
-        "The government is keen to atone for past abuses"
-      ],
-      "vocab": [
-        {
-          "w": "rastafarians",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jamaica",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-americas/2026/10/22/rastafarians-in-jamaica-want-more-rights",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "America’s attack on the International Cr…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan",
-      "sentences": [
-        "America’s attack on the International Criminal Court is a headache for Japan.",
-        "It’s hard to support international law when your main ally wants to destroy it"
-      ],
-      "vocab": [
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "international",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "criminal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "headache",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "support",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "destroy",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan",
       "audio": ""
     }
   ]

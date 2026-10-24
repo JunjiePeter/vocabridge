@@ -1,85 +1,52 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-10-23",
+  "name": "BBC News · Technology · 2026-10-24",
   "type": "passage",
-  "generatedAt": "2026-10-23T01:56:57.300Z",
+  "generatedAt": "2026-10-24T01:56:59.902Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Zuckerberg wins Meta deal to help him fo…",
+      "title": "UK to invest £100m in 'world first' AI B…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax.",
-        "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+        "UK to invest £100m in 'world first' AI Biosecurity Lab.",
+        "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
       ],
       "vocab": [
         {
-          "w": "zuckerberg",
+          "w": "biosecurity",
           "cn": "（查词典）"
         },
         {
-          "w": "possible",
+          "w": "chancellor",
           "cn": "（查词典）"
         },
         {
-          "w": "california",
+          "w": "spending",
           "cn": "（查词典）"
         },
         {
-          "w": "billionaire",
+          "w": "shoring",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defences",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "wednesday's",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-tech-2",
-      "title": "Race to update services' computer system…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Race to update services' computer systems after cyber-security flaw found.",
-        "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
-      ],
-      "vocab": [
-        {
-          "w": "services'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "computer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "systems",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "websites",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "offline",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-3",
       "title": "What is PHP and why did it spark a globa…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -120,7 +87,155 @@
       "audio": ""
     },
     {
+      "id": "rss-bbc-tech-3",
+      "title": "'It's been relentless' say IT workers on…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble.",
+        "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
+      ],
+      "vocab": [
+        {
+          "w": "relentless'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "frontline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scramble",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "experts",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
       "id": "rss-bbc-tech-4",
+      "title": "The Indian workers filming their work to…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The Indian workers filming their work to train AI.",
+        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
+      ],
+      "vocab": [
+        {
+          "w": "workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "filming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "themselves",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "footage",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "Zuckerberg wins Meta deal to help him fo…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax.",
+        "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+      ],
+      "vocab": [
+        {
+          "w": "zuckerberg",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "possible",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billionaire",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-6",
+      "title": "Race to update services' computer system…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Race to update services' computer systems after cyber-security flaw found.",
+        "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
+      ],
+      "vocab": [
+        {
+          "w": "services'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "computer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "systems",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "websites",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "offline",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-7",
       "title": "Zoe Kleinman: PHP is the cyber equivalen…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -161,7 +276,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-8",
       "title": "'500 new vulnerabilities' found in gover…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -190,7 +305,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-9",
       "title": "UK working to identify exposure after gl…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -231,7 +346,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-10",
       "title": "Trump's green card curbs test Indian tec…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -272,7 +387,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-11",
       "title": "Why is Elon Musk plotting a mega-merger …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -313,7 +428,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-12",
       "title": "Websites taken down worldwide as critica…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -351,129 +466,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Just Eat apologises for AI food mistakes…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Just Eat apologises for AI food mistakes after social media ridicule.",
-        "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
-      ],
-      "vocab": [
-        {
-          "w": "apologises",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mistakes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ridicule",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spokesperson",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "removing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inaccurate",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Elon Musk confirms he is considering mer…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Elon Musk confirms he is considering merging Tesla and SpaceX.",
-        "Musk says special committees within both companies have been formed to look at a possible mega-merger."
-      ],
-      "vocab": [
-        {
-          "w": "confirms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "considering",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "merging",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "special",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "committees",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "companies",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "The tech helping crack decades-old cold …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The tech helping crack decades-old cold cases.",
-        "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
-      ],
-      "vocab": [
-        {
-          "w": "helping",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decades-old",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigative",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "genetic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "genealogy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "criminals",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

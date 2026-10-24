@@ -1,11 +1,44 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-23",
+  "name": "TED Talks · Daily · 2026-10-24",
   "type": "passage",
-  "generatedAt": "2026-10-23T01:56:57.947Z",
+  "generatedAt": "2026-10-24T01:57:00.698Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Can you spot the lies in your news feed?…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/laurasmythe",
+      "sentences": [
+        "Laura Smythe spent years in legacy newsrooms, and she thinks the habits journalists use to vet information should belong to all of us.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "newsrooms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "journalists",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "privacy",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/laurasmythe",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "I can't speak. Here's how I get people t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -47,7 +80,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "How would you design your dream city? | …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -88,7 +121,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Why the best learners talk to themselves…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -131,7 +164,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "What if you could read the DNA of your f…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -175,7 +208,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Sunday Pick: How to reclaim your narrati…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -216,50 +249,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Inside Venezuela's uncertain path to fre…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/leopoldolopez2026",
-      "sentences": [
-        "Activist Leopoldo López learned the true value of freedom in a solitary confinement cell, when someone else decided if he would eat or see sunlight.",
-        "(This conversation, hosted by TED's Whitney Pennington Rodgers, was part of an exclusive TED Membership event.",
-        "TED Membership is the best way to support and engage with the big ideas you love from TED.",
-        "To learn more, visit ted.com/membership.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "activist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leopoldo",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "learned",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "freedom",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "solitary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "confinement",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/leopoldolopez2026",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa6f7b3381b9dbb7c315e/media.mp3"
     }
   ]
 }

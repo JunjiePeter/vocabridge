@@ -1,19 +1,249 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-23",
+  "name": "BBC News · Business · 2026-10-24",
   "type": "passage",
-  "generatedAt": "2026-10-23T01:56:57.337Z",
+  "generatedAt": "2026-10-24T01:56:59.921Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Grid operator says lights will stay on t…",
+      "title": "How does the UK state pension compare wi…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How does the UK state pension compare with other countries?.",
+        "Do British pensioners have it better or worse than those in other countries?"
+      ],
+      "vocab": [
+        {
+          "w": "pension",
+          "cn": "养老金"
+        },
+        {
+          "w": "compare",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "countries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "british",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pensioners",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "UK to invest £100m in 'world first' AI B…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "UK to invest £100m in 'world first' AI Biosecurity Lab.",
+        "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+      ],
+      "vocab": [
+        {
+          "w": "biosecurity",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spending",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shoring",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defences",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "wednesday's",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Civil servant who juggled five jobs says…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud.",
+        "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs."
+      ],
+      "vocab": [
+        {
+          "w": "servant",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "juggled",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'surprised'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chowdhury",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dishonest",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "White House lifts tariffs on some Canadi…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "White House lifts tariffs on some Canadian goods as midterm elections loom.",
+        "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+      ],
+      "vocab": [
+        {
+          "w": "tariffs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "canadian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterm",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "elections",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "products",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Earnings limit of up to £140K for first-…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Earnings limit of up to £140K for first-time buyers loan scheme.",
+        "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
+      ],
+      "vocab": [
+        {
+          "w": "earnings",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "first-time",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government-backed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "new-builds",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "england",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "The Indian workers filming their work to…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The Indian workers filming their work to train AI.",
+        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
+      ],
+      "vocab": [
+        {
+          "w": "workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "filming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "themselves",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "footage",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Lights will stay on this winter, grid op…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Grid operator says lights will stay on this winter after concerns.",
+        "Lights will stay on this winter, grid operator says after concerns.",
         "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
       ],
       "vocab": [
@@ -46,7 +276,48 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-8",
+      "title": "'I'm 96 and have 15 million followers': …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'I'm 96 and have 15 million followers': The grannies taking over TikTok.",
+        "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
+      ],
+      "vocab": [
+        {
+          "w": "million",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "followers'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "grannies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "grandma",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "droniak",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "barbara",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
       "title": "Zuckerberg wins Meta deal to help him fo…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +350,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-10",
       "title": "L'Oreal says weight loss drugs are impac…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +358,7 @@
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "L'Oreal says weight loss drugs are impacting beauty and skin care sales.",
+        "L'Oreal says weight loss drugs are impacting beauty and skincare sales.",
         "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
       ],
       "vocab": [
@@ -104,6 +375,10 @@
           "cn": "（查词典）"
         },
         {
+          "w": "skincare",
+          "cn": "（查词典）"
+        },
+        {
           "w": "giant's",
           "cn": "（查词典）"
         },
@@ -116,7 +391,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-11",
       "title": "'I wasn't thinking straight' says five j…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -157,7 +432,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-12",
       "title": "Barclays cutting 5,000 jobs as it increa…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -195,273 +470,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "Tank barrel production returns to UK aft…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Tank barrel production returns to UK after 20 years.",
-        "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces."
-      ],
-      "vocab": [
-        {
-          "w": "production",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "returns",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "business",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "weapons",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "The 'trillion pound' oil fund the govern…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The 'trillion pound' oil fund the government believes Britain could have built.",
-        "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
-      ],
-      "vocab": [
-        {
-          "w": "'trillion",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "believes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "britain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "treasury",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "calculates",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "What is PHP and why did it spark a globa…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What is PHP and why did it spark a global cyber-security scramble?.",
-        "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-      ],
-      "vocab": [
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scramble",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "uncovered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "long-hidden",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "programming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "triggering",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "No order, no seat: Starbucks China rolls…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "No order, no seat: Starbucks China rolls out new store policy.",
-        "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
-      ],
-      "vocab": [
-        {
-          "w": "starbucks",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "improving",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "customers'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "in-store",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experience",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "competes",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Websites taken down worldwide as critica…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Websites taken down worldwide as critical cyber-security update issued.",
-        "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-      ],
-      "vocab": [
-        {
-          "w": "significant",
-          "cn": "重大的"
-        },
-        {
-          "w": "websites",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "worldwide",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "critical",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vulnerabilities",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Is an 'AI war' complicating your job sea…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Is an 'AI war' complicating your job search?.",
-        "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?"
-      ],
-      "vocab": [
-        {
-          "w": "complicating",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recruitment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "happens",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Meta fined $25bn for 'lies' over user da…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Meta fined $25bn for 'lies' over user data privacy.",
-        "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
-      ],
-      "vocab": [
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "largest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "facebook's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
