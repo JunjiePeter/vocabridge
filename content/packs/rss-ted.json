@@ -1,11 +1,46 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-24",
+  "name": "TED Talks · Daily · 2026-10-25",
   "type": "passage",
-  "generatedAt": "2026-10-24T01:57:00.698Z",
+  "generatedAt": "2026-10-25T01:52:15.346Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "The pursuit of happiness requires free t…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/danielleroberts",
+      "sentences": [
+        "Do you feel short on time?",
+        "Writer and work expert Danielle Roberts would like to help you with that.",
+        "In this quick talk, she makes the case that free time isn't a reward you earn but a civil right you're owed.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "danielle",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "roberts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "privacy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/danielleroberts",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Can you spot the lies in your news feed?…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -38,7 +73,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "I can't speak. Here's how I get people t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -80,7 +115,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "How would you design your dream city? | …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -121,7 +156,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Why the best learners talk to themselves…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -164,7 +199,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "What if you could read the DNA of your f…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -206,49 +241,6 @@
       ],
       "link": "http://go.ted.com/noorsiddiqui",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Sunday Pick: How to reclaim your narrati…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://audiocollective.ted.com/",
-      "sentences": [
-        "Monica Lewinsky is an anti-bullying activist and host of Reclaiming with Monica, a podcast that shines her guests’ unguarded conversations about how they make sense of the world.",
-        "In this episode filmed in front of a live audience at TED 2026, Chris interviews Monica on how she finds healing throughout the years.",
-        "They discuss the role of public shaming in an online world, the differences between cancel culture and accountability culture, and how to have more empathy after surviving trauma.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "accountability",
-          "cn": "问责制"
-        },
-        {
-          "w": "lewinsky",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anti-bullying",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "activist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reclaiming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://audiocollective.ted.com/",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9f12b3381b9dbb7c315b/media.mp3"
     }
   ]
 }

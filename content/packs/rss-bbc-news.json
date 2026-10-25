@@ -1,32 +1,106 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-10-24",
+  "name": "BBC News · Top Stories · 2026-10-25",
   "type": "passage",
-  "generatedAt": "2026-10-24T01:56:59.885Z",
+  "generatedAt": "2026-10-25T01:52:14.455Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Storm Austen brings power cuts and trave…",
+      "title": "Almost 1,000 arrested as clashes follow …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Storm Austen brings power cuts and travel disruption as more wind and rain forecast.",
-        "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
+        "Almost 1,000 arrested as clashes follow another day of mass protests across France.",
+        "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations."
       ],
       "vocab": [
         {
-          "w": "disruption",
+          "w": "arrested",
           "cn": "（查词典）"
         },
         {
-          "w": "forecast",
+          "w": "clashes",
           "cn": "（查词典）"
         },
         {
-          "w": "expected",
+          "w": "another",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "protests",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "officials",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "managed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-2",
+      "title": "Watch: BBC in Paris as police charge pro…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Watch: BBC in Paris as police charge protesters and use tear gas during unrest.",
+        "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall."
+      ],
+      "vocab": [
+        {
+          "w": "protesters",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "correspondent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reports",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "peaceful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "protests",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nightfall",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Storm Boelo amber warnings kick in as pa…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts.",
+        "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days."
+      ],
+      "vocab": [
+        {
+          "w": "warnings",
           "cn": "（查词典）"
         },
         {
@@ -38,36 +112,40 @@
           "cn": "（查词典）"
         },
         {
+          "w": "england",
+          "cn": "（查词典）"
+        },
+        {
           "w": "ireland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "forecast",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-2",
-      "title": "Meghan says she was informed about 'dist…",
+      "id": "rss-bbc-news-4",
+      "title": "Meghan broke contact with father in lett…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Meghan says she was informed about 'disturbing allegations' against her father in 2018.",
-        "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines."
+        "Meghan broke contact with father in letter citing abuse claims.",
+        "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
       ],
       "vocab": [
         {
-          "w": "informed",
+          "w": "contact",
           "cn": "（查词典）"
         },
         {
-          "w": "'disturbing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "allegations'",
+          "w": "sources",
           "cn": "（查词典）"
         },
         {
@@ -75,307 +153,24 @@
           "cn": "（查词典）"
         },
         {
-          "w": "statement",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "following",
+          "w": "grandchildren",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "Meghan statement offers answers after ye…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Meghan statement offers answers after years of questions about her relationship with father.",
-        "Today, without exactly using the word, Meghan claimed vindication."
-      ],
-      "vocab": [
-        {
-          "w": "statement",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "answers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "questions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "relationship",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exactly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "claimed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Deadly shooting near Paris is a 'racist …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "One person is killed and five wounded in a series of attacks.",
-        "The suspected gunman has been apprehended."
-      ],
-      "vocab": [
-        {
-          "w": "wounded",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "attacks",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "apprehended",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-5",
-      "title": "UK to invest £100m in 'world first' AI B…",
+      "title": "Burnham open to 'honest discussion' on E…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "UK to invest £100m in 'world first' AI Biosecurity Lab.",
-        "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
-      ],
-      "vocab": [
-        {
-          "w": "biosecurity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shoring",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defences",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wednesday's",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Father who killed Oregon school shooter …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Father who killed Oregon school shooter describes anguish over children he couldn't save.",
-        "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
-      ],
-      "vocab": [
-        {
-          "w": "shooter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "describes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anguish",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "children",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "couldn't",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "giamanco",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Celebrity Traitors left on a knife edge …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Celebrity Traitors left on a knife edge after a trip to the field of screams.",
-        "A newly earned special power left one contestant with a big decision to make in Friday's episode."
-      ],
-      "vocab": [
-        {
-          "w": "celebrity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "traitors",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "screams",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "special",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contestant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decision",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "White House says Melania Trump brokered …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'.",
-        "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
-      ],
-      "vocab": [
-        {
-          "w": "melania",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brokered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disaster'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "confirm",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "russian-occupied",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "Bayern Munich manager Kompany taken to h…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Bayern Munich manager Kompany taken to hospital after collapsing at training.",
-        "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday."
-      ],
-      "vocab": [
-        {
-          "w": "manager",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "kompany",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hospital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collapsing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "training",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vincent",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-10",
-      "title": "Burnham suggests stocking up on tinned f…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Burnham suggests stocking up on tinned food and bottled water.",
-        "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare."
+        "Burnham open to 'honest discussion' on EU free movement.",
+        "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
       ],
       "vocab": [
         {
@@ -383,109 +178,302 @@
           "cn": "（查词典）"
         },
         {
-          "w": "suggests",
+          "w": "'honest",
           "cn": "（查词典）"
         },
         {
-          "w": "stocking",
+          "w": "discussion'",
           "cn": "（查词典）"
         },
         {
-          "w": "bottled",
+          "w": "movement",
           "cn": "（查词典）"
         },
         {
-          "w": "ministers",
+          "w": "factual",
           "cn": "（查词典）"
         },
         {
-          "w": "unexpected",
+          "w": "evidence-based",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Ukraine depends on Starlink - can Europe…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Ukraine depends on Starlink - can Europe plug the gap?.",
+        "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet."
+      ],
+      "vocab": [
+        {
+          "w": "ukraine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "depends",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "starlink",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "another",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "satellite",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "internet",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Voters in Brazil to choose between Lula …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Voters in Brazil to choose between Lula and Bolsonaro's son.",
+        "Flávio Bolsonaro, the son of Brazil's jailed former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office."
+      ],
+      "vocab": [
+        {
+          "w": "bolsonaro's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bolsonaro",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "brazil's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "presenting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "challenge",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Rosebank: Life on the oil field at the c…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Rosebank: Life on the oil field at the centre of a political storm.",
+        "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+      ],
+      "vocab": [
+        {
+          "w": "rosebank",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "political",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scotland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "untapped",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "awaiting",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Why the King's Caribbean tour could be '…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Why the King's Caribbean tour could be 'biggest risk of his reign'.",
+        "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
+      ],
+      "vocab": [
+        {
+          "w": "caribbean",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "meticulously-planned",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "countries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "jeopardy",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-10",
+      "title": "The bitter row over military service tha…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The ultra-Orthodox community is resisting being drafted into the Israeli army.",
+        "But will they now bring down the Netanyahu government?"
+      ],
+      "vocab": [
+        {
+          "w": "ultra-orthodox",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "community",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "resisting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "drafted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "israeli",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "netanyahu",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "GP says she was forced out of job after …",
+      "title": "A shark went astray and captured Korea's…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "GP says she was forced out of job after raising concerns about gender treatment.",
-        "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors."
+        "A shark went astray and captured Korea's heart - will she finally make it back to sea?.",
+        "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi."
       ],
       "vocab": [
         {
-          "w": "raising",
+          "w": "captured",
           "cn": "（查词典）"
         },
         {
-          "w": "concerns",
+          "w": "korea's",
           "cn": "（查词典）"
         },
         {
-          "w": "treatment",
+          "w": "finally",
           "cn": "（查词典）"
         },
         {
-          "w": "investigation",
+          "w": "million",
           "cn": "（查词典）"
         },
         {
-          "w": "complaints",
+          "w": "flocked",
           "cn": "（查词典）"
         },
         {
-          "w": "brought",
+          "w": "glimpse",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "Seven shot dead by gunmen at church fune…",
+      "title": "Why the charts are full of old songs - a…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Seven shot dead by gunmen at church funeral in Jordan, officials say.",
-        "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+        "Why the charts are full of old songs - and so are your playlists.",
+        "The chart is full is full of old music and classic songs are dominating streaming services."
       ],
       "vocab": [
         {
-          "w": "funeral",
+          "w": "playlists",
           "cn": "（查词典）"
         },
         {
-          "w": "officials",
+          "w": "classic",
           "cn": "（查词典）"
         },
         {
-          "w": "thirty-four",
+          "w": "dominating",
           "cn": "（查词典）"
         },
         {
-          "w": "injured",
+          "w": "streaming",
           "cn": "（查词典）"
         },
         {
-          "w": "southern",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "governorate",
+          "w": "services",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

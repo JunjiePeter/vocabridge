@@ -1,11 +1,110 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-24",
+  "name": "The Economist · Latest · 2026-10-25",
   "type": "passage",
-  "generatedAt": "2026-10-24T01:57:00.089Z",
+  "generatedAt": "2026-10-25T01:52:14.776Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "AI models may not be so opaque after all",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
+      "sentences": [
+        "AI models may not be so opaque after all.",
+        "A glimmer of hope for those worried about AI safety"
+      ],
+      "vocab": [
+        {
+          "w": "glimmer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "worried",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Cover Story newsletter: The agony of lib…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe",
+      "sentences": [
+        "Cover Story newsletter: The agony of liberal Europe.",
+        "An exclusive look at how we designed our cover"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "liberal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "exclusive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "designed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Checks and Balance newsletter: If Americ…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+      "sentences": [
+        "Checks and Balance newsletter: If American voters lived under one roof.",
+        "John Prideaux, our executive editor, imagines a ten-storey apartment building to explain how a polarised country can still swing wildly"
+      ],
+      "vocab": [
+        {
+          "w": "balance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "american",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prideaux",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "executive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "imagines",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
       "title": "Are some protein powders better than oth…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -30,7 +129,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-5",
       "title": "How could Donald Trump interfere with th…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -63,7 +162,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-6",
       "title": "What to watch this week",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -84,7 +183,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-7",
       "title": "Songs of disenchantment: the sorrow of N…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -125,7 +224,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-8",
       "title": "Sam Bankman-Fried on effective altruism",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -162,7 +261,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-9",
       "title": "Sam Bankman-Fried says he has paid his d…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -191,7 +290,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
+      "id": "rss-economist-10",
       "title": "How personal rivalries and clashes are s…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -232,7 +331,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
+      "id": "rss-economist-11",
       "title": "Jeffrey Archer’s career was worthy of hi…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -273,7 +372,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-9",
+      "id": "rss-economist-12",
       "title": "Leadership lessons from Napoleon",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -298,101 +397,6 @@
         }
       ],
       "link": "https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "How Ella Langley two-stepped to the top …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts",
-      "sentences": [
-        "How Ella Langley two-stepped to the top of the charts.",
-        "Country music is riding high, thanks to a new generation of stars and fans"
-      ],
-      "vocab": [
-        {
-          "w": "langley",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "two-stepped",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "generation",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Are film critics as snooty and out of to…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/interactive/culture/2026/10/22/are-film-critics-as-snooty-and-out-of-touch-as-people-think",
-      "sentences": [
-        "Are film critics as snooty and out of touch as people think?.",
-        "We look at the data to find out"
-      ],
-      "vocab": [
-        {
-          "w": "critics",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/interactive/culture/2026/10/22/are-film-critics-as-snooty-and-out-of-touch-as-people-think",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Multinational businesses are losing conf…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
-      "sentences": [
-        "Multinational businesses are losing confidence in Indonesia.",
-        "Its bountiful resources and vast population are attractive, but its government is a nightmare"
-      ],
-      "vocab": [
-        {
-          "w": "multinational",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "businesses",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "confidence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "indonesia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bountiful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "resources",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
       "audio": ""
     }
   ]

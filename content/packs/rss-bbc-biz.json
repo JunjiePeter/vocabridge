@@ -1,11 +1,48 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-24",
+  "name": "BBC News · Business · 2026-10-25",
   "type": "passage",
-  "generatedAt": "2026-10-24T01:56:59.921Z",
+  "generatedAt": "2026-10-25T01:52:14.653Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "Rosebank: Life on the oil field at the c…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Rosebank: Life on the oil field at the centre of a political storm.",
+        "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+      ],
+      "vocab": [
+        {
+          "w": "rosebank",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "political",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scotland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "untapped",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "awaiting",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
       "title": "How does the UK state pension compare wi…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -42,7 +79,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-3",
       "title": "UK to invest £100m in 'world first' AI B…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -83,7 +120,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-4",
       "title": "Civil servant who juggled five jobs says…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -124,7 +161,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-5",
       "title": "White House lifts tariffs on some Canadi…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -165,7 +202,40 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-6",
+      "title": "The Indian workers filming their work to…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The Indian workers filming their work to train AI.",
+        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
+      ],
+      "vocab": [
+        {
+          "w": "workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "filming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "themselves",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "footage",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
       "title": "Earnings limit of up to £140K for first-…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -202,40 +272,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-6",
-      "title": "The Indian workers filming their work to…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The Indian workers filming their work to train AI.",
-        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
-      ],
-      "vocab": [
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "filming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "themselves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "footage",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
+      "id": "rss-bbc-biz-8",
       "title": "Lights will stay on this winter, grid op…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -276,7 +313,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-9",
       "title": "'I'm 96 and have 15 million followers': …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -317,7 +354,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-9",
+      "id": "rss-bbc-biz-10",
       "title": "Zuckerberg wins Meta deal to help him fo…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -350,7 +387,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-10",
+      "id": "rss-bbc-biz-11",
       "title": "L'Oreal says weight loss drugs are impac…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -391,7 +428,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-11",
+      "id": "rss-bbc-biz-12",
       "title": "'I wasn't thinking straight' says five j…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -429,47 +466,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Barclays cutting 5,000 jobs as it increa…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Barclays cutting 5,000 jobs as it increases reliance on AI.",
-        "The bank says it is using more AI leading to a 5% reduction in its workforce."
-      ],
-      "vocab": [
-        {
-          "w": "barclays",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cutting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "increases",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reliance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leading",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reduction",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
