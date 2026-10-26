@@ -1,270 +1,36 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-10-25",
+  "name": "BBC News · Top Stories · 2026-10-26",
   "type": "passage",
-  "generatedAt": "2026-10-25T01:52:14.455Z",
+  "generatedAt": "2026-10-26T02:02:22.761Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Almost 1,000 arrested as clashes follow …",
+      "title": "Lula wins fourth term in Brazil but face…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Almost 1,000 arrested as clashes follow another day of mass protests across France.",
-        "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations."
+        "Lula wins fourth term in Brazil but faces hostile Congress and divided country.",
+        "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country."
       ],
       "vocab": [
         {
-          "w": "arrested",
+          "w": "hostile",
           "cn": "（查词典）"
         },
         {
-          "w": "clashes",
+          "w": "congress",
           "cn": "（查词典）"
         },
         {
-          "w": "another",
+          "w": "divided",
           "cn": "（查词典）"
         },
         {
-          "w": "protests",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "officials",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "managed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "Watch: BBC in Paris as police charge pro…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Watch: BBC in Paris as police charge protesters and use tear gas during unrest.",
-        "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall."
-      ],
-      "vocab": [
-        {
-          "w": "protesters",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "peaceful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "protests",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nightfall",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "Storm Boelo amber warnings kick in as pa…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts.",
-        "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days."
-      ],
-      "vocab": [
-        {
-          "w": "warnings",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scotland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "northern",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "england",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ireland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "forecast",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Meghan broke contact with father in lett…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Meghan broke contact with father in letter citing abuse claims.",
-        "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
-      ],
-      "vocab": [
-        {
-          "w": "contact",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sources",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "duchess",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "grandchildren",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Burnham open to 'honest discussion' on E…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Burnham open to 'honest discussion' on EU free movement.",
-        "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
-      ],
-      "vocab": [
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'honest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "discussion'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "movement",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "factual",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "evidence-based",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Ukraine depends on Starlink - can Europe…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Ukraine depends on Starlink - can Europe plug the gap?.",
-        "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet."
-      ],
-      "vocab": [
-        {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "depends",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "starlink",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "another",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "satellite",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "internet",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Voters in Brazil to choose between Lula …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Voters in Brazil to choose between Lula and Bolsonaro's son.",
-        "Flávio Bolsonaro, the son of Brazil's jailed former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office."
-      ],
-      "vocab": [
-        {
-          "w": "bolsonaro's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bolsonaro",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brazil's",
+          "w": "country",
           "cn": "（查词典）"
         },
         {
@@ -272,208 +38,442 @@
           "cn": "（查词典）"
         },
         {
-          "w": "presenting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "challenge",
+          "w": "surprise",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-2",
+      "title": "Two men killed by falling trees as Storm…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power.",
+        "An amber wind warning has now expired after severe weather sweeps across the UK."
+      ],
+      "vocab": [
+        {
+          "w": "falling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "properties",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "warning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expired",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weather",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Elation across Serbia after veteran rule…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement.",
+        "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+      ],
+      "vocab": [
+        {
+          "w": "elation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "veteran",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concedes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "student-led",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "protest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "movement",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-4",
+      "title": "Healey's Budget needs to sustain the str…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Healey's Budget needs to sustain the stronger economy through gathering clouds.",
+        "The economic is positive now but come January things could become trickier for the Labour government"
+      ],
+      "vocab": [
+        {
+          "w": "healey's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sustain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stronger",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "gathering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economic",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "Funding set to double for plan to get ro…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Funding set to double for plan to get rough sleepers off streets by Christmas.",
+        "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
+      ],
+      "vocab": [
+        {
+          "w": "funding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sleepers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "streets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "christmas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sleeping",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Deeply divided Israel braces for pivotal…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Deeply divided Israel braces for pivotal election.",
+        "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
+      ],
+      "vocab": [
+        {
+          "w": "divided",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pivotal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "regional",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "williamson",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Venezuelan opposition leader María Macha…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Venezuelan opposition leader María Machado returns after months in exile.",
+        "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+      ],
+      "vocab": [
+        {
+          "w": "venezuelan",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opposition",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "machado",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "returns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "country",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-8",
-      "title": "Rosebank: Life on the oil field at the c…",
+      "title": "Letter making claims about Meghan's fath…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Rosebank: Life on the oil field at the centre of a political storm.",
-        "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+        "Roslyn Loveless, who has since died, divorced Meghan's father in 1975.",
+        "Meghan said she had been informed about the \"disturbing allegations\" in 2018."
       ],
       "vocab": [
         {
-          "w": "rosebank",
+          "w": "loveless",
           "cn": "（查词典）"
         },
         {
-          "w": "political",
+          "w": "divorced",
           "cn": "（查词典）"
         },
         {
-          "w": "scotland",
+          "w": "meghan's",
           "cn": "（查词典）"
         },
         {
-          "w": "untapped",
+          "w": "informed",
           "cn": "（查词典）"
         },
         {
-          "w": "awaiting",
+          "w": "disturbing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "allegations",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Why the King's Caribbean tour could be '…",
+      "title": "Board of Deputies of British Jews declar…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Why the King's Caribbean tour could be 'biggest risk of his reign'.",
-        "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
+        "Board of Deputies of British Jews declares Greens to be racist party.",
+        "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
       ],
       "vocab": [
         {
-          "w": "caribbean",
+          "w": "deputies",
           "cn": "（查词典）"
         },
         {
-          "w": "'biggest",
+          "w": "british",
           "cn": "（查词典）"
         },
         {
-          "w": "meticulously-planned",
+          "w": "declares",
           "cn": "（查词典）"
         },
         {
-          "w": "countries",
+          "w": "response",
           "cn": "（查词典）"
         },
         {
-          "w": "jeopardy",
+          "w": "passing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "zionism",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "The bitter row over military service tha…",
+      "title": "Spotify uploads lyrics for Dolly Parton'…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "The ultra-Orthodox community is resisting being drafted into the Israeli army.",
-        "But will they now bring down the Netanyahu government?"
+        "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish.",
+        "The single is the second posthumous release from Parton - who was of Welsh descent."
       ],
       "vocab": [
         {
-          "w": "ultra-orthodox",
+          "w": "spotify",
           "cn": "（查词典）"
         },
         {
-          "w": "community",
+          "w": "uploads",
           "cn": "（查词典）"
         },
         {
-          "w": "resisting",
+          "w": "parton's",
           "cn": "（查词典）"
         },
         {
-          "w": "drafted",
+          "w": "version",
           "cn": "（查词典）"
         },
         {
-          "w": "israeli",
+          "w": "posthumous",
           "cn": "（查词典）"
         },
         {
-          "w": "netanyahu",
+          "w": "release",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "A shark went astray and captured Korea's…",
+      "title": "End approaching for Carrick but Man Utd …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "A shark went astray and captured Korea's heart - will she finally make it back to sea?.",
-        "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi."
+        "End approaching for Carrick but Man Utd fans make clear who they blame.",
+        "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else."
       ],
       "vocab": [
         {
-          "w": "captured",
+          "w": "approaching",
           "cn": "（查词典）"
         },
         {
-          "w": "korea's",
+          "w": "carrick",
           "cn": "（查词典）"
         },
         {
-          "w": "finally",
+          "w": "manchester",
           "cn": "（查词典）"
         },
         {
-          "w": "million",
+          "w": "united's",
           "cn": "（查词典）"
         },
         {
-          "w": "flocked",
+          "w": "support",
           "cn": "（查词典）"
         },
         {
-          "w": "glimpse",
+          "w": "michael",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "Why the charts are full of old songs - a…",
+      "title": "Sharon Osbourne: 'I visit Ozzy's grave e…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Why the charts are full of old songs - and so are your playlists.",
-        "The chart is full is full of old music and classic songs are dominating streaming services."
+        "Sharon Osbourne: 'I visit Ozzy's grave every day'.",
+        "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him."
       ],
       "vocab": [
         {
-          "w": "playlists",
+          "w": "osbourne",
           "cn": "（查词典）"
         },
         {
-          "w": "classic",
+          "w": "presenter",
           "cn": "（查词典）"
         },
         {
-          "w": "dominating",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "streaming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "services",
+          "w": "regularly",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

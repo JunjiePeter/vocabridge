@@ -1,11 +1,52 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-10-25",
+  "name": "BBC News · Technology · 2026-10-26",
   "type": "passage",
-  "generatedAt": "2026-10-25T01:52:14.623Z",
+  "generatedAt": "2026-10-26T02:02:22.782Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Data centre debate heats up ahead of US …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact.",
+        "The BBC explores their rise in charts."
+      ],
+      "vocab": [
+        {
+          "w": "centres",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lifeblood",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "digital",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "growing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concerns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "environmental",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
       "title": "UK to invest £100m in 'world first' AI B…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +87,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-3",
       "title": "What is PHP and why did it spark a globa…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +128,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-4",
       "title": "'It's been relentless' say IT workers on…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +169,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-5",
       "title": "The Indian workers filming their work to…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -161,7 +202,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-6",
       "title": "Zuckerberg wins Meta deal to help him fo…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -194,7 +235,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-7",
       "title": "Race to update services' computer system…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -235,7 +276,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-8",
       "title": "Zoe Kleinman: PHP is the cyber equivalen…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -276,7 +317,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-9",
       "title": "'500 new vulnerabilities' found in gover…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -305,7 +346,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-10",
       "title": "UK working to identify exposure after gl…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -346,7 +387,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-11",
       "title": "Trump's green card curbs test Indian tec…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -387,7 +428,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-11",
+      "id": "rss-bbc-tech-12",
       "title": "Why is Elon Musk plotting a mega-merger …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -425,47 +466,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Websites taken down worldwide as critica…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Websites taken down worldwide as critical cyber-security update issued.",
-        "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-      ],
-      "vocab": [
-        {
-          "w": "significant",
-          "cn": "重大的"
-        },
-        {
-          "w": "websites",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "worldwide",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "critical",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vulnerabilities",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

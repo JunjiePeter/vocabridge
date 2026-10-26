@@ -1,11 +1,233 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-25",
+  "name": "The Economist · Latest · 2026-10-26",
   "type": "passage",
-  "generatedAt": "2026-10-25T01:52:14.776Z",
+  "generatedAt": "2026-10-26T02:02:22.966Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "Back in Venezuela, María Machado may spe…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-americas/2026/10/25/back-in-venezuela-maria-machado-may-speed-the-return-of-democracy",
+      "sentences": [
+        "Back in Venezuela, María Machado may speed the return of democracy.",
+        "She will push for elections to happen much sooner than Donald Trump had in mind"
+      ],
+      "vocab": [
+        {
+          "w": "venezuela",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "machado",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democracy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "elections",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-americas/2026/10/25/back-in-venezuela-maria-machado-may-speed-the-return-of-democracy",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Politics, not strategy, could mean more …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran",
+      "sentences": [
+        "Politics, not strategy, could mean more Israeli strikes on Iran.",
+        "Elections in Israel and America are driving their leaders’ thinking"
+      ],
+      "vocab": [
+        {
+          "w": "strategy",
+          "cn": "战略"
+        },
+        {
+          "w": "politics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "israeli",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "strikes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "elections",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "China increasingly depends on copying Am…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "sentences": [
+        "China increasingly depends on copying American AI.",
+        "Model distillation infuriates America, but may end up holding China back"
+      ],
+      "vocab": [
+        {
+          "w": "increasingly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "depends",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "copying",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "american",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "distillation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "infuriates",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Do immigrants from some countries commit…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/britain/2026/10/25/do-immigrants-from-some-countries-commit-more-sex-crimes",
+      "sentences": [
+        "A hard look at Britain’s data suggests so.",
+        "But it is hardly an epidemic"
+      ],
+      "vocab": [
+        {
+          "w": "britain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suggests",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "epidemic",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/britain/2026/10/25/do-immigrants-from-some-countries-commit-more-sex-crimes",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "The winners and losers of Trumponomics",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+      "sentences": [
+        "The president promised to help ordinary Americans.",
+        "He achieved something rather different"
+      ],
+      "vocab": [
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "promised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ordinary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "americans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "achieved",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "something",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "India has stabilised its currency. But a…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+      "sentences": [
+        "India has stabilised its currency.",
+        "The central bank is using ever harsher measures to keep the rupee below 100 to the dollar"
+      ],
+      "vocab": [
+        {
+          "w": "stabilised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "currency",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "central",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "harsher",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "measures",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
       "title": "AI models may not be so opaque after all",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -30,7 +252,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-8",
       "title": "Cover Story newsletter: The agony of lib…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -63,7 +285,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-9",
       "title": "Checks and Balance newsletter: If Americ…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -104,7 +326,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-10",
       "title": "Are some protein powders better than oth…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -129,7 +351,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-11",
       "title": "How could Donald Trump interfere with th…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -162,7 +384,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-12",
       "title": "What to watch this week",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -180,223 +402,6 @@
         }
       ],
       "link": "https://www.economist.com/culture/2026/10/23/what-to-watch-this-week",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Songs of disenchantment: the sorrow of N…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/23/songs-of-disenchantment-the-sorrow-of-nigeria",
-      "sentences": [
-        "Songs of disenchantment: the sorrow of Nigeria.",
-        "Also on the daily podcast: can Europe match Starlink and remembering novelist Jeffrey Archer"
-      ],
-      "vocab": [
-        {
-          "w": "disenchantment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nigeria",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "starlink",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "remembering",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "novelist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/23/songs-of-disenchantment-the-sorrow-of-nigeria",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Sam Bankman-Fried on effective altruism",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/22/sam-bankman-fried-on-effective-altruism",
-      "sentences": [
-        "Our podcast on markets, the economy and business.",
-        "This week, SBF talks exclusively to Money Talks from a prison phone"
-      ],
-      "vocab": [
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "business",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exclusively",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/22/sam-bankman-fried-on-effective-altruism",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Sam Bankman-Fried says he has paid his d…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
-      "sentences": [
-        "Sam Bankman-Fried says he has paid his debts.",
-        "The crypto tycoon speaks with The Economist from prison in California"
-      ],
-      "vocab": [
-        {
-          "w": "bankman-fried",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "How personal rivalries and clashes are s…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race",
-      "sentences": [
-        "How personal rivalries and clashes are shaping the AI race.",
-        "A new book offers a rollicking tale of the people shaping Silicon Valley’s new obsession"
-      ],
-      "vocab": [
-        {
-          "w": "personal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rivalries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "clashes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shaping",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rollicking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "silicon",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Jeffrey Archer’s career was worthy of hi…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/obituary/2026/10/22/jeffrey-archers-career-was-worthy-of-his-most-improbable-plots",
-      "sentences": [
-        "Jeffrey Archer’s career was worthy of his most improbable plots.",
-        "The bestselling novelist, conman and politician died on October 5th, aged 86"
-      ],
-      "vocab": [
-        {
-          "w": "jeffrey",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "improbable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bestselling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "novelist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "politician",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/obituary/2026/10/22/jeffrey-archers-career-was-worthy-of-his-most-improbable-plots",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Leadership lessons from Napoleon",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
-      "sentences": [
-        "How the French emperor’s management style ultimately led to his fall"
-      ],
-      "vocab": [
-        {
-          "w": "ultimately",
-          "cn": "最终"
-        },
-        {
-          "w": "emperor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "management",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
       "audio": ""
     }
   ]

@@ -1,11 +1,134 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-25",
+  "name": "BBC News · Business · 2026-10-26",
   "type": "passage",
-  "generatedAt": "2026-10-25T01:52:14.653Z",
+  "generatedAt": "2026-10-26T02:02:22.813Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "Healey's Budget needs to sustain the str…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Healey's Budget needs to sustain the stronger economy through gathering clouds.",
+        "The economic is positive now but come January things could become trickier for the Labour government"
+      ],
+      "vocab": [
+        {
+          "w": "healey's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sustain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stronger",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "gathering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economic",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Data centre debate heats up ahead of US …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact.",
+        "The BBC explores their rise in charts."
+      ],
+      "vocab": [
+        {
+          "w": "centres",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lifeblood",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "digital",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "growing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concerns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "environmental",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Will a new code end 'rip-off parking cha…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Will a new code end 'rip-off parking charges'?.",
+        "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?"
+      ],
+      "vocab": [
+        {
+          "w": "'rip-off",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "parking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charges'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rip-off",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charges",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
       "title": "Rosebank: Life on the oil field at the c…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -42,7 +165,176 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-5",
+      "title": "Are California voters about to impose 'w…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Are California voters about to impose 'world's first' tax on billionaires?.",
+        "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
+      ],
+      "vocab": [
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'world's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billionaires",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mega-rich",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dollars",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "The Indian workers filming their work to…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The Indian workers filming their work to train AI.",
+        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
+      ],
+      "vocab": [
+        {
+          "w": "workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "filming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "themselves",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "footage",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "What is the Budget and what could be in …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What is the Budget and what could be in it?.",
+        "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+      ],
+      "vocab": [
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Budget to include £1bn for social and af…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Budget to include £1bn for social and affordable housing.",
+        "The move will take funding for the 10-year programme to more than £40bn."
+      ],
+      "vocab": [
+        {
+          "w": "include",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "affordable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "housing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "funding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "programme",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Four ways Labour could raise money in th…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Four ways Labour could raise money in the Budget without hiking income tax.",
+        "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
+      ],
+      "vocab": [
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "headroom",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "examines",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "options",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
       "title": "How does the UK state pension compare wi…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +371,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-11",
       "title": "UK to invest £100m in 'world first' AI B…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -120,48 +412,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
-      "title": "Civil servant who juggled five jobs says…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud.",
-        "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs."
-      ],
-      "vocab": [
-        {
-          "w": "servant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "juggled",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'surprised'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chowdhury",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dishonest",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-12",
       "title": "White House lifts tariffs on some Canadi…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -199,273 +450,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "The Indian workers filming their work to…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The Indian workers filming their work to train AI.",
-        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
-      ],
-      "vocab": [
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "filming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "themselves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "footage",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "Earnings limit of up to £140K for first-…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Earnings limit of up to £140K for first-time buyers loan scheme.",
-        "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
-      ],
-      "vocab": [
-        {
-          "w": "earnings",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "first-time",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government-backed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "new-builds",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "england",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Lights will stay on this winter, grid op…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Lights will stay on this winter, grid operator says after concerns.",
-        "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
-      ],
-      "vocab": [
-        {
-          "w": "adequate",
-          "cn": "充足的"
-        },
-        {
-          "w": "operator",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "concerns",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "assurance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "national",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "concern",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "'I'm 96 and have 15 million followers': …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'I'm 96 and have 15 million followers': The grannies taking over TikTok.",
-        "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
-      ],
-      "vocab": [
-        {
-          "w": "million",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "followers'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "grannies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "grandma",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "droniak",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "barbara",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Zuckerberg wins Meta deal to help him fo…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax.",
-        "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
-      ],
-      "vocab": [
-        {
-          "w": "zuckerberg",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "possible",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billionaire",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "L'Oreal says weight loss drugs are impac…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "L'Oreal says weight loss drugs are impacting beauty and skincare sales.",
-        "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
-      ],
-      "vocab": [
-        {
-          "w": "phenomenon",
-          "cn": "现象"
-        },
-        {
-          "w": "l'oreal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "impacting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "skincare",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "giant's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "important",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "'I wasn't thinking straight' says five j…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'I wasn't thinking straight' says five jobs civil servant.",
-        "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
-      ],
-      "vocab": [
-        {
-          "w": "thinking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "straight'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "servant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chowdhury",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accused",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fraudulently",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

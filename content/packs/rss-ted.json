@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-25",
+  "name": "TED Talks · Daily · 2026-10-26",
   "type": "passage",
-  "generatedAt": "2026-10-25T01:52:15.346Z",
+  "generatedAt": "2026-10-26T02:02:23.437Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Sunday Pick: Unlocking Your Power at Wor…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "No matter where you fall on the corporate food chain, you have power at work—you just might not know how to use it.",
+        "Kara Swisher is one of the most influential voices in media and has built a career holding the powerful accountable.",
+        "She also argues that people don’t leave jobs early or often enough, and makes the case for pursuing more than just the opportunities that are offered to you.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "corporate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "swisher",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "influential",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "holding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "powerful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accountable",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "The pursuit of happiness requires free t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -40,7 +83,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Can you spot the lies in your news feed?…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -73,7 +116,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "I can't speak. Here's how I get people t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -115,7 +158,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "How would you design your dream city? | …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -156,7 +199,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Why the best learners talk to themselves…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -197,50 +240,6 @@
       ],
       "link": "http://go.ted.com/tanialombrozo",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad77fd358c0e97ce0c32f31/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "What if you could read the DNA of your f…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/noorsiddiqui",
-      "sentences": [
-        "For all of human history, a baby's DNA was determined by chance at conception: the so-called genetic lottery.",
-        "\"That era is over,\" says Noor Siddiqui, whose company builds screening tools to read the whole genome of embryos in an effort to give parents more genetic information than standard IVF.",
-        "She makes the case that this kind of technology helps families understand and reduce health risks, raising the question: How much should we know about our children's DNA before birth?",
-        "(Followed by a brief Q&A with TED’s vision steward Sal Khan) Hosted on Acast.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "so-called",
-          "cn": "所谓的"
-        },
-        {
-          "w": "screening",
-          "cn": "筛选"
-        },
-        {
-          "w": "history",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "determined",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "conception",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "genetic",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/noorsiddiqui",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa742b3381b9dbb7c315f/media.mp3"
     }
   ]
 }
