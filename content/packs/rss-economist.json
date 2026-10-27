@@ -1,304 +1,324 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-26",
+  "name": "The Economist · Latest · 2026-10-27",
   "type": "passage",
-  "generatedAt": "2026-10-26T02:02:22.966Z",
+  "generatedAt": "2026-10-27T02:00:32.627Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Back in Venezuela, María Machado may spe…",
+      "title": "Did Harry Kane have to leave England to …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-americas/2026/10/25/back-in-venezuela-maria-machado-may-speed-the-return-of-democracy",
+      "intro": "原文：https://www.economist.com/britain/2026/10/26/did-harry-kane-have-to-leave-england-to-win-the-ballon-dor",
       "sentences": [
-        "Back in Venezuela, María Machado may speed the return of democracy.",
-        "She will push for elections to happen much sooner than Donald Trump had in mind"
+        "Did Harry Kane have to leave England to win the Ballon d’Or?.",
+        "The Premier League’s greatest strength is also a weakness"
       ],
       "vocab": [
         {
-          "w": "venezuela",
+          "w": "strength",
+          "cn": "优势"
+        },
+        {
+          "w": "weakness",
+          "cn": "短板"
+        },
+        {
+          "w": "england",
           "cn": "（查词典）"
         },
         {
-          "w": "machado",
+          "w": "premier",
           "cn": "（查词典）"
         },
         {
-          "w": "democracy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "elections",
+          "w": "greatest",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-americas/2026/10/25/back-in-venezuela-maria-machado-may-speed-the-return-of-democracy",
+      "link": "https://www.economist.com/britain/2026/10/26/did-harry-kane-have-to-leave-england-to-win-the-ballon-dor",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Politics, not strategy, could mean more …",
+      "title": "Don’t expect supersize profits from Anth…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran",
+      "intro": "原文：https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
       "sentences": [
-        "Politics, not strategy, could mean more Israeli strikes on Iran.",
-        "Elections in Israel and America are driving their leaders’ thinking"
+        "Don’t expect supersize profits from Anthropic any time soon.",
+        "Lurking in its IPO prospectus are warnings of challenges ahead"
       ],
       "vocab": [
         {
-          "w": "strategy",
-          "cn": "战略"
-        },
-        {
-          "w": "politics",
+          "w": "supersize",
           "cn": "（查词典）"
         },
         {
-          "w": "israeli",
+          "w": "profits",
           "cn": "（查词典）"
         },
         {
-          "w": "strikes",
+          "w": "anthropic",
           "cn": "（查词典）"
         },
         {
-          "w": "elections",
+          "w": "lurking",
           "cn": "（查词典）"
         },
         {
-          "w": "america",
+          "w": "prospectus",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "warnings",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran",
+      "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "China increasingly depends on copying Am…",
+      "title": "Treatments for age-related infertility a…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
       "sentences": [
-        "China increasingly depends on copying American AI.",
-        "Model distillation infuriates America, but may end up holding China back"
+        "Treatments for age-related infertility are being developed at last.",
+        "Startups hope to improve IVF by revealing the biology of infertility"
       ],
       "vocab": [
         {
-          "w": "increasingly",
+          "w": "treatments",
           "cn": "（查词典）"
         },
         {
-          "w": "depends",
+          "w": "age-related",
           "cn": "（查词典）"
         },
         {
-          "w": "copying",
+          "w": "infertility",
           "cn": "（查词典）"
         },
         {
-          "w": "american",
+          "w": "developed",
           "cn": "（查词典）"
         },
         {
-          "w": "distillation",
+          "w": "startups",
           "cn": "（查词典）"
         },
         {
-          "w": "infuriates",
+          "w": "improve",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "link": "https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "Do immigrants from some countries commit…",
+      "title": "Markets are dismayed by Lula’s surprise …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/10/25/do-immigrants-from-some-countries-commit-more-sex-crimes",
+      "intro": "原文：https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
       "sentences": [
-        "A hard look at Britain’s data suggests so.",
-        "But it is hardly an epidemic"
+        "Markets are dismayed by Lula’s surprise win—and for good reason.",
+        "The pressure is on Brazil’s re-elected president to avoid an economic slump"
       ],
       "vocab": [
         {
-          "w": "britain",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "suggests",
+          "w": "dismayed",
           "cn": "（查词典）"
         },
         {
-          "w": "epidemic",
+          "w": "surprise",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pressure",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "re-elected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/10/25/do-immigrants-from-some-countries-commit-more-sex-crimes",
+      "link": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
       "audio": ""
     },
     {
       "id": "rss-economist-5",
-      "title": "The winners and losers of Trumponomics",
+      "title": "Prince William builds a high street",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+      "intro": "原文：https://www.economist.com/britain/2026/10/26/prince-william-builds-a-high-street",
       "sentences": [
-        "The president promised to help ordinary Americans.",
-        "He achieved something rather different"
+        "Prince William builds a high street.",
+        "Your local shopping street will soon resemble it"
       ],
       "vocab": [
         {
-          "w": "president",
+          "w": "william",
           "cn": "（查词典）"
         },
         {
-          "w": "promised",
+          "w": "shopping",
           "cn": "（查词典）"
         },
         {
-          "w": "ordinary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "americans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "achieved",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "something",
+          "w": "resemble",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+      "link": "https://www.economist.com/britain/2026/10/26/prince-william-builds-a-high-street",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "India has stabilised its currency. But a…",
+      "title": "Opinion newsletter: Why Indonesia is stu…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+      "intro": "原文：https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
       "sentences": [
-        "India has stabilised its currency.",
-        "The central bank is using ever harsher measures to keep the rupee below 100 to the dollar"
+        "Opinion newsletter: Why Indonesia is stuck at a roundabout.",
+        "Simon Long, our editor-at-large, says that many of today’s problems are the same as those he wrote about two decades ago"
       ],
       "vocab": [
         {
-          "w": "stabilised",
+          "w": "opinion",
           "cn": "（查词典）"
         },
         {
-          "w": "currency",
+          "w": "newsletter",
           "cn": "（查词典）"
         },
         {
-          "w": "central",
+          "w": "indonesia",
           "cn": "（查词典）"
         },
         {
-          "w": "harsher",
+          "w": "roundabout",
           "cn": "（查词典）"
         },
         {
-          "w": "measures",
+          "w": "editor-at-large",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "problems",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+      "link": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "AI models may not be so opaque after all",
+      "title": "The Economist is hiring a Video Editor",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
+      "intro": "原文：https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
       "sentences": [
-        "AI models may not be so opaque after all.",
-        "A glimmer of hope for those worried about AI safety"
+        "The Economist is hiring a Video Editor.",
+        "Join our editorial video department in New York"
       ],
       "vocab": [
         {
-          "w": "glimmer",
+          "w": "economist",
           "cn": "（查词典）"
         },
         {
-          "w": "worried",
+          "w": "editorial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "department",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
+      "link": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "Cover Story newsletter: The agony of lib…",
+      "title": "Russia has seized a Japanese journalist,…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe",
+      "intro": "原文：https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
       "sentences": [
-        "Cover Story newsletter: The agony of liberal Europe.",
-        "An exclusive look at how we designed our cover"
+        "Russia has seized a Japanese journalist, freezing an icy relationship.",
+        "Vladimir Putin could be angling for a prisoner swap"
       ],
       "vocab": [
         {
-          "w": "newsletter",
+          "w": "japanese",
           "cn": "（查词典）"
         },
         {
-          "w": "liberal",
+          "w": "journalist",
           "cn": "（查词典）"
         },
         {
-          "w": "exclusive",
+          "w": "freezing",
           "cn": "（查词典）"
         },
         {
-          "w": "designed",
+          "w": "relationship",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vladimir",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "angling",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe",
+      "link": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
       "audio": ""
     },
     {
       "id": "rss-economist-9",
-      "title": "Checks and Balance newsletter: If Americ…",
+      "title": "The Climate Issue newsletter: How slow c…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+      "intro": "原文：https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
       "sentences": [
-        "Checks and Balance newsletter: If American voters lived under one roof.",
-        "John Prideaux, our executive editor, imagines a ten-storey apartment building to explain how a polarised country can still swing wildly"
+        "The Climate Issue newsletter: How slow can you go?.",
+        "Oliver Morton, our planetary-affairs editor, laments the speed at which the IPCC delivers vital climatic stocktakes"
       ],
       "vocab": [
         {
-          "w": "balance",
+          "w": "climate",
           "cn": "（查词典）"
         },
         {
@@ -306,102 +326,126 @@
           "cn": "（查词典）"
         },
         {
-          "w": "american",
+          "w": "planetary-affairs",
           "cn": "（查词典）"
         },
         {
-          "w": "prideaux",
+          "w": "laments",
           "cn": "（查词典）"
         },
         {
-          "w": "executive",
+          "w": "delivers",
           "cn": "（查词典）"
         },
         {
-          "w": "imagines",
+          "w": "climatic",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/10/24/checks-and-balance-newsletter-if-american-voters-lived-under-one-roof",
+      "link": "https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
       "audio": ""
     },
     {
       "id": "rss-economist-10",
-      "title": "Are some protein powders better than oth…",
+      "title": "China’s most successful Astroturf operat…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/23/are-some-protein-powders-better-than-others",
+      "intro": "原文：https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
       "sentences": [
-        "Are some protein powders better than others?.",
-        "Pure whey is the way to go"
+        "China’s most successful Astroturf operation: grassroots football.",
+        "Provincial leagues spur spending and a hometown renaissance"
       ],
       "vocab": [
         {
-          "w": "protein",
+          "w": "successful",
           "cn": "（查词典）"
         },
         {
-          "w": "powders",
+          "w": "astroturf",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "operation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "grassroots",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "football",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "provincial",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/science-and-technology/2026/10/23/are-some-protein-powders-better-than-others",
+      "link": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "How could Donald Trump interfere with th…",
+      "title": "Bartleby newsletter: In praise of praise",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/23/how-could-donald-trump-interfere-with-the-midterms",
+      "intro": "原文：https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
       "sentences": [
-        "Our weekly podcast on America.",
-        "This week, the ways the election could be disrupted"
+        "Bartleby newsletter: In praise of praise.",
+        "Andrew Palmer, our Bartleby columnist, thinks you did a great job today"
       ],
       "vocab": [
+        {
+          "w": "bartleby",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "columnist",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "From this day, fourth: Lula’s surprise w…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/26/from-this-day-fourth-lulas-surprise-win",
+      "sentences": [
+        "From this day, fourth: Lula’s surprise win.",
+        "Also on the daily podcast: the start of our American-midterms series and why just about everywhere sells merch now"
+      ],
+      "vocab": [
+        {
+          "w": "surprise",
+          "cn": "（查词典）"
+        },
         {
           "w": "podcast",
           "cn": "（查词典）"
         },
         {
-          "w": "america",
+          "w": "american-midterms",
           "cn": "（查词典）"
         },
         {
-          "w": "election",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disrupted",
+          "w": "everywhere",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/10/23/how-could-donald-trump-interfere-with-the-midterms",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "What to watch this week",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/23/what-to-watch-this-week",
-      "sentences": [
-        "What to watch this week.",
-        "Three things that are wonderfully weird—and one that is just plain odd"
-      ],
-      "vocab": [
-        {
-          "w": "wonderfully",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/23/what-to-watch-this-week",
+      "link": "https://www.economist.com/podcasts/2026/10/26/from-this-day-fourth-lulas-surprise-win",
       "audio": ""
     }
   ]

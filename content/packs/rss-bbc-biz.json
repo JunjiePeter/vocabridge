@@ -1,11 +1,262 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-26",
+  "name": "BBC News · Business · 2026-10-27",
   "type": "passage",
-  "generatedAt": "2026-10-26T02:02:22.813Z",
+  "generatedAt": "2026-10-27T02:00:32.521Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "'I'm a single mum on £41,000 and limit m…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?.",
+        "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget."
+      ],
+      "vocab": [
+        {
+          "w": "earning",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Healey pledges cheaper marmalade and ghe…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'.",
+        "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
+      ],
+      "vocab": [
+        {
+          "w": "package",
+          "cn": "薪酬福利包"
+        },
+        {
+          "w": "pledges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cheaper",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "marmalade",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "gherkins",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pre-budget",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Anthropic warns of 'catastrophic risk' t…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing.",
+        "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+      ],
+      "vocab": [
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'catastrophic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "humankind",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "blockbuster",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "listing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Apple says it will replace iPhone Duo ha…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Apple says it will replace iPhone Duo handsets with screen problems.",
+        "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
+      ],
+      "vocab": [
+        {
+          "w": "replace",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "handsets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "problems",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "appearing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "screens",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "apple's",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Anthropic's blockbuster share listing - …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Anthropic's blockbuster share listing - 5 surprising things we now know.",
+        "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
+      ],
+      "vocab": [
+        {
+          "w": "anthropic's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "blockbuster",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "listing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surprising",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prospectus",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "Healey to shield low-income pensioners f…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Healey to shield low-income pensioners from income tax in the Budget.",
+        "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
+      ],
+      "vocab": [
+        {
+          "w": "pension",
+          "cn": "养老金"
+        },
+        {
+          "w": "low-income",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pensioners",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "changes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prevent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "flat-rate",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "What is the Budget and what could be in …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What is the Budget and what could be in it?.",
+        "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+      ],
+      "vocab": [
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
       "title": "Healey's Budget needs to sustain the str…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -46,8 +297,8 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "Data centre debate heats up ahead of US …",
+      "id": "rss-bbc-biz-9",
+      "title": "Big, noisy and coming to a town near you…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
@@ -87,7 +338,40 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-10",
+      "title": "Salon owners urge Budget VAT cut as staf…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Salon owners urge Budget VAT cut as staffing pressures grow.",
+        "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future."
+      ],
+      "vocab": [
+        {
+          "w": "staffing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pressures",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "perkins",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "brierley",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-11",
       "title": "Will a new code end 'rip-off parking cha…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +412,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-12",
       "title": "Rosebank: Life on the oil field at the c…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -162,294 +446,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "Are California voters about to impose 'w…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Are California voters about to impose 'world's first' tax on billionaires?.",
-        "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
-      ],
-      "vocab": [
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'world's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billionaires",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mega-rich",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dollars",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "The Indian workers filming their work to…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The Indian workers filming their work to train AI.",
-        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
-      ],
-      "vocab": [
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "filming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "themselves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "footage",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "What is the Budget and what could be in …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What is the Budget and what could be in it?.",
-        "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-      ],
-      "vocab": [
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Budget to include £1bn for social and af…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Budget to include £1bn for social and affordable housing.",
-        "The move will take funding for the 10-year programme to more than £40bn."
-      ],
-      "vocab": [
-        {
-          "w": "include",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affordable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "housing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "funding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "programme",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Four ways Labour could raise money in th…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Four ways Labour could raise money in the Budget without hiking income tax.",
-        "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
-      ],
-      "vocab": [
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "headroom",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "examines",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "options",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "How does the UK state pension compare wi…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How does the UK state pension compare with other countries?.",
-        "Do British pensioners have it better or worse than those in other countries?"
-      ],
-      "vocab": [
-        {
-          "w": "pension",
-          "cn": "养老金"
-        },
-        {
-          "w": "compare",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "countries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "british",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pensioners",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "UK to invest £100m in 'world first' AI B…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK to invest £100m in 'world first' AI Biosecurity Lab.",
-        "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
-      ],
-      "vocab": [
-        {
-          "w": "biosecurity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shoring",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defences",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wednesday's",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "White House lifts tariffs on some Canadi…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "White House lifts tariffs on some Canadian goods as midterm elections loom.",
-        "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
-      ],
-      "vocab": [
-        {
-          "w": "tariffs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "canadian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterm",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "elections",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "products",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
