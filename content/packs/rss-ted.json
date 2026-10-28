@@ -1,11 +1,55 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-27",
+  "name": "TED Talks · Daily · 2026-10-28",
   "type": "passage",
-  "generatedAt": "2026-10-27T02:00:33.189Z",
+  "generatedAt": "2026-10-28T02:09:42.125Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How video games can power up your parent…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/hannahbouquet",
+      "sentences": [
+        "Parenting an eye-rolling teenager glued to a gaming system is not a simple feat, but what if you could turn screen time into an opportunity for connection?",
+        "Hannah Boquet shares how she decided to play video games with her kids and discovered the power of esports to foster trust, communication and essential life skills.",
+        "Dive deeper into how you can strengthen family bonds, support your child’s development — and maybe even be considered “cool” by your kid.",
+        "(This episode originally aired in 2025.) Hosted on Acast.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "parenting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "eye-rolling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "teenager",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opportunity",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "connection",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decided",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/hannahbouquet",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Unions for climate action! | Payton M. W…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -49,7 +93,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Sunday Pick: Unlocking Your Power at Wor…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -92,7 +136,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "The pursuit of happiness requires free t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -127,7 +171,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Can you spot the lies in your news feed?…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -160,7 +204,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "I can't speak. Here's how I get people t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -200,47 +244,6 @@
       ],
       "link": "http://go.ted.com/jessicairwin",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "How would you design your dream city? | …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/jamesrojas",
-      "sentences": [
-        "Through play and storytelling, he shows how we can use our childhood memories and imaginations to shape the places we live and love.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "storytelling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "childhood",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "memories",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "imaginations",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/jamesrojas",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad8c44bc3737ccbbdc0fece/media.mp3"
     }
   ]
 }

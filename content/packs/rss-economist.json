@@ -1,451 +1,442 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-27",
+  "name": "The Economist · Latest · 2026-10-28",
   "type": "passage",
-  "generatedAt": "2026-10-27T02:00:32.627Z",
+  "generatedAt": "2026-10-28T02:09:41.699Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Did Harry Kane have to leave England to …",
+      "title": "Israeli voters have given Binyamin Netan…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/10/26/did-harry-kane-have-to-leave-england-to-win-the-ballon-dor",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing",
       "sentences": [
-        "Did Harry Kane have to leave England to win the Ballon d’Or?.",
-        "The Premier League’s greatest strength is also a weakness"
+        "Israeli voters have given Binyamin Netanyahu’s coalition a drubbing.",
+        "His opponents will, nonetheless, probably struggle to form a government"
       ],
       "vocab": [
         {
-          "w": "strength",
-          "cn": "优势"
-        },
-        {
-          "w": "weakness",
-          "cn": "短板"
-        },
-        {
-          "w": "england",
+          "w": "israeli",
           "cn": "（查词典）"
         },
         {
-          "w": "premier",
+          "w": "binyamin",
           "cn": "（查词典）"
         },
         {
-          "w": "greatest",
+          "w": "netanyahu",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "coalition",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "drubbing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opponents",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/10/26/did-harry-kane-have-to-leave-england-to-win-the-ballon-dor",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Don’t expect supersize profits from Anth…",
+      "title": "In an AI blow-up, would insurance pay ou…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
       "sentences": [
-        "Don’t expect supersize profits from Anthropic any time soon.",
-        "Lurking in its IPO prospectus are warnings of challenges ahead"
+        "In an AI blow-up, would insurance pay out?.",
+        "Credit default swaps are back in vogue amid fears of a debt disaster"
       ],
       "vocab": [
         {
-          "w": "supersize",
+          "w": "blow-up",
           "cn": "（查词典）"
         },
         {
-          "w": "profits",
+          "w": "insurance",
           "cn": "（查词典）"
         },
         {
-          "w": "anthropic",
+          "w": "default",
           "cn": "（查词典）"
         },
         {
-          "w": "lurking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "prospectus",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "warnings",
+          "w": "disaster",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "Treatments for age-related infertility a…",
+      "title": "Donald Trump may love the Middle East to…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
+      "intro": "原文：https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
       "sentences": [
-        "Treatments for age-related infertility are being developed at last.",
-        "Startups hope to improve IVF by revealing the biology of infertility"
+        "Donald Trump may love the Middle East to death.",
+        "The folly of wanting a Middle East run by nationalist strongmen and made rich by global commerce"
       ],
       "vocab": [
         {
-          "w": "treatments",
+          "w": "wanting",
           "cn": "（查词典）"
         },
         {
-          "w": "age-related",
+          "w": "nationalist",
           "cn": "（查词典）"
         },
         {
-          "w": "infertility",
+          "w": "strongmen",
           "cn": "（查词典）"
         },
         {
-          "w": "developed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "startups",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "improve",
+          "w": "commerce",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
+      "link": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "Markets are dismayed by Lula’s surprise …",
+      "title": "Blighty newsletter: What a Center Parcs …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
+      "intro": "原文：https://www.economist.com/britain/2026/10/27/blighty-newsletter-what-a-center-parcs-break-says-about-you",
       "sentences": [
-        "Markets are dismayed by Lula’s surprise win—and for good reason.",
-        "The pressure is on Brazil’s re-elected president to avoid an economic slump"
+        "Blighty newsletter: What a Center Parcs break says about you.",
+        "Hugo Gye, our Britain political correspondent, does some field research at a holiday park—and learns something about Britons’ wallets"
       ],
       "vocab": [
         {
-          "w": "markets",
+          "w": "blighty",
           "cn": "（查词典）"
         },
         {
-          "w": "dismayed",
+          "w": "newsletter",
           "cn": "（查词典）"
         },
         {
-          "w": "surprise",
+          "w": "britain",
           "cn": "（查词典）"
         },
         {
-          "w": "pressure",
+          "w": "political",
           "cn": "（查词典）"
         },
         {
-          "w": "re-elected",
+          "w": "correspondent",
           "cn": "（查词典）"
         },
         {
-          "w": "president",
+          "w": "research",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
+      "link": "https://www.economist.com/britain/2026/10/27/blighty-newsletter-what-a-center-parcs-break-says-about-you",
       "audio": ""
     },
     {
       "id": "rss-economist-5",
-      "title": "Prince William builds a high street",
+      "title": "After its Odyssey, IMAX hits the big tim…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/10/26/prince-william-builds-a-high-street",
+      "intro": "原文：https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
       "sentences": [
-        "Prince William builds a high street.",
-        "Your local shopping street will soon resemble it"
+        "After its Odyssey, IMAX hits the big time.",
+        "Its popularity reflects a shift in how audiences think about cinemas"
       ],
       "vocab": [
         {
-          "w": "william",
+          "w": "odyssey",
           "cn": "（查词典）"
         },
         {
-          "w": "shopping",
+          "w": "popularity",
           "cn": "（查词典）"
         },
         {
-          "w": "resemble",
+          "w": "reflects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "audiences",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cinemas",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/10/26/prince-william-builds-a-high-street",
+      "link": "https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "Opinion newsletter: Why Indonesia is stu…",
+      "title": "France is rioting. The rest of Europe is…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/10/27/france-is-rioting-the-rest-of-europe-is-surprisingly-peaceful",
       "sentences": [
-        "Opinion newsletter: Why Indonesia is stuck at a roundabout.",
-        "Simon Long, our editor-at-large, says that many of today’s problems are the same as those he wrote about two decades ago"
+        "The rest of Europe is surprisingly peaceful.",
+        "Despite the headlines, data suggest there have been fewer protests than average this year"
       ],
       "vocab": [
         {
-          "w": "opinion",
+          "w": "surprisingly",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "peaceful",
           "cn": "（查词典）"
         },
         {
-          "w": "indonesia",
+          "w": "despite",
           "cn": "（查词典）"
         },
         {
-          "w": "roundabout",
+          "w": "headlines",
           "cn": "（查词典）"
         },
         {
-          "w": "editor-at-large",
+          "w": "suggest",
           "cn": "（查词典）"
         },
         {
-          "w": "problems",
+          "w": "protests",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
+      "link": "https://www.economist.com/graphic-detail/2026/10/27/france-is-rioting-the-rest-of-europe-is-surprisingly-peaceful",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "The Economist is hiring a Video Editor",
+      "title": "Daily quiz",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
+      "intro": "原文：https://www.economist.com/quiz/the-world-in-brief-daily-quiz",
       "sentences": [
-        "The Economist is hiring a Video Editor.",
-        "Join our editorial video department in New York"
+        "Test your knowledge with our trivia questions"
       ],
       "vocab": [
         {
-          "w": "economist",
+          "w": "knowledge",
           "cn": "（查词典）"
         },
         {
-          "w": "editorial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "department",
+          "w": "questions",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
+      "link": "https://www.economist.com/quiz/the-world-in-brief-daily-quiz",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "Russia has seized a Japanese journalist,…",
+      "title": "A shot in the arm for China’s economy",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/27/a-shot-in-the-arm-for-chinas-economy",
       "sentences": [
-        "Russia has seized a Japanese journalist, freezing an icy relationship.",
-        "Vladimir Putin could be angling for a prisoner swap"
+        "Our weekly podcast on China.",
+        "This week, what will China’s massive new infrastructure push mean for the country and the global economy?"
       ],
       "vocab": [
         {
-          "w": "japanese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "journalist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "freezing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "relationship",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vladimir",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "angling",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "The Climate Issue newsletter: How slow c…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
-      "sentences": [
-        "The Climate Issue newsletter: How slow can you go?.",
-        "Oliver Morton, our planetary-affairs editor, laments the speed at which the IPCC delivers vital climatic stocktakes"
-      ],
-      "vocab": [
-        {
-          "w": "climate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "planetary-affairs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "laments",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "delivers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "climatic",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "China’s most successful Astroturf operat…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
-      "sentences": [
-        "China’s most successful Astroturf operation: grassroots football.",
-        "Provincial leagues spur spending and a hometown renaissance"
-      ],
-      "vocab": [
-        {
-          "w": "successful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "astroturf",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "operation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "grassroots",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "football",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "provincial",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Bartleby newsletter: In praise of praise",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
-      "sentences": [
-        "Bartleby newsletter: In praise of praise.",
-        "Andrew Palmer, our Bartleby columnist, thinks you did a great job today"
-      ],
-      "vocab": [
-        {
-          "w": "bartleby",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "columnist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "From this day, fourth: Lula’s surprise w…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/26/from-this-day-fourth-lulas-surprise-win",
-      "sentences": [
-        "From this day, fourth: Lula’s surprise win.",
-        "Also on the daily podcast: the start of our American-midterms series and why just about everywhere sells merch now"
-      ],
-      "vocab": [
-        {
-          "w": "surprise",
-          "cn": "（查词典）"
+          "w": "infrastructure",
+          "cn": "基础设施"
         },
         {
           "w": "podcast",
           "cn": "（查词典）"
         },
         {
-          "w": "american-midterms",
+          "w": "massive",
           "cn": "（查词典）"
         },
         {
-          "w": "everywhere",
+          "w": "country",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economy",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/10/26/from-this-day-fourth-lulas-surprise-win",
+      "link": "https://www.economist.com/podcasts/2026/10/27/a-shot-in-the-arm-for-chinas-economy",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "Kim Jong Un’s curious visit to China",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
+      "sentences": [
+        "Kim Jong Un’s curious visit to China.",
+        "North Korea’s dictator rebuilds ties with an old friend"
+      ],
+      "vocab": [
+        {
+          "w": "curious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dictator",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rebuilds",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "Middle East Dispatch newsletter: Electio…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/27/middle-east-dispatch-newsletter-election-day-in-israel",
+      "sentences": [
+        "Middle East Dispatch newsletter: Election day in Israel.",
+        "Anshel Pfeffer, our Israel correspondent, on the mood across the country as people vote"
+      ],
+      "vocab": [
+        {
+          "w": "dispatch",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pfeffer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "correspondent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "country",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/middle-east-and-africa/2026/10/27/middle-east-dispatch-newsletter-election-day-in-israel",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "The War Room newsletter: The hot politic…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/europe/2026/10/27/the-war-room-newsletter-the-hot-politics-of-missile-warning-systems",
+      "sentences": [
+        "The War Room newsletter: The hot politics of missile-warning systems.",
+        "Alex Turner, our defence editor, analyses whether America intentionally withheld intelligence from Ukraine"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "politics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "missile-warning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "systems",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "analyses",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/europe/2026/10/27/the-war-room-newsletter-the-hot-politics-of-missile-warning-systems",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "Once the heroes, ambitious outsiders hav…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/27/once-the-heroes-ambitious-outsiders-have-become-tv-villains",
+      "sentences": [
+        "Once the heroes, ambitious outsiders have become TV villains.",
+        "Call it the era of the talentless Mr Ripleys"
+      ],
+      "vocab": [
+        {
+          "w": "ambitious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outsiders",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "villains",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "talentless",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ripleys",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/27/once-the-heroes-ambitious-outsiders-have-become-tv-villains",
       "audio": ""
     }
   ]

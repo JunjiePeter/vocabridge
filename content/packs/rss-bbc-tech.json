@@ -1,19 +1,60 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-10-27",
+  "name": "BBC News · Technology · 2026-10-28",
   "type": "passage",
-  "generatedAt": "2026-10-27T02:00:32.503Z",
+  "generatedAt": "2026-10-28T02:09:41.458Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Apple says it will replace iPhone Duo ha…",
+      "title": "'An annoying buzz': The search for steal…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'An annoying buzz': The search for stealthier drones.",
+        "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
+      ],
+      "vocab": [
+        {
+          "w": "annoying",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stealthier",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "deliveries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "commonplace",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "looking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "quieter",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Apple to replace iPhone Duos affected by…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Apple says it will replace iPhone Duo handsets with screen problems.",
+        "Apple to replace iPhone Duos affected by screen problem.",
         "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
       ],
       "vocab": [
@@ -22,11 +63,11 @@
           "cn": "（查词典）"
         },
         {
-          "w": "handsets",
+          "w": "affected",
           "cn": "（查词典）"
         },
         {
-          "w": "problems",
+          "w": "problem",
           "cn": "（查词典）"
         },
         {
@@ -46,7 +87,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-3",
       "title": "Anthropic's blockbuster share listing - …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +128,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-4",
       "title": "Anthropic warns of 'catastrophic risk' t…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +169,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-5",
       "title": "Big, noisy and coming to a town near you…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +210,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-6",
       "title": "UK to invest £100m in 'world first' AI B…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-7",
       "title": "What is PHP and why did it spark a globa…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -251,7 +292,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-8",
       "title": "'It's been relentless' say IT workers on…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -292,7 +333,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-9",
       "title": "The Indian workers filming their work to…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -325,7 +366,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-10",
       "title": "Zuckerberg wins Meta deal to help him fo…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -358,7 +399,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-11",
       "title": "Race to update services' computer system…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -399,7 +440,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-11",
+      "id": "rss-bbc-tech-12",
       "title": "Zoe Kleinman: PHP is the cyber equivalen…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -437,35 +478,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "'500 new vulnerabilities' found in gover…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'500 new vulnerabilities' found in government, says AI minister.",
-        "'500 new vulnerabilities' found in government, says AI minister"
-      ],
-      "vocab": [
-        {
-          "w": "vulnerabilities'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
