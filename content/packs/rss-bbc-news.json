@@ -1,414 +1,61 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-10-28",
+  "name": "BBC News · Top Stories · 2026-10-29",
   "type": "passage",
-  "generatedAt": "2026-10-28T02:09:41.274Z",
+  "generatedAt": "2026-10-29T02:12:18.932Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Watch: What happens now after close vote…",
+      "title": "Healey unveils £100 for energy bills and…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Watch: What happens now after close vote in Israeli election?.",
-        "Polls have closed in the Israeli election, but there is no clear winner."
+        "Healey unveils £100 for energy bills and bank tax in first Budget.",
+        "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough."
       ],
       "vocab": [
         {
-          "w": "happens",
+          "w": "unveils",
           "cn": "（查词典）"
         },
         {
-          "w": "israeli",
+          "w": "chancellor",
           "cn": "（查词典）"
         },
         {
-          "w": "election",
+          "w": "targets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "turmoil",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opposition",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "Chris Mason: Budget needs to go some way…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Chris Mason: Budget needs to go some way towards delivering PM's promises.",
-        "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
-      ],
-      "vocab": [
-        {
-          "w": "towards",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "delivering",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "promises",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "support",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "particular",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "announcments",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "Defeated presidential candidate Flávio B…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports.",
-        "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities."
-      ],
-      "vocab": [
-        {
-          "w": "candidate",
-          "cn": "候选人"
-        },
-        {
-          "w": "defeated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "presidential",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bolsonaro",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "arrives",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cancels",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "King acknowledges 'suffering of the past…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "King acknowledges 'suffering of the past' as Caribbean tour begins.",
-        "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
-      ],
-      "vocab": [
-        {
-          "w": "acknowledges",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'suffering",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "caribbean",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nine-day",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "countries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bahamas",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Thick fog to create dangerous driving co…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Thick fog to create dangerous driving conditions for UK commuters.",
-        "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week."
-      ],
-      "vocab": [
-        {
-          "w": "dangerous",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "driving",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "conditions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commuters",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "weather",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Landline switchover could cut people off…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Landline switchover could cut people off in emergency, minister warned.",
-        "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say."
-      ],
-      "vocab": [
-        {
-          "w": "vulnerable",
-          "cn": "脆弱的"
-        },
-        {
-          "w": "landline",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "switchover",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emergency",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "digital",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Alexander brothers each sentenced to 30 …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Alexander brothers each sentenced to 30 years in prison in sex trafficking case.",
-        "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
-      ],
-      "vocab": [
-        {
-          "w": "alexander",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brothers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sentenced",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "trafficking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "high-profile",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "parties",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "Ceasefire extended across Ukraine's Kher…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Ceasefire extended across Ukraine's Kherson region, officials say.",
-        "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
-      ],
-      "vocab": [
-        {
-          "w": "ceasefire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "extended",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukraine's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "kherson",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "officials",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "originally",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "Manhunt under way for Tennessee killer w…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c64g17jqy5ddo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Manhunt under way for Tennessee killer who escaped prison through a fence.",
-        "Morley was given a life sentence for the 2022 killing of his co-worker Cody Birchfield."
-      ],
-      "vocab": [
-        {
-          "w": "manhunt",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tennessee",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "escaped",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sentence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "killing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "co-worker",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c64g17jqy5ddo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-10",
-      "title": "Serial killer Ted Bundy linked to teenag…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Serial killer Ted Bundy linked to teenage girl's murder after 52 years.",
-        "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed."
-      ],
-      "vocab": [
-        {
-          "w": "teenage",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "authorities",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "advanced",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "technology",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decades",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "notorious",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-11",
-      "title": "I get £4,062 a year and am trying my bes…",
+      "title": "I earn £30,000. I'm angry there was no f…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "I get £4,062 a year and am trying my best - here's what I want from the Budget.",
-        "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget."
+        "I'm angry there was no fuel duty cut in the Budget.",
+        "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
       ],
       "vocab": [
         {
@@ -420,45 +67,413 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-12",
-      "title": "Who is Chancellor John Healey? Labour ve…",
+      "id": "rss-bbc-news-3",
+      "title": "High-speed train crash kills at least 68…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Who is Chancellor John Healey?",
-        "Labour veteran who quit as defence secretary.",
-        "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
+        "High-speed train crash kills at least 68 people in Spain.",
+        "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
       ],
       "vocab": [
         {
-          "w": "chancellor",
+          "w": "high-speed",
           "cn": "（查词典）"
         },
         {
-          "w": "veteran",
+          "w": "another",
           "cn": "（查词典）"
         },
         {
-          "w": "defence",
+          "w": "stopped",
           "cn": "（查词典）"
         },
         {
-          "w": "secretary",
+          "w": "further",
           "cn": "（查词典）"
         },
         {
-          "w": "softly-spoken",
+          "w": "inexplicable",
           "cn": "（查词典）"
         },
         {
-          "w": "gearing",
+          "w": "transport",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-4",
+      "title": "Netanyahu's bloc leading Israel election…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Netanyahu's bloc leading Israel election but short of majority, partial results show.",
+        "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+      ],
+      "vocab": [
+        {
+          "w": "netanyahu's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "leading",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "majority",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "partial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "results",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "Flávio Bolsonaro denies fleeing Brazil a…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Flávio Bolsonaro denies fleeing Brazil after landing in Miami.",
+        "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
+      ],
+      "vocab": [
+        {
+          "w": "candidate",
+          "cn": "候选人"
+        },
+        {
+          "w": "bolsonaro",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fleeing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "landing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defeated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "brazilian",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Death of US actress Hayden Panettiere ru…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Death of US actress Hayden Panettiere ruled accidental, ending local police probe.",
+        "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
+      ],
+      "vocab": [
+        {
+          "w": "actress",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "panettiere",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accidental",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nashville",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "effects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fentanyl",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Family row over George Michael items up …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Family row over George Michael items up for auction - including Faith guitar.",
+        "The brother of the singer's late personal assistant says she would not have wanted the items to be sold."
+      ],
+      "vocab": [
+        {
+          "w": "michael",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "auction",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "brother",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "singer's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "personal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "assistant",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "King Charles shows off dance moves on se…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "King Charles shows off dance moves on second day of Caribbean tour.",
+        "Earlier in the day, the King paid his respects to the island's fallen servicemen and women."
+      ],
+      "vocab": [
+        {
+          "w": "charles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "caribbean",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "earlier",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "respects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "island's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "servicemen",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Details of thousands of US immigration a…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Details of thousands of US immigration agents leaked in major hack.",
+        "A group called the Department of Peace released information on more than 41,000 DHS staff."
+      ],
+      "vocab": [
+        {
+          "w": "details",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "immigration",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "department",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "released",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-10",
+      "title": "Building boom puts 300,000 people in the…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Building boom puts 300,000 people in the path of potential Himalayan disasters.",
+        "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
+      ],
+      "vocab": [
+        {
+          "w": "potential",
+          "cn": "潜在的；潜力"
+        },
+        {
+          "w": "infrastructure",
+          "cn": "基础设施"
+        },
+        {
+          "w": "building",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "himalayan",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "disasters",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "construction",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-11",
+      "title": "Weight-loss jab boom brings needles warn…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Weight-loss jab boom brings needles warning for recyclers.",
+        "Recycling bosses say used needles are increasingly being found among household waste."
+      ],
+      "vocab": [
+        {
+          "w": "weight-loss",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "needles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "warning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "recyclers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "recycling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "increasingly",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-12",
+      "title": "US conservative activists charged with u…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "US conservative activists charged with unlawful voting in election stunt.",
+        "Prosecutors alleged the pair misrepresented their identities by giving election judges the names of other people."
+      ],
+      "vocab": [
+        {
+          "w": "conservative",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "activists",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unlawful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prosecutors",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

@@ -1,24 +1,175 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-28",
+  "name": "The Economist · Latest · 2026-10-29",
   "type": "passage",
-  "generatedAt": "2026-10-28T02:09:41.699Z",
+  "generatedAt": "2026-10-29T02:12:19.085Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Israeli voters have given Binyamin Netan…",
+      "title": "Our forecast of the midterms’ outcome",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing",
+      "intro": "原文：https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
       "sentences": [
-        "Israeli voters have given Binyamin Netanyahu’s coalition a drubbing.",
-        "His opponents will, nonetheless, probably struggle to form a government"
+        "Our forecast of the midterms’ outcome.",
+        "The auguries are good for Democrats"
       ],
       "vocab": [
         {
-          "w": "israeli",
+          "w": "forecast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outcome",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "auguries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Weil’s collapse and the death of corpora…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
+      "sentences": [
+        "Weil’s collapse and the death of corporate loyalty."
+      ],
+      "vocab": [
+        {
+          "w": "collapse",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "corporate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "loyalty",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Another deadly train crash puts Spanish …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/europe/2026/10/28/another-deadly-train-crash-puts-spanish-infrastructure-in-question",
+      "sentences": [
+        "Another deadly train crash puts Spanish infrastructure in question.",
+        "It is the second collision on the same line this year"
+      ],
+      "vocab": [
+        {
+          "w": "infrastructure",
+          "cn": "基础设施"
+        },
+        {
+          "w": "another",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spanish",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "question",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collision",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/europe/2026/10/28/another-deadly-train-crash-puts-spanish-infrastructure-in-question",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Britain’s defensive budget did little to…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/britain/2026/10/28/britains-defensive-budget-did-little-to-tackle-deeper-problems",
+      "sentences": [
+        "Britain’s defensive budget did little to tackle deeper problems.",
+        "The government hopes to win voters over with small treats now and the promise of reform later"
+      ],
+      "vocab": [
+        {
+          "w": "britain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defensive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "problems",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "promise",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/britain/2026/10/28/britains-defensive-budget-did-little-to-tackle-deeper-problems",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Israel’s Jewish and Arab opposition part…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
+      "sentences": [
+        "Israel’s Jewish and Arab opposition parties should work together.",
+        "If they want to dislodge Binyamin Netanyahu from office, they need to act fast"
+      ],
+      "vocab": [
+        {
+          "w": "opposition",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "parties",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "together",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dislodge",
           "cn": "（查词典）"
         },
         {
@@ -28,194 +179,104 @@
         {
           "w": "netanyahu",
           "cn": "（查词典）"
-        },
-        {
-          "w": "coalition",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "drubbing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "opponents",
-          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-2",
-      "title": "In an AI blow-up, would insurance pay ou…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
-      "sentences": [
-        "In an AI blow-up, would insurance pay out?.",
-        "Credit default swaps are back in vogue amid fears of a debt disaster"
-      ],
-      "vocab": [
-        {
-          "w": "blow-up",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "insurance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "default",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disaster",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-3",
-      "title": "Donald Trump may love the Middle East to…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
-      "sentences": [
-        "Donald Trump may love the Middle East to death.",
-        "The folly of wanting a Middle East run by nationalist strongmen and made rich by global commerce"
-      ],
-      "vocab": [
-        {
-          "w": "wanting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nationalist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "strongmen",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commerce",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Blighty newsletter: What a Center Parcs …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/10/27/blighty-newsletter-what-a-center-parcs-break-says-about-you",
-      "sentences": [
-        "Blighty newsletter: What a Center Parcs break says about you.",
-        "Hugo Gye, our Britain political correspondent, does some field research at a holiday park—and learns something about Britons’ wallets"
-      ],
-      "vocab": [
-        {
-          "w": "blighty",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "britain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "political",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "research",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/britain/2026/10/27/blighty-newsletter-what-a-center-parcs-break-says-about-you",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "After its Odyssey, IMAX hits the big tim…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
-      "sentences": [
-        "After its Odyssey, IMAX hits the big time.",
-        "Its popularity reflects a shift in how audiences think about cinemas"
-      ],
-      "vocab": [
-        {
-          "w": "odyssey",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "popularity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reflects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "audiences",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cinemas",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
+      "link": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "France is rioting. The rest of Europe is…",
+      "title": "China’s stock markets are the great glob…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/graphic-detail/2026/10/27/france-is-rioting-the-rest-of-europe-is-surprisingly-peaceful",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
       "sentences": [
-        "The rest of Europe is surprisingly peaceful.",
-        "Despite the headlines, data suggest there have been fewer protests than average this year"
+        "China’s stock markets are the great global exception.",
+        "If the country is winning the future, why are its investors so glum?"
       ],
       "vocab": [
         {
-          "w": "surprisingly",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "peaceful",
+          "w": "exception",
           "cn": "（查词典）"
         },
         {
-          "w": "despite",
+          "w": "country",
           "cn": "（查词典）"
         },
         {
-          "w": "headlines",
+          "w": "winning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investors",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "AI eats science 2: life 2.0",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/28/ai-eats-science-2-life-20",
+      "sentences": [
+        "Our podcast on science and technology.",
+        "This week, the second episode of our four-part series on how scientists are grappling with AI"
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "science",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "technology",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "episode",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "four-part",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scientists",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/10/28/ai-eats-science-2-life-20",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Why dogs catch yawns from their owners b…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/28/why-dogs-catch-yawns-from-their-owners-but-not-other-dogs",
+      "sentences": [
+        "Why dogs catch yawns from their owners but not other dogs.",
+        "Studies of wolves suggest the effect may be a result of domestication"
+      ],
+      "vocab": [
+        {
+          "w": "studies",
           "cn": "（查词典）"
         },
         {
@@ -223,60 +284,36 @@
           "cn": "（查词典）"
         },
         {
-          "w": "protests",
+          "w": "domestication",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/graphic-detail/2026/10/27/france-is-rioting-the-rest-of-europe-is-surprisingly-peaceful",
+      "link": "https://www.economist.com/science-and-technology/2026/10/28/why-dogs-catch-yawns-from-their-owners-but-not-other-dogs",
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
-      "title": "Daily quiz",
+      "id": "rss-economist-9",
+      "title": "India’s ultra-cheap internet is about to…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/quiz/the-world-in-brief-daily-quiz",
+      "intro": "原文：https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
       "sentences": [
-        "Test your knowledge with our trivia questions"
+        "India’s ultra-cheap internet is about to get more expensive.",
+        "Blame Jio, the country’s telecoms disrupter, going public"
       ],
       "vocab": [
         {
-          "w": "knowledge",
+          "w": "ultra-cheap",
           "cn": "（查词典）"
         },
         {
-          "w": "questions",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/quiz/the-world-in-brief-daily-quiz",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "A shot in the arm for China’s economy",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/27/a-shot-in-the-arm-for-chinas-economy",
-      "sentences": [
-        "Our weekly podcast on China.",
-        "This week, what will China’s massive new infrastructure push mean for the country and the global economy?"
-      ],
-      "vocab": [
-        {
-          "w": "infrastructure",
-          "cn": "基础设施"
-        },
-        {
-          "w": "podcast",
+          "w": "internet",
           "cn": "（查词典）"
         },
         {
-          "w": "massive",
+          "w": "expensive",
           "cn": "（查词典）"
         },
         {
@@ -284,57 +321,106 @@
           "cn": "（查词典）"
         },
         {
-          "w": "economy",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/27/a-shot-in-the-arm-for-chinas-economy",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Kim Jong Un’s curious visit to China",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
-      "sentences": [
-        "Kim Jong Un’s curious visit to China.",
-        "North Korea’s dictator rebuilds ties with an old friend"
-      ],
-      "vocab": [
-        {
-          "w": "curious",
+          "w": "telecoms",
           "cn": "（查词典）"
         },
         {
-          "w": "dictator",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rebuilds",
+          "w": "disrupter",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
+      "link": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
       "audio": ""
     },
     {
       "id": "rss-economist-10",
-      "title": "Middle East Dispatch newsletter: Electio…",
+      "title": "Plot Twist newsletter: A special 200th e…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/27/middle-east-dispatch-newsletter-election-day-in-israel",
+      "intro": "原文：https://www.economist.com/culture/2026/10/28/plot-twist-newsletter-a-special-200th-edition",
       "sentences": [
-        "Middle East Dispatch newsletter: Election day in Israel.",
-        "Anshel Pfeffer, our Israel correspondent, on the mood across the country as people vote"
+        "Plot Twist newsletter: A special 200th edition.",
+        "Rachel Lloyd our deputy culture editor, reflects on the history of newsletters"
       ],
       "vocab": [
         {
-          "w": "dispatch",
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "special",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "edition",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "culture",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reflects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "history",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/28/plot-twist-newsletter-a-special-200th-edition",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "South Africa’s “white party” looks for m…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/28/south-africas-white-party-looks-for-more-black-votes",
+      "sentences": [
+        "South Africa’s “white party” looks for more black votes.",
+        "Local elections will highlight the ANC’s steep decline and the role of race in politics"
+      ],
+      "vocab": [
+        {
+          "w": "elections",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "highlight",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "politics",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/south-africas-white-party-looks-for-more-black-votes",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "Analysing Africa newsletter: A clash of …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/28/analysing-africa-newsletter-a-clash-of-civilisations-in-the-horn",
+      "sentences": [
+        "Analysing Africa newsletter: A clash of civilisations in the Horn.",
+        "Tom Gardner, our Africa correspondent, explains how “civilisational thinking” shapes conflicts in the region"
+      ],
+      "vocab": [
+        {
+          "w": "analysing",
           "cn": "（查词典）"
         },
         {
@@ -342,11 +428,11 @@
           "cn": "（查词典）"
         },
         {
-          "w": "election",
+          "w": "civilisations",
           "cn": "（查词典）"
         },
         {
-          "w": "pfeffer",
+          "w": "gardner",
           "cn": "（查词典）"
         },
         {
@@ -354,89 +440,11 @@
           "cn": "（查词典）"
         },
         {
-          "w": "country",
+          "w": "explains",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/27/middle-east-dispatch-newsletter-election-day-in-israel",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "The War Room newsletter: The hot politic…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/10/27/the-war-room-newsletter-the-hot-politics-of-missile-warning-systems",
-      "sentences": [
-        "The War Room newsletter: The hot politics of missile-warning systems.",
-        "Alex Turner, our defence editor, analyses whether America intentionally withheld intelligence from Ukraine"
-      ],
-      "vocab": [
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "politics",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "missile-warning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "systems",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "analyses",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/europe/2026/10/27/the-war-room-newsletter-the-hot-politics-of-missile-warning-systems",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Once the heroes, ambitious outsiders hav…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/27/once-the-heroes-ambitious-outsiders-have-become-tv-villains",
-      "sentences": [
-        "Once the heroes, ambitious outsiders have become TV villains.",
-        "Call it the era of the talentless Mr Ripleys"
-      ],
-      "vocab": [
-        {
-          "w": "ambitious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outsiders",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "villains",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "talentless",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ripleys",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/27/once-the-heroes-ambitious-outsiders-have-become-tv-villains",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/analysing-africa-newsletter-a-clash-of-civilisations-in-the-horn",
       "audio": ""
     }
   ]

@@ -1,20 +1,20 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-28",
+  "name": "BBC News · Business · 2026-10-29",
   "type": "passage",
-  "generatedAt": "2026-10-28T02:09:41.475Z",
+  "generatedAt": "2026-10-29T02:12:18.950Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "I get £4,062 a year and am trying my bes…",
+      "title": "I earn £30,000. I'm angry there was no f…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "I get £4,062 a year and am trying my best - here's what I want from the Budget.",
-        "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget."
+        "I'm angry there was no fuel duty cut in the Budget.",
+        "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
       ],
       "vocab": [
         {
@@ -27,29 +27,95 @@
     },
     {
       "id": "rss-bbc-biz-2",
-      "title": "Minimum wage set to rise but 18-20 year-…",
+      "title": "Healey unveils £100 for energy bills and…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Minimum wage set to rise but 18-20 year-olds will not get bigger increase.",
-        "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
+        "Healey unveils £100 for energy bills and bank tax in first Budget.",
+        "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough."
       ],
       "vocab": [
         {
-          "w": "minimum",
+          "w": "unveils",
           "cn": "（查词典）"
         },
         {
-          "w": "year-olds",
+          "w": "chancellor",
           "cn": "（查词典）"
         },
         {
-          "w": "increase",
+          "w": "targets",
           "cn": "（查词典）"
         },
+        {
+          "w": "economic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "turmoil",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opposition",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "What we now know about the UK economy in…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What we now know about the UK economy in four charts.",
+        "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth."
+      ],
+      "vocab": [
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "responsibility",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "everything",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "standards",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economic",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "What the Budget offers for under 25s - a…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What the Budget offers for under 25s - and what it leaves out.",
+        "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage."
+      ],
+      "vocab": [
         {
           "w": "chancellor",
           "cn": "（查词典）"
@@ -61,350 +127,50 @@
         {
           "w": "measures",
           "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-3",
-      "title": "China's families are now supporting more…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "China's families are now supporting more old people than kids.",
-        "The latest figures mark a major milestone as Beijing grapples with an ageing population."
-      ],
-      "vocab": [
-        {
-          "w": "milestone",
-          "cn": "里程碑"
         },
         {
-          "w": "china's",
+          "w": "year-olds",
           "cn": "（查词典）"
         },
         {
-          "w": "families",
+          "w": "housing",
           "cn": "（查词典）"
         },
         {
-          "w": "supporting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "figures",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "beijing",
+          "w": "minimum",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
-      "title": "Donald Trump's biggest economic problem …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Donald Trump's biggest economic problem looks strangely familiar.",
-        "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden."
-      ],
-      "vocab": [
-        {
-          "w": "trump's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biggest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "problem",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "strangely",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "familiar",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-5",
-      "title": "Rise in sales of radios and tinned foods…",
+      "title": "Your pay, energy bills and savings: How …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Rise in sales of radios and tinned foods, say retailers, after call to stock up.",
-        "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
+        "Your pay, energy bills and savings: How the Budget affects you.",
+        "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly."
       ],
       "vocab": [
         {
-          "w": "retailers",
+          "w": "savings",
           "cn": "（查词典）"
         },
         {
-          "w": "figures",
+          "w": "affects",
           "cn": "（查词典）"
         },
         {
-          "w": "obtained",
+          "w": "changes",
           "cn": "（查词典）"
         },
         {
-          "w": "newsnight",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "torches",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "'An annoying buzz': The search for steal…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'An annoying buzz': The search for stealthier drones.",
-        "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
-      ],
-      "vocab": [
-        {
-          "w": "annoying",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stealthier",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "deliveries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commonplace",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "looking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "quieter",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "Landline switchover could cut people off…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Landline switchover could cut people off in emergency, minister warned.",
-        "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say."
-      ],
-      "vocab": [
-        {
-          "w": "vulnerable",
-          "cn": "脆弱的"
-        },
-        {
-          "w": "landline",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "switchover",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emergency",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "digital",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Mbappé sorry for 'ill-judged' Mao remark…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Mbappé sorry for 'ill-judged' Mao remark after backlash in China.",
-        "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
-      ],
-      "vocab": [
-        {
-          "w": "'ill-judged'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "backlash",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "referred",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dictator",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interview",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Apple to replace iPhone Duos affected by…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Apple to replace iPhone Duos affected by screen problem.",
-        "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
-      ],
-      "vocab": [
-        {
-          "w": "replace",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "problem",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "appearing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "screens",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "apple's",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Anthropic's blockbuster share listing - …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Anthropic's blockbuster share listing - 5 surprising things we now know.",
-        "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
-      ],
-      "vocab": [
-        {
-          "w": "anthropic's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "blockbuster",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "listing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "surprising",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anthropic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "prospectus",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Tax on banks, energy bill help and minim…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?.",
-        "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-      ],
-      "vocab": [
-        {
-          "w": "minimum",
+          "w": "announced",
           "cn": "（查词典）"
         },
         {
@@ -412,52 +178,262 @@
           "cn": "（查词典）"
         },
         {
-          "w": "october",
+          "w": "finances",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-12",
-      "title": "Anthropic warns of 'catastrophic risk' t…",
+      "id": "rss-bbc-biz-6",
+      "title": "'I live with a ghost': Japan's haunted h…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing.",
-        "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+        "'I live with a ghost': Japan's haunted homes attract bargain hunters.",
+        "Properties where someone has died in tragic circumstances can have big reductions in price."
       ],
       "vocab": [
         {
-          "w": "anthropic",
+          "w": "japan's",
           "cn": "（查词典）"
         },
         {
-          "w": "'catastrophic",
+          "w": "haunted",
           "cn": "（查词典）"
         },
         {
-          "w": "humankind",
+          "w": "attract",
           "cn": "（查词典）"
         },
         {
-          "w": "blockbuster",
+          "w": "bargain",
           "cn": "（查词典）"
         },
         {
-          "w": "listing",
+          "w": "hunters",
           "cn": "（查词典）"
         },
         {
-          "w": "company",
+          "w": "properties",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Dharshini David: Healey buys himself som…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Dharshini David: Healey buys himself some time, but big questions still unanswered.",
+        "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options."
+      ],
+      "vocab": [
+        {
+          "w": "dharshini",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "himself",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "questions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unanswered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charting",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Microsoft profits soar days after announ…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Microsoft profits soar days after announcing thousands of layoffs.",
+        "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "profits",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "announcing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "layoffs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "windows",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Elon Musk is a 'real genius', Putin says…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss.",
+        "The Russian President praised Musk and said they are in \"close\" contact."
+      ],
+      "vocab": [
+        {
+          "w": "genius'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "satellite",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "russian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "praised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contact",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
+      "title": "Will I get the £100 energy payment and w…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Will I get the £100 energy payment and when will I receive it?.",
+        "Here is what you need to know about the payment that millions will receive from January."
+      ],
+      "vocab": [
+        {
+          "w": "payment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "receive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "millions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "january",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-11",
+      "title": "Tax thresholds remain unchanged - here's…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Tax thresholds remain unchanged - here's what it means for your pay.",
+        "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
+      ],
+      "vocab": [
+        {
+          "w": "thresholds",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unchanged",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-12",
+      "title": "Budget 2026: Key points at a glance",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Budget 2026: Key points at a glance.",
+        "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
+      ],
+      "vocab": [
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spending",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

@@ -1,11 +1,134 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-10-28",
+  "name": "BBC News · Technology · 2026-10-29",
   "type": "passage",
-  "generatedAt": "2026-10-28T02:09:41.458Z",
+  "generatedAt": "2026-10-29T02:12:18.940Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Details of thousands of US immigration a…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Details of thousands of US immigration agents leaked in major hack.",
+        "A group called the Department of Peace released information on more than 41,000 DHS staff."
+      ],
+      "vocab": [
+        {
+          "w": "details",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "immigration",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "department",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "released",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Microsoft profits soar days after announ…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Microsoft profits soar days after announcing thousands of layoffs.",
+        "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "profits",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "announcing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "layoffs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "windows",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "Elon Musk is a 'real genius', Putin says…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss.",
+        "The Russian President praised Musk and said they are in \"close\" contact."
+      ],
+      "vocab": [
+        {
+          "w": "genius'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "satellite",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "russian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "praised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contact",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
       "title": "'An annoying buzz': The search for steal…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +169,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-5",
       "title": "Apple to replace iPhone Duos affected by…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +210,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-6",
       "title": "Anthropic's blockbuster share listing - …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-7",
       "title": "Anthropic warns of 'catastrophic risk' t…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +292,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-8",
       "title": "Big, noisy and coming to a town near you…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +333,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-9",
       "title": "UK to invest £100m in 'world first' AI B…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -251,7 +374,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-10",
       "title": "What is PHP and why did it spark a globa…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -292,7 +415,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-11",
       "title": "'It's been relentless' say IT workers on…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -333,7 +456,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-12",
       "title": "The Indian workers filming their work to…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -363,121 +486,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Zuckerberg wins Meta deal to help him fo…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax.",
-        "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
-      ],
-      "vocab": [
-        {
-          "w": "zuckerberg",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "possible",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billionaire",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Race to update services' computer system…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Race to update services' computer systems after cyber-security flaw found.",
-        "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
-      ],
-      "vocab": [
-        {
-          "w": "services'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "computer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "systems",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "websites",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "offline",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Zoe Kleinman: PHP is the cyber equivalen…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb.",
-        "It has been a dramatic, public and global response, but the cyber event hasn't happened yet."
-      ],
-      "vocab": [
-        {
-          "w": "equivalent",
-          "cn": "等同的；等价物"
-        },
-        {
-          "w": "kleinman",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unexploded",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dramatic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "response",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "happened",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

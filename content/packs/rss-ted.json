@@ -1,11 +1,53 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-28",
+  "name": "TED Talks · Daily · 2026-10-29",
   "type": "passage",
-  "generatedAt": "2026-10-28T02:09:42.125Z",
+  "generatedAt": "2026-10-29T02:12:19.774Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How people are using AI to grieve, love …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/jennifercearns",
+      "sentences": [
+        "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever.",
+        "Digital anthropologist Jennifer Cearns believes the opposite may be true.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "eroding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "humanity",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "replacing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "relationships",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "synthetic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lonelier",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/jennifercearns",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How video games can power up your parent…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -49,7 +91,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Unions for climate action! | Payton M. W…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -93,7 +135,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Sunday Pick: Unlocking Your Power at Wor…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -136,7 +178,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "The pursuit of happiness requires free t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -171,7 +213,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Can you spot the lies in your news feed?…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -202,48 +244,6 @@
       ],
       "link": "http://go.ted.com/laurasmythe",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "I can't speak. Here's how I get people t…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/jessicairwin",
-      "sentences": [
-        "Jessica Irwin is many things: a photographer, artist, author, performer.",
-        "She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "jessica",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "photographer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "performer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "happens",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nonverbal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cerebral",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/jessicairwin",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ada23e044592625b9151811/media.mp3"
     }
   ]
 }
