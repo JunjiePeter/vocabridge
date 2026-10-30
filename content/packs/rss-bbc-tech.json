@@ -1,11 +1,134 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-10-29",
+  "name": "BBC News · Technology · 2026-10-30",
   "type": "passage",
-  "generatedAt": "2026-10-29T02:12:18.940Z",
+  "generatedAt": "2026-10-30T02:12:40.821Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Crypto worth billions frozen after suspe…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Crypto worth billions frozen after suspected Binance hack.",
+        "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\"."
+      ],
+      "vocab": [
+        {
+          "w": "billions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transactions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspended",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "conducts",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Google value plunges by $500bn as AI fea…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Google value plunges by $500bn as AI fears rattle Wall Street.",
+        "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+      ],
+      "vocab": [
+        {
+          "w": "plunges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spooked",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "six-month",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revealed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "summaries",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "Ofcom outlines age check methods ahead o…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Ofcom outlines age check methods ahead of social media ban for under-16s.",
+        "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
+      ],
+      "vocab": [
+        {
+          "w": "outlines",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "methods",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "digital",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "banking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "estimation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "someone",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
       "title": "Details of thousands of US immigration a…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +169,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-5",
       "title": "Microsoft profits soar days after announ…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +210,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-6",
       "title": "Elon Musk is a 'real genius', Putin says…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-7",
       "title": "'An annoying buzz': The search for steal…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +292,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-8",
       "title": "Apple to replace iPhone Duos affected by…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +333,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-9",
       "title": "Anthropic's blockbuster share listing - …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -251,7 +374,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-10",
       "title": "Anthropic warns of 'catastrophic risk' t…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -292,7 +415,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-11",
       "title": "Big, noisy and coming to a town near you…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -333,7 +456,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-12",
       "title": "UK to invest £100m in 'world first' AI B…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -371,121 +494,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "What is PHP and why did it spark a globa…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What is PHP and why did it spark a global cyber-security scramble?.",
-        "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-      ],
-      "vocab": [
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scramble",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "uncovered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "long-hidden",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "programming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "triggering",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "'It's been relentless' say IT workers on…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble.",
-        "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
-      ],
-      "vocab": [
-        {
-          "w": "relentless'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "frontline",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scramble",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experts",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "The Indian workers filming their work to…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The Indian workers filming their work to train AI.",
-        "Indian workers are being paid to film themselves at work and the footage is used to train AI."
-      ],
-      "vocab": [
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "filming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "themselves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "footage",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

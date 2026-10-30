@@ -1,364 +1,24 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-29",
+  "name": "The Economist · Latest · 2026-10-30",
   "type": "passage",
-  "generatedAt": "2026-10-29T02:12:19.085Z",
+  "generatedAt": "2026-10-30T02:12:40.957Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Our forecast of the midterms’ outcome",
+      "title": "Google’s $500bn bloodbath reflects the d…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
+      "intro": "原文：https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
       "sentences": [
-        "Our forecast of the midterms’ outcome.",
-        "The auguries are good for Democrats"
+        "Google’s $500bn bloodbath reflects the danger it faces from AI.",
+        "As its search engine sputters, rivals gain ground"
       ],
       "vocab": [
         {
-          "w": "forecast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outcome",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "auguries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-2",
-      "title": "Weil’s collapse and the death of corpora…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
-      "sentences": [
-        "Weil’s collapse and the death of corporate loyalty."
-      ],
-      "vocab": [
-        {
-          "w": "collapse",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "corporate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "loyalty",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-3",
-      "title": "Another deadly train crash puts Spanish …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/10/28/another-deadly-train-crash-puts-spanish-infrastructure-in-question",
-      "sentences": [
-        "Another deadly train crash puts Spanish infrastructure in question.",
-        "It is the second collision on the same line this year"
-      ],
-      "vocab": [
-        {
-          "w": "infrastructure",
-          "cn": "基础设施"
-        },
-        {
-          "w": "another",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spanish",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "question",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collision",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/europe/2026/10/28/another-deadly-train-crash-puts-spanish-infrastructure-in-question",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Britain’s defensive budget did little to…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/10/28/britains-defensive-budget-did-little-to-tackle-deeper-problems",
-      "sentences": [
-        "Britain’s defensive budget did little to tackle deeper problems.",
-        "The government hopes to win voters over with small treats now and the promise of reform later"
-      ],
-      "vocab": [
-        {
-          "w": "britain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defensive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "problems",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "promise",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/britain/2026/10/28/britains-defensive-budget-did-little-to-tackle-deeper-problems",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "Israel’s Jewish and Arab opposition part…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
-      "sentences": [
-        "Israel’s Jewish and Arab opposition parties should work together.",
-        "If they want to dislodge Binyamin Netanyahu from office, they need to act fast"
-      ],
-      "vocab": [
-        {
-          "w": "opposition",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "parties",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "together",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dislodge",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "binyamin",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "netanyahu",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "China’s stock markets are the great glob…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
-      "sentences": [
-        "China’s stock markets are the great global exception.",
-        "If the country is winning the future, why are its investors so glum?"
-      ],
-      "vocab": [
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exception",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "winning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investors",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "AI eats science 2: life 2.0",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/28/ai-eats-science-2-life-20",
-      "sentences": [
-        "Our podcast on science and technology.",
-        "This week, the second episode of our four-part series on how scientists are grappling with AI"
-      ],
-      "vocab": [
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "science",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "technology",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "episode",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "four-part",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scientists",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/28/ai-eats-science-2-life-20",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Why dogs catch yawns from their owners b…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/28/why-dogs-catch-yawns-from-their-owners-but-not-other-dogs",
-      "sentences": [
-        "Why dogs catch yawns from their owners but not other dogs.",
-        "Studies of wolves suggest the effect may be a result of domestication"
-      ],
-      "vocab": [
-        {
-          "w": "studies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suggest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "domestication",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/10/28/why-dogs-catch-yawns-from-their-owners-but-not-other-dogs",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "India’s ultra-cheap internet is about to…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
-      "sentences": [
-        "India’s ultra-cheap internet is about to get more expensive.",
-        "Blame Jio, the country’s telecoms disrupter, going public"
-      ],
-      "vocab": [
-        {
-          "w": "ultra-cheap",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "internet",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expensive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "telecoms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disrupter",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Plot Twist newsletter: A special 200th e…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/28/plot-twist-newsletter-a-special-200th-edition",
-      "sentences": [
-        "Plot Twist newsletter: A special 200th edition.",
-        "Rachel Lloyd our deputy culture editor, reflects on the history of newsletters"
-      ],
-      "vocab": [
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "special",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "edition",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "culture",
+          "w": "bloodbath",
           "cn": "（查词典）"
         },
         {
@@ -366,85 +26,392 @@
           "cn": "（查词典）"
         },
         {
-          "w": "history",
+          "w": "sputters",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/culture/2026/10/28/plot-twist-newsletter-a-special-200th-edition",
+      "link": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "What to watch this week",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/29/what-to-watch-this-week",
+      "sentences": [
+        "What to watch this week.",
+        "Try one of these films or TV shows"
+      ],
+      "vocab": [],
+      "link": "https://www.economist.com/culture/2026/10/29/what-to-watch-this-week",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Veteran investor Howard Marks on AI debt",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/29/veteran-investor-howard-marks-on-ai-debt",
+      "sentences": [
+        "Our podcast on markets, the economy and business.",
+        "This week, for his final show, Mike Bird talks to the legendary distressed debt investor"
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "markets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "business",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "legendary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "distressed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/10/29/veteran-investor-howard-marks-on-ai-debt",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Cecily Gemmell would do almost anything …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/obituary/2026/10/29/cecily-gemmell-would-do-almost-anything-for-churchill",
+      "sentences": [
+        "Cecily Gemmell would do almost anything for Churchill.",
+        "His last personal secretary died on October 8th, aged 97"
+      ],
+      "vocab": [
+        {
+          "w": "gemmell",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anything",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "churchill",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "personal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/obituary/2026/10/29/cecily-gemmell-would-do-almost-anything-for-churchill",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Why this is a golden age for conspiracy …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/29/why-this-is-a-golden-age-for-conspiracy-theories",
+      "sentences": [
+        "Why this is a golden age for conspiracy theories.",
+        "They flourish during periods of social and political upheaval"
+      ],
+      "vocab": [
+        {
+          "w": "conspiracy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "theories",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "flourish",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "periods",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "political",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "upheaval",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/29/why-this-is-a-golden-age-for-conspiracy-theories",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "How Lebanon’s civil war shaped America’s…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/29/how-lebanons-civil-war-shaped-americas-rivalry-with-iran",
+      "sentences": [
+        "How Lebanon’s civil war shaped America’s rivalry with Iran.",
+        "A new book argues a murder in 1984 can help you understand the Middle East today"
+      ],
+      "vocab": [
+        {
+          "w": "lebanon",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rivalry",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "understand",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/29/how-lebanons-civil-war-shaped-americas-rivalry-with-iran",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "John Green, a hit young-adult author, is…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/29/john-green-a-hit-young-adult-author-is-now-writing-for-adults",
+      "sentences": [
+        "John Green, a hit young-adult author, is now writing for adults.",
+        "His latest novel explores social-media stardom; his own career has tracked it, too"
+      ],
+      "vocab": [
+        {
+          "w": "young-adult",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "writing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "explores",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "social-media",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stardom",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tracked",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/29/john-green-a-hit-young-adult-author-is-now-writing-for-adults",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Humans will never again create a project…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "sentences": [
+        "Humans will never again create a project quite like Wikipedia.",
+        "As it turns 25, one of the internet’s unlikeliest successes faces grave new threats"
+      ],
+      "vocab": [
+        {
+          "w": "project",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "wikipedia",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "internet",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unlikeliest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "successes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "threats",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "What the world’s most famous magician ha…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/10/29/what-the-worlds-most-famous-magician-has-to-teach-you",
+      "sentences": [
+        "What the world’s most famous magician has to teach you.",
+        "Hint: it does not involve handcuffs or a straitjacket"
+      ],
+      "vocab": [
+        {
+          "w": "magician",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "involve",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "handcuffs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "straitjacket",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/10/29/what-the-worlds-most-famous-magician-has-to-teach-you",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "Why it’s a bad time to be a rat-killer",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer",
+      "sentences": [
+        "Why it’s a bad time to be a rat-killer.",
+        "Private equity and artificial intelligence are nibbling at sales"
+      ],
+      "vocab": [
+        {
+          "w": "rat-killer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "private",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "artificial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "intelligence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nibbling",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "South Africa’s “white party” looks for m…",
+      "title": "The world’s biggest maker of spectacles …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/28/south-africas-white-party-looks-for-more-black-votes",
+      "intro": "原文：https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
       "sentences": [
-        "South Africa’s “white party” looks for more black votes.",
-        "Local elections will highlight the ANC’s steep decline and the role of race in politics"
+        "The world’s biggest maker of spectacles faces a crisis.",
+        "EssilorLuxottica has been rocked by a petty feud"
       ],
       "vocab": [
         {
-          "w": "elections",
+          "w": "biggest",
           "cn": "（查词典）"
         },
         {
-          "w": "highlight",
+          "w": "spectacles",
           "cn": "（查词典）"
         },
         {
-          "w": "decline",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "politics",
+          "w": "essilorluxottica",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/south-africas-white-party-looks-for-more-black-votes",
+      "link": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "Analysing Africa newsletter: A clash of …",
+      "title": "Seven hot new sources of leadership insp…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/10/28/analysing-africa-newsletter-a-clash-of-civilisations-in-the-horn",
+      "intro": "原文：https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
       "sentences": [
-        "Analysing Africa newsletter: A clash of civilisations in the Horn.",
-        "Tom Gardner, our Africa correspondent, explains how “civilisational thinking” shapes conflicts in the region"
+        "Seven hot new sources of leadership inspiration."
       ],
       "vocab": [
         {
-          "w": "analysing",
+          "w": "sources",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "leadership",
           "cn": "（查词典）"
         },
         {
-          "w": "civilisations",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "gardner",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explains",
+          "w": "inspiration",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/analysing-africa-newsletter-a-clash-of-civilisations-in-the-horn",
+      "link": "https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
       "audio": ""
     }
   ]

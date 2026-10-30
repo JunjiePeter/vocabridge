@@ -1,467 +1,393 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-10-29",
+  "name": "BBC News · Top Stories · 2026-10-30",
   "type": "passage",
-  "generatedAt": "2026-10-29T02:12:18.932Z",
+  "generatedAt": "2026-10-30T02:12:40.806Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Healey unveils £100 for energy bills and…",
+      "title": "Watch: Life and career of iconic actor S…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Healey unveils £100 for energy bills and bank tax in first Budget.",
-        "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough."
+        "Watch: Life and career of iconic actor Sir Patrick Stewart.",
+        "Over seven decades, Sir Patrick received multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II."
       ],
       "vocab": [
         {
-          "w": "unveils",
+          "w": "patrick",
           "cn": "（查词典）"
         },
         {
-          "w": "chancellor",
+          "w": "stewart",
           "cn": "（查词典）"
         },
         {
-          "w": "targets",
+          "w": "decades",
           "cn": "（查词典）"
         },
         {
-          "w": "economic",
+          "w": "received",
           "cn": "（查词典）"
         },
         {
-          "w": "turmoil",
+          "w": "multiple",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hollywood",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-2",
+      "title": "'Continue your journey': Key moments of …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'Continue your journey': Key moments of leaked Spain train crash audio.",
+        "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track."
+      ],
+      "vocab": [
+        {
+          "w": "'continue",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "journey'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "moments",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "recordings",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "control",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "drivers",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Google value plunges by $500bn as AI fea…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Google value plunges by $500bn as AI fears rattle Wall Street.",
+        "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+      ],
+      "vocab": [
+        {
+          "w": "plunges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spooked",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "six-month",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revealed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "summaries",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-4",
+      "title": "Australian mushroom murderer loses appea…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Australian mushroom murderer loses appeal to overturn convictions.",
+        "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
+      ],
+      "vocab": [
+        {
+          "w": "australian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mushroom",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "murderer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "overturn",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "convictions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "patterson",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "Crypto worth billions frozen after suspe…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Crypto worth billions frozen after suspected Binance hack.",
+        "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\"."
+      ],
+      "vocab": [
+        {
+          "w": "billions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transactions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspended",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "conducts",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Bombshell confession in The Traitors as …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Bombshell confession in The Traitors as faithfuls finally turn the screw.",
+        "Could the faithfuls finally come good in Thursday's penultimate episode?"
+      ],
+      "vocab": [
+        {
+          "w": "bombshell",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confession",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "traitors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "faithfuls",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finally",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thursday's",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "What are the government's options for re…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What are the government's options for reducing welfare spending?.",
+        "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it."
+      ],
+      "vocab": [
+        {
+          "w": "welfare",
+          "cn": "福利"
+        },
+        {
+          "w": "government's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "options",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reducing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spending",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "examines",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Hyrox athlete who soiled herself in race…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic.",
+        "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash."
+      ],
+      "vocab": [
+        {
+          "w": "athlete",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "herself",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "backlash",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "traumatic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "interview",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "incident",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Israeli opposition accuses Netanyahu of …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election.",
+        "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+      ],
+      "vocab": [
+        {
+          "w": "israeli",
           "cn": "（查词典）"
         },
         {
           "w": "opposition",
           "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "I earn £30,000. I'm angry there was no f…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "I'm angry there was no fuel duty cut in the Budget.",
-        "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
-      ],
-      "vocab": [
+        },
         {
-          "w": "incomes",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "High-speed train crash kills at least 68…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "High-speed train crash kills at least 68 people in Spain.",
-        "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
-      ],
-      "vocab": [
-        {
-          "w": "high-speed",
+          "w": "accuses",
           "cn": "（查词典）"
         },
         {
-          "w": "another",
+          "w": "netanyahu",
           "cn": "（查词典）"
         },
         {
-          "w": "stopped",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "further",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inexplicable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transport",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Netanyahu's bloc leading Israel election…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Netanyahu's bloc leading Israel election but short of majority, partial results show.",
-        "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
-      ],
-      "vocab": [
-        {
-          "w": "netanyahu's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leading",
+          "w": "'delegitimise'",
           "cn": "（查词典）"
         },
         {
           "w": "election",
           "cn": "（查词典）"
-        },
-        {
-          "w": "majority",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "partial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "results",
-          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Flávio Bolsonaro denies fleeing Brazil a…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Flávio Bolsonaro denies fleeing Brazil after landing in Miami.",
-        "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
-      ],
-      "vocab": [
-        {
-          "w": "candidate",
-          "cn": "候选人"
-        },
-        {
-          "w": "bolsonaro",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fleeing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "landing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defeated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brazilian",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Death of US actress Hayden Panettiere ru…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Death of US actress Hayden Panettiere ruled accidental, ending local police probe.",
-        "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
-      ],
-      "vocab": [
-        {
-          "w": "actress",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "panettiere",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accidental",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nashville",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "effects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fentanyl",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Family row over George Michael items up …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Family row over George Michael items up for auction - including Faith guitar.",
-        "The brother of the singer's late personal assistant says she would not have wanted the items to be sold."
-      ],
-      "vocab": [
-        {
-          "w": "michael",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "auction",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brother",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "singer's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "personal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "assistant",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "King Charles shows off dance moves on se…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "King Charles shows off dance moves on second day of Caribbean tour.",
-        "Earlier in the day, the King paid his respects to the island's fallen servicemen and women."
-      ],
-      "vocab": [
-        {
-          "w": "charles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "caribbean",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "earlier",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "respects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "island's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "servicemen",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "Details of thousands of US immigration a…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Details of thousands of US immigration agents leaked in major hack.",
-        "A group called the Department of Peace released information on more than 41,000 DHS staff."
-      ],
-      "vocab": [
-        {
-          "w": "details",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thousands",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "immigration",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "department",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "released",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Building boom puts 300,000 people in the…",
+      "title": "Student-backed election winners demand s…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Building boom puts 300,000 people in the path of potential Himalayan disasters.",
-        "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
+        "Student-backed election winners demand sweeping resignations in Serbia.",
+        "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down."
       ],
       "vocab": [
         {
-          "w": "potential",
-          "cn": "潜在的；潜力"
-        },
-        {
-          "w": "infrastructure",
-          "cn": "基础设施"
-        },
-        {
-          "w": "building",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "himalayan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disasters",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "construction",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-11",
-      "title": "Weight-loss jab boom brings needles warn…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Weight-loss jab boom brings needles warning for recyclers.",
-        "Recycling bosses say used needles are increasingly being found among household waste."
-      ],
-      "vocab": [
-        {
-          "w": "weight-loss",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "needles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "warning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recyclers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recycling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "increasingly",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-12",
-      "title": "US conservative activists charged with u…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US conservative activists charged with unlawful voting in election stunt.",
-        "Prosecutors alleged the pair misrepresented their identities by giving election judges the names of other people."
-      ],
-      "vocab": [
-        {
-          "w": "conservative",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "activists",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unlawful",
+          "w": "student-backed",
           "cn": "（查词典）"
         },
         {
@@ -469,11 +395,101 @@
           "cn": "（查词典）"
         },
         {
-          "w": "prosecutors",
+          "w": "winners",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sweeping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "resignations",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ousting",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-11",
+      "title": "Biggest fibre boost could be scraps in y…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Biggest fibre boost could be scraps in your bin, experts say.",
+        "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists."
+      ],
+      "vocab": [
+        {
+          "w": "biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "experts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chomping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vegtable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scientists",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-12",
+      "title": "Sir Patrick Stewart: Actor who moved eff…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare.",
+        "The English actor began his career on stage before finding fame as the captain of the USS Enterprise."
+      ],
+      "vocab": [
+        {
+          "w": "patrick",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stewart",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "effortlessly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shakespeare",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "english",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finding",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

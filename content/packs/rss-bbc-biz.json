@@ -1,11 +1,331 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-29",
+  "name": "BBC News · Business · 2026-10-30",
   "type": "passage",
-  "generatedAt": "2026-10-29T02:12:18.950Z",
+  "generatedAt": "2026-10-30T02:12:40.847Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "Crypto worth billions frozen after suspe…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Crypto worth billions frozen after suspected Binance hack.",
+        "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\"."
+      ],
+      "vocab": [
+        {
+          "w": "billions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transactions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspended",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "conducts",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Google value plunges by $500bn as AI fea…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Google value plunges by $500bn as AI fears rattle Wall Street.",
+        "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+      ],
+      "vocab": [
+        {
+          "w": "plunges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spooked",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "six-month",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revealed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "summaries",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Burnham 'ready to support' Poundland sta…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Burnham 'ready to support' Poundland staff as retailer faces collapse.",
+        "Poundland's bosses are filing a notice of intention to appoint administrators to the business."
+      ],
+      "vocab": [
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "support'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "poundland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "retailer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collapse",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "poundland's",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "US interest rates held steady and econom…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "US interest rates held steady and economy grows - what it means for you.",
+        "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans"
+      ],
+      "vocab": [
+        {
+          "w": "interest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "federal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reserve's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decisions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "everything",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "'Painful' years ahead, think tanks warn,…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'Painful' years ahead, think tanks warn, as living standards set to fall.",
+        "Budget forecasts show growth in living standards grinding almost to a halt."
+      ],
+      "vocab": [
+        {
+          "w": "'painful'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "standards",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "forecasts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "grinding",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "From workshops to the catwalk - why mend…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "From workshops to the catwalk - why mended clothes are going mainstream.",
+        "A new generation is embracing eye-catching patching and visible mends."
+      ],
+      "vocab": [
+        {
+          "w": "workshops",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "catwalk",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "clothes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mainstream",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "generation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "embracing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Faisal Islam: This Budget was micro and …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Faisal Islam: This Budget was micro and that was deliberate.",
+        "Chancellor John Healey's plans fall short of radical action to create a promised new economic model."
+      ],
+      "vocab": [
+        {
+          "w": "radical",
+          "cn": "激进的"
+        },
+        {
+          "w": "deliberate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chancellor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "healey's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "promised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economic",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Bereaved families will not face tax bill…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Bereaved families will not face tax bill over pension delays under new rules.",
+        "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault."
+      ],
+      "vocab": [
+        {
+          "w": "pension",
+          "cn": "养老金"
+        },
+        {
+          "w": "bereaved",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "families",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "campaigners",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "financial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "penalty",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
       "title": "I earn £30,000. I'm angry there was no f…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -26,48 +346,48 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "Healey unveils £100 for energy bills and…",
+      "id": "rss-bbc-biz-10",
+      "title": "DoorDash to buy Instacart in $17bn deal …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Healey unveils £100 for energy bills and bank tax in first Budget.",
-        "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough."
+        "DoorDash to buy Instacart in $17bn deal it says will expand customer options.",
+        "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said."
       ],
       "vocab": [
         {
-          "w": "unveils",
+          "w": "doordash",
           "cn": "（查词典）"
         },
         {
-          "w": "chancellor",
+          "w": "instacart",
           "cn": "（查词典）"
         },
         {
-          "w": "targets",
+          "w": "customer",
           "cn": "（查词典）"
         },
         {
-          "w": "economic",
+          "w": "options",
           "cn": "（查词典）"
         },
         {
-          "w": "turmoil",
+          "w": "shoppers",
           "cn": "（查词典）"
         },
         {
-          "w": "opposition",
+          "w": "compared",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-11",
       "title": "What we now know about the UK economy in…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -104,7 +424,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-12",
       "title": "What the Budget offers for under 25s - a…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -142,298 +462,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "Your pay, energy bills and savings: How …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Your pay, energy bills and savings: How the Budget affects you.",
-        "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly."
-      ],
-      "vocab": [
-        {
-          "w": "savings",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "changes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "announced",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finances",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "'I live with a ghost': Japan's haunted h…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'I live with a ghost': Japan's haunted homes attract bargain hunters.",
-        "Properties where someone has died in tragic circumstances can have big reductions in price."
-      ],
-      "vocab": [
-        {
-          "w": "japan's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "haunted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "attract",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bargain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hunters",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "properties",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "Dharshini David: Healey buys himself som…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Dharshini David: Healey buys himself some time, but big questions still unanswered.",
-        "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options."
-      ],
-      "vocab": [
-        {
-          "w": "dharshini",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "himself",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "questions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unanswered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charting",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Microsoft profits soar days after announ…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Microsoft profits soar days after announcing thousands of layoffs.",
-        "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
-      ],
-      "vocab": [
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "profits",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "announcing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thousands",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "layoffs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "windows",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Elon Musk is a 'real genius', Putin says…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss.",
-        "The Russian President praised Musk and said they are in \"close\" contact."
-      ],
-      "vocab": [
-        {
-          "w": "genius'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "satellite",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "russian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "praised",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contact",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Will I get the £100 energy payment and w…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Will I get the £100 energy payment and when will I receive it?.",
-        "Here is what you need to know about the payment that millions will receive from January."
-      ],
-      "vocab": [
-        {
-          "w": "payment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "receive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "millions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "january",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Tax thresholds remain unchanged - here's…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Tax thresholds remain unchanged - here's what it means for your pay.",
-        "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
-      ],
-      "vocab": [
-        {
-          "w": "thresholds",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unchanged",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Budget 2026: Key points at a glance",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Budget 2026: Key points at a glance.",
-        "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
-      ],
-      "vocab": [
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

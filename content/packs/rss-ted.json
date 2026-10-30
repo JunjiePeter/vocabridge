@@ -1,11 +1,53 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-29",
+  "name": "TED Talks · Daily · 2026-10-30",
   "type": "passage",
-  "generatedAt": "2026-10-29T02:12:19.774Z",
+  "generatedAt": "2026-10-30T02:12:41.430Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How fossil fuel companies keep your ener…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/jonpowers",
+      "sentences": [
+        "Solar energy and storage are the fastest, cheapest ways to add electricity to the grid.",
+        "So why are small towns across the US pausing or banning these projects?",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "storage",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fastest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cheapest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "electricity",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pausing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "banning",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/jonpowers",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae35ff72ce0a6edbe8a84d3/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How people are using AI to grieve, love …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -47,7 +89,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "How video games can power up your parent…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -91,7 +133,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Unions for climate action! | Payton M. W…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -135,7 +177,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Sunday Pick: Unlocking Your Power at Wor…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -178,7 +220,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "The pursuit of happiness requires free t…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -211,39 +253,6 @@
       ],
       "link": "http://go.ted.com/danielleroberts",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Can you spot the lies in your news feed?…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/laurasmythe",
-      "sentences": [
-        "Laura Smythe spent years in legacy newsrooms, and she thinks the habits journalists use to vet information should belong to all of us.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "newsrooms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "journalists",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/laurasmythe",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb749627504523efb891e6/media.mp3"
     }
   ]
 }
