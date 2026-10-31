@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-30",
+  "name": "TED Talks · Daily · 2026-10-31",
   "type": "passage",
-  "generatedAt": "2026-10-30T02:12:41.430Z",
+  "generatedAt": "2026-10-31T02:12:05.557Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How to make friends (and keep them) | Sh…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/sheridanvoysey",
+      "sentences": [
+        "Who could you call at 2am when everything’s gone wrong?",
+        "Friendship expert Sheridan Voysey believes we’re in a friendship recession, with many of us forgetting how to foster meaningful relationships.",
+        "He explores three hidden barriers keeping us apart, why it feels harder to make friends as an adult — and how to nurture the deep connections that sustain us.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "everything",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "friendship",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sheridan",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "believes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "recession",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "forgetting",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/sheridanvoysey",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36e30e9e95f232bb6df41/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How fossil fuel companies keep your ener…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -47,7 +90,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae35ff72ce0a6edbe8a84d3/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "How people are using AI to grieve, love …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -89,7 +132,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "How video games can power up your parent…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -133,7 +176,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Unions for climate action! | Payton M. W…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -177,7 +220,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Sunday Pick: Unlocking Your Power at Wor…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -218,41 +261,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "The pursuit of happiness requires free t…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/danielleroberts",
-      "sentences": [
-        "Do you feel short on time?",
-        "Writer and work expert Danielle Roberts would like to help you with that.",
-        "In this quick talk, she makes the case that free time isn't a reward you earn but a civil right you're owed.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "danielle",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "roberts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/danielleroberts",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb884ac84c3697e90f7b90/media.mp3"
     }
   ]
 }

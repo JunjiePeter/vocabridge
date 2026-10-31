@@ -1,11 +1,279 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-30",
+  "name": "The Economist · Latest · 2026-10-31",
   "type": "passage",
-  "generatedAt": "2026-10-30T02:12:40.957Z",
+  "generatedAt": "2026-10-31T02:12:05.164Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "Stalled on the front lines, Russia hits …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder",
+      "sentences": [
+        "Stalled on the front lines, Russia hits Ukrainian harder.",
+        "Our tracker visualises a shift in the war"
+      ],
+      "vocab": [
+        {
+          "w": "stalled",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ukrainian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tracker",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "visualises",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "The War Room newsletter: The best warpla…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
+      "sentences": [
+        "The War Room newsletter: The best warplanes in history.",
+        "Richard Cockett, a senior editor, straps in to examine the greatest aircraft of all time"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "warplanes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "history",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "richard",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cockett",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "examine",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Is brown rice really healthier than whit…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice",
+      "sentences": [
+        "Is brown rice really healthier than white rice?.",
+        "The scientific evidence goes against the grain"
+      ],
+      "vocab": [
+        {
+          "w": "healthier",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scientific",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "evidence",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "The midterms preview",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/30/the-midterms-preview",
+      "sentences": [
+        "Our weekly podcast on America.",
+        "This week, the races and voters that will decide power in Washington"
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "washington",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/10/30/the-midterms-preview",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Off the Charts newsletter: Our favourite…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-our-favourite-books-about-maps",
+      "sentences": [
+        "Off the Charts newsletter: Our favourite books about maps.",
+        "The Economist’s data team give their recommendations"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "favourite",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "recommendations",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-our-favourite-books-about-maps",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "Off the Charts newsletter: Seeing red",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-seeing-red",
+      "sentences": [
+        "Off the Charts newsletter: Seeing red.",
+        "Not all colours are created equal, according to Alex Selby-Boothroyd, our head of data journalism"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "colours",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "created",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "selby-boothroyd",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "journalism",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-seeing-red",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Silver-year strongman: 25 years of Naren…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/30/silver-year-strongman-25-years-of-narendra-modi",
+      "sentences": [
+        "Silver-year strongman: 25 years of Narendra Modi.",
+        "Also on the daily podcast: surprising midterm races and Cecily Gemmell"
+      ],
+      "vocab": [
+        {
+          "w": "silver-year",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "strongman",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "narendra",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surprising",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterm",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/10/30/silver-year-strongman-25-years-of-narendra-modi",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Chinese spy or chump? The case of the Fe…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/1843/2026/10/30/chinese-spy-or-chump-the-case-of-the-fed-economist",
+      "sentences": [
+        "John Rogers was at the top of his profession.",
+        "Then the FBI came calling"
+      ],
+      "vocab": [
+        {
+          "w": "profession",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "calling",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/1843/2026/10/30/chinese-spy-or-chump-the-case-of-the-fed-economist",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
       "title": "Google’s $500bn bloodbath reflects the d…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -34,7 +302,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-10",
       "title": "What to watch this week",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -50,7 +318,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-11",
       "title": "Veteran investor Howard Marks on AI debt",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -91,7 +359,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-12",
       "title": "Cecily Gemmell would do almost anything …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -129,289 +397,6 @@
         }
       ],
       "link": "https://www.economist.com/obituary/2026/10/29/cecily-gemmell-would-do-almost-anything-for-churchill",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "Why this is a golden age for conspiracy …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/29/why-this-is-a-golden-age-for-conspiracy-theories",
-      "sentences": [
-        "Why this is a golden age for conspiracy theories.",
-        "They flourish during periods of social and political upheaval"
-      ],
-      "vocab": [
-        {
-          "w": "conspiracy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "theories",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "flourish",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "periods",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "political",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "upheaval",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/29/why-this-is-a-golden-age-for-conspiracy-theories",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "How Lebanon’s civil war shaped America’s…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/29/how-lebanons-civil-war-shaped-americas-rivalry-with-iran",
-      "sentences": [
-        "How Lebanon’s civil war shaped America’s rivalry with Iran.",
-        "A new book argues a murder in 1984 can help you understand the Middle East today"
-      ],
-      "vocab": [
-        {
-          "w": "lebanon",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rivalry",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "understand",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/29/how-lebanons-civil-war-shaped-americas-rivalry-with-iran",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "John Green, a hit young-adult author, is…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/29/john-green-a-hit-young-adult-author-is-now-writing-for-adults",
-      "sentences": [
-        "John Green, a hit young-adult author, is now writing for adults.",
-        "His latest novel explores social-media stardom; his own career has tracked it, too"
-      ],
-      "vocab": [
-        {
-          "w": "young-adult",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "writing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explores",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "social-media",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stardom",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tracked",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/29/john-green-a-hit-young-adult-author-is-now-writing-for-adults",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Humans will never again create a project…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "sentences": [
-        "Humans will never again create a project quite like Wikipedia.",
-        "As it turns 25, one of the internet’s unlikeliest successes faces grave new threats"
-      ],
-      "vocab": [
-        {
-          "w": "project",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wikipedia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "internet",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unlikeliest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "successes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "threats",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "What the world’s most famous magician ha…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/29/what-the-worlds-most-famous-magician-has-to-teach-you",
-      "sentences": [
-        "What the world’s most famous magician has to teach you.",
-        "Hint: it does not involve handcuffs or a straitjacket"
-      ],
-      "vocab": [
-        {
-          "w": "magician",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "involve",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "handcuffs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "straitjacket",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/10/29/what-the-worlds-most-famous-magician-has-to-teach-you",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Why it’s a bad time to be a rat-killer",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer",
-      "sentences": [
-        "Why it’s a bad time to be a rat-killer.",
-        "Private equity and artificial intelligence are nibbling at sales"
-      ],
-      "vocab": [
-        {
-          "w": "rat-killer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "private",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "artificial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "intelligence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nibbling",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "The world’s biggest maker of spectacles …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
-      "sentences": [
-        "The world’s biggest maker of spectacles faces a crisis.",
-        "EssilorLuxottica has been rocked by a petty feud"
-      ],
-      "vocab": [
-        {
-          "w": "biggest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spectacles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "essilorluxottica",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Seven hot new sources of leadership insp…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
-      "sentences": [
-        "Seven hot new sources of leadership inspiration."
-      ],
-      "vocab": [
-        {
-          "w": "sources",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leadership",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inspiration",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/29/seven-hot-new-sources-of-leadership-inspiration",
       "audio": ""
     }
   ]

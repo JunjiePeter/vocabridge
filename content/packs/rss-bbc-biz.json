@@ -1,24 +1,102 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-10-30",
+  "name": "BBC News · Business · 2026-10-31",
   "type": "passage",
-  "generatedAt": "2026-10-30T02:12:40.847Z",
+  "generatedAt": "2026-10-31T02:12:04.999Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Crypto worth billions frozen after suspe…",
+      "title": "Crypto giant Binance attempting to recov…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Crypto worth billions frozen after suspected Binance hack.",
-        "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\"."
+        "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea.",
+        "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
       ],
       "vocab": [
         {
-          "w": "billions",
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "attempting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "recover",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-attack",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "describes",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "US tech stocks see sharp falls as AI spe…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "US tech stocks see sharp falls as AI spending nears $1tn.",
+        "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+      ],
+      "vocab": [
+        {
+          "w": "spending",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continue",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tech-heavy",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "What we know about Binance's $6.3bn hack",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What we know about Binance's $6.3bn hack.",
+        "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
+      ],
+      "vocab": [
+        {
+          "w": "binance's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "correspondent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "explains",
           "cn": "（查词典）"
         },
         {
@@ -26,68 +104,237 @@
           "cn": "（查词典）"
         },
         {
-          "w": "binance",
+          "w": "biggest",
           "cn": "（查词典）"
         },
         {
-          "w": "transactions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspended",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "conducts",
+          "w": "history",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "Google value plunges by $500bn as AI fea…",
+      "id": "rss-bbc-biz-4",
+      "title": "City of London chief tops UK Black Power…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Google value plunges by $500bn as AI fears rattle Wall Street.",
-        "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+        "City of London chief tops UK Black Powerlist.",
+        "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
       ],
       "vocab": [
         {
-          "w": "plunges",
+          "w": "powerlist",
           "cn": "（查词典）"
         },
         {
-          "w": "spooked",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investors",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "six-month",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revealed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "summaries",
+          "w": "corporation",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-5",
+      "title": "How Poundland grew from a market stall t…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How Poundland grew from a market stall to a high street giant.",
+        "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse."
+      ],
+      "vocab": [
+        {
+          "w": "poundland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "started",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "wolverhampton",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collapse",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "How video game remakes tap the power of …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How video game remakes tap the power of nostalgia.",
+        "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
+      ],
+      "vocab": [
+        {
+          "w": "remakes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nostalgia",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "triggering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "classic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "getting",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "From Levi's to Primark - the fashion cha…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "From Levi's to Primark - the fashion chains selling mended clothes.",
+        "A new generation is embracing eye-catching patching and visible mends."
+      ],
+      "vocab": [
+        {
+          "w": "primark",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fashion",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "selling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "clothes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "generation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "embracing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Yorkshire Water boss resigns after firm …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Yorkshire Water boss resigns after firm downgraded.",
+        "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced."
+      ],
+      "vocab": [
+        {
+          "w": "yorkshire",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "resigns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "downgraded",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "january",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "announced",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Streeting denies 'kicking can down the r…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Streeting denies 'kicking can down the road' in defence spending row.",
+        "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms."
+      ],
+      "vocab": [
+        {
+          "w": "streeting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'kicking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spending",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pressure",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
       "title": "Burnham 'ready to support' Poundland sta…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -128,122 +375,48 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
-      "title": "US interest rates held steady and econom…",
+      "id": "rss-bbc-biz-11",
+      "title": "Google value plunges by $500bn as its ow…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "US interest rates held steady and economy grows - what it means for you.",
-        "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans"
+        "Google value plunges by $500bn as its own AI search hits ad sales.",
+        "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue."
       ],
       "vocab": [
         {
-          "w": "interest",
+          "w": "plunges",
           "cn": "（查词典）"
         },
         {
-          "w": "economy",
+          "w": "spooked",
           "cn": "（查词典）"
         },
         {
-          "w": "federal",
+          "w": "investors",
           "cn": "（查词典）"
         },
         {
-          "w": "reserve's",
+          "w": "six-month",
           "cn": "（查词典）"
         },
         {
-          "w": "decisions",
+          "w": "revealed",
           "cn": "（查词典）"
         },
         {
-          "w": "everything",
+          "w": "summaries",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
-      "title": "'Painful' years ahead, think tanks warn,…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'Painful' years ahead, think tanks warn, as living standards set to fall.",
-        "Budget forecasts show growth in living standards grinding almost to a halt."
-      ],
-      "vocab": [
-        {
-          "w": "'painful'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "standards",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "forecasts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "grinding",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "From workshops to the catwalk - why mend…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "From workshops to the catwalk - why mended clothes are going mainstream.",
-        "A new generation is embracing eye-catching patching and visible mends."
-      ],
-      "vocab": [
-        {
-          "w": "workshops",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "catwalk",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "clothes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mainstream",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "generation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "embracing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
+      "id": "rss-bbc-biz-12",
       "title": "Faisal Islam: This Budget was micro and …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -281,187 +454,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Bereaved families will not face tax bill…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Bereaved families will not face tax bill over pension delays under new rules.",
-        "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault."
-      ],
-      "vocab": [
-        {
-          "w": "pension",
-          "cn": "养老金"
-        },
-        {
-          "w": "bereaved",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "families",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "campaigners",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "financial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "penalty",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "I earn £30,000. I'm angry there was no f…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "I'm angry there was no fuel duty cut in the Budget.",
-        "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
-      ],
-      "vocab": [
-        {
-          "w": "incomes",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "DoorDash to buy Instacart in $17bn deal …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "DoorDash to buy Instacart in $17bn deal it says will expand customer options.",
-        "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said."
-      ],
-      "vocab": [
-        {
-          "w": "doordash",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "instacart",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "customer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "options",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shoppers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "compared",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "What we now know about the UK economy in…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What we now know about the UK economy in four charts.",
-        "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth."
-      ],
-      "vocab": [
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "responsibility",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "everything",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "standards",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economic",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "What the Budget offers for under 25s - a…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What the Budget offers for under 25s - and what it leaves out.",
-        "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage."
-      ],
-      "vocab": [
-        {
-          "w": "chancellor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "announced",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "measures",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "year-olds",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "housing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minimum",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
