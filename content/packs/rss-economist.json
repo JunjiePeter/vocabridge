@@ -1,11 +1,159 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-10-31",
+  "name": "The Economist · Latest · 2026-11-01",
   "type": "passage",
-  "generatedAt": "2026-10-31T02:12:05.164Z",
+  "generatedAt": "2026-11-01T02:15:06.472Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "Checks and Balance newsletter: Democrats…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+      "sentences": [
+        "Checks and Balance newsletter: Democrats’ nauseous optimism.",
+        "Charlotte Howard, our US editor, on what to watch in the final days before the midterms"
+      ],
+      "vocab": [
+        {
+          "w": "balance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nauseous",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "optimism",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charlotte",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Cover Story newsletter: The Americans ch…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better",
+      "sentences": [
+        "Cover Story newsletter: The Americans changing politics for the better.",
+        "An exclusive look at how we designed our cover"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "americans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "changing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "politics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "exclusive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "designed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "California’s billionaire tax is dividing…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
+      "sentences": [
+        "California’s billionaire tax is dividing Democrats.",
+        "The fight over the state’s ballot measure has national stakes"
+      ],
+      "vocab": [
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billionaire",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dividing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "measure",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "The last hospital in El Fasher",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/10/31/the-last-hospital-in-el-fasher",
+      "sentences": [
+        "The last hospital in El Fasher.",
+        "Finding hope in a dark place"
+      ],
+      "vocab": [
+        {
+          "w": "hospital",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finding",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/10/31/the-last-hospital-in-el-fasher",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
       "title": "Stalled on the front lines, Russia hits …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -13,7 +161,7 @@
       "topic": "商业与时事",
       "intro": "原文：https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder",
       "sentences": [
-        "Stalled on the front lines, Russia hits Ukrainian harder.",
+        "Stalled on the front lines, Russia hits Ukraine harder.",
         "Our tracker visualises a shift in the war"
       ],
       "vocab": [
@@ -22,7 +170,7 @@
           "cn": "（查词典）"
         },
         {
-          "w": "ukrainian",
+          "w": "ukraine",
           "cn": "（查词典）"
         },
         {
@@ -38,7 +186,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-6",
       "title": "The War Room newsletter: The best warpla…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +227,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-7",
       "title": "Is brown rice really healthier than whit…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -108,7 +256,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-8",
       "title": "The midterms preview",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -137,7 +285,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-9",
       "title": "Off the Charts newsletter: Our favourite…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -170,7 +318,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-10",
       "title": "Off the Charts newsletter: Seeing red",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -207,7 +355,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
+      "id": "rss-economist-11",
       "title": "Silver-year strongman: 25 years of Naren…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -248,7 +396,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
+      "id": "rss-economist-12",
       "title": "Chinese spy or chump? The case of the Fe…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -270,133 +418,6 @@
         }
       ],
       "link": "https://www.economist.com/1843/2026/10/30/chinese-spy-or-chump-the-case-of-the-fed-economist",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Google’s $500bn bloodbath reflects the d…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-      "sentences": [
-        "Google’s $500bn bloodbath reflects the danger it faces from AI.",
-        "As its search engine sputters, rivals gain ground"
-      ],
-      "vocab": [
-        {
-          "w": "bloodbath",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reflects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sputters",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "What to watch this week",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/10/29/what-to-watch-this-week",
-      "sentences": [
-        "What to watch this week.",
-        "Try one of these films or TV shows"
-      ],
-      "vocab": [],
-      "link": "https://www.economist.com/culture/2026/10/29/what-to-watch-this-week",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Veteran investor Howard Marks on AI debt",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/29/veteran-investor-howard-marks-on-ai-debt",
-      "sentences": [
-        "Our podcast on markets, the economy and business.",
-        "This week, for his final show, Mike Bird talks to the legendary distressed debt investor"
-      ],
-      "vocab": [
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "business",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "legendary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "distressed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/29/veteran-investor-howard-marks-on-ai-debt",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Cecily Gemmell would do almost anything …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/obituary/2026/10/29/cecily-gemmell-would-do-almost-anything-for-churchill",
-      "sentences": [
-        "Cecily Gemmell would do almost anything for Churchill.",
-        "His last personal secretary died on October 8th, aged 97"
-      ],
-      "vocab": [
-        {
-          "w": "gemmell",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anything",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "churchill",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "personal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/obituary/2026/10/29/cecily-gemmell-would-do-almost-anything-for-churchill",
       "audio": ""
     }
   ]

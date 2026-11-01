@@ -1,11 +1,196 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-10-31",
+  "name": "TED Talks · Daily · 2026-11-01",
   "type": "passage",
-  "generatedAt": "2026-10-31T02:12:05.557Z",
+  "generatedAt": "2026-11-01T02:15:07.010Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "The haunting truth of ghost stories | Co…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "Ghost stories reveal much more than the ghouls and spirits that haunt them.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "stories",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spirits",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "privacy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
+      "title": "What crows teach us about death | Kaeli …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "Rituals for the dead span much of the natural world, seen in practices from humans and elephants to bees, dolphins and beyond.",
+        "With charm and playful insight, animal behaviorist Kaeli Swift delves into the life (and death) habits of crows and shares what their responses could reveal about our own relationship to mortality.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "insight",
+          "cn": "洞见"
+        },
+        {
+          "w": "rituals",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "natural",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "practices",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "elephants",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dolphins",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66b9898b58b8b524628ef/media.mp3"
+    },
+    {
+      "id": "rss-ted-3",
+      "title": "The razor-thin line between contagion an…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/dantaberski",
+      "sentences": [
+        "After a mysterious wave of tics and twitches swept through a small-town high school in New York, documentary podcaster Dan Taberski set out to investigate what was really happening.",
+        "Drawing on extensive research and intimate interviews with the people involved, he explores the roots of mass hysteria — and what it reveals about the line between illness and belonging.",
+        "What happens when the very thing that makes us sick ...",
+        "is also what connects us?",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "mysterious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "twitches",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "small-town",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "documentary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcaster",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "taberski",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/dantaberski",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66ac598b58b8b524628ee/media.mp3"
+    },
+    {
+      "id": "rss-ted-4",
+      "title": "The fascinating physics of insect pee | …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "Scientist Saad Bhamla is on a mission to answer a question most people don't think to ask: How do insects pee?",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "scientist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mission",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "question",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "insects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "privacy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad669e798b58b8b524628ed/media.mp3"
+    },
+    {
+      "id": "rss-ted-5",
+      "title": "Zombie roaches and other parasite tales …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "Do humans have them too?",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "privacy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "information",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad667bb98b58b8b524628ec/media.mp3"
+    },
+    {
+      "id": "rss-ted-6",
       "title": "How to make friends (and keep them) | Sh…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -46,221 +231,6 @@
       ],
       "link": "http://go.ted.com/sheridanvoysey",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36e30e9e95f232bb6df41/media.mp3"
-    },
-    {
-      "id": "rss-ted-2",
-      "title": "How fossil fuel companies keep your ener…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/jonpowers",
-      "sentences": [
-        "Solar energy and storage are the fastest, cheapest ways to add electricity to the grid.",
-        "So why are small towns across the US pausing or banning these projects?",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "storage",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fastest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cheapest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "electricity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pausing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "banning",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/jonpowers",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae35ff72ce0a6edbe8a84d3/media.mp3"
-    },
-    {
-      "id": "rss-ted-3",
-      "title": "How people are using AI to grieve, love …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/jennifercearns",
-      "sentences": [
-        "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever.",
-        "Digital anthropologist Jennifer Cearns believes the opposite may be true.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "eroding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "humanity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "replacing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "relationships",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "synthetic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lonelier",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/jennifercearns",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb8f7a52428fc30bf6f9ca/media.mp3"
-    },
-    {
-      "id": "rss-ted-4",
-      "title": "How video games can power up your parent…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/hannahbouquet",
-      "sentences": [
-        "Parenting an eye-rolling teenager glued to a gaming system is not a simple feat, but what if you could turn screen time into an opportunity for connection?",
-        "Hannah Boquet shares how she decided to play video games with her kids and discovered the power of esports to foster trust, communication and essential life skills.",
-        "Dive deeper into how you can strengthen family bonds, support your child’s development — and maybe even be considered “cool” by your kid.",
-        "(This episode originally aired in 2025.) Hosted on Acast.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "parenting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "eye-rolling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "teenager",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "opportunity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "connection",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decided",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/hannahbouquet",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf721fa8783bd475575090/media.mp3"
-    },
-    {
-      "id": "rss-ted-5",
-      "title": "Unions for climate action! | Payton M. W…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://shows.acast.com/ttd/episodes/tid118893tid",
-      "sentences": [
-        "Environmental justice advocate Payton M.",
-        "Wilkins thinks we can protect both workers and the planet with an age-old solution: unions.",
-        "He digs into the economic fallout of ditching fossil fuels and shows why unions are well-positioned to push the transition to clean energy and green jobs.",
-        "(This episode originally aired in 2024.) Hosted on Acast.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "advocate",
-          "cn": "倡导；倡导者"
-        },
-        {
-          "w": "transition",
-          "cn": "转型"
-        },
-        {
-          "w": "environmental",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "justice",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wilkins",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "protect",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://shows.acast.com/ttd/episodes/tid118893tid",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adf6cc9a8783bd47557508f/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Sunday Pick: Unlocking Your Power at Wor…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://audiocollective.ted.com/",
-      "sentences": [
-        "No matter where you fall on the corporate food chain, you have power at work—you just might not know how to use it.",
-        "Kara Swisher is one of the most influential voices in media and has built a career holding the powerful accountable.",
-        "She also argues that people don’t leave jobs early or often enough, and makes the case for pursuing more than just the opportunities that are offered to you.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "corporate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "swisher",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "influential",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "holding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "powerful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accountable",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://audiocollective.ted.com/",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6adb86439522da114937cd6a/media.mp3"
     }
   ]
 }
