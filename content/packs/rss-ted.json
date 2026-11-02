@@ -1,11 +1,58 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-01",
+  "name": "TED Talks · Daily · 2026-11-02",
   "type": "passage",
-  "generatedAt": "2026-11-01T02:15:07.010Z",
+  "generatedAt": "2026-11-02T02:18:41.646Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Sunday Pick: Do all my friends secretly …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "Why does making friends as an adult feel like mission impossible?",
+        "In today’s Sunday Pick, Corner Piece , host Melissa Fernandes explores what it means to be a friend while grappling with a friendship break up.",
+        "Along the way, she interviews Anna Goldfarb, journalist and author of “Modern Friendship: How to Nurture Our Most Valuable Connections,” and Dr.",
+        "Franco, professor and author of “Platonic: How the Science of Attachment Can Help You Make—And Keep—Friends”.",
+        "They explain why friendship can get so complicated as you get older and how to build closer bonds.",
+        "Melissa also explores with her co-hosts Taha Khan and Sabrina Cruz what their different types of friendships mean to them.",
+        "Find more episodes of Corner Piece on your favorite podcast app or here: https://link.mgln.ai/9hQ2JB Hosted on Acast.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "friends",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mission",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "impossible",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "melissa",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fernandes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "explores",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "The haunting truth of ghost stories | Co…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -38,7 +85,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "What crows teach us about death | Kaeli …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -80,7 +127,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66b9898b58b8b524628ef/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "The razor-thin line between contagion an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -124,7 +171,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66ac598b58b8b524628ee/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "The fascinating physics of insect pee | …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -165,7 +212,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad669e798b58b8b524628ed/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Zombie roaches and other parasite tales …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -188,49 +235,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad667bb98b58b8b524628ec/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "How to make friends (and keep them) | Sh…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/sheridanvoysey",
-      "sentences": [
-        "Who could you call at 2am when everything’s gone wrong?",
-        "Friendship expert Sheridan Voysey believes we’re in a friendship recession, with many of us forgetting how to foster meaningful relationships.",
-        "He explores three hidden barriers keeping us apart, why it feels harder to make friends as an adult — and how to nurture the deep connections that sustain us.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "everything",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "friendship",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sheridan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "believes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recession",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "forgetting",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/sheridanvoysey",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36e30e9e95f232bb6df41/media.mp3"
     }
   ]
 }

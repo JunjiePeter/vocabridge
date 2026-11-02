@@ -1,11 +1,52 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-01",
+  "name": "BBC News · Technology · 2026-11-02",
   "type": "passage",
-  "generatedAt": "2026-11-01T02:15:06.310Z",
+  "generatedAt": "2026-11-02T02:18:40.757Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Binance users withdraw $3.6bn after reco…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Binance users withdraw $3.6bn after record crypto hack.",
+        "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+      ],
+      "vocab": [
+        {
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "withdraw",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "exchange",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transactions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "incident",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "impacted",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
       "title": "These firms you've never heard of are fe…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -38,7 +79,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-3",
       "title": "Why North Korea's 'elite' hackers are th…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +120,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-4",
       "title": "US tech stocks see sharp falls as AI spe…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -108,7 +149,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-5",
       "title": "Google value plunges by $500bn as its ow…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -149,7 +190,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-6",
       "title": "Who could be behind the Binance hack and…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -174,7 +215,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-7",
       "title": "From Bitcoin to Binance: Crypto terms an…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -207,7 +248,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-8",
       "title": "Crypto giant Binance hit by $6.3bn hack …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -248,7 +289,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-9",
       "title": "How video game remakes tap the power of …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -285,7 +326,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-10",
       "title": "Ofcom outlines age check methods ahead o…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -326,7 +367,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-11",
       "title": "Details of thousands of US immigration a…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -367,7 +408,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-11",
+      "id": "rss-bbc-tech-12",
       "title": "Microsoft profits soar days after announ…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -405,47 +446,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Elon Musk is a 'real genius', Putin says…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss.",
-        "The Russian President praised Musk and said they are in \"close\" contact."
-      ],
-      "vocab": [
-        {
-          "w": "genius'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "satellite",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "russian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "praised",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contact",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
