@@ -1,11 +1,53 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-02",
+  "name": "TED Talks · Daily · 2026-11-03",
   "type": "passage",
-  "generatedAt": "2026-11-02T02:18:41.646Z",
+  "generatedAt": "2026-11-03T02:15:47.858Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "The couples therapists who nearly got di…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/harvillehendrix",
+      "sentences": [
+        "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart.",
+        "In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their relationship — and shows how any couple can break the cycle of criticism to rediscover joy.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "couples",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "therapists",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "harville",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hendrix",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lakelly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decades",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/harvillehendrix",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Sunday Pick: Do all my friends secretly …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -52,7 +94,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "The haunting truth of ghost stories | Co…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -85,7 +127,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "What crows teach us about death | Kaeli …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -127,7 +169,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66b9898b58b8b524628ef/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "The razor-thin line between contagion an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -171,7 +213,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66ac598b58b8b524628ee/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "The fascinating physics of insect pee | …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -210,31 +252,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad669e798b58b8b524628ed/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Zombie roaches and other parasite tales …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://audiocollective.ted.com/",
-      "sentences": [
-        "Do humans have them too?",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://audiocollective.ted.com/",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad667bb98b58b8b524628ec/media.mp3"
     }
   ]
 }

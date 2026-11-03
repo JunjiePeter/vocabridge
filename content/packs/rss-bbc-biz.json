@@ -1,20 +1,213 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-02",
+  "name": "BBC News · Business · 2026-11-03",
   "type": "passage",
-  "generatedAt": "2026-11-02T02:18:40.766Z",
+  "generatedAt": "2026-11-03T02:15:47.106Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Binance users withdraw $3.6bn after reco…",
+      "title": "Ryanair says it may freeze workers' pay …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Ryanair says it may freeze workers' pay and raise airfares.",
+        "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
+      ],
+      "vocab": [
+        {
+          "w": "ryanair",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "workers'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "airfares",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "airline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "us-israel",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Shop freezers in seven European countrie…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Shop freezers in seven European countries hit by cyber-attack.",
+        "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
+      ],
+      "vocab": [
+        {
+          "w": "freezers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "european",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "countries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-attack",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "temperature",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "several",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "North Korea denies being behind record $…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "North Korea denies being behind record $6.3bn Binance hack.",
+        "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
+      ],
+      "vocab": [
+        {
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "agencies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "analysts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pyongyang",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "record-breaking",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Apple unsure when more foldable iPhones …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Apple unsure when more foldable iPhones will be available after selling out.",
+        "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile."
+      ],
+      "vocab": [
+        {
+          "w": "foldable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "iphones",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "available",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "selling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "willing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Poundland's former owner offers to inves…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Poundland's former owner offers to invest as minister prepares to meet board.",
+        "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started."
+      ],
+      "vocab": [
+        {
+          "w": "poundland's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prepares",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "wolverhampton's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "started",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "Binance users withdraw $3.6bn after larg…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Binance users withdraw $3.6bn after record crypto hack.",
-        "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+        "Binance users withdraw $3.6bn after largest-ever crypto hack.",
+        "The exchange froze transactions following the incident which has been linked to a North Korean group."
       ],
       "vocab": [
         {
@@ -26,6 +219,10 @@
           "cn": "（查词典）"
         },
         {
+          "w": "largest-ever",
+          "cn": "（查词典）"
+        },
+        {
           "w": "exchange",
           "cn": "（查词典）"
         },
@@ -34,11 +231,7 @@
           "cn": "（查词典）"
         },
         {
-          "w": "incident",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "impacted",
+          "w": "following",
           "cn": "（查词典）"
         }
       ],
@@ -46,7 +239,89 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-7",
+      "title": "From scooters to shampoo - the people sa…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "From scooters to shampoo - the people saving hundreds from dumpster diving.",
+        "The men and women who rummage through commercial bins to take clothes and other items."
+      ],
+      "vocab": [
+        {
+          "w": "scooters",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shampoo",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hundreds",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dumpster",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rummage",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "commercial",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Virgin Media O2 set to cut thousands of …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Virgin Media O2 set to cut thousands of jobs to reduce costs.",
+        "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands."
+      ],
+      "vocab": [
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "broadband",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finalised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "numbers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sizeable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "understands",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
       "title": "Don't get caught out by new Buy Now Pay …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -71,48 +346,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
-      "title": "Thousands of jobs at Virgin Media O2 to …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Thousands of jobs at Virgin Media O2 to be cut.",
-        "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
-      ],
-      "vocab": [
-        {
-          "w": "thousands",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "broadband",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "provider",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finalised",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sizeable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "workforce",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-10",
       "title": "No more washing up: How Airbnb's new hou…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -149,36 +383,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
-      "title": "US tech stocks see sharp falls as AI spe…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US tech stocks see sharp falls as AI spending nears $1tn.",
-        "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-      ],
-      "vocab": [
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continue",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tech-heavy",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
+      "id": "rss-bbc-biz-11",
       "title": "Why North Korea's 'elite' hackers are th…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -219,217 +424,32 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-7",
-      "title": "City of London chief tops UK Black Power…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "City of London chief tops UK Black Powerlist.",
-        "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
-      ],
-      "vocab": [
-        {
-          "w": "powerlist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "corporation",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Crypto firm Binance covers 90% of losses…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Crypto firm Binance covers 90% of losses after $6.3bn hack.",
-        "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "federal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "responsible",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "What we know about Binance's $6.3bn hack",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What we know about Binance's $6.3bn hack.",
-        "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
-      ],
-      "vocab": [
-        {
-          "w": "binance's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explains",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biggest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "history",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "How Poundland grew from a market stall t…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How Poundland grew from a market stall to a high street giant.",
-        "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse."
-      ],
-      "vocab": [
-        {
-          "w": "poundland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "started",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wolverhampton",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collapse",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Crypto giant Binance attempting to recov…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea.",
-        "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "attempting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recover",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-attack",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "describes",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
       "id": "rss-bbc-biz-12",
-      "title": "From Levi's to Primark - the fashion cha…",
+      "title": "US tech stocks see sharp falls as AI spe…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "From Levi's to Primark - the fashion chains selling mended clothes.",
-        "A new generation is embracing eye-catching patching and visible mends."
+        "US tech stocks see sharp falls as AI spending nears $1tn.",
+        "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
       ],
       "vocab": [
         {
-          "w": "primark",
+          "w": "spending",
           "cn": "（查词典）"
         },
         {
-          "w": "fashion",
+          "w": "continue",
           "cn": "（查词典）"
         },
         {
-          "w": "selling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "clothes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "generation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "embracing",
+          "w": "tech-heavy",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

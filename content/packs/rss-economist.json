@@ -1,11 +1,340 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-02",
+  "name": "The Economist · Latest · 2026-11-03",
   "type": "passage",
-  "generatedAt": "2026-11-02T02:18:40.893Z",
+  "generatedAt": "2026-11-03T02:15:47.274Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "As voters head to the polls, Democrats b…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+      "sentences": [
+        "As voters head to the polls, Democrats bet that discontent will power their victory.",
+        "Our latest forecast of the midterms’ outcome"
+      ],
+      "vocab": [
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "discontent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "victory",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "forecast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outcome",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "The quest for immortality has become ser…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+      "sentences": [
+        "The quest for immortality has become serious business.",
+        "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing"
+      ],
+      "vocab": [
+        {
+          "w": "immortality",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "serious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "business",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "entrepreneurs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "supplements",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biotechs",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "France’s unhappy countryside turns to th…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right",
+      "sentences": [
+        "France’s unhappy countryside turns to the populist right.",
+        "In long-suffering villages, Marine Le Pen has come to stand for hope"
+      ],
+      "vocab": [
+        {
+          "w": "unhappy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "countryside",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "populist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "long-suffering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "villages",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "The War Room newsletter: Canada’s fighte…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-americas/2026/11/02/the-war-room-newsletter-canadas-fighter-jet-dilemma",
+      "sentences": [
+        "The War Room newsletter: Canada’s fighter-jet dilemma.",
+        "Alex Turner, our defence editor, looks at a choice between the Gripen and the F-35"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fighter-jet",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dilemma",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defence",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-americas/2026/11/02/the-war-room-newsletter-canadas-fighter-jet-dilemma",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "The fight for the soul of the Australian…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+      "sentences": [
+        "The fight for the soul of the Australian right.",
+        "Can a special-forces veteran stop the rise of Pauline Hanson?"
+      ],
+      "vocab": [
+        {
+          "w": "australian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "special-forces",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "veteran",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pauline",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "A new path to political power in China r…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+      "sentences": [
+        "A new path to political power in China runs through state firms.",
+        "China Inc has become a breeding ground for up-and-coming officials"
+      ],
+      "vocab": [
+        {
+          "w": "political",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "breeding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "up-and-coming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "officials",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "How is King Charles III doing?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/britain/2026/11/02/how-is-king-charles-iii-doing",
+      "sentences": [
+        "How is King Charles III doing?.",
+        "Not least because he has stopped complaining"
+      ],
+      "vocab": [
+        {
+          "w": "charles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stopped",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "complaining",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/britain/2026/11/02/how-is-king-charles-iii-doing",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Off to the races: our American-midterms …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/02/off-to-the-races-our-american-midterms-preview",
+      "sentences": [
+        "Off to the races: our American-midterms preview.",
+        "Also on the daily podcast: young people swap the property ladder for the markets and lessons in fame from Harry Houdini"
+      ],
+      "vocab": [
+        {
+          "w": "american-midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "preview",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "property",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "markets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lessons",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/02/off-to-the-races-our-american-midterms-preview",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "Andy Burnham reveals his lack of ambitio…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/02/andy-burnham-reveals-his-lack-of-ambition",
+      "sentences": [
+        "Andy Burnham reveals his lack of ambition.",
+        "A handpicked article read aloud from the latest issue of The Economist"
+      ],
+      "vocab": [
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reveals",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ambition",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "handpicked",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "article",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economist",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/02/andy-burnham-reveals-his-lack-of-ambition",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
       "title": "Hackers are running riot with AI. Its ma…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -43,28 +372,28 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
-      "title": "An unfolding disaster in Alaska could co…",
+      "id": "rss-economist-11",
+      "title": "Forget Michigan. A disaster in Alaska co…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
       "sentences": [
-        "An unfolding disaster in Alaska could cost Democrats the Senate.",
-        "The state has become the epicentre of election chicanery"
+        "A disaster in Alaska could cost Democrats the Senate.",
+        "The northernmost state has become the epicentre of election chicanery"
       ],
       "vocab": [
-        {
-          "w": "unfolding",
-          "cn": "（查词典）"
-        },
         {
           "w": "disaster",
           "cn": "（查词典）"
         },
         {
           "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "northernmost",
           "cn": "（查词典）"
         },
         {
@@ -80,11 +409,11 @@
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate",
+      "link": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-12",
       "title": "How the Houthis built their war machine",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -114,331 +443,6 @@
         }
       ],
       "link": "https://www.economist.com/middle-east-and-africa/2026/11/01/how-the-houthis-built-their-war-machine",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Intensive parenting is no longer the pre…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
-      "sentences": [
-        "Intensive parenting is no longer the preserve of the rich.",
-        "But wealthy families still come out on top"
-      ],
-      "vocab": [
-        {
-          "w": "intensive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "parenting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "preserve",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wealthy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "families",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "AI is disrupting the art of campaigning",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
-      "sentences": [
-        "AI is disrupting the art of campaigning.",
-        "Candidates are using the technology to crunch data—and carry out dirty tricks"
-      ],
-      "vocab": [
-        {
-          "w": "disrupting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "campaigning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "candidates",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "technology",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "Poland’s fight over its constitutional c…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/11/01/polands-fight-over-its-constitutional-court-gets-physical",
-      "sentences": [
-        "Poland’s fight over its constitutional court gets physical.",
-        "Donald Tusk has deployed riot police to get his judges seated"
-      ],
-      "vocab": [
-        {
-          "w": "constitutional",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "physical",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "deployed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/europe/2026/11/01/polands-fight-over-its-constitutional-court-gets-physical",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Hit podcasts reveal the angst of China’s…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
-      "sentences": [
-        "Hit podcasts reveal the angst of China’s youth.",
-        "The government is getting twitchy about their growing popularity"
-      ],
-      "vocab": [
-        {
-          "w": "podcasts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "getting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "twitchy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "growing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "popularity",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Cheap data is great for Indians but not …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
-      "sentences": [
-        "Cheap data is great for Indians but not for India’s reputation.",
-        "The internet brings out the worst in everyone"
-      ],
-      "vocab": [
-        {
-          "w": "indians",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reputation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "internet",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "everyone",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Checks and Balance newsletter: Democrats…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
-      "sentences": [
-        "Checks and Balance newsletter: Democrats’ nauseous optimism.",
-        "Charlotte Howard, our US editor, on what to watch in the final days before the midterms"
-      ],
-      "vocab": [
-        {
-          "w": "balance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nauseous",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "optimism",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charlotte",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Cover Story newsletter: The Americans ch…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better",
-      "sentences": [
-        "Cover Story newsletter: The Americans changing politics for the better.",
-        "An exclusive look at how we designed our cover"
-      ],
-      "vocab": [
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "americans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "changing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "politics",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exclusive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "designed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "California’s billionaire tax is dividing…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
-      "sentences": [
-        "California’s billionaire tax is dividing Democrats.",
-        "The fight over the state’s ballot measure has national stakes"
-      ],
-      "vocab": [
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billionaire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dividing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "measure",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "national",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "The last hospital in el-Fasher",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/10/31/the-last-hospital-in-el-fasher",
-      "sentences": [
-        "The last hospital in el-Fasher.",
-        "Finding hope in a dark place"
-      ],
-      "vocab": [
-        {
-          "w": "hospital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "el-fasher",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finding",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/10/31/the-last-hospital-in-el-fasher",
       "audio": ""
     }
   ]

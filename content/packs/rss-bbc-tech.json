@@ -1,20 +1,139 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-02",
+  "name": "BBC News · Technology · 2026-11-03",
   "type": "passage",
-  "generatedAt": "2026-11-02T02:18:40.757Z",
+  "generatedAt": "2026-11-03T02:15:47.074Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Binance users withdraw $3.6bn after reco…",
+      "title": "North Korea denies being behind record $…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "North Korea denies being behind record $6.3bn Binance hack.",
+        "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
+      ],
+      "vocab": [
+        {
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "agencies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "analysts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pyongyang",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "record-breaking",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Apple unsure when more foldable iPhones …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Apple unsure when more foldable iPhones will be available after selling out.",
+        "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile."
+      ],
+      "vocab": [
+        {
+          "w": "foldable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "iphones",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "available",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "selling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "willing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "If hackers can take control of a superma…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "If hackers can take control of a supermarket freezer, how vulnerable is other tech?.",
+        "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges."
+      ],
+      "vocab": [
+        {
+          "w": "vulnerable",
+          "cn": "脆弱的"
+        },
+        {
+          "w": "hackers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "control",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "supermarket",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "freezer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "european",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "Binance users withdraw $3.6bn after larg…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Binance users withdraw $3.6bn after record crypto hack.",
-        "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+        "Binance users withdraw $3.6bn after largest-ever crypto hack.",
+        "The exchange froze transactions following the incident which has been linked to a North Korean group."
       ],
       "vocab": [
         {
@@ -26,6 +145,10 @@
           "cn": "（查词典）"
         },
         {
+          "w": "largest-ever",
+          "cn": "（查词典）"
+        },
+        {
           "w": "exchange",
           "cn": "（查词典）"
         },
@@ -34,11 +157,7 @@
           "cn": "（查词典）"
         },
         {
-          "w": "incident",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "impacted",
+          "w": "following",
           "cn": "（查词典）"
         }
       ],
@@ -46,7 +165,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-5",
       "title": "These firms you've never heard of are fe…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +198,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-6",
       "title": "Why North Korea's 'elite' hackers are th…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -120,7 +239,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-7",
       "title": "US tech stocks see sharp falls as AI spe…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -149,7 +268,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-8",
       "title": "Google value plunges by $500bn as its ow…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -190,7 +309,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-9",
       "title": "Who could be behind the Binance hack and…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -215,7 +334,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-10",
       "title": "From Bitcoin to Binance: Crypto terms an…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -248,7 +367,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-11",
       "title": "Crypto giant Binance hit by $6.3bn hack …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -289,7 +408,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-12",
       "title": "How video game remakes tap the power of …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -323,129 +442,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Ofcom outlines age check methods ahead o…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Ofcom outlines age check methods ahead of social media ban for under-16s.",
-        "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
-      ],
-      "vocab": [
-        {
-          "w": "outlines",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "methods",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "digital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "banking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "estimation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "someone",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Details of thousands of US immigration a…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Details of thousands of US immigration agents leaked in major hack.",
-        "A group called the Department of Peace released information on more than 41,000 DHS staff."
-      ],
-      "vocab": [
-        {
-          "w": "details",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thousands",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "immigration",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "department",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "released",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Microsoft profits soar days after announ…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Microsoft profits soar days after announcing thousands of layoffs.",
-        "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
-      ],
-      "vocab": [
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "profits",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "announcing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thousands",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "layoffs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "windows",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

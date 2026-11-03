@@ -1,73 +1,36 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-02",
+  "name": "BBC News · Top Stories · 2026-11-03",
   "type": "passage",
-  "generatedAt": "2026-11-02T02:18:40.747Z",
+  "generatedAt": "2026-11-03T02:15:47.045Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Five teenagers stabbed at Halloween part…",
+      "title": "Mahmood scraps settlement plans for migr…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Five teenagers stabbed at Halloween party.",
-        "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford."
+        "Mahmood scraps settlement plans for migrant care workers.",
+        "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
       ],
       "vocab": [
         {
-          "w": "teenagers",
+          "w": "mahmood",
           "cn": "（查词典）"
         },
         {
-          "w": "stabbed",
+          "w": "settlement",
           "cn": "（查词典）"
         },
         {
-          "w": "halloween",
+          "w": "migrant",
           "cn": "（查词典）"
         },
         {
-          "w": "hampshire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "believes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unknown",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "'Like a missile coming down' - Nine kill…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'Like a missile coming down' - Nine killed in fiery Florida jet crash.",
-        "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
-      ],
-      "vocab": [
-        {
-          "w": "missile",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "florida",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transportation",
+          "w": "workers",
           "cn": "（查词典）"
         },
         {
@@ -75,290 +38,28 @@
           "cn": "（查词典）"
         },
         {
-          "w": "described",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "happened",
+          "w": "revised",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-3",
-      "title": "Thousands of jobs at Virgin Media O2 to …",
+      "id": "rss-bbc-news-2",
+      "title": "Shop freezers in seven European countrie…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Thousands of jobs at Virgin Media O2 to be cut.",
-        "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
+        "Shop freezers in seven European countries hit by cyber-attack.",
+        "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
       ],
       "vocab": [
         {
-          "w": "thousands",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "broadband",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "provider",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finalised",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sizeable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "workforce",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Democrat endorses Republican candidate i…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts.",
-        "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
-      ],
-      "vocab": [
-        {
-          "w": "candidate",
-          "cn": "候选人"
-        },
-        {
-          "w": "democrat",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "endorses",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "republican",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "michigan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stevens",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Democrats have high hopes for midterms, …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Democrats have high hopes for midterms, but polls have let them down before.",
-        "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee."
-      ],
-      "vocab": [
-        {
-          "w": "guarantee",
-          "cn": "保证"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "predicting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democratic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "last-minute",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Antonelli becomes world champion as Vers…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Antonelli becomes world champion as Verstappen wins in Mexico.",
-        "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix."
-      ],
-      "vocab": [
-        {
-          "w": "antonelli",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "becomes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "champion",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "verstappen",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "youngest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "formula",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "A&E warning system to flag sick children…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "A&E warning system to flag sick children deteriorating quickly.",
-        "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care."
-      ],
-      "vocab": [
-        {
-          "w": "initiative",
-          "cn": "举措；主动性"
-        },
-        {
-          "w": "warning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "children",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "deteriorating",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "quickly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "england",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "King to address slavery in Antigua as PM…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "King to address slavery in Antigua as PM says he is open to possible UK apology.",
-        "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour."
-      ],
-      "vocab": [
-        {
-          "w": "address",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "slavery",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "antigua",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "possible",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "apology",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charles",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "Tributes to 'inspirational' Olympian Cia…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34.",
-        "The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner."
-      ],
-      "vocab": [
-        {
-          "w": "tributes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'inspirational'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "olympian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mageean",
+          "w": "freezers",
           "cn": "（查词典）"
         },
         {
@@ -366,65 +67,282 @@
           "cn": "（查词典）"
         },
         {
-          "w": "champion",
+          "w": "countries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-attack",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "temperature",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "several",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-10",
-      "title": "After a 28-year trek around the world, h…",
+      "id": "rss-bbc-news-3",
+      "title": "Thousands of European troops to rehearse…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge.",
-        "The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday."
+        "Thousands of European troops to rehearse Ukraine deployment in event of peace.",
+        "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
       ],
       "vocab": [
         {
-          "w": "homebound",
+          "w": "thousands",
           "cn": "（查词典）"
         },
         {
-          "w": "crosses",
+          "w": "european",
           "cn": "（查词典）"
         },
         {
-          "w": "british",
+          "w": "rehearse",
           "cn": "（查词典）"
         },
         {
-          "w": "adventurer",
+          "w": "ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "complete",
+          "w": "deployment",
           "cn": "（查词典）"
         },
         {
-          "w": "challenge",
+          "w": "western",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-11",
-      "title": "Binance users withdraw $3.6bn after reco…",
+      "id": "rss-bbc-news-4",
+      "title": "PM plans debt re-set for Commonwealth na…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Binance users withdraw $3.6bn after record crypto hack.",
-        "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+        "PM plans debt re-set for Commonwealth nations as slavery apology talks begin.",
+        "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
+      ],
+      "vocab": [
+        {
+          "w": "commonwealth",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nations",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "slavery",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "apology",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "issuing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "Jewellery sold as sterling silver on Ama…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals.",
+        "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy."
+      ],
+      "vocab": [
+        {
+          "w": "jewellery",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sterling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chemicals",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investigation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "watchdog",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Plane may have broken apart ahead of dea…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Plane may have broken apart ahead of deadly Florida jet crash, say investigators.",
+        "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
+      ],
+      "vocab": [
+        {
+          "w": "florida",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investigators",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transportation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "believes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weather",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "What Florida jet audio and flight data t…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What Florida jet audio and flight data tells us about its final moments.",
+        "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities."
+      ],
+      "vocab": [
+        {
+          "w": "florida",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "moments",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "private",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "crashed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "killing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "authorities",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Russian bombing kills 26 people at Ukrai…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says.",
+        "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+      ],
+      "vocab": [
+        {
+          "w": "russian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bombing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ukraine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "officials",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "southern",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ukrainian",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "North Korea denies being behind record $…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "North Korea denies being behind record $6.3bn Binance hack.",
+        "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
       ],
       "vocab": [
         {
@@ -432,52 +350,135 @@
           "cn": "（查词典）"
         },
         {
-          "w": "withdraw",
+          "w": "government",
           "cn": "（查词典）"
         },
         {
-          "w": "exchange",
+          "w": "agencies",
           "cn": "（查词典）"
         },
         {
-          "w": "transactions",
+          "w": "analysts",
           "cn": "（查词典）"
         },
         {
-          "w": "incident",
+          "w": "pyongyang",
           "cn": "（查词典）"
         },
         {
-          "w": "impacted",
+          "w": "record-breaking",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-12",
-      "title": "Don't get caught out by new Buy Now Pay …",
+      "id": "rss-bbc-news-10",
+      "title": "Apple unsure when more foldable iPhones …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Don't get caught out by new Buy Now Pay Later rules.",
-        "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it."
+        "Apple unsure when more foldable iPhones will be available after selling out.",
+        "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile."
       ],
       "vocab": [
         {
-          "w": "affordability",
+          "w": "foldable",
           "cn": "（查词典）"
         },
         {
-          "w": "blocked",
+          "w": "iphones",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "available",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "selling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "willing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-11",
+      "title": "'Mogging' is Collins' word of the year..…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'Mogging' is Collins' word of the year...",
+        "but do you know what it means?.",
+        "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated."
+      ],
+      "vocab": [
+        {
+          "w": "'mogging'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collins'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "relates",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outshining",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "upstaging",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "someone",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-12",
+      "title": "A simple guide to the midterms",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "A simple guide to the midterms.",
+        "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency."
+      ],
+      "vocab": [
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tuesday",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "presidency",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
