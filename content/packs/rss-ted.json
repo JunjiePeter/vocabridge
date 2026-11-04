@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-03",
+  "name": "TED Talks · Daily · 2026-11-04",
   "type": "passage",
-  "generatedAt": "2026-11-03T02:15:47.858Z",
+  "generatedAt": "2026-11-04T02:13:59.937Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "What kids wish their parents knew about …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/milarojas",
+      "sentences": [
+        "When was the last time you played, just for fun?",
+        "Eleven-year-old Mila Rojas has noticed that adults — buried under schedules, expectations and the pressure to be serious — often see play as unproductive.",
+        "In this delightful talk, she shows why having fun is key for families to connect and shares some simple ways to bring more joy into everyday life.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "eleven-year-old",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "noticed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "schedules",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expectations",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pressure",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "serious",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/milarojas",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "The couples therapists who nearly got di…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -47,7 +90,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Sunday Pick: Do all my friends secretly …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -94,7 +137,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "The haunting truth of ghost stories | Co…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -127,7 +170,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "What crows teach us about death | Kaeli …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -169,7 +212,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66b9898b58b8b524628ef/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "The razor-thin line between contagion an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -211,47 +254,6 @@
       ],
       "link": "http://go.ted.com/dantaberski",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66ac598b58b8b524628ee/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "The fascinating physics of insect pee | …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://audiocollective.ted.com/",
-      "sentences": [
-        "Scientist Saad Bhamla is on a mission to answer a question most people don't think to ask: How do insects pee?",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "scientist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mission",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "question",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "insects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://audiocollective.ted.com/",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad669e798b58b8b524628ed/media.mp3"
     }
   ]
 }

@@ -1,81 +1,32 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-03",
+  "name": "BBC News · Top Stories · 2026-11-04",
   "type": "passage",
-  "generatedAt": "2026-11-03T02:15:47.045Z",
+  "generatedAt": "2026-11-04T02:13:59.262Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Mahmood scraps settlement plans for migr…",
+      "title": "When will we know the results?",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Mahmood scraps settlement plans for migrant care workers.",
-        "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
+        "When will we know the results?.",
+        "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks."
       ],
       "vocab": [
         {
-          "w": "mahmood",
+          "w": "results",
           "cn": "（查词典）"
         },
         {
-          "w": "settlement",
+          "w": "possible",
           "cn": "（查词典）"
         },
         {
-          "w": "migrant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revised",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "Shop freezers in seven European countrie…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Shop freezers in seven European countries hit by cyber-attack.",
-        "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
-      ],
-      "vocab": [
-        {
-          "w": "freezers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "european",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "countries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-attack",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "temperature",
+          "w": "projected",
           "cn": "（查词典）"
         },
         {
@@ -83,77 +34,176 @@
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-2",
+      "title": "US voters name economy and state of demo…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "US voters name economy and state of democracy as top issues, poll says.",
+        "A major election day survey suggests voters are the most unhappy with the economy."
+      ],
+      "vocab": [
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democracy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suggests",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unhappy",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-3",
-      "title": "Thousands of European troops to rehearse…",
+      "title": "How the US midterm results could unfold …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Thousands of European troops to rehearse Ukraine deployment in event of peace.",
-        "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+        "How the US midterm results could unfold - as millions of Americans head to the polls.",
+        "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country."
       ],
       "vocab": [
         {
-          "w": "thousands",
+          "w": "midterm",
           "cn": "（查词典）"
         },
         {
-          "w": "european",
+          "w": "results",
           "cn": "（查词典）"
         },
         {
-          "w": "rehearse",
+          "w": "millions",
           "cn": "（查词典）"
         },
         {
-          "w": "ukraine",
+          "w": "americans",
           "cn": "（查词典）"
         },
         {
-          "w": "deployment",
+          "w": "america",
           "cn": "（查词典）"
         },
         {
-          "w": "western",
+          "w": "correspondent",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-4",
-      "title": "PM plans debt re-set for Commonwealth na…",
+      "title": "Democratic rising star Ossoff projected …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "PM plans debt re-set for Commonwealth nations as slavery apology talks begin.",
-        "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
+        "Democratic rising star Ossoff projected to hold Georgia seat.",
+        "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring."
       ],
       "vocab": [
         {
-          "w": "commonwealth",
+          "w": "potential",
+          "cn": "潜在的；潜力"
+        },
+        {
+          "w": "democratic",
           "cn": "（查词典）"
         },
         {
-          "w": "nations",
+          "w": "projected",
           "cn": "（查词典）"
         },
         {
-          "w": "slavery",
+          "w": "georgia",
           "cn": "（查词典）"
         },
         {
-          "w": "apology",
+          "w": "leading",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contender",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "The key US Senate races to watch",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The key US Senate races to watch.",
+        "All eyes are on a handful of Senate races that will decide control of the prized upper chamber."
+      ],
+      "vocab": [
+        {
+          "w": "handful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "control",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chamber",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Spanish transport minister resigns days …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Spanish transport minister resigns days after deadly train crash.",
+        "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+      ],
+      "vocab": [
+        {
+          "w": "spanish",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transport",
           "cn": "（查词典）"
         },
         {
@@ -161,192 +211,48 @@
           "cn": "（查词典）"
         },
         {
-          "w": "issuing",
+          "w": "resigns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "injured",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collision",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Jewellery sold as sterling silver on Ama…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals.",
-        "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy."
-      ],
-      "vocab": [
-        {
-          "w": "jewellery",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sterling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chemicals",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "watchdog",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Plane may have broken apart ahead of dea…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Plane may have broken apart ahead of deadly Florida jet crash, say investigators.",
-        "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
-      ],
-      "vocab": [
-        {
-          "w": "florida",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigators",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "national",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transportation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "believes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "weather",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-7",
-      "title": "What Florida jet audio and flight data t…",
+      "title": "King calls slave trade a 'shameful chapt…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "What Florida jet audio and flight data tells us about its final moments.",
-        "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities."
+        "King calls slave trade a 'shameful chapter' during Commonwealth address.",
+        "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
       ],
       "vocab": [
         {
-          "w": "florida",
+          "w": "'shameful",
           "cn": "（查词典）"
         },
         {
-          "w": "moments",
+          "w": "chapter'",
           "cn": "（查词典）"
         },
         {
-          "w": "private",
+          "w": "commonwealth",
           "cn": "（查词典）"
         },
         {
-          "w": "crashed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "killing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "authorities",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "Russian bombing kills 26 people at Ukrai…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says.",
-        "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
-      ],
-      "vocab": [
-        {
-          "w": "russian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bombing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "officials",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "southern",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukrainian",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "North Korea denies being behind record $…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "North Korea denies being behind record $6.3bn Binance hack.",
-        "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
+          "w": "address",
           "cn": "（查词典）"
         },
         {
@@ -354,131 +260,212 @@
           "cn": "（查词典）"
         },
         {
-          "w": "agencies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "analysts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pyongyang",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "record-breaking",
+          "w": "apology",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "'Multi-cancer' blood tests coming to som…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'Multi-cancer' blood tests coming to some GP surgeries soon.",
+        "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner."
+      ],
+      "vocab": [
+        {
+          "w": "'multi-cancer'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surgeries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hard-to-diagnose",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "abdominal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cancers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ovarian",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Celebrity loses injunction bid but will …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Celebrity loses injunction bid but will stay anonymous pending appeal.",
+        "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him."
+      ],
+      "vocab": [
+        {
+          "w": "celebrity",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "injunction",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anonymous",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pending",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unnamed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "identity",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Apple unsure when more foldable iPhones …",
+      "title": "No more rice grains in Kellogg's Rice Kr…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Apple unsure when more foldable iPhones will be available after selling out.",
-        "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile."
+        "No more rice grains in Kellogg's Rice Krispies due to changing weather.",
+        "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning."
       ],
       "vocab": [
         {
-          "w": "foldable",
+          "w": "kellogg's",
           "cn": "（查词典）"
         },
         {
-          "w": "iphones",
+          "w": "krispies",
           "cn": "（查词典）"
         },
         {
-          "w": "available",
+          "w": "changing",
           "cn": "（查词典）"
         },
         {
-          "w": "selling",
+          "w": "weather",
           "cn": "（查词典）"
         },
         {
-          "w": "willing",
+          "w": "recipes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "packaging",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "'Mogging' is Collins' word of the year..…",
+      "title": "Death toll rises in Ukraine after Russia…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "'Mogging' is Collins' word of the year...",
-        "but do you know what it means?.",
-        "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated."
+        "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital.",
+        "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
       ],
       "vocab": [
         {
-          "w": "'mogging'",
+          "w": "ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "collins'",
+          "w": "attacks",
           "cn": "（查词典）"
         },
         {
-          "w": "relates",
+          "w": "hospice",
           "cn": "（查词典）"
         },
         {
-          "w": "outshining",
+          "w": "hospital",
           "cn": "（查词典）"
         },
         {
-          "w": "upstaging",
+          "w": "ukraine's",
           "cn": "（查词典）"
         },
         {
-          "w": "someone",
+          "w": "volodymyr",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "A simple guide to the midterms",
+      "title": "Andrew Mountbatten-Windsor called to giv…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "A simple guide to the midterms.",
-        "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency."
+        "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December.",
+        "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial."
       ],
       "vocab": [
         {
-          "w": "midterms",
+          "w": "mountbatten-windsor",
           "cn": "（查词典）"
         },
         {
-          "w": "tuesday",
+          "w": "evidence",
           "cn": "（查词典）"
         },
         {
-          "w": "presidency",
+          "w": "december",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "summonsed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "businessman's",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

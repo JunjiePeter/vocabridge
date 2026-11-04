@@ -1,65 +1,69 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-03",
+  "name": "The Economist · Latest · 2026-11-04",
   "type": "passage",
-  "generatedAt": "2026-11-03T02:15:47.274Z",
+  "generatedAt": "2026-11-04T02:13:59.492Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "As voters head to the polls, Democrats b…",
+      "title": "Live briefing: will it be a blue wave?",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/03/midterms-coverage",
       "sentences": [
-        "As voters head to the polls, Democrats bet that discontent will power their victory.",
-        "Our latest forecast of the midterms’ outcome"
+        "Live briefing: will it be a blue wave?.",
+        "Results, reactions and up-to-the-minute analysis from our editors and correspondents"
       ],
       "vocab": [
         {
-          "w": "democrats",
+          "w": "briefing",
           "cn": "（查词典）"
         },
         {
-          "w": "discontent",
+          "w": "results",
           "cn": "（查词典）"
         },
         {
-          "w": "victory",
+          "w": "reactions",
           "cn": "（查词典）"
         },
         {
-          "w": "forecast",
+          "w": "up-to-the-minute",
           "cn": "（查词典）"
         },
         {
-          "w": "midterms",
+          "w": "analysis",
           "cn": "（查词典）"
         },
         {
-          "w": "outcome",
+          "w": "editors",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+      "link": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "The quest for immortality has become ser…",
+      "title": "Fear united Europe. Nationalism may tear…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+      "intro": "原文：https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
       "sentences": [
-        "The quest for immortality has become serious business.",
-        "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing"
+        "Nationalism may tear it apart.",
+        "Donald Trump and Vladimir Putin made Europe serious about its own defences."
       ],
       "vocab": [
         {
-          "w": "immortality",
+          "w": "nationalism",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vladimir",
           "cn": "（查词典）"
         },
         {
@@ -67,73 +71,139 @@
           "cn": "（查词典）"
         },
         {
-          "w": "business",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "entrepreneurs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "supplements",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biotechs",
+          "w": "defences",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+      "link": "https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "France’s unhappy countryside turns to th…",
+      "title": "China’s AI stock-market struggles are a …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
       "sentences": [
-        "France’s unhappy countryside turns to the populist right.",
-        "In long-suffering villages, Marine Le Pen has come to stand for hope"
+        "China’s AI stock-market struggles are a warning.",
+        "What happens when the supply of new tech catches up with demand?"
       ],
       "vocab": [
         {
-          "w": "unhappy",
+          "w": "stock-market",
           "cn": "（查词典）"
         },
         {
-          "w": "countryside",
+          "w": "struggles",
           "cn": "（查词典）"
         },
         {
-          "w": "populist",
+          "w": "warning",
           "cn": "（查词典）"
         },
         {
-          "w": "long-suffering",
+          "w": "happens",
           "cn": "（查词典）"
         },
         {
-          "w": "villages",
+          "w": "catches",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "The War Room newsletter: Canada’s fighte…",
+      "title": "Besieged by war, Saudi Aramco continues …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-americas/2026/11/02/the-war-room-newsletter-canadas-fighter-jet-dilemma",
+      "intro": "原文：https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
       "sentences": [
-        "The War Room newsletter: Canada’s fighter-jet dilemma.",
-        "Alex Turner, our defence editor, looks at a choice between the Gripen and the F-35"
+        "Besieged by war, Saudi Aramco continues to gush profits.",
+        "Higher oil prices comfortably make up for bombed facilities"
+      ],
+      "vocab": [
+        {
+          "w": "besieged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continues",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "profits",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "comfortably",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "facilities",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "America’s renters are in serious trouble",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+      "sentences": [
+        "America’s renters are in serious trouble.",
+        "Several gauges of their financial health are flashing red"
+      ],
+      "vocab": [
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "renters",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "serious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "trouble",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "several",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "financial",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "Café Europa newsletter: The story of Rus…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/europe/2026/11/03/cafe-europa-newsletter-the-story-of-russias-last-free-newspaper",
+      "sentences": [
+        "Café Europa newsletter: The story of Russia’s last free newspaper.",
+        "Matt Steinglass, our Europe editor, meets the larger-than-life character behind Novaya Gazeta"
       ],
       "vocab": [
         {
@@ -141,263 +211,89 @@
           "cn": "（查词典）"
         },
         {
-          "w": "fighter-jet",
+          "w": "newspaper",
           "cn": "（查词典）"
         },
         {
-          "w": "dilemma",
+          "w": "steinglass",
           "cn": "（查词典）"
         },
         {
-          "w": "defence",
+          "w": "larger-than-life",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "character",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-americas/2026/11/02/the-war-room-newsletter-canadas-fighter-jet-dilemma",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "The fight for the soul of the Australian…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
-      "sentences": [
-        "The fight for the soul of the Australian right.",
-        "Can a special-forces veteran stop the rise of Pauline Hanson?"
-      ],
-      "vocab": [
-        {
-          "w": "australian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "special-forces",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "veteran",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pauline",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "A new path to political power in China r…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
-      "sentences": [
-        "A new path to political power in China runs through state firms.",
-        "China Inc has become a breeding ground for up-and-coming officials"
-      ],
-      "vocab": [
-        {
-          "w": "political",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "breeding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "up-and-coming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "officials",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+      "link": "https://www.economist.com/europe/2026/11/03/cafe-europa-newsletter-the-story-of-russias-last-free-newspaper",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "How is King Charles III doing?",
+      "title": "Blighty newsletter: Postcard from Antigu…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/11/02/how-is-king-charles-iii-doing",
+      "intro": "原文：https://www.economist.com/britain/2026/11/03/blighty-newsletter-postcard-from-antigua-thinking-of-eu",
       "sentences": [
-        "How is King Charles III doing?.",
-        "Not least because he has stopped complaining"
+        "Blighty newsletter: Postcard from Antigua—thinking of EU.",
+        "Hugo Gye, our Britain political correspondent, interviews Andy Burnham from the Caribbean"
       ],
       "vocab": [
         {
-          "w": "charles",
+          "w": "blighty",
           "cn": "（查词典）"
         },
         {
-          "w": "stopped",
+          "w": "newsletter",
           "cn": "（查词典）"
         },
         {
-          "w": "complaining",
+          "w": "postcard",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "antigua",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thinking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "britain",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/11/02/how-is-king-charles-iii-doing",
+      "link": "https://www.economist.com/britain/2026/11/03/blighty-newsletter-postcard-from-antigua-thinking-of-eu",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "Off to the races: our American-midterms …",
+      "title": "Middle East Dispatch newsletter: How Pal…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/02/off-to-the-races-our-american-midterms-preview",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/03/middle-east-dispatch-newsletter-how-palestinians-voted-in-israels-election",
       "sentences": [
-        "Off to the races: our American-midterms preview.",
-        "Also on the daily podcast: young people swap the property ladder for the markets and lessons in fame from Harry Houdini"
+        "Middle East Dispatch newsletter: How Palestinians voted in Israel’s election.",
+        "Nicolas Pelham, our Middle East correspondent, looks at the Palestinians choosing participation over confrontation"
       ],
       "vocab": [
         {
-          "w": "american-midterms",
+          "w": "dispatch",
           "cn": "（查词典）"
         },
         {
-          "w": "preview",
+          "w": "newsletter",
           "cn": "（查词典）"
         },
         {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "property",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lessons",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/02/off-to-the-races-our-american-midterms-preview",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Andy Burnham reveals his lack of ambitio…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/02/andy-burnham-reveals-his-lack-of-ambition",
-      "sentences": [
-        "Andy Burnham reveals his lack of ambition.",
-        "A handpicked article read aloud from the latest issue of The Economist"
-      ],
-      "vocab": [
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reveals",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ambition",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "handpicked",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "article",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/02/andy-burnham-reveals-his-lack-of-ambition",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Hackers are running riot with AI. Its ma…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-      "sentences": [
-        "Hackers are running riot with AI.",
-        "Its makers want to cash in.",
-        "OpenAI and Anthropic spy a big opportunity in cyber-security"
-      ],
-      "vocab": [
-        {
-          "w": "hackers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "running",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anthropic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "opportunity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-security",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Forget Michigan. A disaster in Alaska co…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
-      "sentences": [
-        "A disaster in Alaska could cost Democrats the Senate.",
-        "The northernmost state has become the epicentre of election chicanery"
-      ],
-      "vocab": [
-        {
-          "w": "disaster",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "northernmost",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "epicentre",
+          "w": "palestinians",
           "cn": "（查词典）"
         },
         {
@@ -405,44 +301,143 @@
           "cn": "（查词典）"
         },
         {
-          "w": "chicanery",
+          "w": "nicolas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "correspondent",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/03/middle-east-dispatch-newsletter-how-palestinians-voted-in-israels-election",
       "audio": ""
     },
     {
-      "id": "rss-economist-12",
-      "title": "How the Houthis built their war machine",
+      "id": "rss-economist-9",
+      "title": "What goes on behind the doors of Claridg…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/01/how-the-houthis-built-their-war-machine",
+      "intro": "原文：https://www.economist.com/culture/2026/11/03/what-goes-on-behind-the-doors-of-claridges",
       "sentences": [
-        "How the Houthis built their war machine.",
-        "The rebels in Yemen are outgrowing their dependence on their patron"
+        "What goes on behind the doors of Claridge’s?.",
+        "A new book gives readers a key card to the storied hotel’s past"
       ],
       "vocab": [
         {
-          "w": "houthis",
+          "w": "claridge",
           "cn": "（查词典）"
         },
         {
-          "w": "machine",
+          "w": "readers",
           "cn": "（查词典）"
         },
         {
-          "w": "outgrowing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dependence",
+          "w": "storied",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/01/how-the-houthis-built-their-war-machine",
+      "link": "https://www.economist.com/culture/2026/11/03/what-goes-on-behind-the-doors-of-claridges",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "The rise of leisure in China",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/03/the-rise-of-leisure-in-china",
+      "sentences": [
+        "Our weekly podcast on China.",
+        "This week, how is the Chinese work ethic changing?"
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "changing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/03/the-rise-of-leisure-in-china",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "US midterms 2026: live results",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/interactive/2026/us-midterms/results/summary",
+      "sentences": [
+        "US midterms 2026: live results.",
+        "Follow all the races in the Senate and the House of Representatives"
+      ],
+      "vocab": [
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "results",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "representatives",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "Plot Twist newsletter: Winston Churchill…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/03/plot-twist-newsletter-winston-churchill-and-the-power-of-hobbies",
+      "sentences": [
+        "Plot Twist newsletter: Winston Churchill and the power of hobbies.",
+        "Alexandra Suich Bass, our Culture editor, paints a picture of the most pleasurable pastimes"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "winston",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "churchill",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hobbies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alexandra",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "culture",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/03/plot-twist-newsletter-winston-churchill-and-the-power-of-hobbies",
       "audio": ""
     }
   ]
