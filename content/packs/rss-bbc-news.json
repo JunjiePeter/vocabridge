@@ -1,258 +1,36 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-04",
+  "name": "BBC News · Top Stories · 2026-11-05",
   "type": "passage",
-  "generatedAt": "2026-11-04T02:13:59.262Z",
+  "generatedAt": "2026-11-05T02:24:26.616Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "When will we know the results?",
+      "title": "Chris Mason: The US elections will chang…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "When will we know the results?.",
-        "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks."
+        "Chris Mason: The US elections will change Trump - how will Burnham react?.",
+        "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?"
       ],
       "vocab": [
         {
-          "w": "results",
+          "w": "elections",
           "cn": "（查词典）"
         },
         {
-          "w": "possible",
+          "w": "burnham",
           "cn": "（查词典）"
         },
         {
-          "w": "projected",
+          "w": "question",
           "cn": "（查词典）"
         },
         {
-          "w": "several",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "US voters name economy and state of demo…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US voters name economy and state of democracy as top issues, poll says.",
-        "A major election day survey suggests voters are the most unhappy with the economy."
-      ],
-      "vocab": [
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democracy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "election",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suggests",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unhappy",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "How the US midterm results could unfold …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How the US midterm results could unfold - as millions of Americans head to the polls.",
-        "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country."
-      ],
-      "vocab": [
-        {
-          "w": "midterm",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "results",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "millions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "americans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Democratic rising star Ossoff projected …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Democratic rising star Ossoff projected to hold Georgia seat.",
-        "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring."
-      ],
-      "vocab": [
-        {
-          "w": "potential",
-          "cn": "潜在的；潜力"
-        },
-        {
-          "w": "democratic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "projected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "georgia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leading",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contender",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "The key US Senate races to watch",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The key US Senate races to watch.",
-        "All eyes are on a handful of Senate races that will decide control of the prized upper chamber."
-      ],
-      "vocab": [
-        {
-          "w": "handful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "control",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chamber",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Spanish transport minister resigns days …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Spanish transport minister resigns days after deadly train crash.",
-        "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
-      ],
-      "vocab": [
-        {
-          "w": "spanish",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transport",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "resigns",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "injured",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collision",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "King calls slave trade a 'shameful chapt…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "King calls slave trade a 'shameful chapter' during Commonwealth address.",
-        "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
-      ],
-      "vocab": [
-        {
-          "w": "'shameful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chapter'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commonwealth",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "address",
+          "w": "british",
           "cn": "（查词典）"
         },
         {
@@ -260,147 +38,98 @@
           "cn": "（查词典）"
         },
         {
-          "w": "apology",
+          "w": "president",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-8",
-      "title": "'Multi-cancer' blood tests coming to som…",
+      "id": "rss-bbc-news-2",
+      "title": "Pound rises to its highest level since t…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "'Multi-cancer' blood tests coming to some GP surgeries soon.",
-        "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner."
+        "Pound rises to its highest level since the Brexit referendum.",
+        "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago"
       ],
       "vocab": [
         {
-          "w": "'multi-cancer'",
+          "w": "highest",
           "cn": "（查词典）"
         },
         {
-          "w": "surgeries",
+          "w": "referendum",
           "cn": "（查词典）"
         },
         {
-          "w": "hard-to-diagnose",
+          "w": "reaches",
           "cn": "（查词典）"
         },
         {
-          "w": "abdominal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cancers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ovarian",
+          "w": "currencies",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-9",
-      "title": "Celebrity loses injunction bid but will …",
+      "id": "rss-bbc-news-3",
+      "title": "The NHS is relying more on charities - a…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Celebrity loses injunction bid but will stay anonymous pending appeal.",
-        "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him."
+        "The NHS is relying more on charities - and that might be creating problems for patients.",
+        "Is it symptom a health service at breaking point - or a positive way of involving the public?"
       ],
       "vocab": [
         {
-          "w": "celebrity",
+          "w": "relying",
           "cn": "（查词典）"
         },
         {
-          "w": "injunction",
+          "w": "charities",
           "cn": "（查词典）"
         },
         {
-          "w": "anonymous",
+          "w": "creating",
           "cn": "（查词典）"
         },
         {
-          "w": "pending",
+          "w": "problems",
           "cn": "（查词典）"
         },
         {
-          "w": "unnamed",
+          "w": "patients",
           "cn": "（查词典）"
         },
         {
-          "w": "identity",
+          "w": "symptom",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-10",
-      "title": "No more rice grains in Kellogg's Rice Kr…",
+      "id": "rss-bbc-news-4",
+      "title": "Ukraine says bodycam video shows deadly …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "No more rice grains in Kellogg's Rice Krispies due to changing weather.",
-        "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning."
-      ],
-      "vocab": [
-        {
-          "w": "kellogg's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "krispies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "changing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "weather",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recipes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "packaging",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-11",
-      "title": "Death toll rises in Ukraine after Russia…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital.",
-        "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
+        "Ukraine says bodycam video shows deadly Russian double-tap bombing.",
+        "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
       ],
       "vocab": [
         {
@@ -408,64 +137,343 @@
           "cn": "（查词典）"
         },
         {
-          "w": "attacks",
+          "w": "bodycam",
           "cn": "（查词典）"
         },
         {
-          "w": "hospice",
+          "w": "russian",
           "cn": "（查词典）"
         },
         {
-          "w": "hospital",
+          "w": "double-tap",
           "cn": "（查词典）"
         },
         {
-          "w": "ukraine's",
+          "w": "bombing",
           "cn": "（查词典）"
         },
         {
-          "w": "volodymyr",
+          "w": "another",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-12",
-      "title": "Andrew Mountbatten-Windsor called to giv…",
+      "id": "rss-bbc-news-5",
+      "title": "Interest rates expected to rise for firs…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December.",
-        "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial."
+        "Interest rates expected to rise for first time in over three years.",
+        "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years."
       ],
       "vocab": [
         {
-          "w": "mountbatten-windsor",
+          "w": "interest",
           "cn": "（查词典）"
         },
         {
-          "w": "evidence",
+          "w": "expected",
           "cn": "（查词典）"
         },
         {
-          "w": "december",
+          "w": "analysts",
           "cn": "（查词典）"
         },
         {
-          "w": "summonsed",
+          "w": "predicting",
           "cn": "（查词典）"
         },
         {
-          "w": "businessman's",
+          "w": "increase",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "British man infected with Ebola in DR Co…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "British man infected with Ebola in DR Congo to be flown back to UK.",
+        "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says."
+      ],
+      "vocab": [
+        {
+          "w": "british",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "infected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "remains",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spokesperson",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Typhoons batter East Asia as El Niño mak…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'.",
+        "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
+      ],
+      "vocab": [
+        {
+          "w": "typhoons",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pacific",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "countries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "brought",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unusually",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weather",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Police in Scotland to escort fire crews …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder.",
+        "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump."
+      ],
+      "vocab": [
+        {
+          "w": "scotland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "crackdown",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bonfire",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "disorder",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "officers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "deployed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Why a US-funded vaccine trial on babies …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau.",
+        "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine."
+      ],
+      "vocab": [
+        {
+          "w": "us-funded",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vaccine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cancelled",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "guinea-bissau",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "condemned",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unethical",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-10",
+      "title": "Mother and daughter die after suspected …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Mother and daughter die after suspected grizzly bear attack in Canada.",
+        "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths."
+      ],
+      "vocab": [
+        {
+          "w": "daughter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "grizzly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "authorities",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "british",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "columbia",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-11",
+      "title": "World record 51 red cards shown in Brazi…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "World record 51 red cards shown in Brazilian youth game.",
+        "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil."
+      ],
+      "vocab": [
+        {
+          "w": "brazilian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "players",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "members",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "championship",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "uberlandia",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-12",
+      "title": "Five reasons why Republicans lost so bad…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Five reasons why Republicans lost so badly.",
+        "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats."
+      ],
+      "vocab": [
+        {
+          "w": "reasons",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "republicans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unpopular",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "americans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "traditional",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

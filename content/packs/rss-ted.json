@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-04",
+  "name": "TED Talks · Daily · 2026-11-05",
   "type": "passage",
-  "generatedAt": "2026-11-04T02:13:59.937Z",
+  "generatedAt": "2026-11-05T02:24:27.954Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "5 ideas for better government in the US …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/jeffmaurer",
+      "sentences": [
+        "Should the US Constitution protect your DNA?",
+        "Entrepreneur Jeff Maurer spent his youth fighting fires alongside World War II veterans, and he thinks the spirit that united them can power America's next 250 years.",
+        "He proposes five new amendments to the US Constitution — from protecting privacy to holding politicians accountable — and shares what it would take to get them passed.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "constitution",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "protect",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "entrepreneur",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fighting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alongside",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "veterans",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/jeffmaurer",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "What kids wish their parents knew about …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +91,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "The couples therapists who nearly got di…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -90,7 +133,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Sunday Pick: Do all my friends secretly …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -137,7 +180,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "The haunting truth of ghost stories | Co…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -170,7 +213,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "What crows teach us about death | Kaeli …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -210,50 +253,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66b9898b58b8b524628ef/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "The razor-thin line between contagion an…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/dantaberski",
-      "sentences": [
-        "After a mysterious wave of tics and twitches swept through a small-town high school in New York, documentary podcaster Dan Taberski set out to investigate what was really happening.",
-        "Drawing on extensive research and intimate interviews with the people involved, he explores the roots of mass hysteria — and what it reveals about the line between illness and belonging.",
-        "What happens when the very thing that makes us sick ...",
-        "is also what connects us?",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "mysterious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "twitches",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "small-town",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "documentary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "podcaster",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "taberski",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/dantaberski",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66ac598b58b8b524628ee/media.mp3"
     }
   ]
 }

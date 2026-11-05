@@ -1,20 +1,131 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-04",
+  "name": "BBC News · Business · 2026-11-05",
   "type": "passage",
-  "generatedAt": "2026-11-04T02:13:59.394Z",
+  "generatedAt": "2026-11-05T02:24:26.654Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Poundland supplier 'will lose millions' …",
+      "title": "Interest rates expected to rise for firs…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Interest rates expected to rise for first time in over three years.",
+        "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years."
+      ],
+      "vocab": [
+        {
+          "w": "interest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "analysts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "predicting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "increase",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Pound rises to its highest level since t…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Pound rises to its highest level since the Brexit referendum.",
+        "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago"
+      ],
+      "vocab": [
+        {
+          "w": "highest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "referendum",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reaches",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "currencies",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Elon Musk's millions failed to deliver R…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elon Musk's millions failed to deliver Republican wins in fierce midterms.",
+        "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record."
+      ],
+      "vocab": [
+        {
+          "w": "millions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "deliver",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "republican",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterm",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "elections",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Poundland owner in crunch talks as retai…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Poundland supplier 'will lose millions' if retailer collapses.",
-        "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under."
+        "Poundland owner in crunch talks as retailer's collapse looms.",
+        "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland."
       ],
       "vocab": [
         {
@@ -22,23 +133,23 @@
           "cn": "（查词典）"
         },
         {
-          "w": "supplier",
+          "w": "retailer's",
           "cn": "（查词典）"
         },
         {
-          "w": "millions'",
+          "w": "collapse",
           "cn": "（查词典）"
         },
         {
-          "w": "retailer",
+          "w": "brothers",
           "cn": "（查词典）"
         },
         {
-          "w": "collapses",
+          "w": "jonathan",
           "cn": "（查词典）"
         },
         {
-          "w": "poundland's",
+          "w": "reynolds",
           "cn": "（查词典）"
         }
       ],
@@ -46,45 +157,16 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "UK and EU agree draft deal to scrap Brex…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK and EU agree draft deal to scrap Brexit red tape over food exports.",
-        "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
-      ],
-      "vocab": [
-        {
-          "w": "significant",
-          "cn": "重大的"
-        },
-        {
-          "w": "so-called",
-          "cn": "所谓的"
-        },
-        {
-          "w": "exports",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-3",
-      "title": "No more rice grains in Kellogg's Rice Kr…",
+      "id": "rss-bbc-biz-5",
+      "title": "Kellogg's admits snap, crackle and pop i…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "No more rice grains in Kellogg's Rice Krispies due to changing weather.",
-        "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning."
+        "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change.",
+        "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online."
       ],
       "vocab": [
         {
@@ -92,101 +174,27 @@
           "cn": "（查词典）"
         },
         {
+          "w": "crackle",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "quieter",
+          "cn": "（查词典）"
+        },
+        {
           "w": "krispies",
           "cn": "（查词典）"
         },
         {
-          "w": "changing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "weather",
+          "w": "changed",
           "cn": "（查词典）"
         },
         {
           "w": "recipes",
           "cn": "（查词典）"
-        },
-        {
-          "w": "packaging",
-          "cn": "（查词典）"
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
-      "title": "Binance says fake job interviews used as…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Binance says fake job interviews used as part of $6.3bn crypto hack.",
-        "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interviews",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "engineer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contacted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "legitimate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "job-hunting",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "Canva announces major job cuts after 'ou…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Canva announces major job cuts after 'our hardest year yet'.",
-        "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles."
-      ],
-      "vocab": [
-        {
-          "w": "announces",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hardest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "melanie",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "perkins",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
@@ -232,6 +240,150 @@
     },
     {
       "id": "rss-bbc-biz-7",
+      "title": "UK and EU agree draft deal to scrap Brex…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "UK and EU agree draft deal to scrap Brexit red tape over food exports.",
+        "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+      ],
+      "vocab": [
+        {
+          "w": "significant",
+          "cn": "重大的"
+        },
+        {
+          "w": "so-called",
+          "cn": "所谓的"
+        },
+        {
+          "w": "exports",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Australia's oldest department store Davi…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Australia's oldest department store David Jones collapses after 188 years.",
+        "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
+      ],
+      "vocab": [
+        {
+          "w": "australia's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "department",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collapses",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "brand's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "physical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continue",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Binance says fake job interviews used as…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Binance says fake job interviews used as part of $6.3bn crypto hack.",
+        "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
+      ],
+      "vocab": [
+        {
+          "w": "binance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "interviews",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "engineer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contacted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "legitimate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "job-hunting",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
+      "title": "Canva announces major job cuts after 'ou…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Canva announces major job cuts after 'our hardest year yet'.",
+        "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles."
+      ],
+      "vocab": [
+        {
+          "w": "announces",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hardest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "melanie",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "perkins",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-11",
       "title": "Drivers may get compensation offers befo…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -272,7 +424,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-12",
       "title": "Asda hires ex-Morrisons boss in bid to g…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -294,170 +446,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Mining giant joins fight to stop killer …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Mining giant joins fight to stop killer toad march across Australia.",
-        "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region."
-      ],
-      "vocab": [
-        {
-          "w": "australia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jointly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "funding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "containment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "protect",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pilbara",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "From scooters to shampoo - the people sa…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "From scooters to shampoo - the people saving hundreds from dumpster diving.",
-        "The men and women who rummage through commercial bins to take clothes and other items."
-      ],
-      "vocab": [
-        {
-          "w": "scooters",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shampoo",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hundreds",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dumpster",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rummage",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commercial",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "'Quiet quitting' could be hitting the ec…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'Quiet quitting' could be hitting the economy - here's why.",
-        "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found."
-      ],
-      "vocab": [
-        {
-          "w": "quitting'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hitting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "britons",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "engaged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "willing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Shop freezers in seven European countrie…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Shop freezers in seven European countries hit by cyber-attack.",
-        "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
-      ],
-      "vocab": [
-        {
-          "w": "freezers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "european",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "countries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-attack",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "temperature",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "several",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

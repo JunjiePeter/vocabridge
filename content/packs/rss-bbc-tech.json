@@ -1,11 +1,93 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-04",
+  "name": "BBC News · Technology · 2026-11-05",
   "type": "passage",
-  "generatedAt": "2026-11-04T02:13:59.317Z",
+  "generatedAt": "2026-11-05T02:24:26.634Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Elon Musk's millions failed to deliver R…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elon Musk's millions failed to deliver Republican wins in fierce midterms.",
+        "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record."
+      ],
+      "vocab": [
+        {
+          "w": "millions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "deliver",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "republican",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterm",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "elections",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "French blood storage impacted by freezer…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "French blood storage impacted by freezer hacks as theories swirl about culprits.",
+        "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
+      ],
+      "vocab": [
+        {
+          "w": "storage",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "impacted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "freezer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "theories",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "culprits",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "establishment",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
       "title": "Graduates are managing AI - but are they…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +128,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-4",
       "title": "Binance says fake job interviews used as…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +169,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-5",
       "title": "UK meat industry hit by cyber-attack whi…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +210,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-6",
       "title": "Apple unsure when it will get more folda…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-7",
       "title": "North Korea denies being behind record $…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +292,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-8",
       "title": "If hackers can take control of a superma…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -251,7 +333,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-9",
       "title": "Binance users withdraw $3.6bn after larg…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -292,7 +374,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-10",
       "title": "These firms you've never heard of are fe…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -325,7 +407,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-11",
       "title": "Why North Korea's 'elite' hackers are th…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -366,7 +448,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-12",
       "title": "US tech stocks see sharp falls as AI spe…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -392,72 +474,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Google value plunges by $500bn as its ow…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Google value plunges by $500bn as its own AI search hits ad sales.",
-        "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue."
-      ],
-      "vocab": [
-        {
-          "w": "plunges",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spooked",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investors",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "six-month",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revealed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "summaries",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Who could be behind the Binance hack and…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Who could be behind the Binance hack and what we know so far.",
-        "Binance has been hit by be the biggest crypto hack ever - here's what we know so far."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biggest",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

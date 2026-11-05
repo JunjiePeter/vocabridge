@@ -1,168 +1,110 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-04",
+  "name": "The Economist · Latest · 2026-11-05",
   "type": "passage",
-  "generatedAt": "2026-11-04T02:13:59.492Z",
+  "generatedAt": "2026-11-05T02:24:27.321Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Live briefing: will it be a blue wave?",
+      "title": "A political revolution in Texas",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/03/midterms-coverage",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
       "sentences": [
-        "Live briefing: will it be a blue wave?.",
-        "Results, reactions and up-to-the-minute analysis from our editors and correspondents"
+        "A political revolution in Texas.",
+        "What will Democrats do with control of America’s most iconic red state?"
       ],
       "vocab": [
         {
-          "w": "briefing",
+          "w": "political",
           "cn": "（查词典）"
         },
         {
-          "w": "results",
+          "w": "revolution",
           "cn": "（查词典）"
         },
         {
-          "w": "reactions",
+          "w": "democrats",
           "cn": "（查词典）"
         },
         {
-          "w": "up-to-the-minute",
+          "w": "control",
           "cn": "（查词典）"
         },
         {
-          "w": "analysis",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "editors",
+          "w": "america",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
+      "link": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Fear united Europe. Nationalism may tear…",
+      "title": "What markets make of the midterms",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
       "sentences": [
-        "Nationalism may tear it apart.",
-        "Donald Trump and Vladimir Putin made Europe serious about its own defences."
+        "What markets make of the midterms."
       ],
       "vocab": [
         {
-          "w": "nationalism",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "vladimir",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "serious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defences",
+          "w": "midterms",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "China’s AI stock-market struggles are a …",
+      "title": "How Democrats will wield their new power",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
       "sentences": [
-        "China’s AI stock-market struggles are a warning.",
-        "What happens when the supply of new tech catches up with demand?"
+        "How Democrats will wield their new power.",
+        "It will be hard to pass laws, but expect a torrent of investigations"
       ],
       "vocab": [
         {
-          "w": "stock-market",
+          "w": "democrats",
           "cn": "（查词典）"
         },
         {
-          "w": "struggles",
+          "w": "torrent",
           "cn": "（查词典）"
         },
         {
-          "w": "warning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "happens",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "catches",
+          "w": "investigations",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+      "link": "https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "Besieged by war, Saudi Aramco continues …",
+      "title": "Can the pope’s long tour of Latin Americ…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
+      "intro": "原文：https://www.economist.com/the-americas/2026/11/04/can-the-popes-long-tour-of-latin-america-win-back-godless-youth",
       "sentences": [
-        "Besieged by war, Saudi Aramco continues to gush profits.",
-        "Higher oil prices comfortably make up for bombed facilities"
-      ],
-      "vocab": [
-        {
-          "w": "besieged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continues",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "profits",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "comfortably",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "facilities",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "America’s renters are in serious trouble",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-      "sentences": [
-        "America’s renters are in serious trouble.",
-        "Several gauges of their financial health are flashing red"
+        "Can the pope’s long tour of Latin America win back godless youth?.",
+        "Feminism and mysticism are providing reasons to question the faith"
       ],
       "vocab": [
         {
@@ -170,188 +112,242 @@
           "cn": "（查词典）"
         },
         {
-          "w": "renters",
+          "w": "godless",
           "cn": "（查词典）"
         },
         {
-          "w": "serious",
+          "w": "feminism",
           "cn": "（查词典）"
         },
         {
-          "w": "trouble",
+          "w": "mysticism",
           "cn": "（查词典）"
         },
         {
-          "w": "several",
+          "w": "providing",
           "cn": "（查词典）"
         },
         {
-          "w": "financial",
+          "w": "reasons",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+      "link": "https://www.economist.com/the-americas/2026/11/04/can-the-popes-long-tour-of-latin-america-win-back-godless-youth",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "The latest Ebola outbreak could be the w…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/04/the-latest-ebola-outbreak-could-be-the-worst-ever",
+      "sentences": [
+        "The latest Ebola outbreak could be the worst ever.",
+        "New cases in Kenya and Nigeria show that the outbreak is unchecked"
+      ],
+      "vocab": [
+        {
+          "w": "outbreak",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nigeria",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unchecked",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/04/the-latest-ebola-outbreak-could-be-the-worst-ever",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "Café Europa newsletter: The story of Rus…",
+      "title": "With an eye on America, China is beefing…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/11/03/cafe-europa-newsletter-the-story-of-russias-last-free-newspaper",
+      "intro": "原文：https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
       "sentences": [
-        "Café Europa newsletter: The story of Russia’s last free newspaper.",
-        "Matt Steinglass, our Europe editor, meets the larger-than-life character behind Novaya Gazeta"
+        "With an eye on America, China is beefing up its AI-controlled labs.",
+        "By automating scientific research it hopes to strengthen its industrial muscle"
       ],
       "vocab": [
         {
-          "w": "newsletter",
+          "w": "america",
           "cn": "（查词典）"
         },
         {
-          "w": "newspaper",
+          "w": "beefing",
           "cn": "（查词典）"
         },
         {
-          "w": "steinglass",
+          "w": "ai-controlled",
           "cn": "（查词典）"
         },
         {
-          "w": "larger-than-life",
+          "w": "automating",
           "cn": "（查词典）"
         },
         {
-          "w": "character",
+          "w": "scientific",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "research",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/europe/2026/11/03/cafe-europa-newsletter-the-story-of-russias-last-free-newspaper",
+      "link": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "Blighty newsletter: Postcard from Antigu…",
+      "title": "AI models can tinker with one another’s …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/11/03/blighty-newsletter-postcard-from-antigua-thinking-of-eu",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains",
       "sentences": [
-        "Blighty newsletter: Postcard from Antigua—thinking of EU.",
-        "Hugo Gye, our Britain political correspondent, interviews Andy Burnham from the Caribbean"
+        "AI models can tinker with one another’s brains.",
+        "For now, the tweaks are relatively small-scale"
       ],
       "vocab": [
         {
-          "w": "blighty",
+          "w": "another",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "relatively",
           "cn": "（查词典）"
         },
         {
-          "w": "postcard",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "antigua",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thinking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "britain",
+          "w": "small-scale",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/11/03/blighty-newsletter-postcard-from-antigua-thinking-of-eu",
+      "link": "https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "Middle East Dispatch newsletter: How Pal…",
+      "title": "Drones don’t just blow up the enemy",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/03/middle-east-dispatch-newsletter-how-palestinians-voted-in-israels-election",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy",
       "sentences": [
-        "Middle East Dispatch newsletter: How Palestinians voted in Israel’s election.",
-        "Nicolas Pelham, our Middle East correspondent, looks at the Palestinians choosing participation over confrontation"
+        "Drones don’t just blow up the enemy.",
+        "They can also pick up on radio transmissions to identify future targets"
       ],
       "vocab": [
         {
-          "w": "dispatch",
+          "w": "transmissions",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "identify",
           "cn": "（查词典）"
         },
         {
-          "w": "palestinians",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "election",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nicolas",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
+          "w": "targets",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/03/middle-east-dispatch-newsletter-how-palestinians-voted-in-israels-election",
+      "link": "https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy",
       "audio": ""
     },
     {
       "id": "rss-economist-9",
-      "title": "What goes on behind the doors of Claridg…",
+      "title": "OpenAI’s approach to mathematics does no…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/03/what-goes-on-behind-the-doors-of-claridges",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
       "sentences": [
-        "What goes on behind the doors of Claridge’s?.",
-        "A new book gives readers a key card to the storied hotel’s past"
+        "OpenAI’s approach to mathematics does not add up.",
+        "Two months after the firm’s initial advances, its lack of transparency is still causing problems"
       ],
       "vocab": [
         {
-          "w": "claridge",
+          "w": "approach",
           "cn": "（查词典）"
         },
         {
-          "w": "readers",
+          "w": "mathematics",
           "cn": "（查词典）"
         },
         {
-          "w": "storied",
+          "w": "initial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "advances",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transparency",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "causing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/culture/2026/11/03/what-goes-on-behind-the-doors-of-claridges",
+      "link": "https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
       "audio": ""
     },
     {
       "id": "rss-economist-10",
-      "title": "The rise of leisure in China",
+      "title": "Astronomers are mystified by little red …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/03/the-rise-of-leisure-in-china",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/astronomers-are-mystified-by-little-red-dots-in-the-sky",
       "sentences": [
-        "Our weekly podcast on China.",
-        "This week, how is the Chinese work ethic changing?"
+        "Astronomers are mystified by little red dots in the sky.",
+        "They could be the universe’s first supermassive black holes"
+      ],
+      "vocab": [
+        {
+          "w": "astronomers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mystified",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "universe",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "supermassive",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/04/astronomers-are-mystified-by-little-red-dots-in-the-sky",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "AI eats science 3: artificial researcher…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/04/ai-eats-science-3-artificial-researchers",
+      "sentences": [
+        "Our podcast on science and technology.",
+        "This week, the third episode of our four-part series on how scientists are grappling with AI"
       ],
       "vocab": [
         {
@@ -359,85 +355,68 @@
           "cn": "（查词典）"
         },
         {
-          "w": "chinese",
+          "w": "science",
           "cn": "（查词典）"
         },
         {
-          "w": "changing",
+          "w": "technology",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "episode",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "four-part",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scientists",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/03/the-rise-of-leisure-in-china",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "US midterms 2026: live results",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/interactive/2026/us-midterms/results/summary",
-      "sentences": [
-        "US midterms 2026: live results.",
-        "Follow all the races in the Senate and the House of Representatives"
-      ],
-      "vocab": [
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "results",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "representatives",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+      "link": "https://www.economist.com/podcasts/2026/11/04/ai-eats-science-3-artificial-researchers",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "Plot Twist newsletter: Winston Churchill…",
+      "title": "Explaining the popularity of Max Richter…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/03/plot-twist-newsletter-winston-churchill-and-the-power-of-hobbies",
+      "intro": "原文：https://www.economist.com/culture/2026/11/04/explaining-the-popularity-of-max-richters-compositions",
       "sentences": [
-        "Plot Twist newsletter: Winston Churchill and the power of hobbies.",
-        "Alexandra Suich Bass, our Culture editor, paints a picture of the most pleasurable pastimes"
+        "Explaining the popularity of Max Richter’s compositions.",
+        "The classical composer manages to spin even serious subjects into gold"
       ],
       "vocab": [
         {
-          "w": "newsletter",
+          "w": "explaining",
           "cn": "（查词典）"
         },
         {
-          "w": "winston",
+          "w": "popularity",
           "cn": "（查词典）"
         },
         {
-          "w": "churchill",
+          "w": "richter",
           "cn": "（查词典）"
         },
         {
-          "w": "hobbies",
+          "w": "compositions",
           "cn": "（查词典）"
         },
         {
-          "w": "alexandra",
+          "w": "classical",
           "cn": "（查词典）"
         },
         {
-          "w": "culture",
+          "w": "composer",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/culture/2026/11/03/plot-twist-newsletter-winston-churchill-and-the-power-of-hobbies",
+      "link": "https://www.economist.com/culture/2026/11/04/explaining-the-popularity-of-max-richters-compositions",
       "audio": ""
     }
   ]
