@@ -1,11 +1,93 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-05",
+  "name": "BBC News · Technology · 2026-11-06",
   "type": "passage",
-  "generatedAt": "2026-11-05T02:24:26.634Z",
+  "generatedAt": "2026-11-06T02:25:12.835Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Major tech stocks plunge as US midterms …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Major tech stocks plunge as US midterms add to fears of AI slowdown.",
+        "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+      ],
+      "vocab": [
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "slowdown",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "markets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reacting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "possible",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tougher",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "The engine parts that 'fight the laws of…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The engine parts that 'fight the laws of the universe'.",
+        "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
+      ],
+      "vocab": [
+        {
+          "w": "universe'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "turbine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "extremely",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "difficult",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "component",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
       "title": "Elon Musk's millions failed to deliver R…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +128,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-4",
       "title": "French blood storage impacted by freezer…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +169,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-5",
       "title": "Graduates are managing AI - but are they…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +210,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-6",
       "title": "Binance says fake job interviews used as…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-7",
       "title": "UK meat industry hit by cyber-attack whi…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +292,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-8",
       "title": "Apple unsure when it will get more folda…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -251,7 +333,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-9",
       "title": "North Korea denies being behind record $…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -292,7 +374,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-10",
       "title": "If hackers can take control of a superma…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -333,7 +415,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-11",
       "title": "Binance users withdraw $3.6bn after larg…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -374,7 +456,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-12",
       "title": "These firms you've never heard of are fe…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -404,76 +486,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Why North Korea's 'elite' hackers are th…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack.",
-        "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
-      ],
-      "vocab": [
-        {
-          "w": "korea's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'elite'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hackers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspect",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accusations",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "US tech stocks see sharp falls as AI spe…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US tech stocks see sharp falls as AI spending nears $1tn.",
-        "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-      ],
-      "vocab": [
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continue",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tech-heavy",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

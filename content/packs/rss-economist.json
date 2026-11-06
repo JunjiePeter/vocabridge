@@ -1,56 +1,20 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-05",
+  "name": "The Economist · Latest · 2026-11-06",
   "type": "passage",
-  "generatedAt": "2026-11-05T02:24:27.321Z",
+  "generatedAt": "2026-11-06T02:25:13.014Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "A political revolution in Texas",
+      "title": "Markets realise they hate America’s blue…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
       "sentences": [
-        "A political revolution in Texas.",
-        "What will Democrats do with control of America’s most iconic red state?"
-      ],
-      "vocab": [
-        {
-          "w": "political",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revolution",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "control",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-2",
-      "title": "What markets make of the midterms",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
-      "sentences": [
-        "What markets make of the midterms."
+        "Markets realise they hate America’s blue wave.",
+        "Investors worry that Democratic dominance will slow down the AI boom"
       ],
       "vocab": [
         {
@@ -58,296 +22,81 @@
           "cn": "（查词典）"
         },
         {
-          "w": "midterms",
+          "w": "realise",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democratic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dominance",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Transcript: An interview with Andy Burnh…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/britain/2026/11/05/transcript-an-interview-with-andy-burnham",
+      "sentences": [
+        "Transcript: An interview with Andy Burnham.",
+        "Britain’s prime minister talks to The Economist about foreign policy and the economy"
+      ],
+      "vocab": [
+        {
+          "w": "transcript",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "interview",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "britain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economist",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/britain/2026/11/05/transcript-an-interview-with-andy-burnham",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "How Democrats will wield their new power",
+      "title": "Why big law has big problems",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/05/why-big-law-has-big-problems",
       "sentences": [
-        "How Democrats will wield their new power.",
-        "It will be hard to pass laws, but expect a torrent of investigations"
-      ],
-      "vocab": [
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "torrent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigations",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Can the pope’s long tour of Latin Americ…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-americas/2026/11/04/can-the-popes-long-tour-of-latin-america-win-back-godless-youth",
-      "sentences": [
-        "Can the pope’s long tour of Latin America win back godless youth?.",
-        "Feminism and mysticism are providing reasons to question the faith"
-      ],
-      "vocab": [
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "godless",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "feminism",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mysticism",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "providing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reasons",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-americas/2026/11/04/can-the-popes-long-tour-of-latin-america-win-back-godless-youth",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "The latest Ebola outbreak could be the w…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/04/the-latest-ebola-outbreak-could-be-the-worst-ever",
-      "sentences": [
-        "The latest Ebola outbreak could be the worst ever.",
-        "New cases in Kenya and Nigeria show that the outbreak is unchecked"
-      ],
-      "vocab": [
-        {
-          "w": "outbreak",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nigeria",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unchecked",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/04/the-latest-ebola-outbreak-could-be-the-worst-ever",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "With an eye on America, China is beefing…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
-      "sentences": [
-        "With an eye on America, China is beefing up its AI-controlled labs.",
-        "By automating scientific research it hopes to strengthen its industrial muscle"
-      ],
-      "vocab": [
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "beefing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ai-controlled",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "automating",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scientific",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "research",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "AI models can tinker with one another’s …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains",
-      "sentences": [
-        "AI models can tinker with one another’s brains.",
-        "For now, the tweaks are relatively small-scale"
-      ],
-      "vocab": [
-        {
-          "w": "another",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "relatively",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "small-scale",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Drones don’t just blow up the enemy",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy",
-      "sentences": [
-        "Drones don’t just blow up the enemy.",
-        "They can also pick up on radio transmissions to identify future targets"
-      ],
-      "vocab": [
-        {
-          "w": "transmissions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "identify",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "targets",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "OpenAI’s approach to mathematics does no…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
-      "sentences": [
-        "OpenAI’s approach to mathematics does not add up.",
-        "Two months after the firm’s initial advances, its lack of transparency is still causing problems"
-      ],
-      "vocab": [
-        {
-          "w": "approach",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mathematics",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "initial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "advances",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transparency",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "causing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Astronomers are mystified by little red …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/04/astronomers-are-mystified-by-little-red-dots-in-the-sky",
-      "sentences": [
-        "Astronomers are mystified by little red dots in the sky.",
-        "They could be the universe’s first supermassive black holes"
-      ],
-      "vocab": [
-        {
-          "w": "astronomers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mystified",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "universe",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "supermassive",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/04/astronomers-are-mystified-by-little-red-dots-in-the-sky",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "AI eats science 3: artificial researcher…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/04/ai-eats-science-3-artificial-researchers",
-      "sentences": [
-        "Our podcast on science and technology.",
-        "This week, the third episode of our four-part series on how scientists are grappling with AI"
+        "Our podcast on markets, the economy and business.",
+        "This week, the surprising fall of Weil"
       ],
       "vocab": [
         {
@@ -355,68 +104,339 @@
           "cn": "（查词典）"
         },
         {
-          "w": "science",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "technology",
+          "w": "economy",
           "cn": "（查词典）"
         },
         {
-          "w": "episode",
+          "w": "business",
           "cn": "（查词典）"
         },
         {
-          "w": "four-part",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scientists",
+          "w": "surprising",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/04/ai-eats-science-3-artificial-researchers",
+      "link": "https://www.economist.com/podcasts/2026/11/05/why-big-law-has-big-problems",
       "audio": ""
     },
     {
-      "id": "rss-economist-12",
-      "title": "Explaining the popularity of Max Richter…",
+      "id": "rss-economist-4",
+      "title": "The Economist is recruiting an Audience …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/04/explaining-the-popularity-of-max-richters-compositions",
+      "intro": "原文：https://www.economist.com/britain/2026/11/05/the-economist-is-recruiting-an-audience-editor-in-london",
       "sentences": [
-        "Explaining the popularity of Max Richter’s compositions.",
-        "The classical composer manages to spin even serious subjects into gold"
+        "The Economist is recruiting an Audience Editor in London.",
+        "We are seeking a journalist to work across social media, newsletters, notifications and emerging digital platforms"
       ],
       "vocab": [
         {
-          "w": "explaining",
+          "w": "economist",
           "cn": "（查词典）"
         },
         {
-          "w": "popularity",
+          "w": "recruiting",
           "cn": "（查词典）"
         },
         {
-          "w": "richter",
+          "w": "audience",
           "cn": "（查词典）"
         },
         {
-          "w": "compositions",
+          "w": "seeking",
           "cn": "（查词典）"
         },
         {
-          "w": "classical",
+          "w": "journalist",
           "cn": "（查词典）"
         },
         {
-          "w": "composer",
+          "w": "newsletters",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/culture/2026/11/04/explaining-the-popularity-of-max-richters-compositions",
+      "link": "https://www.economist.com/britain/2026/11/05/the-economist-is-recruiting-an-audience-editor-in-london",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Dolores Huerta fought for farm-workers’ …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/obituary/2026/11/05/dolores-huerta-fought-for-farm-workers-rights-and-kept-devastating-secrets",
+      "sentences": [
+        "Dolores Huerta fought for farm-workers’ rights—and kept devastating secrets.",
+        "The labour activist died on October 28th, aged 96"
+      ],
+      "vocab": [
+        {
+          "w": "dolores",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "farm-workers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "devastating",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secrets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "activist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/obituary/2026/11/05/dolores-huerta-fought-for-farm-workers-rights-and-kept-devastating-secrets",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "What is it like to be a newborn?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/05/what-is-it-like-to-be-a-newborn",
+      "sentences": [
+        "What is it like to be a newborn?.",
+        "But a new book tries to figure it out"
+      ],
+      "vocab": [
+        {
+          "w": "newborn",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/05/what-is-it-like-to-be-a-newborn",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Is childlessness contagious?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/05/is-childlessness-contagious",
+      "sentences": [
+        "A new book offers some surprising reasons people aren’t having children"
+      ],
+      "vocab": [
+        {
+          "w": "surprising",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reasons",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "children",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/05/is-childlessness-contagious",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Is it time to end the era of remote work…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/05/is-it-time-to-end-the-era-of-remote-work",
+      "sentences": [
+        "Is it time to end the era of remote work?.",
+        "A new book makes a case for getting out of your tracksuit and into your officewear"
+      ],
+      "vocab": [
+        {
+          "w": "getting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tracksuit",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "officewear",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/05/is-it-time-to-end-the-era-of-remote-work",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "Chinese tech helps repressive African go…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/05/chinese-tech-helps-repressive-african-governments-crush-dissent",
+      "sentences": [
+        "Chinese tech helps repressive African governments crush dissent.",
+        "A fascinating new book investigates the cause and effects of China’s investment in Africa"
+      ],
+      "vocab": [
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "repressive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "african",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "governments",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dissent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fascinating",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/05/chinese-tech-helps-repressive-african-governments-crush-dissent",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "America’s copper giant has big dreams—bu…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
+      "sentences": [
+        "America’s copper giant has big dreams—but cautious plans.",
+        "Freeport-McMoRan’s strategy hints at doubts that prices will continue to rise"
+      ],
+      "vocab": [
+        {
+          "w": "strategy",
+          "cn": "战略"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cautious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "freeport-mcmoran",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continue",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "Can a DoorDash-Instacart fusion stand up…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
+      "sentences": [
+        "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart?.",
+        "The proposed merger shows the danger that delivery startups face"
+      ],
+      "vocab": [
+        {
+          "w": "doordash-instacart",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "walmart",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "proposed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "delivery",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "startups",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "The break-up of CVS marks a turning poin…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
+      "sentences": [
+        "The break-up of CVS marks a turning point in American health care.",
+        "The trend towards vertical integration may soon reverse"
+      ],
+      "vocab": [
+        {
+          "w": "break-up",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "turning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "american",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "towards",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vertical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "integration",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
       "audio": ""
     }
   ]

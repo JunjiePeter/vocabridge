@@ -1,20 +1,135 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-05",
+  "name": "BBC News · Business · 2026-11-06",
   "type": "passage",
-  "generatedAt": "2026-11-05T02:24:26.654Z",
+  "generatedAt": "2026-11-06T02:25:12.866Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Interest rates expected to rise for firs…",
+      "title": "Major tech stocks plunge as US midterms …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Major tech stocks plunge as US midterms add to fears of AI slowdown.",
+        "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+      ],
+      "vocab": [
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "slowdown",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "markets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reacting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "possible",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tougher",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Firms told to publish salaries in job ad…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Firms told to publish salaries in job adverts ahead of new law.",
+        "The government argues the change will help jobseekers and could help to prevent pay discrimination."
+      ],
+      "vocab": [
+        {
+          "w": "publish",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "salaries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "adverts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "jobseekers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prevent",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "'I was asked if I was a crier': Your wor…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'I was asked if I was a crier': Your worst job interviews revealed.",
+        "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work"
+      ],
+      "vocab": [
+        {
+          "w": "interviews",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revealed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "horrible",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "experience",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Interest rates hiked to 4% in first incr…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Interest rates expected to rise for first time in over three years.",
-        "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years."
+        "Interest rates hiked to 4% in first increase in over three years.",
+        "Most analysts expected the increase from 3.75% to 4%."
       ],
       "vocab": [
         {
@@ -22,7 +137,7 @@
           "cn": "（查词典）"
         },
         {
-          "w": "expected",
+          "w": "increase",
           "cn": "（查词典）"
         },
         {
@@ -30,11 +145,7 @@
           "cn": "（查词典）"
         },
         {
-          "w": "predicting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "increase",
+          "w": "expected",
           "cn": "（查词典）"
         }
       ],
@@ -42,7 +153,188 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-5",
+      "title": "Faisal Islam: How high will interest rat…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Faisal Islam: How high will interest rates go?.",
+        "The BBC's economics editor views one more interest rate as likely, but thinks that will be all."
+      ],
+      "vocab": [
+        {
+          "w": "interest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economics",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "The engine parts that 'fight the laws of…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The engine parts that 'fight the laws of the universe'.",
+        "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
+      ],
+      "vocab": [
+        {
+          "w": "universe'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "turbine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "extremely",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "difficult",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "component",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Three ways the interest rate rise could …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Three ways the interest rate rise could affect you.",
+        "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
+      ],
+      "vocab": [
+        {
+          "w": "interest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "savings",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "affected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "announced",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "england",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Drunk and dangerous e-bike riders face o…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown.",
+        "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
+      ],
+      "vocab": [
+        {
+          "w": "dangerous",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "on-the-spot",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "crackdown",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "consultation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "consider",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Second buyer makes rescue bid for Poundl…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Second buyer makes rescue bid for Poundland as retailer faces collapse.",
+        "A little-known investment group has made a bid to buy the business."
+      ],
+      "vocab": [
+        {
+          "w": "poundland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "retailer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collapse",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "little-known",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "business",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
       "title": "Pound rises to its highest level since t…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -51,7 +343,7 @@
       "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
         "Pound rises to its highest level since the Brexit referendum.",
-        "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago"
+        "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago."
       ],
       "vocab": [
         {
@@ -75,377 +367,73 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
-      "title": "Elon Musk's millions failed to deliver R…",
+      "id": "rss-bbc-biz-11",
+      "title": "Welsh aviation firm AerFin bought in £47…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Elon Musk's millions failed to deliver Republican wins in fierce midterms.",
-        "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record."
+        "Welsh aviation firm AerFin bought in £475m deal.",
+        "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\"."
       ],
       "vocab": [
         {
-          "w": "millions",
+          "w": "aviation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "majority",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "private",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "beginning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chapter",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-12",
+      "title": "Food, fuel and taxes – can the Democrats…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Their message on cost of living resonated with voters.",
+        "Now they must show they can deliver."
+      ],
+      "vocab": [
+        {
+          "w": "message",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "resonated",
           "cn": "（查词典）"
         },
         {
           "w": "deliver",
           "cn": "（查词典）"
-        },
-        {
-          "w": "republican",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterm",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "elections",
-          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
-      "title": "Poundland owner in crunch talks as retai…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Poundland owner in crunch talks as retailer's collapse looms.",
-        "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland."
-      ],
-      "vocab": [
-        {
-          "w": "poundland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "retailer's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collapse",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brothers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jonathan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reynolds",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "Kellogg's admits snap, crackle and pop i…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change.",
-        "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online."
-      ],
-      "vocab": [
-        {
-          "w": "kellogg's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "crackle",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "quieter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "krispies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "changed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recipes",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "Graduates are managing AI - but are they…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Graduates are managing AI - but are they learning much else?.",
-        "Graduates are spending more time managing AI, but are they missing out on other work experience?"
-      ],
-      "vocab": [
-        {
-          "w": "graduates",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "managing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "learning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "missing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experience",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "UK and EU agree draft deal to scrap Brex…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK and EU agree draft deal to scrap Brexit red tape over food exports.",
-        "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
-      ],
-      "vocab": [
-        {
-          "w": "significant",
-          "cn": "重大的"
-        },
-        {
-          "w": "so-called",
-          "cn": "所谓的"
-        },
-        {
-          "w": "exports",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Australia's oldest department store Davi…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Australia's oldest department store David Jones collapses after 188 years.",
-        "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
-      ],
-      "vocab": [
-        {
-          "w": "australia's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "department",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collapses",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brand's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "physical",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continue",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Binance says fake job interviews used as…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Binance says fake job interviews used as part of $6.3bn crypto hack.",
-        "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interviews",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "engineer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contacted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "legitimate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "job-hunting",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Canva announces major job cuts after 'ou…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Canva announces major job cuts after 'our hardest year yet'.",
-        "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles."
-      ],
-      "vocab": [
-        {
-          "w": "announces",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hardest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "melanie",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "perkins",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Drivers may get compensation offers befo…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Drivers may get compensation offers before car finance saga ends.",
-        "The regulator says it supports lenders offering early compensation offers, as long as they are fair."
-      ],
-      "vocab": [
-        {
-          "w": "drivers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "compensation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "regulator",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "supports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lenders",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Asda hires ex-Morrisons boss in bid to g…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Asda hires ex-Morrisons boss in bid to grow firm.",
-        "David Potts takes charge of Asda, which is based in Leeds, with immediate effect."
-      ],
-      "vocab": [
-        {
-          "w": "ex-morrisons",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "immediate",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
