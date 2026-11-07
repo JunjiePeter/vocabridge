@@ -1,20 +1,98 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-06",
+  "name": "BBC News · Technology · 2026-11-07",
   "type": "passage",
-  "generatedAt": "2026-11-06T02:25:12.835Z",
+  "generatedAt": "2026-11-07T02:13:08.122Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Major tech stocks plunge as US midterms …",
+      "title": "Elon Musk appears to signal the end of t…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Major tech stocks plunge as US midterms add to fears of AI slowdown.",
-        "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+        "Elon Musk appears to signal the end of the road for Cybertruck.",
+        "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+      ],
+      "vocab": [
+        {
+          "w": "autonomous",
+          "cn": "自治的"
+        },
+        {
+          "w": "appears",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cybertruck",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "production",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cybercabs",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "AI stocks climb after trillions wiped fr…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "AI stocks climb after trillions wiped from market values.",
+        "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+      ],
+      "vocab": [
+        {
+          "w": "trillions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "selling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concerns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrat",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "Why the US midterms sparked an AI stock …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Why the US midterms sparked an AI stock selloff.",
+        "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
       ],
       "vocab": [
         {
@@ -22,15 +100,52 @@
           "cn": "（查词典）"
         },
         {
+          "w": "sparked",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "selloff",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "regulation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concerns",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "Global stocks plunge as fears over US AI…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe.",
+        "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+      ],
+      "vocab": [
+        {
           "w": "slowdown",
           "cn": "（查词典）"
         },
         {
-          "w": "markets",
+          "w": "investors",
           "cn": "（查词典）"
         },
         {
-          "w": "reacting",
+          "w": "reacted",
           "cn": "（查词典）"
         },
         {
@@ -40,13 +155,17 @@
         {
           "w": "tougher",
           "cn": "（查词典）"
+        },
+        {
+          "w": "scrutiny",
+          "cn": "（查词典）"
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-5",
       "title": "The engine parts that 'fight the laws of…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +206,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-6",
       "title": "Elon Musk's millions failed to deliver R…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +247,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-7",
       "title": "French blood storage impacted by freezer…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +288,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-8",
       "title": "Graduates are managing AI - but are they…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +329,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-9",
       "title": "Binance says fake job interviews used as…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -251,7 +370,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-10",
       "title": "UK meat industry hit by cyber-attack whi…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -292,7 +411,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-11",
       "title": "Apple unsure when it will get more folda…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -333,7 +452,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-12",
       "title": "North Korea denies being behind record $…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -371,121 +490,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "If hackers can take control of a superma…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "If hackers can take control of a supermarket freezer, how vulnerable is other tech?.",
-        "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges."
-      ],
-      "vocab": [
-        {
-          "w": "vulnerable",
-          "cn": "脆弱的"
-        },
-        {
-          "w": "hackers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "control",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "supermarket",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "freezer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "european",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Binance users withdraw $3.6bn after larg…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Binance users withdraw $3.6bn after largest-ever crypto hack.",
-        "The exchange froze transactions following the incident which has been linked to a North Korean group."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "withdraw",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "largest-ever",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exchange",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transactions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "following",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "These firms you've never heard of are fe…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "These firms you've never heard of are feeding fears the AI bubble could burst.",
-        "The amount of debt held by data centres is measured in the tens of billions of pounds."
-      ],
-      "vocab": [
-        {
-          "w": "feeding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "centres",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "measured",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billions",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-06",
+  "name": "TED Talks · Daily · 2026-11-07",
   "type": "passage",
-  "generatedAt": "2026-11-06T02:25:13.811Z",
+  "generatedAt": "2026-11-07T02:13:08.953Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "The surprising beauty of mosquitos | Fel…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/felixhol",
+      "sentences": [
+        "Most people hate mosquitoes, but biotechnologist and TED Fellow Felix Hol thinks they're beautiful.",
+        "He takes us inside his lab, where his team developed some unusual ways to study how these blood-sucking insects find us and feed so fast.",
+        "He also explains why insecticides may send certain mosquitoes into overdrive — and how we can find smarter ways to curb the diseases they spread.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "mosquitoes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biotechnologist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "they're",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "beautiful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "developed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unusual",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/felixhol",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Why great art requires risk | Alex Van H…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -42,7 +85,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aeb94a69f528791af8c1bc2/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "5 ideas for better government in the US …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -85,7 +128,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "What kids wish their parents knew about …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -128,7 +171,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "The couples therapists who nearly got di…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -170,7 +213,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Sunday Pick: Do all my friends secretly …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -215,39 +258,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "The haunting truth of ghost stories | Co…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://audiocollective.ted.com/",
-      "sentences": [
-        "Ghost stories reveal much more than the ghouls and spirits that haunt them.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "stories",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spirits",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "information",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://audiocollective.ted.com/",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ad66bf798b58b8b524628f0/media.mp3"
     }
   ]
 }

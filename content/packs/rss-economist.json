@@ -1,11 +1,332 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-06",
+  "name": "The Economist · Latest · 2026-11-07",
   "type": "passage",
-  "generatedAt": "2026-11-06T02:25:13.014Z",
+  "generatedAt": "2026-11-07T02:13:08.322Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "The Climate Issue newsletter: The world …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino",
+      "sentences": [
+        "The Climate Issue newsletter: The world braces for an almighty El Niño.",
+        "Rachel Dobbs, our news editor, explains why the worst is yet to come"
+      ],
+      "vocab": [
+        {
+          "w": "climate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "almighty",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "explains",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Republicans blame Israel for their defea…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat",
+      "sentences": [
+        "Republicans blame Israel for their defeat.",
+        "The Democrats’ victory could accelerate the decline of the Israeli-American alliance"
+      ],
+      "vocab": [
+        {
+          "w": "accelerate",
+          "cn": "加速"
+        },
+        {
+          "w": "republicans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "victory",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "israeli-american",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "The blue wave was powered by moderate De…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/06/the-blue-wave-was-powered-by-moderate-democrats",
+      "sentences": [
+        "The blue wave was powered by moderate Democrats.",
+        "Our analysis shows progressives had mostly easy wins"
+      ],
+      "vocab": [
+        {
+          "w": "powered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "moderate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "analysis",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "progressives",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/graphic-detail/2026/11/06/the-blue-wave-was-powered-by-moderate-democrats",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Is grip strength a useful indicator of h…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
+      "sentences": [
+        "Is grip strength a useful indicator of health?.",
+        "It is an attention-grabbing claim"
+      ],
+      "vocab": [
+        {
+          "w": "strength",
+          "cn": "优势"
+        },
+        {
+          "w": "indicator",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "attention-grabbing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Is this the end of the Trump era?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/06/is-this-the-end-of-the-trump-era",
+      "sentences": [
+        "Our weekly podcast on America.",
+        "This week, what happens next after those extraordinary midterms"
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "happens",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "extraordinary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/06/is-this-the-end-of-the-trump-era",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "What to watch this week",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/06/what-to-watch-this-week",
+      "sentences": [
+        "What to watch this week.",
+        "Switch on these films and TV shows to discover something new"
+      ],
+      "vocab": [
+        {
+          "w": "discover",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "something",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/06/what-to-watch-this-week",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "“Britain is back”: an interview with And…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/06/britain-is-back-an-interview-with-andy-burnham",
+      "sentences": [
+        "“Britain is back”: an interview with Andy Burnham.",
+        "Also on the daily podcast: Ukraine’s demographic collapse and remembering Dolores Huerta"
+      ],
+      "vocab": [
+        {
+          "w": "britain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "interview",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ukraine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "demographic",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/06/britain-is-back-an-interview-with-andy-burnham",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Pinot Noir: inside the criminal gangs ma…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "sentences": [
+        "Fraudsters have long counterfeited high-end wine.",
+        "Now they are coming for the bottles on your supermarket shelves"
+      ],
+      "vocab": [
+        {
+          "w": "fraudsters",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "counterfeited",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "high-end",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bottles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "supermarket",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shelves",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "A generational upset in Los Angeles",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
+      "sentences": [
+        "A generational upset in Los Angeles.",
+        "Nithya Raman, a DSA city council member, will lead America’s second-largest city"
+      ],
+      "vocab": [
+        {
+          "w": "generational",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "angeles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "council",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "second-largest",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
       "title": "Markets realise they hate America’s blue…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +367,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-11",
       "title": "Transcript: An interview with Andy Burnh…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +408,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-12",
       "title": "Why big law has big problems",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -121,322 +442,6 @@
         }
       ],
       "link": "https://www.economist.com/podcasts/2026/11/05/why-big-law-has-big-problems",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "The Economist is recruiting an Audience …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/11/05/the-economist-is-recruiting-an-audience-editor-in-london",
-      "sentences": [
-        "The Economist is recruiting an Audience Editor in London.",
-        "We are seeking a journalist to work across social media, newsletters, notifications and emerging digital platforms"
-      ],
-      "vocab": [
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "recruiting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "audience",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "seeking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "journalist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletters",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/britain/2026/11/05/the-economist-is-recruiting-an-audience-editor-in-london",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "Dolores Huerta fought for farm-workers’ …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/obituary/2026/11/05/dolores-huerta-fought-for-farm-workers-rights-and-kept-devastating-secrets",
-      "sentences": [
-        "Dolores Huerta fought for farm-workers’ rights—and kept devastating secrets.",
-        "The labour activist died on October 28th, aged 96"
-      ],
-      "vocab": [
-        {
-          "w": "dolores",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "farm-workers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "devastating",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secrets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "activist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/obituary/2026/11/05/dolores-huerta-fought-for-farm-workers-rights-and-kept-devastating-secrets",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "What is it like to be a newborn?",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/05/what-is-it-like-to-be-a-newborn",
-      "sentences": [
-        "What is it like to be a newborn?.",
-        "But a new book tries to figure it out"
-      ],
-      "vocab": [
-        {
-          "w": "newborn",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/05/what-is-it-like-to-be-a-newborn",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Is childlessness contagious?",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/05/is-childlessness-contagious",
-      "sentences": [
-        "A new book offers some surprising reasons people aren’t having children"
-      ],
-      "vocab": [
-        {
-          "w": "surprising",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reasons",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "children",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/05/is-childlessness-contagious",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Is it time to end the era of remote work…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/05/is-it-time-to-end-the-era-of-remote-work",
-      "sentences": [
-        "Is it time to end the era of remote work?.",
-        "A new book makes a case for getting out of your tracksuit and into your officewear"
-      ],
-      "vocab": [
-        {
-          "w": "getting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tracksuit",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "officewear",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/05/is-it-time-to-end-the-era-of-remote-work",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Chinese tech helps repressive African go…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/05/chinese-tech-helps-repressive-african-governments-crush-dissent",
-      "sentences": [
-        "Chinese tech helps repressive African governments crush dissent.",
-        "A fascinating new book investigates the cause and effects of China’s investment in Africa"
-      ],
-      "vocab": [
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "repressive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "african",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "governments",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dissent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fascinating",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/05/chinese-tech-helps-repressive-african-governments-crush-dissent",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "America’s copper giant has big dreams—bu…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
-      "sentences": [
-        "America’s copper giant has big dreams—but cautious plans.",
-        "Freeport-McMoRan’s strategy hints at doubts that prices will continue to rise"
-      ],
-      "vocab": [
-        {
-          "w": "strategy",
-          "cn": "战略"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cautious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "freeport-mcmoran",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continue",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Can a DoorDash-Instacart fusion stand up…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
-      "sentences": [
-        "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart?.",
-        "The proposed merger shows the danger that delivery startups face"
-      ],
-      "vocab": [
-        {
-          "w": "doordash-instacart",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "walmart",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "proposed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "delivery",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "startups",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "The break-up of CVS marks a turning poin…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
-      "sentences": [
-        "The break-up of CVS marks a turning point in American health care.",
-        "The trend towards vertical integration may soon reverse"
-      ],
-      "vocab": [
-        {
-          "w": "break-up",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "turning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "american",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "towards",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vertical",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "integration",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
       "audio": ""
     }
   ]

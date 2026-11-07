@@ -1,483 +1,483 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-06",
+  "name": "BBC News · Top Stories · 2026-11-07",
   "type": "passage",
-  "generatedAt": "2026-11-06T02:25:12.799Z",
+  "generatedAt": "2026-11-07T02:13:08.086Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Russell Brand found guilty of rape and s…",
+      "title": "Meghan's father Thomas Markle appears in…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Russell Brand found guilty of rape and sexual assault.",
-        "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported."
+        "Meghan's father Thomas Markle appears in court over child sex abuse material.",
+        "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented."
       ],
       "vocab": [
+        {
+          "w": "meghan's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "appears",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "material",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "-year-old",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "arrested",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "florida",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-2",
+      "title": "With Stephen Miller pick, Trump readies …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "With Stephen Miller pick, Trump readies for a battle.",
+        "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+      ],
+      "vocab": [
+        {
+          "w": "promotion",
+          "cn": "晋升"
+        },
+        {
+          "w": "stephen",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "readies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "partisan",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "firebrand",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Brand's barrister refers himself to regu…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Brand's barrister refers himself to regulator after report he confronted journalist.",
+        "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian."
+      ],
+      "vocab": [
+        {
+          "w": "brand's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "barrister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "himself",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "regulator",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confronted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "journalist",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-4",
+      "title": "How 2000s lad culture helped Russell Bra…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How 2000s lad culture helped Russell Brand to hide in plain sight.",
+        "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall."
+      ],
+      "vocab": [
+        {
+          "w": "culture",
+          "cn": "（查词典）"
+        },
         {
           "w": "russell",
           "cn": "（查词典）"
         },
         {
-          "w": "assault",
+          "w": "behaviour",
           "cn": "（查词典）"
         },
         {
-          "w": "sentence",
+          "w": "backdrop",
           "cn": "（查词典）"
         },
         {
-          "w": "allegations",
+          "w": "brand's",
           "cn": "（查词典）"
         },
         {
-          "w": "reported",
+          "w": "prosecution",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "Major tech stocks plunge as US midterms …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Major tech stocks plunge as US midterms add to fears of AI slowdown.",
-        "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
-      ],
-      "vocab": [
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "slowdown",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reacting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "possible",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tougher",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "Met chief warns policing 'heading for fa…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Met chief warns policing 'heading for failure' without reform.",
-        "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals."
-      ],
-      "vocab": [
-        {
-          "w": "policing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'heading",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "failure'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "current",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sophistication",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "criminals",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Firms told to publish salaries in job ad…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Firms told to publish salaries in job adverts ahead of new law.",
-        "The government argues the change will help jobseekers and could help to prevent pay discrimination."
-      ],
-      "vocab": [
-        {
-          "w": "publish",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "salaries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "adverts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jobseekers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "prevent",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-5",
-      "title": "California governor commutes sentences f…",
+      "title": "New wave of bomb threats hit European ai…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "California governor commutes sentences for state's 548 death row inmates.",
-        "California has historically had the largest population of people on death row in the US."
+        "New wave of bomb threats hit European airlines.",
+        "No link has been established between the threats against the airlines and those against the media outlets."
       ],
       "vocab": [
         {
-          "w": "california",
+          "w": "threats",
           "cn": "（查词典）"
         },
         {
-          "w": "governor",
+          "w": "european",
           "cn": "（查词典）"
         },
         {
-          "w": "commutes",
+          "w": "airlines",
           "cn": "（查词典）"
         },
         {
-          "w": "sentences",
+          "w": "established",
           "cn": "（查词典）"
         },
         {
-          "w": "state's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inmates",
+          "w": "outlets",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-6",
-      "title": "Thatcher's Right to Buy split my estate.…",
+      "title": "Harry and five others seek to challenge …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Labour is weakening Margaret Thatcher's landmark housing policy.",
-        "Will it really fix Britain's social housing woes?"
+        "Harry and five others seek to challenge Mail publisher privacy ruling.",
+        "The Duke of Sussex and other public figures lost a High Court case against the publisher of the Daily Mail and Mail on Sunday."
       ],
       "vocab": [
         {
-          "w": "weakening",
+          "w": "challenge",
           "cn": "（查词典）"
         },
         {
-          "w": "margaret",
+          "w": "publisher",
           "cn": "（查词典）"
         },
         {
-          "w": "thatcher's",
+          "w": "privacy",
           "cn": "（查词典）"
         },
         {
-          "w": "landmark",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "housing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "britain's",
+          "w": "figures",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-7",
-      "title": "White House denies Hegseth and Rubio to …",
+      "title": "Watch: Is it the end of the road for Tes…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "White House denies Hegseth and Rubio to leave jobs after Republican election losses.",
-        "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses."
+        "Watch: Is it the end of the road for Tesla's Cybertruck?.",
+        "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
       ],
       "vocab": [
         {
-          "w": "hegseth",
+          "w": "tesla's",
           "cn": "（查词典）"
         },
         {
-          "w": "republican",
+          "w": "cybertruck",
           "cn": "（查词典）"
         },
         {
-          "w": "election",
+          "w": "company's",
           "cn": "（查词典）"
         },
         {
-          "w": "administration",
+          "w": "production",
           "cn": "（查词典）"
         },
         {
-          "w": "downplayed",
+          "w": "self-driving",
           "cn": "（查词典）"
         },
         {
-          "w": "reports",
+          "w": "cybercabs",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-8",
-      "title": "King relishes 'politically charged' depl…",
+      "title": "Paraguay's president impeached after col…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "King relishes 'politically charged' deployments, Palace aide says.",
-        "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour."
+        "Paraguay's president impeached after collapse of bank.",
+        "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
       ],
       "vocab": [
         {
-          "w": "relishes",
+          "w": "paraguay's",
           "cn": "（查词典）"
         },
         {
-          "w": "'politically",
+          "w": "president",
           "cn": "（查词典）"
         },
         {
-          "w": "charged'",
+          "w": "impeached",
           "cn": "（查词典）"
         },
         {
-          "w": "deployments",
+          "w": "collapse",
           "cn": "（查词典）"
         },
         {
-          "w": "monarch",
+          "w": "santiago",
           "cn": "（查词典）"
         },
         {
-          "w": "questions",
+          "w": "banking",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Andrew received up to £2,000 per month f…",
+      "title": "Gladiator II stuntman sues over injuries…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Andrew received up to £2,000 per month from sub-letting, watchdog reports.",
-        "The income went to the former prince rather than his landlord the Crown Estate."
+        "Gladiator II stuntman sues over injuries from on-set explosion.",
+        "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship."
       ],
       "vocab": [
         {
-          "w": "received",
+          "w": "gladiator",
           "cn": "（查词典）"
         },
         {
-          "w": "sub-letting",
+          "w": "stuntman",
           "cn": "（查词典）"
         },
         {
-          "w": "watchdog",
+          "w": "injuries",
           "cn": "（查词典）"
         },
         {
-          "w": "reports",
+          "w": "explosion",
           "cn": "（查词典）"
         },
         {
-          "w": "landlord",
+          "w": "sarsfield",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suffered",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Messages reveal how hoax threat was pass…",
+      "title": "Child, 6, dies weeks after Waterford ars…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Messages reveal how hoax threat was passed on by air traffic control.",
-        "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week."
+        "Child, 6, dies weeks after Waterford arson attack.",
+        "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland."
       ],
       "vocab": [
         {
-          "w": "messages",
+          "w": "waterford",
           "cn": "（查词典）"
         },
         {
-          "w": "traffic",
+          "w": "happened",
           "cn": "（查词典）"
         },
         {
-          "w": "control",
+          "w": "outskirts",
           "cn": "（查词典）"
         },
         {
-          "w": "analysing",
+          "w": "republic",
           "cn": "（查词典）"
         },
         {
-          "w": "flights",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "targeted",
+          "w": "ireland",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "UK doctor infected with Ebola being trea…",
+      "title": "Manhunt after boy injured by sword, spar…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "The doctor tested positive in DR Congo, where there is an outbreak.",
-        "The government says the risk to the public remains low."
+        "Manhunt after boy injured by sword, sparking Gloucester school lockdowns.",
+        "Two schools went into lockdown following the incident and one woman has been arrested."
       ],
       "vocab": [
         {
-          "w": "positive",
+          "w": "manhunt",
           "cn": "（查词典）"
         },
         {
-          "w": "outbreak",
+          "w": "injured",
           "cn": "（查词典）"
         },
         {
-          "w": "government",
+          "w": "sparking",
           "cn": "（查词典）"
         },
         {
-          "w": "remains",
+          "w": "gloucester",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lockdowns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "schools",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "Trump signs order preventing future pres…",
+      "title": "Man, 41, and boy, 16, arrested after car…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Trump signs order preventing future presidents from changing Oval Office.",
-        "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington."
+        "Man, 41, and boy, 16, arrested after car damaged by gunshots.",
+        "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\"."
       ],
       "vocab": [
         {
-          "w": "preventing",
+          "w": "arrested",
           "cn": "（查词典）"
         },
         {
-          "w": "presidents",
+          "w": "damaged",
           "cn": "（查词典）"
         },
         {
-          "w": "changing",
+          "w": "gunshots",
           "cn": "（查词典）"
         },
         {
-          "w": "changes",
+          "w": "vehicle",
           "cn": "（查词典）"
         },
         {
-          "w": "launched",
+          "w": "morriston",
           "cn": "（查词典）"
         },
         {
-          "w": "landmark",
+          "w": "swansea",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
