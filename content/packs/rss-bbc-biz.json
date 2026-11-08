@@ -1,11 +1,52 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-07",
+  "name": "BBC News · Business · 2026-11-08",
   "type": "passage",
-  "generatedAt": "2026-11-07T02:13:08.170Z",
+  "generatedAt": "2026-11-08T02:18:21.389Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "Labubu hype seemed unstoppable, now the …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Labubu hype seemed unstoppable, now the fluffy monster mania is dying.",
+        "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes."
+      ],
+      "vocab": [
+        {
+          "w": "unstoppable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "monster",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revenue",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "appetite",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collectible",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
       "title": "AI stocks climb after trillions wiped fr…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +87,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-3",
       "title": "Why the US midterms sparked an AI stock …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +128,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-4",
       "title": "How does it affect me if share prices fa…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -120,7 +161,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-5",
       "title": "Why smoky bacon crisps threaten to reign…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -158,43 +199,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "Elon Musk appears to signal the end of t…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Elon Musk appears to signal the end of the road for Cybertruck.",
-        "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
-      ],
-      "vocab": [
-        {
-          "w": "autonomous",
-          "cn": "自治的"
-        },
-        {
-          "w": "appears",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cybertruck",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "production",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cybercabs",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
@@ -240,6 +244,43 @@
     },
     {
       "id": "rss-bbc-biz-7",
+      "title": "Elon Musk appears to signal the end of t…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elon Musk appears to signal the end of the road for Cybertruck.",
+        "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+      ],
+      "vocab": [
+        {
+          "w": "autonomous",
+          "cn": "自治的"
+        },
+        {
+          "w": "appears",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cybertruck",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "production",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cybercabs",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
       "title": "PM tells firms to publish salaries in jo…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -280,7 +321,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-9",
       "title": "'I was asked if I was a crier': Your wor…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -313,7 +354,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-9",
+      "id": "rss-bbc-biz-10",
       "title": "Interest rates hiked to 4% in first incr…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -346,7 +387,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-10",
+      "id": "rss-bbc-biz-11",
       "title": "Faisal Islam: How high will interest rat…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -371,7 +412,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-11",
+      "id": "rss-bbc-biz-12",
       "title": "Three ways the interest rate rise could …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -405,43 +446,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Drunk and dangerous e-bike riders face o…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown.",
-        "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
-      ],
-      "vocab": [
-        {
-          "w": "dangerous",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "on-the-spot",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "crackdown",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "consultation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "consider",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

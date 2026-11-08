@@ -1,11 +1,53 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-07",
+  "name": "TED Talks · Daily · 2026-11-08",
   "type": "passage",
-  "generatedAt": "2026-11-07T02:13:08.953Z",
+  "generatedAt": "2026-11-08T02:18:22.293Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How to build the next wave of clean ener…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/jennifergranholm",
+      "sentences": [
+        "Jennifer Granholm steered Michigan through the auto industry's near-collapse and later ran the US Department of Energy during the largest clean energy investment in the country's history.",
+        "In conversation with climate investor Ryan Panchadsaram, she explains why the next chapter of clean energy is all about construction — and why local communities have more power than they may think.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "jennifer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "granholm",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "steered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "michigan",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "industry's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "near-collapse",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/jennifergranholm",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "The surprising beauty of mosquitos | Fel…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +90,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Why great art requires risk | Alex Van H…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -85,7 +127,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aeb94a69f528791af8c1bc2/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "5 ideas for better government in the US …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -128,7 +170,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "What kids wish their parents knew about …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -171,7 +213,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "The couples therapists who nearly got di…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -211,53 +253,6 @@
       ],
       "link": "http://go.ted.com/harvillehendrix",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Sunday Pick: Do all my friends secretly …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://audiocollective.ted.com/",
-      "sentences": [
-        "Why does making friends as an adult feel like mission impossible?",
-        "In today’s Sunday Pick, Corner Piece , host Melissa Fernandes explores what it means to be a friend while grappling with a friendship break up.",
-        "Along the way, she interviews Anna Goldfarb, journalist and author of “Modern Friendship: How to Nurture Our Most Valuable Connections,” and Dr.",
-        "Franco, professor and author of “Platonic: How the Science of Attachment Can Help You Make—And Keep—Friends”.",
-        "They explain why friendship can get so complicated as you get older and how to build closer bonds.",
-        "Melissa also explores with her co-hosts Taha Khan and Sabrina Cruz what their different types of friendships mean to them.",
-        "Find more episodes of Corner Piece on your favorite podcast app or here: https://link.mgln.ai/9hQ2JB Hosted on Acast.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "friends",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mission",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "impossible",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "melissa",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fernandes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explores",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://audiocollective.ted.com/",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae36eb4be038592d36d3fb4/media.mp3"
     }
   ]
 }

@@ -1,299 +1,61 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-07",
+  "name": "BBC News · Top Stories · 2026-11-08",
   "type": "passage",
-  "generatedAt": "2026-11-07T02:13:08.086Z",
+  "generatedAt": "2026-11-08T02:18:21.275Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Meghan's father Thomas Markle appears in…",
+      "title": "Briton among six killed in 'far-right' s…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Meghan's father Thomas Markle appears in court over child sex abuse material.",
-        "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented."
+        "Briton among six killed in 'far-right' shooting in Krakow.",
+        "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square."
       ],
       "vocab": [
         {
-          "w": "meghan's",
+          "w": "'far-right'",
           "cn": "（查词典）"
         },
         {
-          "w": "appears",
+          "w": "shooting",
           "cn": "（查词典）"
         },
         {
-          "w": "material",
+          "w": "attacker",
           "cn": "（查词典）"
         },
         {
-          "w": "-year-old",
+          "w": "randomly",
           "cn": "（查词典）"
         },
         {
-          "w": "arrested",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "florida",
+          "w": "driving",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "With Stephen Miller pick, Trump readies …",
+      "title": "Israel's president tasks opposition lead…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "With Stephen Miller pick, Trump readies for a battle.",
-        "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+        "Israel's president tasks opposition leader Eisenkot with forming government.",
+        "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
       ],
       "vocab": [
         {
-          "w": "promotion",
-          "cn": "晋升"
-        },
-        {
-          "w": "stephen",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "readies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "partisan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "firebrand",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "Brand's barrister refers himself to regu…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Brand's barrister refers himself to regulator after report he confronted journalist.",
-        "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian."
-      ],
-      "vocab": [
-        {
-          "w": "brand's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "barrister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "himself",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "regulator",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "confronted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "journalist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "How 2000s lad culture helped Russell Bra…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How 2000s lad culture helped Russell Brand to hide in plain sight.",
-        "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall."
-      ],
-      "vocab": [
-        {
-          "w": "culture",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "russell",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "behaviour",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "backdrop",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brand's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "prosecution",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "New wave of bomb threats hit European ai…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "New wave of bomb threats hit European airlines.",
-        "No link has been established between the threats against the airlines and those against the media outlets."
-      ],
-      "vocab": [
-        {
-          "w": "threats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "european",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "airlines",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "established",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outlets",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Harry and five others seek to challenge …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Harry and five others seek to challenge Mail publisher privacy ruling.",
-        "The Duke of Sussex and other public figures lost a High Court case against the publisher of the Daily Mail and Mail on Sunday."
-      ],
-      "vocab": [
-        {
-          "w": "challenge",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "publisher",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "privacy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "figures",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Watch: Is it the end of the road for Tes…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Watch: Is it the end of the road for Tesla's Cybertruck?.",
-        "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
-      ],
-      "vocab": [
-        {
-          "w": "tesla's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cybertruck",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "production",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "self-driving",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cybercabs",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "Paraguay's president impeached after col…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Paraguay's president impeached after collapse of bank.",
-        "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
-      ],
-      "vocab": [
-        {
-          "w": "paraguay's",
+          "w": "israel's",
           "cn": "（查词典）"
         },
         {
@@ -301,183 +63,429 @@
           "cn": "（查词典）"
         },
         {
-          "w": "impeached",
+          "w": "opposition",
           "cn": "（查词典）"
         },
         {
-          "w": "collapse",
+          "w": "eisenkot",
           "cn": "（查词典）"
         },
         {
-          "w": "santiago",
+          "w": "forming",
           "cn": "（查词典）"
         },
         {
-          "w": "banking",
+          "w": "government",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Germans wrestle with what to do with Hit…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat.",
+        "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten."
+      ],
+      "vocab": [
+        {
+          "w": "germans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "wrestle",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hitler's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "destroyed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "eagle's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "retreat",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-4",
+      "title": "Andy Burnham wants to get closer to the …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride.",
+        "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU."
+      ],
+      "vocab": [
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shouldn't",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "kuenssberg",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "insiders",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "'Dana, please take the job!' - Trump ask…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary.",
+        "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet."
+      ],
+      "vocab": [
+        {
+          "w": "genuine",
+          "cn": "真正的"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unclear",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "although",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "washington",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Royal Family join veterans and families …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Royal Family join veterans and families at Festival of Remembrance.",
+        "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday."
+      ],
+      "vocab": [
+        {
+          "w": "veterans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "families",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "festival",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "remembrance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "attended",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "london's",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Gaza wedding festival sees 250 couples m…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Gaza wedding festival sees 250 couples married at the same time.",
+        "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza."
+      ],
+      "vocab": [
+        {
+          "w": "wedding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "festival",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "couples",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "married",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "palestinian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rubble-strewn",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "My parents chose to die together and I w…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "My parents chose to die together and I was left to grieve alone.",
+        "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child."
+      ],
+      "vocab": [
+        {
+          "w": "parents",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "together",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "medical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "intervention",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "marriage",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "leaving",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Gladiator II stuntman sues over injuries…",
+      "title": "Labubu hype seemed unstoppable, now the …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Gladiator II stuntman sues over injuries from on-set explosion.",
-        "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship."
+        "Labubu hype seemed unstoppable, now the fluffy monster mania is dying.",
+        "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes."
       ],
       "vocab": [
         {
-          "w": "gladiator",
+          "w": "unstoppable",
           "cn": "（查词典）"
         },
         {
-          "w": "stuntman",
+          "w": "monster",
           "cn": "（查词典）"
         },
         {
-          "w": "injuries",
+          "w": "company",
           "cn": "（查词典）"
         },
         {
-          "w": "explosion",
+          "w": "revenue",
           "cn": "（查词典）"
         },
         {
-          "w": "sarsfield",
+          "w": "appetite",
           "cn": "（查词典）"
         },
         {
-          "w": "suffered",
+          "w": "collectible",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Child, 6, dies weeks after Waterford ars…",
+      "title": "Ambika Mod says the 'glass ceiling is al…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Child, 6, dies weeks after Waterford arson attack.",
-        "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland."
+        "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors.",
+        "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller."
       ],
       "vocab": [
         {
-          "w": "waterford",
+          "w": "ceiling",
           "cn": "（查词典）"
         },
         {
-          "w": "happened",
+          "w": "getting",
           "cn": "（查词典）"
         },
         {
-          "w": "outskirts",
+          "w": "higher'",
           "cn": "（查词典）"
         },
         {
-          "w": "republic",
+          "w": "actress",
           "cn": "（查词典）"
         },
         {
-          "w": "ireland",
+          "w": "netflix's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thriller",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "Manhunt after boy injured by sword, spar…",
+      "title": "The rise of microdramas: The 'snackable'…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Manhunt after boy injured by sword, sparking Gloucester school lockdowns.",
-        "Two schools went into lockdown following the incident and one woman has been arrested."
+        "The rise of microdramas: The 'snackable' shows made for the scrolling age.",
+        "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK."
       ],
       "vocab": [
         {
-          "w": "manhunt",
+          "w": "microdramas",
           "cn": "（查词典）"
         },
         {
-          "w": "injured",
+          "w": "'snackable'",
           "cn": "（查词典）"
         },
         {
-          "w": "sparking",
+          "w": "scrolling",
           "cn": "（查词典）"
         },
         {
-          "w": "gloucester",
+          "w": "high-octane",
           "cn": "（查词典）"
         },
         {
-          "w": "lockdowns",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "schools",
+          "w": "episodes",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "Man, 41, and boy, 16, arrested after car…",
+      "title": "Can the Zelda remake capture the magic o…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Man, 41, and boy, 16, arrested after car damaged by gunshots.",
-        "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\"."
+        "Can the Zelda remake capture the magic of the original?.",
+        "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict."
       ],
       "vocab": [
         {
-          "w": "arrested",
+          "w": "capture",
           "cn": "（查词典）"
         },
         {
-          "w": "damaged",
+          "w": "original",
           "cn": "（查词典）"
         },
         {
-          "w": "gunshots",
+          "w": "nintendo",
           "cn": "（查词典）"
         },
         {
-          "w": "vehicle",
+          "w": "released",
           "cn": "（查词典）"
         },
         {
-          "w": "morriston",
+          "w": "considered",
           "cn": "（查词典）"
         },
         {
-          "w": "swansea",
+          "w": "verdict",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

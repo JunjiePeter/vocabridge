@@ -1,11 +1,122 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-07",
+  "name": "The Economist · Latest · 2026-11-08",
   "type": "passage",
-  "generatedAt": "2026-11-07T02:13:08.322Z",
+  "generatedAt": "2026-11-08T02:18:21.517Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "Off the Charts newsletter: A post mortem…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/07/off-the-charts-newsletter-a-post-mortem-of-our-election-model",
+      "sentences": [
+        "Off the Charts newsletter: A post mortem of our election model.",
+        "Dan Rosenheck, our data editor, considers why our election forecast missed the signs of the tsunami"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rosenheck",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "considers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "forecast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tsunami",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/graphic-detail/2026/11/07/off-the-charts-newsletter-a-post-mortem-of-our-election-model",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Checks and Balance newsletter: What come…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
+      "sentences": [
+        "Checks and Balance newsletter: What comes next after the midterms?.",
+        "Charlotte Howard, our US editor, on the rising political stars who could shape America’s future"
+      ],
+      "vocab": [
+        {
+          "w": "balance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charlotte",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "political",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "When is a suit not a suit?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/07/when-is-a-suit-not-a-suit",
+      "sentences": [
+        "When is a suit not a suit?.",
+        "The weird ways prediction markets determine truth"
+      ],
+      "vocab": [
+        {
+          "w": "prediction",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "markets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "determine",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/07/when-is-a-suit-not-a-suit",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
       "title": "The Climate Issue newsletter: The world …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -38,7 +149,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-5",
       "title": "Republicans blame Israel for their defea…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +190,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-6",
       "title": "The blue wave was powered by moderate De…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -116,7 +227,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-7",
       "title": "Is grip strength a useful indicator of h…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -145,7 +256,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-8",
       "title": "Is this the end of the Trump era?",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -182,7 +293,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-9",
       "title": "What to watch this week",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -207,7 +318,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
+      "id": "rss-economist-10",
       "title": "“Britain is back”: an interview with And…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -248,7 +359,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
+      "id": "rss-economist-11",
       "title": "Pinot Noir: inside the criminal gangs ma…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -289,7 +400,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-9",
+      "id": "rss-economist-12",
       "title": "A generational upset in Los Angeles",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -323,125 +434,6 @@
         }
       ],
       "link": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Markets realise they hate America’s blue…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-      "sentences": [
-        "Markets realise they hate America’s blue wave.",
-        "Investors worry that Democratic dominance will slow down the AI boom"
-      ],
-      "vocab": [
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "realise",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investors",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democratic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dominance",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Transcript: An interview with Andy Burnh…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/11/05/transcript-an-interview-with-andy-burnham",
-      "sentences": [
-        "Transcript: An interview with Andy Burnham.",
-        "Britain’s prime minister talks to The Economist about foreign policy and the economy"
-      ],
-      "vocab": [
-        {
-          "w": "transcript",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interview",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "britain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/britain/2026/11/05/transcript-an-interview-with-andy-burnham",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Why big law has big problems",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/05/why-big-law-has-big-problems",
-      "sentences": [
-        "Our podcast on markets, the economy and business.",
-        "This week, the surprising fall of Weil"
-      ],
-      "vocab": [
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "business",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "surprising",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/05/why-big-law-has-big-problems",
       "audio": ""
     }
   ]
