@@ -1,28 +1,188 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-08",
+  "name": "BBC News · Business · 2026-11-09",
   "type": "passage",
-  "generatedAt": "2026-11-08T02:18:21.389Z",
+  "generatedAt": "2026-11-09T02:23:07.089Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Labubu hype seemed unstoppable, now the …",
+      "title": "Nvidia launches investigation into CEO's…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Nvidia launches investigation into CEO's affair with suspected Chinese spy.",
+        "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation."
+      ],
+      "vocab": [
+        {
+          "w": "launches",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investigation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "admitted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unfaithful",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Doing these things now will help you sav…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Doing these things now will help you save money at Christmas.",
+        "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
+      ],
+      "vocab": [
+        {
+          "w": "christmas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decisions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "difference",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "festive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finances",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charities",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Government 'looking seriously' at bannin…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Government 'looking seriously' at banning under-16s from Vinted and eBay.",
+        "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+      ],
+      "vocab": [
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'looking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "seriously'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "banning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "culture",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "'My mortgage is going up £200 a month': …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets.",
+        "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions."
+      ],
+      "vocab": [
+        {
+          "w": "mortgage",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "interest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hitting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "people's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pockets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mortgages",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "He spent $50,000 on Labubus but now the …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Labubu hype seemed unstoppable, now the fluffy monster mania is dying.",
+        "He spent $50,000 on Labubus but now the craze is dying.",
         "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes."
       ],
       "vocab": [
         {
-          "w": "unstoppable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "monster",
+          "w": "labubus",
           "cn": "（查词典）"
         },
         {
@@ -40,13 +200,17 @@
         {
           "w": "collectible",
           "cn": "（查词典）"
+        },
+        {
+          "w": "monsters",
+          "cn": "（查词典）"
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-6",
       "title": "AI stocks climb after trillions wiped fr…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-7",
       "title": "Why the US midterms sparked an AI stock …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +292,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-8",
       "title": "How does it affect me if share prices fa…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -161,7 +325,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-9",
       "title": "Why smoky bacon crisps threaten to reign…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -202,48 +366,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-6",
-      "title": "The engine parts that 'fight the laws of…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The engine parts that 'fight the laws of the universe'.",
-        "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
-      ],
-      "vocab": [
-        {
-          "w": "universe'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "turbine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "extremely",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "difficult",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "component",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
+      "id": "rss-bbc-biz-10",
       "title": "Elon Musk appears to signal the end of t…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -280,7 +403,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-11",
       "title": "PM tells firms to publish salaries in jo…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -321,7 +444,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-9",
+      "id": "rss-bbc-biz-12",
       "title": "'I was asked if I was a crier': Your wor…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -351,101 +474,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Interest rates hiked to 4% in first incr…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Interest rates hiked to 4% in first increase in over three years.",
-        "Most analysts expected the increase from 3.75% to 4%."
-      ],
-      "vocab": [
-        {
-          "w": "interest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "increase",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "analysts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Faisal Islam: How high will interest rat…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Faisal Islam: How high will interest rates go?.",
-        "The BBC's economics editor views one more interest rate as likely, but thinks that will be all."
-      ],
-      "vocab": [
-        {
-          "w": "interest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economics",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Three ways the interest rate rise could …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Three ways the interest rate rise could affect you.",
-        "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
-      ],
-      "vocab": [
-        {
-          "w": "interest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "savings",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "announced",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "england",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

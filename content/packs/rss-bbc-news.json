@@ -1,24 +1,28 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-08",
+  "name": "BBC News · Top Stories · 2026-11-09",
   "type": "passage",
-  "generatedAt": "2026-11-08T02:18:21.275Z",
+  "generatedAt": "2026-11-09T02:23:06.900Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Briton among six killed in 'far-right' s…",
+      "title": "'I treat all these people like they are …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Briton among six killed in 'far-right' shooting in Krakow.",
-        "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square."
+        "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect.",
+        "Two doctors were eating near the city's Main Market Square when a gunman began firing at random."
       ],
       "vocab": [
         {
-          "w": "'far-right'",
+          "w": "victims'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "treated",
           "cn": "（查词典）"
         },
         {
@@ -26,208 +30,44 @@
           "cn": "（查词典）"
         },
         {
-          "w": "attacker",
+          "w": "suspect",
           "cn": "（查词典）"
         },
         {
-          "w": "randomly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "driving",
+          "w": "doctors",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "Israel's president tasks opposition lead…",
+      "title": "Nandy defends linking Erasmus student sc…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Israel's president tasks opposition leader Eisenkot with forming government.",
-        "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+        "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash.",
+        "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
       ],
       "vocab": [
         {
-          "w": "israel's",
+          "w": "defends",
           "cn": "（查词典）"
         },
         {
-          "w": "president",
+          "w": "linking",
           "cn": "（查词典）"
         },
         {
-          "w": "opposition",
+          "w": "erasmus",
           "cn": "（查词典）"
         },
         {
-          "w": "eisenkot",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "forming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "Germans wrestle with what to do with Hit…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat.",
-        "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten."
-      ],
-      "vocab": [
-        {
-          "w": "germans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wrestle",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hitler's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "destroyed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "eagle's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "retreat",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Andy Burnham wants to get closer to the …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride.",
-        "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU."
-      ],
-      "vocab": [
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shouldn't",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "kuenssberg",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "insiders",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "'Dana, please take the job!' - Trump ask…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary.",
-        "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet."
-      ],
-      "vocab": [
-        {
-          "w": "genuine",
-          "cn": "真正的"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unclear",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "although",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "washington",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Royal Family join veterans and families …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Royal Family join veterans and families at Festival of Remembrance.",
-        "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday."
-      ],
-      "vocab": [
-        {
-          "w": "veterans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "families",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "festival",
+          "w": "student",
           "cn": "（查词典）"
         },
         {
@@ -235,257 +75,421 @@
           "cn": "（查词典）"
         },
         {
-          "w": "attended",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "london's",
+          "w": "backlash",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Woman says Al Fayed's brother drugged an…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate.",
+        "Jill says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
+      ],
+      "vocab": [
+        {
+          "w": "fayed's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "brother",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "drugged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sexually",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "highland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "family's",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-4",
+      "title": "Maya Jama steps down as host of reality …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Maya Jama steps down as host of reality TV show Love Island.",
+        "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success."
+      ],
+      "vocab": [
+        {
+          "w": "reality",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "presenter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "something",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "celebrity",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "traitors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "success",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "Dense fog threatens Monday morning rush-…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Dense fog threatens Monday morning rush-hour disruption.",
+        "Fog could disrupt Monday morning’s commute"
+      ],
+      "vocab": [
+        {
+          "w": "threatens",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "morning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rush-hour",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "disruption",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "disrupt",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "commute",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Society needs to act to help white worki…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Society needs to act to help white working-class pupils, inquiry says.",
+        "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\"."
+      ],
+      "vocab": [
+        {
+          "w": "society",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "working-class",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inquiry",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "education",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "backing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-7",
-      "title": "Gaza wedding festival sees 250 couples m…",
+      "title": "A glimmer of good news for Britain's sle…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Gaza wedding festival sees 250 couples married at the same time.",
-        "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza."
+        "A glimmer of good news for Britain's sleepy dormouse.",
+        "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival."
       ],
       "vocab": [
         {
-          "w": "wedding",
+          "w": "glimmer",
           "cn": "（查词典）"
         },
         {
-          "w": "festival",
+          "w": "britain's",
           "cn": "（查词典）"
         },
         {
-          "w": "couples",
+          "w": "dormouse",
           "cn": "（查词典）"
         },
         {
-          "w": "married",
+          "w": "figures",
           "cn": "（查词典）"
         },
         {
-          "w": "palestinian",
+          "w": "suggest",
           "cn": "（查词典）"
         },
         {
-          "w": "rubble-strewn",
+          "w": "dormice",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-8",
-      "title": "My parents chose to die together and I w…",
+      "title": "Government looking at banning under-16s …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "My parents chose to die together and I was left to grieve alone.",
-        "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child."
+        "Government looking at banning under-16s from Vinted and eBay.",
+        "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
       ],
       "vocab": [
         {
-          "w": "parents",
+          "w": "government",
           "cn": "（查词典）"
         },
         {
-          "w": "together",
+          "w": "looking",
           "cn": "（查词典）"
         },
         {
-          "w": "medical",
+          "w": "banning",
           "cn": "（查词典）"
         },
         {
-          "w": "intervention",
+          "w": "culture",
           "cn": "（查词典）"
         },
         {
-          "w": "marriage",
+          "w": "secretary",
           "cn": "（查词典）"
         },
         {
-          "w": "leaving",
+          "w": "confirms",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Labubu hype seemed unstoppable, now the …",
+      "title": "Top House Democrat 'a hard yes' on impea…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Labubu hype seemed unstoppable, now the fluffy monster mania is dying.",
-        "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes."
+        "Top House Democrat 'a hard yes' on impeaching Pete Hegseth.",
+        "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\"."
       ],
       "vocab": [
         {
-          "w": "unstoppable",
+          "w": "democrat",
           "cn": "（查词典）"
         },
         {
-          "w": "monster",
+          "w": "impeaching",
           "cn": "（查词典）"
         },
         {
-          "w": "company",
+          "w": "hegseth",
           "cn": "（查词典）"
         },
         {
-          "w": "revenue",
+          "w": "pentagon",
           "cn": "（查词典）"
         },
         {
-          "w": "appetite",
+          "w": "defence",
           "cn": "（查词典）"
         },
         {
-          "w": "collectible",
+          "w": "secretary",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Ambika Mod says the 'glass ceiling is al…",
+      "title": "Two arrested after police officers hurt …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors.",
-        "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller."
+        "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event.",
+        "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow."
       ],
       "vocab": [
         {
-          "w": "ceiling",
+          "w": "arrested",
           "cn": "（查词典）"
         },
         {
-          "w": "getting",
+          "w": "officers",
           "cn": "（查词典）"
         },
         {
-          "w": "higher'",
+          "w": "outside",
           "cn": "（查词典）"
         },
         {
-          "w": "actress",
+          "w": "bare-knuckle",
           "cn": "（查词典）"
         },
         {
-          "w": "netflix's",
+          "w": "fighting",
           "cn": "（查词典）"
         },
         {
-          "w": "thriller",
+          "w": "scotland",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "The rise of microdramas: The 'snackable'…",
+      "title": "Doing these things now will help you sav…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "The rise of microdramas: The 'snackable' shows made for the scrolling age.",
-        "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK."
+        "Doing these things now will help you save money at Christmas.",
+        "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
       ],
       "vocab": [
         {
-          "w": "microdramas",
+          "w": "christmas",
           "cn": "（查词典）"
         },
         {
-          "w": "'snackable'",
+          "w": "decisions",
           "cn": "（查词典）"
         },
         {
-          "w": "scrolling",
+          "w": "difference",
           "cn": "（查词典）"
         },
         {
-          "w": "high-octane",
+          "w": "festive",
           "cn": "（查词典）"
         },
         {
-          "w": "episodes",
+          "w": "finances",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charities",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "Can the Zelda remake capture the magic o…",
+      "title": "What's your love language - and does it …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Can the Zelda remake capture the magic of the original?.",
-        "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict."
+        "What's your love language - and does it actually mean anything?.",
+        "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating."
       ],
       "vocab": [
         {
-          "w": "capture",
+          "w": "language",
           "cn": "（查词典）"
         },
         {
-          "w": "original",
+          "w": "actually",
           "cn": "（查词典）"
         },
         {
-          "w": "nintendo",
+          "w": "anything",
           "cn": "（查词典）"
         },
         {
-          "w": "released",
+          "w": "languages",
           "cn": "（查词典）"
         },
         {
-          "w": "considered",
+          "w": "scientific",
           "cn": "（查词典）"
         },
         {
-          "w": "verdict",
+          "w": "mentioned",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

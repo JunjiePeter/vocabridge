@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-08",
+  "name": "TED Talks · Daily · 2026-11-09",
   "type": "passage",
-  "generatedAt": "2026-11-08T02:18:22.293Z",
+  "generatedAt": "2026-11-09T02:23:07.719Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Sunday Pick: The science on improving yo…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "When does normal aging end and something more concerning begins?",
+        "In this episode Shoshana invites neurologist Drs.",
+        "Ayesha and Dean Sherzai to discuss their studies on Alzheimer’s and Dementia.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "something",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concerning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "episode",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shoshana",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "invites",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "neurologist",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee46b760a59de70fef4385/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How to build the next wave of clean ener…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -47,7 +90,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "The surprising beauty of mosquitos | Fel…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -90,7 +133,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Why great art requires risk | Alex Van H…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -127,7 +170,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aeb94a69f528791af8c1bc2/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "5 ideas for better government in the US …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -170,7 +213,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "What kids wish their parents knew about …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -211,48 +254,6 @@
       ],
       "link": "http://go.ted.com/milarojas",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "The couples therapists who nearly got di…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/harvillehendrix",
-      "sentences": [
-        "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart.",
-        "In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their relationship — and shows how any couple can break the cycle of criticism to rediscover joy.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "couples",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "therapists",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "harville",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hendrix",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lakelly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decades",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/harvillehendrix",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae258f70a9b7b8b95b17566/media.mp3"
     }
   ]
 }

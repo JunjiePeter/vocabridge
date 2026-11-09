@@ -1,11 +1,143 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-08",
+  "name": "The Economist · Latest · 2026-11-09",
   "type": "passage",
-  "generatedAt": "2026-11-08T02:18:21.517Z",
+  "generatedAt": "2026-11-09T02:23:07.257Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "Gadi Eisenkot has a chance to form a new…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel",
+      "sentences": [
+        "Gadi Eisenkot has a chance to form a new government in Israel.",
+        "Both his foes and his supposed allies may yet prevent him"
+      ],
+      "vocab": [
+        {
+          "w": "eisenkot",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "supposed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prevent",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "YouTube’s dominance has Hollywood runnin…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
+      "sentences": [
+        "YouTube’s dominance has Hollywood running scared.",
+        "Studios and streamers alike are struggling to respond to its success"
+      ],
+      "vocab": [
+        {
+          "w": "youtube",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dominance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hollywood",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "running",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "studios",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "streamers",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "The fight over Republicans’ future has b…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
+      "sentences": [
+        "The fight over Republicans’ future has begun.",
+        "After a staggering loss, the party is battling over whom to blame and how to move forward"
+      ],
+      "vocab": [
+        {
+          "w": "republicans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "staggering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "battling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "forward",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Why Indians should have higher standards",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
+      "sentences": [
+        "Why Indians should have higher standards.",
+        "“Good enough” is not good enough"
+      ],
+      "vocab": [
+        {
+          "w": "indians",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "standards",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
       "title": "Off the Charts newsletter: A post mortem…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +178,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-6",
       "title": "Checks and Balance newsletter: What come…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +219,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-7",
       "title": "When is a suit not a suit?",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -116,7 +248,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-8",
       "title": "The Climate Issue newsletter: The world …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -149,7 +281,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-9",
       "title": "Republicans blame Israel for their defea…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -190,7 +322,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-10",
       "title": "The blue wave was powered by moderate De…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -227,7 +359,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
+      "id": "rss-economist-11",
       "title": "Is grip strength a useful indicator of h…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -256,7 +388,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
+      "id": "rss-economist-12",
       "title": "Is this the end of the Trump era?",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -290,150 +422,6 @@
         }
       ],
       "link": "https://www.economist.com/podcasts/2026/11/06/is-this-the-end-of-the-trump-era",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "What to watch this week",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/06/what-to-watch-this-week",
-      "sentences": [
-        "What to watch this week.",
-        "Switch on these films and TV shows to discover something new"
-      ],
-      "vocab": [
-        {
-          "w": "discover",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "something",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/06/what-to-watch-this-week",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "“Britain is back”: an interview with And…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/06/britain-is-back-an-interview-with-andy-burnham",
-      "sentences": [
-        "“Britain is back”: an interview with Andy Burnham.",
-        "Also on the daily podcast: Ukraine’s demographic collapse and remembering Dolores Huerta"
-      ],
-      "vocab": [
-        {
-          "w": "britain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interview",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "demographic",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/06/britain-is-back-an-interview-with-andy-burnham",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Pinot Noir: inside the criminal gangs ma…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
-      "sentences": [
-        "Fraudsters have long counterfeited high-end wine.",
-        "Now they are coming for the bottles on your supermarket shelves"
-      ],
-      "vocab": [
-        {
-          "w": "fraudsters",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "counterfeited",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "high-end",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bottles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "supermarket",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shelves",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "A generational upset in Los Angeles",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
-      "sentences": [
-        "A generational upset in Los Angeles.",
-        "Nithya Raman, a DSA city council member, will lead America’s second-largest city"
-      ],
-      "vocab": [
-        {
-          "w": "generational",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "angeles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "council",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "second-largest",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
       "audio": ""
     }
   ]

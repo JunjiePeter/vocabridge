@@ -1,11 +1,52 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-08",
+  "name": "BBC News · Technology · 2026-11-09",
   "type": "passage",
-  "generatedAt": "2026-11-08T02:18:21.356Z",
+  "generatedAt": "2026-11-09T02:23:07.071Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Government 'looking seriously' at bannin…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Government 'looking seriously' at banning under-16s from Vinted and eBay.",
+        "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+      ],
+      "vocab": [
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'looking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "seriously'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "banning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "culture",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
       "title": "Can the Zelda remake capture the magic o…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +87,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-3",
       "title": "Elon Musk appears to signal the end of t…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -83,7 +124,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-4",
       "title": "AI stocks climb after trillions wiped fr…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -124,7 +165,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-5",
       "title": "Why the US midterms sparked an AI stock …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -165,7 +206,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-6",
       "title": "Global stocks plunge as fears over US AI…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -206,7 +247,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-7",
       "title": "The engine parts that 'fight the laws of…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -247,7 +288,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-8",
       "title": "Elon Musk's millions failed to deliver R…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -288,7 +329,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-9",
       "title": "French blood storage impacted by freezer…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -329,7 +370,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-10",
       "title": "Graduates are managing AI - but are they…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -370,7 +411,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-11",
       "title": "Binance says fake job interviews used as…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -411,7 +452,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-11",
+      "id": "rss-bbc-tech-12",
       "title": "UK meat industry hit by cyber-attack whi…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -449,47 +490,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Apple unsure when it will get more folda…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Apple unsure when it will get more foldable iPhones ahead of Christmas.",
-        "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo."
-      ],
-      "vocab": [
-        {
-          "w": "foldable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "iphones",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "christmas",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "constraints",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affecting",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
