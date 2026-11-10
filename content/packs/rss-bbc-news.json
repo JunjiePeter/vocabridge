@@ -1,495 +1,459 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-09",
+  "name": "BBC News · Top Stories · 2026-11-10",
   "type": "passage",
-  "generatedAt": "2026-11-09T02:23:06.900Z",
+  "generatedAt": "2026-11-10T02:19:54.124Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "'I treat all these people like they are …",
+      "title": "Russell Brand sentenced to 10-and-a-half…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect.",
-        "Two doctors were eating near the city's Main Market Square when a gunman began firing at random."
+        "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault.",
+        "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court."
       ],
       "vocab": [
         {
-          "w": "victims'",
+          "w": "russell",
           "cn": "（查词典）"
         },
         {
-          "w": "treated",
+          "w": "sentenced",
           "cn": "（查词典）"
         },
         {
-          "w": "shooting",
+          "w": "-and-a-half",
           "cn": "（查词典）"
         },
         {
-          "w": "suspect",
+          "w": "assault",
           "cn": "（查词典）"
         },
         {
-          "w": "doctors",
+          "w": "disgraced",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "entertainer",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "Nandy defends linking Erasmus student sc…",
+      "title": "Brand's ex Jemima Goldsmith accuses him …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash.",
-        "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+        "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her.",
+        "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together."
       ],
       "vocab": [
         {
-          "w": "defends",
+          "w": "brand's",
           "cn": "（查词典）"
         },
         {
-          "w": "linking",
+          "w": "goldsmith",
           "cn": "（查词典）"
         },
         {
-          "w": "erasmus",
+          "w": "accuses",
           "cn": "（查词典）"
         },
         {
-          "w": "student",
+          "w": "violence",
           "cn": "（查词典）"
         },
         {
-          "w": "remembrance",
+          "w": "disgraced",
           "cn": "（查词典）"
         },
         {
-          "w": "backlash",
+          "w": "performer",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-3",
-      "title": "Woman says Al Fayed's brother drugged an…",
+      "title": "What happened inside court as Brand was …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate.",
-        "Jill says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
+        "What happened inside court as Brand was sentenced.",
+        "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault."
       ],
       "vocab": [
         {
-          "w": "fayed's",
+          "w": "happened",
           "cn": "（查词典）"
         },
         {
-          "w": "brother",
+          "w": "sentenced",
           "cn": "（查词典）"
         },
         {
-          "w": "drugged",
+          "w": "kotecha",
           "cn": "（查词典）"
         },
         {
-          "w": "sexually",
+          "w": "convicted",
           "cn": "（查词典）"
         },
         {
-          "w": "highland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "family's",
+          "w": "assault",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-4",
-      "title": "Maya Jama steps down as host of reality …",
+      "title": "'Baffling but brilliant' post-apocalypti…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Maya Jama steps down as host of reality TV show Love Island.",
-        "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success."
+        "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize.",
+        "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81."
       ],
       "vocab": [
         {
-          "w": "reality",
+          "w": "'baffling",
           "cn": "（查词典）"
         },
         {
-          "w": "presenter",
+          "w": "brilliant'",
           "cn": "（查词典）"
         },
         {
-          "w": "something",
+          "w": "post-apocalyptic",
           "cn": "（查词典）"
         },
         {
-          "w": "celebrity",
+          "w": "everything",
           "cn": "（查词典）"
         },
         {
-          "w": "traitors",
+          "w": "harrison",
           "cn": "（查词典）"
         },
         {
-          "w": "success",
+          "w": "becomes",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-5",
-      "title": "Dense fog threatens Monday morning rush-…",
+      "title": "The superpower battle over energy – and …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Dense fog threatens Monday morning rush-hour disruption.",
-        "Fog could disrupt Monday morning’s commute"
+        "The superpower battle over energy – and what it means for your bills.",
+        "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
       ],
       "vocab": [
         {
-          "w": "threatens",
+          "w": "superpower",
           "cn": "（查词典）"
         },
         {
-          "w": "morning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rush-hour",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disruption",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disrupt",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commute",
+          "w": "tug-of-war",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-6",
-      "title": "Society needs to act to help white worki…",
+      "title": "Epstein associate who still runs model a…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Society needs to act to help white working-class pupils, inquiry says.",
-        "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\"."
+        "Epstein associate who still runs model agency 'put me in danger' says abuse survivor.",
+        "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
       ],
       "vocab": [
         {
-          "w": "society",
+          "w": "epstein",
           "cn": "（查词典）"
         },
         {
-          "w": "working-class",
+          "w": "associate",
           "cn": "（查词典）"
         },
         {
-          "w": "inquiry",
+          "w": "danger'",
           "cn": "（查词典）"
         },
         {
-          "w": "education",
+          "w": "survivor",
           "cn": "（查词典）"
         },
         {
-          "w": "secretary",
+          "w": "photoshoots",
           "cn": "（查词典）"
         },
         {
-          "w": "backing",
+          "w": "offender's",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-7",
-      "title": "A glimmer of good news for Britain's sle…",
+      "title": "Phones to be banned from pupils' bags or…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "A glimmer of good news for Britain's sleepy dormouse.",
-        "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival."
+        "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England.",
+        "The government says it is strengthening its guidance for schools in England, which came into force in June."
       ],
       "vocab": [
         {
-          "w": "glimmer",
+          "w": "pupils'",
           "cn": "（查词典）"
         },
         {
-          "w": "britain's",
+          "w": "pockets",
           "cn": "（查词典）"
         },
         {
-          "w": "dormouse",
+          "w": "stricter",
           "cn": "（查词典）"
         },
         {
-          "w": "figures",
+          "w": "schools",
           "cn": "（查词典）"
         },
         {
-          "w": "suggest",
+          "w": "england",
           "cn": "（查词典）"
         },
         {
-          "w": "dormice",
+          "w": "government",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-8",
-      "title": "Government looking at banning under-16s …",
+      "title": "Hundreds more offenders to leave jail on…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Government looking at banning under-16s from Vinted and eBay.",
-        "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+        "Hundreds more offenders to leave jail on Tuesday.",
+        "At least 1,350 offenders have been released from jail early under the scheme so far."
       ],
       "vocab": [
         {
-          "w": "government",
+          "w": "hundreds",
           "cn": "（查词典）"
         },
         {
-          "w": "looking",
+          "w": "offenders",
           "cn": "（查词典）"
         },
         {
-          "w": "banning",
+          "w": "tuesday",
           "cn": "（查词典）"
         },
         {
-          "w": "culture",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "confirms",
+          "w": "released",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Top House Democrat 'a hard yes' on impea…",
+      "title": "Trump says FBI investigating Nvidia boss…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Top House Democrat 'a hard yes' on impeaching Pete Hegseth.",
-        "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\"."
+        "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy.",
+        "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
       ],
       "vocab": [
         {
-          "w": "democrat",
+          "w": "investigating",
           "cn": "（查词典）"
         },
         {
-          "w": "impeaching",
+          "w": "alleged",
           "cn": "（查词典）"
         },
         {
-          "w": "hegseth",
+          "w": "chinese",
           "cn": "（查词典）"
         },
         {
-          "w": "pentagon",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
+          "w": "president",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Two arrested after police officers hurt …",
+      "title": "How a civil servant got away with juggli…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event.",
-        "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow."
+        "How a civil servant got away with juggling five jobs for so long.",
+        "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years."
       ],
       "vocab": [
         {
-          "w": "arrested",
+          "w": "servant",
           "cn": "（查词典）"
         },
         {
-          "w": "officers",
+          "w": "juggling",
           "cn": "（查词典）"
         },
         {
-          "w": "outside",
+          "w": "chowdhury",
           "cn": "（查词典）"
         },
         {
-          "w": "bare-knuckle",
+          "w": "convicted",
           "cn": "（查词典）"
         },
         {
-          "w": "fighting",
+          "w": "pocketing",
           "cn": "（查词典）"
         },
         {
-          "w": "scotland",
+          "w": "taxpayers'",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "Doing these things now will help you sav…",
+      "title": "Ukraine peace talks resume with 'some fl…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Doing these things now will help you save money at Christmas.",
-        "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
+        "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say.",
+        "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
       ],
       "vocab": [
         {
-          "w": "christmas",
+          "w": "ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "decisions",
+          "w": "flexibility'",
           "cn": "（查词典）"
         },
         {
-          "w": "difference",
+          "w": "warring",
           "cn": "（查词典）"
         },
         {
-          "w": "festive",
+          "w": "officials",
           "cn": "（查词典）"
         },
         {
-          "w": "finances",
+          "w": "washington",
           "cn": "（查词典）"
         },
         {
-          "w": "charities",
+          "w": "sending",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "What's your love language - and does it …",
+      "title": "I took Vinted to court to get my money b…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "What's your love language - and does it actually mean anything?.",
-        "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating."
+        "I took Vinted to court to get my money back.",
+        "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets."
       ],
       "vocab": [
         {
-          "w": "language",
+          "w": "sellers",
           "cn": "（查词典）"
         },
         {
-          "w": "actually",
+          "w": "describe",
           "cn": "（查词典）"
         },
         {
-          "w": "anything",
+          "w": "difficulties",
           "cn": "（查词典）"
         },
         {
-          "w": "languages",
+          "w": "accessing",
           "cn": "（查词典）"
         },
         {
-          "w": "scientific",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mentioned",
+          "w": "wallets",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

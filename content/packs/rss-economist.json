@@ -1,20 +1,414 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-09",
+  "name": "The Economist · Latest · 2026-11-10",
   "type": "passage",
-  "generatedAt": "2026-11-09T02:23:07.257Z",
+  "generatedAt": "2026-11-10T02:19:54.341Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Gadi Eisenkot has a chance to form a new…",
+      "title": "Donald Trump is in a hurry for peace in …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel",
+      "intro": "原文：https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
       "sentences": [
-        "Gadi Eisenkot has a chance to form a new government in Israel.",
-        "Both his foes and his supposed allies may yet prevent him"
+        "Donald Trump is in a hurry for peace in Ukraine.",
+        "American-brokered talks may help Russia prolong the war"
+      ],
+      "vocab": [
+        {
+          "w": "ukraine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "american-brokered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prolong",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Café Europa newsletter: Democratic wins …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/europe/2026/11/09/cafe-europa-newsletter-democratic-wins-or-no-europe-is-over-america",
+      "sentences": [
+        "Café Europa newsletter: Democratic wins or no, Europe is over America.",
+        "Matt Steinglass, our Europe editor, offers a view of the midterms from Amsterdam"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democratic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "steinglass",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "amsterdam",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/europe/2026/11/09/cafe-europa-newsletter-democratic-wins-or-no-europe-is-over-america",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Scientists are finally starting to under…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/09/scientists-are-finally-starting-to-understand-endometriosis",
+      "sentences": [
+        "Scientists are finally starting to understand endometriosis.",
+        "That should lead to quicker diagnosis and better treatment"
+      ],
+      "vocab": [
+        {
+          "w": "scientists",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finally",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "starting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "understand",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "endometriosis",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "quicker",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-finally-starting-to-understand-endometriosis",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Colombia’s Trumpian president is taking …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-americas/2026/11/09/colombias-trumpian-president-is-taking-no-prisoners",
+      "sentences": [
+        "Colombia’s Trumpian president is taking no prisoners.",
+        "Drug lords and social-justice warriors are both in El Tigre’s sights"
+      ],
+      "vocab": [
+        {
+          "w": "colombia",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "trumpian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prisoners",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "social-justice",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "warriors",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-americas/2026/11/09/colombias-trumpian-president-is-taking-no-prisoners",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "The future of Trumponomics: compromise o…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+      "sentences": [
+        "The future of Trumponomics: compromise or failure.",
+        "How the art of the deal may yet prevail over the art of denial"
+      ],
+      "vocab": [
+        {
+          "w": "prevail",
+          "cn": "占上风"
+        },
+        {
+          "w": "trumponomics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "compromise",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "failure",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "Xi Jinping’s plan for a China-centric wo…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+      "sentences": [
+        "Xi Jinping’s plan for a China-centric world order.",
+        "A “community with a shared future” sounds soft, but is backed by muscle"
+      ],
+      "vocab": [
+        {
+          "w": "jinping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "china-centric",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "community",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Bartleby newsletter: Can AI write newsle…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+      "sentences": [
+        "Bartleby newsletter: Can AI write newsletters.",
+        "Andrew Palmer, our Bartleby columnist, has bad news for some email scribes"
+      ],
+      "vocab": [
+        {
+          "w": "bartleby",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletters",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "columnist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scribes",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "The War Room newsletter: How long will P…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+      "sentences": [
+        "The War Room newsletter: How long will Pete Hegseth last?.",
+        "“Democrats, and a handful of Republicans, want the former Fox News host’s well-gelled head,” writes Samuel Beal, our Washington correspondent"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hegseth",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "handful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "republicans",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "well-gelled",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "Cover Story newsletter: Wipeout",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout",
+      "sentences": [
+        "An exclusive look at how we designed our cover"
+      ],
+      "vocab": [
+        {
+          "w": "exclusive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "designed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "What Donald Trump needs to understand ab…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/by-invitation/2026/11/09/what-donald-trump-needs-to-understand-about-china-and-taiwan",
+      "sentences": [
+        "What Donald Trump needs to understand about China and Taiwan.",
+        "Chinese pressure on America to stop arms sales is calibrated to change the political calculus in Taipei, writes Ker Gibbs"
+      ],
+      "vocab": [
+        {
+          "w": "understand",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pressure",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "calibrated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "political",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/by-invitation/2026/11/09/what-donald-trump-needs-to-understand-about-china-and-taiwan",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "At 50, “Rocky” isn’t as good as you reme…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/09/at-50-rocky-isnt-as-good-as-you-remember-its-better",
+      "sentences": [
+        "At 50, “Rocky” isn’t as good as you remember.",
+        "Why Sylvester Stallone’s boxing parable is about more than the violent sport"
+      ],
+      "vocab": [
+        {
+          "w": "remember",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sylvester",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stallone",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "parable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "violent",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/09/at-50-rocky-isnt-as-good-as-you-remember-its-better",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "All eyes on Eisenkot: Israel’s could-be …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/09/all-eyes-on-eisenkot-israels-could-be-prime-minister",
+      "sentences": [
+        "All eyes on Eisenkot: Israel’s could-be prime minister.",
+        "Also on the daily podcast: shifts in the Russia-Ukraine war and Who’s Who?"
       ],
       "vocab": [
         {
@@ -22,406 +416,23 @@
           "cn": "（查词典）"
         },
         {
-          "w": "government",
+          "w": "could-be",
           "cn": "（查词典）"
         },
         {
-          "w": "supposed",
+          "w": "minister",
           "cn": "（查词典）"
         },
-        {
-          "w": "prevent",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-2",
-      "title": "YouTube’s dominance has Hollywood runnin…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
-      "sentences": [
-        "YouTube’s dominance has Hollywood running scared.",
-        "Studios and streamers alike are struggling to respond to its success"
-      ],
-      "vocab": [
-        {
-          "w": "youtube",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dominance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hollywood",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "running",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "studios",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "streamers",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-3",
-      "title": "The fight over Republicans’ future has b…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
-      "sentences": [
-        "The fight over Republicans’ future has begun.",
-        "After a staggering loss, the party is battling over whom to blame and how to move forward"
-      ],
-      "vocab": [
-        {
-          "w": "republicans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "staggering",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "battling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "forward",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Why Indians should have higher standards",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
-      "sentences": [
-        "Why Indians should have higher standards.",
-        "“Good enough” is not good enough"
-      ],
-      "vocab": [
-        {
-          "w": "indians",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "standards",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "Off the Charts newsletter: A post mortem…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/07/off-the-charts-newsletter-a-post-mortem-of-our-election-model",
-      "sentences": [
-        "Off the Charts newsletter: A post mortem of our election model.",
-        "Dan Rosenheck, our data editor, considers why our election forecast missed the signs of the tsunami"
-      ],
-      "vocab": [
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "election",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rosenheck",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "considers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "forecast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tsunami",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/graphic-detail/2026/11/07/off-the-charts-newsletter-a-post-mortem-of-our-election-model",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "Checks and Balance newsletter: What come…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
-      "sentences": [
-        "Checks and Balance newsletter: What comes next after the midterms?.",
-        "Charlotte Howard, our US editor, on the rising political stars who could shape America’s future"
-      ],
-      "vocab": [
-        {
-          "w": "balance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charlotte",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "political",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "When is a suit not a suit?",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/07/when-is-a-suit-not-a-suit",
-      "sentences": [
-        "When is a suit not a suit?.",
-        "The weird ways prediction markets determine truth"
-      ],
-      "vocab": [
-        {
-          "w": "prediction",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "determine",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/07/when-is-a-suit-not-a-suit",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "The Climate Issue newsletter: The world …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino",
-      "sentences": [
-        "The Climate Issue newsletter: The world braces for an almighty El Niño.",
-        "Rachel Dobbs, our news editor, explains why the worst is yet to come"
-      ],
-      "vocab": [
-        {
-          "w": "climate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "almighty",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explains",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Republicans blame Israel for their defea…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat",
-      "sentences": [
-        "Republicans blame Israel for their defeat.",
-        "The Democrats’ victory could accelerate the decline of the Israeli-American alliance"
-      ],
-      "vocab": [
-        {
-          "w": "accelerate",
-          "cn": "加速"
-        },
-        {
-          "w": "republicans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "victory",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decline",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "israeli-american",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "The blue wave was powered by moderate De…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/06/the-blue-wave-was-powered-by-moderate-democrats",
-      "sentences": [
-        "The blue wave was powered by moderate Democrats.",
-        "Our analysis shows progressives had mostly easy wins"
-      ],
-      "vocab": [
-        {
-          "w": "powered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "moderate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "analysis",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "progressives",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/graphic-detail/2026/11/06/the-blue-wave-was-powered-by-moderate-democrats",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Is grip strength a useful indicator of h…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
-      "sentences": [
-        "Is grip strength a useful indicator of health?.",
-        "It is an attention-grabbing claim"
-      ],
-      "vocab": [
-        {
-          "w": "strength",
-          "cn": "优势"
-        },
-        {
-          "w": "indicator",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "attention-grabbing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Is this the end of the Trump era?",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/06/is-this-the-end-of-the-trump-era",
-      "sentences": [
-        "Our weekly podcast on America.",
-        "This week, what happens next after those extraordinary midterms"
-      ],
-      "vocab": [
         {
           "w": "podcast",
           "cn": "（查词典）"
         },
         {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "happens",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "extraordinary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
+          "w": "russia-ukraine",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/06/is-this-the-end-of-the-trump-era",
+      "link": "https://www.economist.com/podcasts/2026/11/09/all-eyes-on-eisenkot-israels-could-be-prime-minister",
       "audio": ""
     }
   ]

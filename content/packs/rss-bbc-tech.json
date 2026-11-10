@@ -1,11 +1,204 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-09",
+  "name": "BBC News · Technology · 2026-11-10",
   "type": "passage",
-  "generatedAt": "2026-11-09T02:23:07.071Z",
+  "generatedAt": "2026-11-10T02:19:54.154Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Qantas to outsource 850 local jobs with …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Qantas to outsource 850 local jobs with most roles moving to India.",
+        "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
+      ],
+      "vocab": [
+        {
+          "w": "outsource",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "australian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "airline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "modernising",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "systems",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Trump says FBI investigating Nvidia boss…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy.",
+        "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+      ],
+      "vocab": [
+        {
+          "w": "investigating",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alleged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "What we know so far about Jensen Huang's…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What we know so far about Jensen Huang's affair with suspected Chinese spy.",
+        "The billionaire tech executive finds himself mired in a personal and national security scandal."
+      ],
+      "vocab": [
+        {
+          "w": "huang's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billionaire",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "executive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "himself",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "Nvidia shares tumble over investigation …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy.",
+        "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
+      ],
+      "vocab": [
+        {
+          "w": "investigation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "huang's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alleged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dropped",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hundreds",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "Who is the suspected Chinese spy at cent…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Who is the suspected Chinese spy at centre of the Nvidia investigation?.",
+        "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say."
+      ],
+      "vocab": [
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investigation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "businesswoman",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "relationship",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reports",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-6",
       "title": "Government 'looking seriously' at bannin…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +239,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-7",
       "title": "Can the Zelda remake capture the magic o…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +280,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-8",
       "title": "Elon Musk appears to signal the end of t…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -124,7 +317,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-9",
       "title": "AI stocks climb after trillions wiped fr…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -165,7 +358,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-10",
       "title": "Why the US midterms sparked an AI stock …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -206,7 +399,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-11",
       "title": "Global stocks plunge as fears over US AI…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -247,7 +440,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-12",
       "title": "The engine parts that 'fight the laws of…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -285,211 +478,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-8",
-      "title": "Elon Musk's millions failed to deliver R…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Elon Musk's millions failed to deliver Republican wins in fierce midterms.",
-        "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record."
-      ],
-      "vocab": [
-        {
-          "w": "millions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "deliver",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "republican",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterm",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "elections",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-9",
-      "title": "French blood storage impacted by freezer…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "French blood storage impacted by freezer hacks as theories swirl about culprits.",
-        "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
-      ],
-      "vocab": [
-        {
-          "w": "storage",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "impacted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "freezer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "theories",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "culprits",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "establishment",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Graduates are managing AI - but are they…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Graduates are managing AI - but are they learning much else?.",
-        "Graduates are spending more time managing AI, but are they missing out on other work experience?"
-      ],
-      "vocab": [
-        {
-          "w": "graduates",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "managing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "learning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "missing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experience",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Binance says fake job interviews used as…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Binance says fake job interviews used as part of $6.3bn crypto hack.",
-        "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
-      ],
-      "vocab": [
-        {
-          "w": "binance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interviews",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "engineer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contacted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "legitimate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "job-hunting",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "UK meat industry hit by cyber-attack whi…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK meat industry hit by cyber-attack which targeted European supermarket freezers.",
-        "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
-      ],
-      "vocab": [
-        {
-          "w": "industry",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cyber-attack",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "targeted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "european",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "supermarket",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "freezers",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

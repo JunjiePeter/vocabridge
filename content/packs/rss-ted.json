@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-09",
+  "name": "TED Talks · Daily · 2026-11-10",
   "type": "passage",
-  "generatedAt": "2026-11-09T02:23:07.719Z",
+  "generatedAt": "2026-11-10T02:19:54.899Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How to rewire your brain — and find your…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/heatherberlin",
+      "sentences": [
+        "When life gets uncertain, do you grip a little tighter?",
+        "Neuroscientist Heather Berlin explores a surprising paradox: the harder you try to control everything, the more likely you are to get in your own way.",
+        "Drawing on brain research and her own struggles with uncertainty, she shares practical ways to let go and make room for creativity, calm and flow.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "uncertain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tighter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "neuroscientist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "heather",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "explores",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surprising",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/heatherberlin",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af1eb82e0d89bd85412a56b/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Sunday Pick: The science on improving yo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +91,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee46b760a59de70fef4385/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "How to build the next wave of clean ener…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -90,7 +133,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "The surprising beauty of mosquitos | Fel…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -133,7 +176,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Why great art requires risk | Alex Van H…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -170,7 +213,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aeb94a69f528791af8c1bc2/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "5 ideas for better government in the US …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -211,49 +254,6 @@
       ],
       "link": "http://go.ted.com/jeffmaurer",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "What kids wish their parents knew about …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/milarojas",
-      "sentences": [
-        "When was the last time you played, just for fun?",
-        "Eleven-year-old Mila Rojas has noticed that adults — buried under schedules, expectations and the pressure to be serious — often see play as unproductive.",
-        "In this delightful talk, she shows why having fun is key for families to connect and shares some simple ways to bring more joy into everyday life.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "eleven-year-old",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "noticed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "schedules",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expectations",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pressure",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "serious",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/milarojas",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9cd008b613dfe44544a/media.mp3"
     }
   ]
 }
