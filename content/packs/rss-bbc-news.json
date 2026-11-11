@@ -1,459 +1,487 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-10",
+  "name": "BBC News · Top Stories · 2026-11-11",
   "type": "passage",
-  "generatedAt": "2026-11-10T02:19:54.124Z",
+  "generatedAt": "2026-11-11T02:16:16.344Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Russell Brand sentenced to 10-and-a-half…",
+      "title": "US Army soldier suspected of spying for …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault.",
-        "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court."
+        "US Army soldier suspected of spying for Russia arrested in UK.",
+        "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
       ],
       "vocab": [
         {
-          "w": "russell",
+          "w": "soldier",
           "cn": "（查词典）"
         },
         {
-          "w": "sentenced",
+          "w": "suspected",
           "cn": "（查词典）"
         },
         {
-          "w": "-and-a-half",
+          "w": "arrested",
           "cn": "（查词典）"
         },
         {
-          "w": "assault",
+          "w": "-year-old",
           "cn": "（查词典）"
         },
         {
-          "w": "disgraced",
+          "w": "accused",
           "cn": "（查词典）"
         },
         {
-          "w": "entertainer",
+          "w": "national",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "Brand's ex Jemima Goldsmith accuses him …",
+      "title": "David Walliams accused of sexual miscond…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her.",
-        "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together."
+        "ITN and the Guardian allege the comedian preyed on teenage girls and young women.",
+        "He has denied all allegations."
       ],
       "vocab": [
         {
-          "w": "brand's",
+          "w": "guardian",
           "cn": "（查词典）"
         },
         {
-          "w": "goldsmith",
+          "w": "comedian",
           "cn": "（查词典）"
         },
         {
-          "w": "accuses",
+          "w": "teenage",
           "cn": "（查词典）"
         },
         {
-          "w": "violence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disgraced",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "performer",
+          "w": "allegations",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-3",
-      "title": "What happened inside court as Brand was …",
+      "title": "Why Walliams' unprecedented legal battle…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "What happened inside court as Brand was sentenced.",
-        "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault."
+        "Why Walliams' unprecedented legal battle to stay anonymous failed.",
+        "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public."
       ],
       "vocab": [
         {
-          "w": "happened",
+          "w": "walliams'",
           "cn": "（查词典）"
         },
         {
-          "w": "sentenced",
+          "w": "unprecedented",
           "cn": "（查词典）"
         },
         {
-          "w": "kotecha",
+          "w": "anonymous",
           "cn": "（查词典）"
         },
         {
-          "w": "convicted",
+          "w": "-year-old",
           "cn": "（查词典）"
         },
         {
-          "w": "assault",
+          "w": "reports",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "guardian",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-4",
-      "title": "'Baffling but brilliant' post-apocalypti…",
+      "title": "Meghan's father Thomas Markle back in fe…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize.",
-        "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81."
+        "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor.",
+        "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
       ],
       "vocab": [
         {
-          "w": "'baffling",
+          "w": "monitor",
+          "cn": "监测"
+        },
+        {
+          "w": "meghan's",
           "cn": "（查词典）"
         },
         {
-          "w": "brilliant'",
+          "w": "federal",
           "cn": "（查词典）"
         },
         {
-          "w": "post-apocalyptic",
+          "w": "custody",
           "cn": "（查词典）"
         },
         {
-          "w": "everything",
+          "w": "allegedly",
           "cn": "（查词典）"
         },
         {
-          "w": "harrison",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "becomes",
+          "w": "removing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-5",
-      "title": "The superpower battle over energy – and …",
+      "title": "New photos are 'essential evidence' of p…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "The superpower battle over energy – and what it means for your bills.",
-        "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
+        "New photos are 'essential evidence' of possible SAS war crimes, inquiry told.",
+        "The inquiry's lead barrister says photos of people lying on their backs with shots to the head may be evidence of possible war crimes."
       ],
       "vocab": [
         {
-          "w": "superpower",
+          "w": "'essential",
           "cn": "（查词典）"
         },
         {
-          "w": "tug-of-war",
+          "w": "evidence'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "possible",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inquiry",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inquiry's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "barrister",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-6",
-      "title": "Epstein associate who still runs model a…",
+      "title": "Three Iran-backed suspects plotted attac…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Epstein associate who still runs model agency 'put me in danger' says abuse survivor.",
-        "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
+        "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says.",
+        "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
       ],
       "vocab": [
         {
-          "w": "epstein",
+          "w": "iran-backed",
           "cn": "（查词典）"
         },
         {
-          "w": "associate",
+          "w": "suspects",
           "cn": "（查词典）"
         },
         {
-          "w": "danger'",
+          "w": "plotted",
           "cn": "（查词典）"
         },
         {
-          "w": "survivor",
+          "w": "attacks",
           "cn": "（查词典）"
         },
         {
-          "w": "photoshoots",
+          "w": "fairford",
           "cn": "（查词典）"
         },
         {
-          "w": "offender's",
+          "w": "incident",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-7",
-      "title": "Phones to be banned from pupils' bags or…",
+      "title": "Prince George's artwork featured in Coun…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England.",
-        "The government says it is strengthening its guidance for schools in England, which came into force in June."
+        "Prince George's artwork featured in Country Life magazine.",
+        "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine."
       ],
       "vocab": [
         {
-          "w": "pupils'",
+          "w": "george's",
           "cn": "（查词典）"
         },
         {
-          "w": "pockets",
+          "w": "artwork",
           "cn": "（查词典）"
         },
         {
-          "w": "stricter",
+          "w": "featured",
           "cn": "（查词典）"
         },
         {
-          "w": "schools",
+          "w": "country",
           "cn": "（查词典）"
         },
         {
-          "w": "england",
+          "w": "magazine",
           "cn": "（查词典）"
         },
         {
-          "w": "government",
+          "w": "features",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-8",
-      "title": "Hundreds more offenders to leave jail on…",
+      "title": "Antidepressant escitalopram more effecti…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Hundreds more offenders to leave jail on Tuesday.",
-        "At least 1,350 offenders have been released from jail early under the scheme so far."
+        "Antidepressant escitalopram more effective at preventing relapse, analysis finds.",
+        "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients."
       ],
       "vocab": [
         {
-          "w": "hundreds",
+          "w": "antidepressant",
           "cn": "（查词典）"
         },
         {
-          "w": "offenders",
+          "w": "escitalopram",
           "cn": "（查词典）"
         },
         {
-          "w": "tuesday",
+          "w": "effective",
           "cn": "（查词典）"
         },
         {
-          "w": "released",
+          "w": "preventing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "relapse",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "analysis",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Trump says FBI investigating Nvidia boss…",
+      "title": "US House blocks bid to impeach Defence S…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy.",
-        "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+        "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now.",
+        "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
       ],
       "vocab": [
         {
-          "w": "investigating",
+          "w": "impeach",
           "cn": "（查词典）"
         },
         {
-          "w": "alleged",
+          "w": "defence",
           "cn": "（查词典）"
         },
         {
-          "w": "chinese",
+          "w": "secretary",
           "cn": "（查词典）"
         },
         {
-          "w": "president",
+          "w": "hegseth",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "welcomes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outcome",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "How a civil servant got away with juggli…",
+      "title": "Train attack driver's '10 seconds' to ch…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "How a civil servant got away with juggling five jobs for so long.",
-        "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years."
+        "Train attack driver's '10 seconds' to change line.",
+        "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\"."
       ],
       "vocab": [
         {
-          "w": "servant",
+          "w": "driver's",
           "cn": "（查词典）"
         },
         {
-          "w": "juggling",
+          "w": "seconds'",
           "cn": "（查词典）"
         },
         {
-          "w": "chowdhury",
+          "w": "johnson",
           "cn": "（查词典）"
         },
         {
-          "w": "convicted",
+          "w": "intercom",
           "cn": "（查词典）"
         },
         {
-          "w": "pocketing",
+          "w": "'there's",
           "cn": "（查词典）"
         },
         {
-          "w": "taxpayers'",
+          "w": "knifeman",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "Ukraine peace talks resume with 'some fl…",
+      "title": "Students passing university assessments …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say.",
-        "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
+        "Students passing university assessments in minutes using AI, regulator warns.",
+        "The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\"."
       ],
       "vocab": [
         {
-          "w": "ukraine",
+          "w": "students",
           "cn": "（查词典）"
         },
         {
-          "w": "flexibility'",
+          "w": "passing",
           "cn": "（查词典）"
         },
         {
-          "w": "warring",
+          "w": "university",
           "cn": "（查词典）"
         },
         {
-          "w": "officials",
+          "w": "assessments",
           "cn": "（查词典）"
         },
         {
-          "w": "washington",
+          "w": "minutes",
           "cn": "（查词典）"
         },
         {
-          "w": "sending",
+          "w": "regulator",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "I took Vinted to court to get my money b…",
+      "title": "Stickers and building sets help drive to…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "I took Vinted to court to get my money back.",
-        "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets."
+        "Stickers and building sets help drive toy sales ahead of Christmas rush.",
+        "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity."
       ],
       "vocab": [
         {
-          "w": "sellers",
+          "w": "stickers",
           "cn": "（查词典）"
         },
         {
-          "w": "describe",
+          "w": "building",
           "cn": "（查词典）"
         },
         {
-          "w": "difficulties",
+          "w": "christmas",
           "cn": "（查词典）"
         },
         {
-          "w": "accessing",
+          "w": "intensifies",
           "cn": "（查词典）"
         },
         {
-          "w": "wallets",
+          "w": "connectivity",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

@@ -1,238 +1,243 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-10",
+  "name": "The Economist · Latest · 2026-11-11",
   "type": "passage",
-  "generatedAt": "2026-11-10T02:19:54.341Z",
+  "generatedAt": "2026-11-11T02:16:16.789Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Donald Trump is in a hurry for peace in …",
+      "title": "Global bullies have turned uncertainty i…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
+      "intro": "原文：https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
       "sentences": [
-        "Donald Trump is in a hurry for peace in Ukraine.",
-        "American-brokered talks may help Russia prolong the war"
+        "Global bullies have turned uncertainty into a weapon.",
+        "America and China see profit in keeping the whole world on edge"
       ],
       "vocab": [
+        {
+          "w": "bullies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "uncertainty",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "keeping",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Europe has been living beyond its means.…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due",
+      "sentences": [
+        "Europe has been living beyond its means.",
+        "Now the bills are due.",
+        "It accounts for half the world’s social spending, but its fractured politics make cuts difficult"
+      ],
+      "vocab": [
+        {
+          "w": "accounts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spending",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fractured",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "politics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "difficult",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Lessons from a miserable month for hedge…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+      "sentences": [
+        "Lessons from a miserable month for hedge funds.",
+        "The struggle to invest in anything other than AI"
+      ],
+      "vocab": [
+        {
+          "w": "lessons",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "miserable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "struggle",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anything",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "For boomers, economic boom times are ove…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+      "sentences": [
+        "For boomers, economic boom times are over.",
+        "Across the rich world, the geriatric share of income and wealth is ebbing"
+      ],
+      "vocab": [
+        {
+          "w": "boomers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "geriatric",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Our analysis of the leaked Russian death…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/10/our-analysis-of-the-leaked-russian-death-toll-in-ukraine",
+      "sentences": [
+        "Our analysis of the leaked Russian death toll in Ukraine.",
+        "Hackers have released records they claim are from Russia’s statistics agency"
+      ],
+      "vocab": [
+        {
+          "w": "analysis",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "russian",
+          "cn": "（查词典）"
+        },
         {
           "w": "ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "american-brokered",
+          "w": "hackers",
           "cn": "（查词典）"
         },
         {
-          "w": "prolong",
+          "w": "released",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "records",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-2",
-      "title": "Café Europa newsletter: Democratic wins …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/11/09/cafe-europa-newsletter-democratic-wins-or-no-europe-is-over-america",
-      "sentences": [
-        "Café Europa newsletter: Democratic wins or no, Europe is over America.",
-        "Matt Steinglass, our Europe editor, offers a view of the midterms from Amsterdam"
-      ],
-      "vocab": [
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "democratic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "steinglass",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "amsterdam",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/europe/2026/11/09/cafe-europa-newsletter-democratic-wins-or-no-europe-is-over-america",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-3",
-      "title": "Scientists are finally starting to under…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/09/scientists-are-finally-starting-to-understand-endometriosis",
-      "sentences": [
-        "Scientists are finally starting to understand endometriosis.",
-        "That should lead to quicker diagnosis and better treatment"
-      ],
-      "vocab": [
-        {
-          "w": "scientists",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finally",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "starting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "understand",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "endometriosis",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "quicker",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-finally-starting-to-understand-endometriosis",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Colombia’s Trumpian president is taking …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-americas/2026/11/09/colombias-trumpian-president-is-taking-no-prisoners",
-      "sentences": [
-        "Colombia’s Trumpian president is taking no prisoners.",
-        "Drug lords and social-justice warriors are both in El Tigre’s sights"
-      ],
-      "vocab": [
-        {
-          "w": "colombia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "trumpian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "prisoners",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "social-justice",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "warriors",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-americas/2026/11/09/colombias-trumpian-president-is-taking-no-prisoners",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "The future of Trumponomics: compromise o…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-      "sentences": [
-        "The future of Trumponomics: compromise or failure.",
-        "How the art of the deal may yet prevail over the art of denial"
-      ],
-      "vocab": [
-        {
-          "w": "prevail",
-          "cn": "占上风"
-        },
-        {
-          "w": "trumponomics",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "compromise",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "failure",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+      "link": "https://www.economist.com/graphic-detail/2026/11/10/our-analysis-of-the-leaked-russian-death-toll-in-ukraine",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "Xi Jinping’s plan for a China-centric wo…",
+      "title": "American workers face a surge in health …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
       "sentences": [
-        "Xi Jinping’s plan for a China-centric world order.",
-        "A “community with a shared future” sounds soft, but is backed by muscle"
+        "American workers face a surge in health costs.",
+        "Employer-sponsored insurance, the backbone of American coverage, is becoming more frail"
       ],
       "vocab": [
         {
-          "w": "jinping",
+          "w": "american",
           "cn": "（查词典）"
         },
         {
-          "w": "china-centric",
+          "w": "workers",
           "cn": "（查词典）"
         },
         {
-          "w": "community",
+          "w": "employer-sponsored",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "insurance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "backbone",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "coverage",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+      "link": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "Bartleby newsletter: Can AI write newsle…",
+      "title": "Blighty newsletter: What I learned inter…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+      "intro": "原文：https://www.economist.com/britain/2026/11/10/blighty-newsletter-what-i-learned-interviewing-andy-burnham",
       "sentences": [
-        "Bartleby newsletter: Can AI write newsletters.",
-        "Andrew Palmer, our Bartleby columnist, has bad news for some email scribes"
+        "Blighty newsletter: What I learned interviewing Andy Burnham.",
+        "“It remains to be seen if he can produce a substantial policy agenda to match his muscular rhetoric,” writes Hugo Gye, our Britain political correspondent"
       ],
       "vocab": [
         {
-          "w": "bartleby",
+          "w": "substantial",
+          "cn": "大量的"
+        },
+        {
+          "w": "blighty",
           "cn": "（查词典）"
         },
         {
@@ -240,187 +245,98 @@
           "cn": "（查词典）"
         },
         {
-          "w": "newsletters",
+          "w": "learned",
           "cn": "（查词典）"
         },
         {
-          "w": "columnist",
+          "w": "interviewing",
           "cn": "（查词典）"
         },
         {
-          "w": "scribes",
+          "w": "burnham",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+      "link": "https://www.economist.com/britain/2026/11/10/blighty-newsletter-what-i-learned-interviewing-andy-burnham",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "The War Room newsletter: How long will P…",
+      "title": "China’s AI brain drain",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/10/chinas-ai-brain-drain",
       "sentences": [
-        "The War Room newsletter: How long will Pete Hegseth last?.",
-        "“Democrats, and a handful of Republicans, want the former Fox News host’s well-gelled head,” writes Samuel Beal, our Washington correspondent"
+        "Our weekly podcast on China.",
+        "This week, how talent flows are shaping the battle for AI dominance"
       ],
       "vocab": [
         {
-          "w": "newsletter",
+          "w": "podcast",
           "cn": "（查词典）"
         },
         {
-          "w": "hegseth",
+          "w": "shaping",
           "cn": "（查词典）"
         },
         {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "handful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "republicans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "well-gelled",
+          "w": "dominance",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+      "link": "https://www.economist.com/podcasts/2026/11/10/chinas-ai-brain-drain",
       "audio": ""
     },
     {
       "id": "rss-economist-9",
-      "title": "Cover Story newsletter: Wipeout",
+      "title": "Inside America’s first new submarine bas…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout",
+      "intro": "原文：https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
       "sentences": [
-        "An exclusive look at how we designed our cover"
+        "Inside America’s first new submarine base abroad for 53 years.",
+        "AUKUS is beginning to make waves on Australia’s west coast"
       ],
       "vocab": [
-        {
-          "w": "exclusive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "designed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "What Donald Trump needs to understand ab…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/by-invitation/2026/11/09/what-donald-trump-needs-to-understand-about-china-and-taiwan",
-      "sentences": [
-        "What Donald Trump needs to understand about China and Taiwan.",
-        "Chinese pressure on America to stop arms sales is calibrated to change the political calculus in Taipei, writes Ker Gibbs"
-      ],
-      "vocab": [
-        {
-          "w": "understand",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pressure",
-          "cn": "（查词典）"
-        },
         {
           "w": "america",
           "cn": "（查词典）"
         },
         {
-          "w": "calibrated",
+          "w": "submarine",
           "cn": "（查词典）"
         },
         {
-          "w": "political",
+          "w": "beginning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "australia",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/by-invitation/2026/11/09/what-donald-trump-needs-to-understand-about-china-and-taiwan",
+      "link": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
       "audio": ""
     },
     {
-      "id": "rss-economist-11",
-      "title": "At 50, “Rocky” isn’t as good as you reme…",
+      "id": "rss-economist-10",
+      "title": "When chips are down: Nvidia CEO’s risky …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/09/at-50-rocky-isnt-as-good-as-you-remember-its-better",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/10/when-chips-are-down-nvidia-ceos-risky-relationship",
       "sentences": [
-        "At 50, “Rocky” isn’t as good as you remember.",
-        "Why Sylvester Stallone’s boxing parable is about more than the violent sport"
+        "When chips are down: Nvidia CEO’s risky relationship.",
+        "Also on the daily podcast: Africa’s Ebola outbreak and a roadkill food festival"
       ],
       "vocab": [
         {
-          "w": "remember",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sylvester",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stallone",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "parable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "violent",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/09/at-50-rocky-isnt-as-good-as-you-remember-its-better",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "All eyes on Eisenkot: Israel’s could-be …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/09/all-eyes-on-eisenkot-israels-could-be-prime-minister",
-      "sentences": [
-        "All eyes on Eisenkot: Israel’s could-be prime minister.",
-        "Also on the daily podcast: shifts in the Russia-Ukraine war and Who’s Who?"
-      ],
-      "vocab": [
-        {
-          "w": "eisenkot",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "could-be",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
+          "w": "relationship",
           "cn": "（查词典）"
         },
         {
@@ -428,11 +344,77 @@
           "cn": "（查词典）"
         },
         {
-          "w": "russia-ukraine",
+          "w": "outbreak",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "roadkill",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "festival",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/09/all-eyes-on-eisenkot-israels-could-be-prime-minister",
+      "link": "https://www.economist.com/podcasts/2026/11/10/when-chips-are-down-nvidia-ceos-risky-relationship",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "Civilisation has collapsed in England, a…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/10/civilisation-has-collapsed-in-england-and-other-odd-ideas",
+      "sentences": [
+        "“The End of Everything”, a sci-fi tale by M.",
+        "John Harrison, wins the Booker prize"
+      ],
+      "vocab": [
+        {
+          "w": "everything",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "harrison",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/10/civilisation-has-collapsed-in-england-and-other-odd-ideas",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "Why free traders should thank AI",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/10/why-free-traders-should-thank-ai",
+      "sentences": [
+        "Why free traders should thank AI.",
+        "A handpicked article read aloud from the latest issue of The Economist"
+      ],
+      "vocab": [
+        {
+          "w": "traders",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "handpicked",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "article",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economist",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/10/why-free-traders-should-thank-ai",
       "audio": ""
     }
   ]

@@ -1,11 +1,55 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-10",
+  "name": "TED Talks · Daily · 2026-11-11",
   "type": "passage",
-  "generatedAt": "2026-11-10T02:19:54.899Z",
+  "generatedAt": "2026-11-11T02:16:17.291Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Your phone is disgusting. Here's how to …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/lottitajouri",
+      "sentences": [
+        "What’s dirtier: your phone or your hands?",
+        "Molecular biologist Lotti Tajouri says there’s a gaping hole in our hygiene routine.",
+        "We scrub our hands clean, then reach right for the phone — a warm, humid and mobile home for bacteria and viruses.",
+        "He explores the unnervingly vibrant microbial world living on your phone and shows how you can keep this “third hand” clean.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "dirtier",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "molecular",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biologist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tajouri",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hygiene",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "routine",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/lottitajouri",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How to rewire your brain — and find your…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +92,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af1eb82e0d89bd85412a56b/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Sunday Pick: The science on improving yo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -91,7 +135,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee46b760a59de70fef4385/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "How to build the next wave of clean ener…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -133,7 +177,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "The surprising beauty of mosquitos | Fel…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -176,7 +220,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Why great art requires risk | Alex Van H…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -211,49 +255,6 @@
       ],
       "link": "http://go.ted.com/alexdavidrobert",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aeb94a69f528791af8c1bc2/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "5 ideas for better government in the US …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/jeffmaurer",
-      "sentences": [
-        "Should the US Constitution protect your DNA?",
-        "Entrepreneur Jeff Maurer spent his youth fighting fires alongside World War II veterans, and he thinks the spirit that united them can power America's next 250 years.",
-        "He proposes five new amendments to the US Constitution — from protecting privacy to holding politicians accountable — and shares what it would take to get them passed.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "constitution",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "protect",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "entrepreneur",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fighting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alongside",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "veterans",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/jeffmaurer",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ae8b9dc008b613dfe44544b/media.mp3"
     }
   ]
 }

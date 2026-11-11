@@ -1,11 +1,413 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-10",
+  "name": "BBC News · Business · 2026-11-11",
   "type": "passage",
-  "generatedAt": "2026-11-10T02:19:54.186Z",
+  "generatedAt": "2026-11-11T02:16:16.578Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "Poundland hopeful for last-minute rescue…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Poundland hopeful for last-minute rescue deal to stave off collapse.",
+        "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
+      ],
+      "vocab": [
+        {
+          "w": "poundland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hopeful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "last-minute",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collapse",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "understands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "discount",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Stickers and building sets help drive to…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Stickers and building sets help drive toy sales ahead of Christmas rush.",
+        "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity."
+      ],
+      "vocab": [
+        {
+          "w": "stickers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "building",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "christmas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "intensifies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "connectivity",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Nvidia hires major US law firm to invest…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Nvidia hires major US law firm to investigate alleged Chinese spy affair.",
+        "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
+      ],
+      "vocab": [
+        {
+          "w": "investigate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alleged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "appointment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "emerged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "believed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Claude chatbot maker set for $1.3tn stoc…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning.",
+        "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected."
+      ],
+      "vocab": [
+        {
+          "w": "chatbot",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "despite",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'catastrophic'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "warning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Sales of tinned food and bottled water j…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch.",
+        "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
+      ],
+      "vocab": [
+        {
+          "w": "bottled",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "campaign",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "essential",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sanitiser",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "households",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "Robot vessels take on the dangerous work…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Robot vessels take on the dangerous work of mine hunting.",
+        "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems."
+      ],
+      "vocab": [
+        {
+          "w": "autonomous",
+          "cn": "自治的"
+        },
+        {
+          "w": "vessels",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dangerous",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hunting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "conflict",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opportunity",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Kim Kardashian's Skims offers refunds fo…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash.",
+        "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
+      ],
+      "vocab": [
+        {
+          "w": "kardashian's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "refunds",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "calendar",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "backlash",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contents",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "keychains",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "US inflation higher than expected in Oct…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "US inflation higher than expected in October - here's what is happening with prices.",
+        "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs."
+      ],
+      "vocab": [
+        {
+          "w": "inflation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "happening",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "increases",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shelter",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "I took Vinted to court to get my money b…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "I took Vinted to court to get my money back.",
+        "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets."
+      ],
+      "vocab": [
+        {
+          "w": "sellers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "describe",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "difficulties",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accessing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "wallets",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
+      "title": "Faisal Islam: What the boss of US tech g…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security.",
+        "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
+      ],
+      "vocab": [
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investigated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alleged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "important",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-11",
       "title": "Trump says FBI investigating Nvidia boss…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -38,446 +440,28 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "Nvidia shares tumble over investigation …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy.",
-        "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
-      ],
-      "vocab": [
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "huang's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dropped",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hundreds",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-3",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will c…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond.",
-        "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy."
-      ],
-      "vocab": [
-        {
-          "w": "kleinman",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ripples",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "extramarital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
-      "title": "Civil servant who secretly held five job…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Civil servant who secretly held five jobs found guilty of fraud.",
-        "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
-      ],
-      "vocab": [
-        {
-          "w": "servant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chowdhury",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "multiple",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "full-time",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "salaries",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
-      "title": "How a civil servant got away with juggli…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How a civil servant got away with juggling five jobs for so long.",
-        "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years."
-      ],
-      "vocab": [
-        {
-          "w": "servant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "juggling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chowdhury",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "convicted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pocketing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "taxpayers'",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "Poundland unable to buy new stock as fea…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Poundland unable to buy new stock as fears over collapse grow.",
-        "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider."
-      ],
-      "vocab": [
-        {
-          "w": "poundland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collapse",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "discount",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continuing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "towards",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "running",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "Qantas to outsource 850 local jobs with …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Qantas to outsource 850 local jobs with most roles moving to India.",
-        "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
-      ],
-      "vocab": [
-        {
-          "w": "outsource",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "australian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "airline",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "modernising",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "systems",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "What we know so far about Jensen Huang's…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What we know so far about Jensen Huang's affair with suspected Chinese spy.",
-        "The billionaire tech executive finds himself mired in a personal and national security scandal."
-      ],
-      "vocab": [
-        {
-          "w": "huang's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billionaire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "executive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "himself",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Doing these things now will help you sav…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Doing these things now will help you save money at Christmas.",
-        "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
-      ],
-      "vocab": [
-        {
-          "w": "christmas",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decisions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "difference",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "festive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finances",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charities",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "What do we know about Nvidia CEO’s affai…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?.",
-        "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?"
-      ],
-      "vocab": [
-        {
-          "w": "suspected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "adoration",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "labelled",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jensanity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reputation",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Government's EV targets expected to be r…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Government's EV targets expected to be reduced this week.",
-        "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
-      ],
-      "vocab": [
-        {
-          "w": "government's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "targets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reduced",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emission",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
       "id": "rss-bbc-biz-12",
-      "title": "Government 'looking seriously' at bannin…",
+      "title": "The superpower battle over energy – and …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Government 'looking seriously' at banning under-16s from Vinted and eBay.",
-        "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+        "The superpower battle over energy – and what it means for your bills.",
+        "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
       ],
       "vocab": [
         {
-          "w": "government",
+          "w": "superpower",
           "cn": "（查词典）"
         },
         {
-          "w": "'looking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "seriously'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "banning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "culture",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
+          "w": "tug-of-war",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
