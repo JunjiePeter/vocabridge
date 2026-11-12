@@ -1,420 +1,453 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-11",
+  "name": "The Economist · Latest · 2026-11-12",
   "type": "passage",
-  "generatedAt": "2026-11-11T02:16:16.789Z",
+  "generatedAt": "2026-11-12T02:23:09.633Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Global bullies have turned uncertainty i…",
+      "title": "Despite recent misses, political polling…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
+      "intro": "原文：https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
       "sentences": [
-        "Global bullies have turned uncertainty into a weapon.",
-        "America and China see profit in keeping the whole world on edge"
+        "Despite recent misses, political polling is more accurate than ever.",
+        "But elections in America and Brazil illustrate how hard the task is becoming"
       ],
       "vocab": [
         {
-          "w": "bullies",
+          "w": "despite",
           "cn": "（查词典）"
         },
         {
-          "w": "uncertainty",
+          "w": "political",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "polling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accurate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "elections",
           "cn": "（查词典）"
         },
         {
           "w": "america",
           "cn": "（查词典）"
-        },
-        {
-          "w": "keeping",
-          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
+      "link": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Europe has been living beyond its means.…",
+      "title": "Quebec’s strategic maple-syrup reserve i…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due",
+      "intro": "原文：https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
       "sentences": [
-        "Europe has been living beyond its means.",
-        "Now the bills are due.",
-        "It accounts for half the world’s social spending, but its fractured politics make cuts difficult"
+        "Quebec’s strategic maple-syrup reserve is running dry.",
+        "The province’s cartel is losing its grip"
       ],
       "vocab": [
         {
-          "w": "accounts",
+          "w": "strategic",
           "cn": "（查词典）"
         },
         {
-          "w": "spending",
+          "w": "maple-syrup",
           "cn": "（查词典）"
         },
         {
-          "w": "fractured",
+          "w": "reserve",
           "cn": "（查词典）"
         },
         {
-          "w": "politics",
+          "w": "running",
           "cn": "（查词典）"
         },
         {
-          "w": "difficult",
+          "w": "province",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due",
+      "link": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "Lessons from a miserable month for hedge…",
+      "title": "There has never been a corporate scandal…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+      "intro": "原文：https://www.economist.com/business/2026/11/11/there-has-never-been-a-corporate-scandal-like-the-huang-affair",
       "sentences": [
-        "Lessons from a miserable month for hedge funds.",
-        "The struggle to invest in anything other than AI"
+        "There has never been a corporate scandal like the Huang affair.",
+        "A journey through the annals of company crises"
       ],
       "vocab": [
         {
-          "w": "lessons",
+          "w": "corporate",
           "cn": "（查词典）"
         },
         {
-          "w": "miserable",
+          "w": "scandal",
           "cn": "（查词典）"
         },
         {
-          "w": "struggle",
+          "w": "journey",
           "cn": "（查词典）"
         },
         {
-          "w": "anything",
+          "w": "company",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+      "link": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-corporate-scandal-like-the-huang-affair",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "For boomers, economic boom times are ove…",
+      "title": "Democrats’ strategy for ending the war i…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
       "sentences": [
-        "For boomers, economic boom times are over.",
-        "Across the rich world, the geriatric share of income and wealth is ebbing"
+        "Democrats’ strategy for ending the war in Iran.",
+        "An unsuccessful attempt to impeach Pete Hegseth is a sign of more trouble ahead"
       ],
       "vocab": [
         {
-          "w": "boomers",
+          "w": "strategy",
+          "cn": "战略"
+        },
+        {
+          "w": "democrats",
           "cn": "（查词典）"
         },
         {
-          "w": "economic",
+          "w": "unsuccessful",
           "cn": "（查词典）"
         },
         {
-          "w": "geriatric",
+          "w": "attempt",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "impeach",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hegseth",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+      "link": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
       "audio": ""
     },
     {
       "id": "rss-economist-5",
-      "title": "Our analysis of the leaked Russian death…",
+      "title": "Xi Jinping’s chief ideologue is worried",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/10/our-analysis-of-the-leaked-russian-death-toll-in-ukraine",
+      "intro": "原文：https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
       "sentences": [
-        "Our analysis of the leaked Russian death toll in Ukraine.",
-        "Hackers have released records they claim are from Russia’s statistics agency"
+        "Xi Jinping’s chief ideologue is worried.",
+        "Wang Huning describes threats to the Communist Party and country"
       ],
       "vocab": [
         {
-          "w": "analysis",
+          "w": "jinping",
           "cn": "（查词典）"
         },
         {
-          "w": "russian",
+          "w": "ideologue",
           "cn": "（查词典）"
         },
         {
-          "w": "ukraine",
+          "w": "worried",
           "cn": "（查词典）"
         },
         {
-          "w": "hackers",
+          "w": "describes",
           "cn": "（查词典）"
         },
         {
-          "w": "released",
+          "w": "threats",
           "cn": "（查词典）"
         },
         {
-          "w": "records",
+          "w": "communist",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/graphic-detail/2026/11/10/our-analysis-of-the-leaked-russian-death-toll-in-ukraine",
+      "link": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "American workers face a surge in health …",
+      "title": "The company behind Barbie wants to be an…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
+      "intro": "原文：https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
       "sentences": [
-        "American workers face a surge in health costs.",
-        "Employer-sponsored insurance, the backbone of American coverage, is becoming more frail"
+        "The company behind Barbie wants to be an entertainment giant.",
+        "But Mattel remains a struggling toymaker"
       ],
       "vocab": [
         {
-          "w": "american",
+          "w": "company",
           "cn": "（查词典）"
         },
         {
-          "w": "workers",
+          "w": "entertainment",
           "cn": "（查词典）"
         },
         {
-          "w": "employer-sponsored",
+          "w": "remains",
           "cn": "（查词典）"
         },
         {
-          "w": "insurance",
+          "w": "struggling",
           "cn": "（查词典）"
         },
         {
-          "w": "backbone",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "coverage",
+          "w": "toymaker",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
+      "link": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "Blighty newsletter: What I learned inter…",
+      "title": "AI eats science 4: lab work",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/11/10/blighty-newsletter-what-i-learned-interviewing-andy-burnham",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/11/ai-eats-science-4-lab-work",
       "sentences": [
-        "Blighty newsletter: What I learned interviewing Andy Burnham.",
-        "“It remains to be seen if he can produce a substantial policy agenda to match his muscular rhetoric,” writes Hugo Gye, our Britain political correspondent"
+        "Our podcast on science and technology.",
+        "This week, the final episode of our four-part series on how scientists are grappling with AI"
       ],
       "vocab": [
         {
-          "w": "substantial",
-          "cn": "大量的"
-        },
-        {
-          "w": "blighty",
+          "w": "podcast",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "science",
           "cn": "（查词典）"
         },
         {
-          "w": "learned",
+          "w": "technology",
           "cn": "（查词典）"
         },
         {
-          "w": "interviewing",
+          "w": "episode",
           "cn": "（查词典）"
         },
         {
-          "w": "burnham",
+          "w": "four-part",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scientists",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/britain/2026/11/10/blighty-newsletter-what-i-learned-interviewing-andy-burnham",
+      "link": "https://www.economist.com/podcasts/2026/11/11/ai-eats-science-4-lab-work",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "China’s AI brain drain",
+      "title": "Indonesia’s vice-president resigns, esca…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/10/chinas-ai-brain-drain",
+      "intro": "原文：https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
       "sentences": [
-        "Our weekly podcast on China.",
-        "This week, how talent flows are shaping the battle for AI dominance"
+        "Indonesia’s vice-president resigns, escalating a destabilising feud.",
+        "It could pit the country’s army and police against each other"
       ],
       "vocab": [
         {
-          "w": "podcast",
+          "w": "indonesia",
           "cn": "（查词典）"
         },
         {
-          "w": "shaping",
+          "w": "vice-president",
           "cn": "（查词典）"
         },
         {
-          "w": "dominance",
+          "w": "resigns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "escalating",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "destabilising",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "country",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/10/chinas-ai-brain-drain",
+      "link": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
       "audio": ""
     },
     {
       "id": "rss-economist-9",
-      "title": "Inside America’s first new submarine bas…",
+      "title": "AI has proved that a theory underpinning…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
       "sentences": [
-        "Inside America’s first new submarine base abroad for 53 years.",
-        "AUKUS is beginning to make waves on Australia’s west coast"
+        "AI has proved that a theory underpinning fundamental physics is trustworthy.",
+        "The key insights appear to have come from human physicists"
       ],
       "vocab": [
         {
-          "w": "america",
+          "w": "fundamental",
+          "cn": "根本的"
+        },
+        {
+          "w": "underpinning",
           "cn": "（查词典）"
         },
         {
-          "w": "submarine",
+          "w": "physics",
           "cn": "（查词典）"
         },
         {
-          "w": "beginning",
+          "w": "trustworthy",
           "cn": "（查词典）"
         },
         {
-          "w": "australia",
+          "w": "insights",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "physicists",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
+      "link": "https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
       "audio": ""
     },
     {
       "id": "rss-economist-10",
-      "title": "When chips are down: Nvidia CEO’s risky …",
+      "title": "Cameras in space could help spot invasiv…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/10/when-chips-are-down-nvidia-ceos-risky-relationship",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth",
       "sentences": [
-        "When chips are down: Nvidia CEO’s risky relationship.",
-        "Also on the daily podcast: Africa’s Ebola outbreak and a roadkill food festival"
+        "Cameras in space could help spot invasive plants on Earth.",
+        "The trick lies in how the leaves of different species reflect light"
       ],
       "vocab": [
         {
-          "w": "relationship",
+          "w": "cameras",
           "cn": "（查词典）"
         },
         {
-          "w": "podcast",
+          "w": "invasive",
           "cn": "（查词典）"
         },
         {
-          "w": "outbreak",
+          "w": "different",
           "cn": "（查词典）"
         },
         {
-          "w": "roadkill",
+          "w": "species",
           "cn": "（查词典）"
         },
         {
-          "w": "festival",
+          "w": "reflect",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/10/when-chips-are-down-nvidia-ceos-risky-relationship",
+      "link": "https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "Civilisation has collapsed in England, a…",
+      "title": "The blood-brain barrier may contribute t…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/10/civilisation-has-collapsed-in-england-and-other-odd-ideas",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/11/the-blood-brain-barrier-may-contribute-to-cognitive-function",
       "sentences": [
-        "“The End of Everything”, a sci-fi tale by M.",
-        "John Harrison, wins the Booker prize"
+        "The blood-brain barrier may contribute to cognitive function.",
+        "Studies in mice suggest it is more sophisticated than once thought"
       ],
       "vocab": [
         {
-          "w": "everything",
+          "w": "blood-brain",
           "cn": "（查词典）"
         },
         {
-          "w": "harrison",
+          "w": "barrier",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contribute",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cognitive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "function",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "studies",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/culture/2026/11/10/civilisation-has-collapsed-in-england-and-other-odd-ideas",
+      "link": "https://www.economist.com/science-and-technology/2026/11/11/the-blood-brain-barrier-may-contribute-to-cognitive-function",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "Why free traders should thank AI",
+      "title": "Jensen Huang must resign",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/10/why-free-traders-should-thank-ai",
+      "intro": "原文：https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
       "sentences": [
-        "Why free traders should thank AI.",
-        "A handpicked article read aloud from the latest issue of The Economist"
+        "And his should not be the only head to roll"
       ],
-      "vocab": [
-        {
-          "w": "traders",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "handpicked",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "article",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/10/why-free-traders-should-thank-ai",
+      "vocab": [],
+      "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
       "audio": ""
     }
   ]

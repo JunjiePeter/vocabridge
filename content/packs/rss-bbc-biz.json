@@ -1,19 +1,60 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-11",
+  "name": "BBC News · Business · 2026-11-12",
   "type": "passage",
-  "generatedAt": "2026-11-11T02:16:16.578Z",
+  "generatedAt": "2026-11-12T02:23:09.557Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Poundland hopeful for last-minute rescue…",
+      "title": "Some under-25s should get less benefits,…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Some under-25s should get less benefits, Milburn review to say.",
+        "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
+      ],
+      "vocab": [
+        {
+          "w": "benefits",
+          "cn": "福利"
+        },
+        {
+          "w": "radical",
+          "cn": "激进的"
+        },
+        {
+          "w": "welfare",
+          "cn": "福利"
+        },
+        {
+          "w": "milburn",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "proposed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "overhaul",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Poundland set for more time to secure a …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Poundland hopeful for last-minute rescue deal to stave off collapse.",
+        "Poundland set for more time to secure a rescue deal as emergency talks continue.",
         "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
       ],
       "vocab": [
@@ -22,15 +63,11 @@
           "cn": "（查词典）"
         },
         {
-          "w": "hopeful",
+          "w": "emergency",
           "cn": "（查词典）"
         },
         {
-          "w": "last-minute",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collapse",
+          "w": "continue",
           "cn": "（查词典）"
         },
         {
@@ -40,34 +77,38 @@
         {
           "w": "discount",
           "cn": "（查词典）"
+        },
+        {
+          "w": "towards",
+          "cn": "（查词典）"
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "Stickers and building sets help drive to…",
+      "id": "rss-bbc-biz-3",
+      "title": "Christmas toy rush being driven by squis…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Stickers and building sets help drive toy sales ahead of Christmas rush.",
+        "Christmas toy rush being driven by squishies and building sets.",
         "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity."
       ],
       "vocab": [
         {
-          "w": "stickers",
+          "w": "christmas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "squishies",
           "cn": "（查词典）"
         },
         {
           "w": "building",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "christmas",
           "cn": "（查词典）"
         },
         {
@@ -83,7 +124,48 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-4",
+      "title": "'Not the answer': Labour MPs speak out a…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'Not the answer': Labour MPs speak out against Rosebank as decision looms.",
+        "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
+      ],
+      "vocab": [
+        {
+          "w": "answer'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rosebank",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decision",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "growing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expectation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "figures",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
       "title": "Nvidia hires major US law firm to invest…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -124,7 +206,44 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-6",
+      "title": "From Paris to DC - why offices are being…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "From Paris to DC - why offices are being turned into apartments.",
+        "Office buildings with low occupancy rates are being transformed into flats."
+      ],
+      "vocab": [
+        {
+          "w": "offices",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "apartments",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "buildings",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "occupancy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transformed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
       "title": "Claude chatbot maker set for $1.3tn stoc…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -165,7 +284,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-8",
       "title": "Sales of tinned food and bottled water j…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -206,48 +325,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-6",
-      "title": "Robot vessels take on the dangerous work…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Robot vessels take on the dangerous work of mine hunting.",
-        "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems."
-      ],
-      "vocab": [
-        {
-          "w": "autonomous",
-          "cn": "自治的"
-        },
-        {
-          "w": "vessels",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dangerous",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hunting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "conflict",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "opportunity",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
+      "id": "rss-bbc-biz-9",
       "title": "Kim Kardashian's Skims offers refunds fo…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -288,7 +366,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-10",
       "title": "US inflation higher than expected in Oct…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -329,7 +407,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-9",
+      "id": "rss-bbc-biz-11",
       "title": "I took Vinted to court to get my money b…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -366,7 +444,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-10",
+      "id": "rss-bbc-biz-12",
       "title": "Faisal Islam: What the boss of US tech g…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -404,64 +482,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Trump says FBI investigating Nvidia boss…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy.",
-        "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-      ],
-      "vocab": [
-        {
-          "w": "investigating",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "The superpower battle over energy – and …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The superpower battle over energy – and what it means for your bills.",
-        "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
-      ],
-      "vocab": [
-        {
-          "w": "superpower",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tug-of-war",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

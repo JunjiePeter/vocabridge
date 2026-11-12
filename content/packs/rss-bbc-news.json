@@ -1,65 +1,77 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-11",
+  "name": "BBC News · Top Stories · 2026-11-12",
   "type": "passage",
-  "generatedAt": "2026-11-11T02:16:16.344Z",
+  "generatedAt": "2026-11-12T02:23:09.161Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "US Army soldier suspected of spying for …",
+      "title": "Some under-25s should get less benefits,…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "US Army soldier suspected of spying for Russia arrested in UK.",
-        "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
+        "Some under-25s should get less benefits, Milburn review to say.",
+        "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
       ],
       "vocab": [
         {
-          "w": "soldier",
+          "w": "benefits",
+          "cn": "福利"
+        },
+        {
+          "w": "radical",
+          "cn": "激进的"
+        },
+        {
+          "w": "welfare",
+          "cn": "福利"
+        },
+        {
+          "w": "milburn",
           "cn": "（查词典）"
         },
         {
-          "w": "suspected",
+          "w": "proposed",
           "cn": "（查词典）"
         },
         {
-          "w": "arrested",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "-year-old",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accused",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "national",
+          "w": "overhaul",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "David Walliams accused of sexual miscond…",
+      "title": "Author says there were 'real concerns' a…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "ITN and the Guardian allege the comedian preyed on teenage girls and young women.",
-        "He has denied all allegations."
+        "Author says there were 'real concerns' about David Walliams within publishing industry.",
+        "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago."
       ],
       "vocab": [
         {
-          "w": "guardian",
+          "w": "concerns'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "walliams",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "publishing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "industry",
           "cn": "（查词典）"
         },
         {
@@ -67,421 +79,413 @@
           "cn": "（查词典）"
         },
         {
-          "w": "teenage",
-          "cn": "（查词典）"
-        },
-        {
           "w": "allegations",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-3",
-      "title": "Why Walliams' unprecedented legal battle…",
+      "title": "Clashes erupt in Barcelona after thousan…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Why Walliams' unprecedented legal battle to stay anonymous failed.",
-        "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public."
+        "Clashes erupt in Barcelona after thousands join Spain general strike.",
+        "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
       ],
       "vocab": [
         {
-          "w": "walliams'",
+          "w": "clashes",
           "cn": "（查词典）"
         },
         {
-          "w": "unprecedented",
+          "w": "barcelona",
           "cn": "（查词典）"
         },
         {
-          "w": "anonymous",
+          "w": "thousands",
           "cn": "（查词典）"
         },
         {
-          "w": "-year-old",
+          "w": "general",
           "cn": "（查词典）"
         },
         {
-          "w": "reports",
+          "w": "country's",
           "cn": "（查词典）"
         },
         {
-          "w": "guardian",
+          "w": "housing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-4",
-      "title": "Meghan's father Thomas Markle back in fe…",
+      "title": "Hegseth and advisers reprimanded by guar…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor.",
-        "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
+        "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier.",
+        "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
       ],
       "vocab": [
-        {
-          "w": "monitor",
-          "cn": "监测"
-        },
-        {
-          "w": "meghan's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "federal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "custody",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "allegedly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "removing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "New photos are 'essential evidence' of p…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "New photos are 'essential evidence' of possible SAS war crimes, inquiry told.",
-        "The inquiry's lead barrister says photos of people lying on their backs with shots to the head may be evidence of possible war crimes."
-      ],
-      "vocab": [
-        {
-          "w": "'essential",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "evidence'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "possible",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inquiry",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inquiry's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "barrister",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Three Iran-backed suspects plotted attac…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says.",
-        "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
-      ],
-      "vocab": [
-        {
-          "w": "iran-backed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspects",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "plotted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "attacks",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fairford",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "incident",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Prince George's artwork featured in Coun…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Prince George's artwork featured in Country Life magazine.",
-        "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine."
-      ],
-      "vocab": [
-        {
-          "w": "george's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "artwork",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "featured",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "magazine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "features",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "Antidepressant escitalopram more effecti…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Antidepressant escitalopram more effective at preventing relapse, analysis finds.",
-        "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients."
-      ],
-      "vocab": [
-        {
-          "w": "antidepressant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "escitalopram",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "effective",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "preventing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "relapse",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "analysis",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "US House blocks bid to impeach Defence S…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now.",
-        "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
-      ],
-      "vocab": [
-        {
-          "w": "impeach",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
         {
           "w": "hegseth",
           "cn": "（查词典）"
         },
         {
-          "w": "welcomes",
+          "w": "advisers",
           "cn": "（查词典）"
         },
         {
-          "w": "outcome",
+          "w": "reprimanded",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unknown",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "soldier",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "following",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "Are max strength cold and flu pills wort…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Are max strength cold and flu pills worth the money?.",
+        "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen."
+      ],
+      "vocab": [
+        {
+          "w": "strength",
+          "cn": "优势"
+        },
+        {
+          "w": "remedies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "paracetamol",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ibuprofen",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Poundland set for more time to secure a …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Poundland set for more time to secure a rescue deal as emergency talks continue.",
+        "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
+      ],
+      "vocab": [
+        {
+          "w": "poundland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "emergency",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continue",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "understands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "discount",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "towards",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Thousands of schools in Italy, Scotland …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "More than 6,000 Italian schools received a threat.",
+        "Authorities in all three countries say there appears to be no risk to the public."
+      ],
+      "vocab": [
+        {
+          "w": "italian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "schools",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "received",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "authorities",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "countries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "appears",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Significant drop in levels of toxic 'for…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Significant drop in levels of toxic 'forever' chemicals in England's rivers.",
+        "The decline has been put down to severe restrictions placed on the substances' use."
+      ],
+      "vocab": [
+        {
+          "w": "significant",
+          "cn": "重大的"
+        },
+        {
+          "w": "'forever'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chemicals",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "england's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "restrictions",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Scottish DJ, 32, confirmed as victim of …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Scottish DJ, 32, confirmed as victim of Krakow shooting.",
+        "The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opened fire in central Krakow on Saturday."
+      ],
+      "vocab": [
+        {
+          "w": "scottish",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confirmed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shooting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "understood",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "campbell",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prestwick",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Train attack driver's '10 seconds' to ch…",
+      "title": "Sunbed firms must not downplay cancer ri…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Train attack driver's '10 seconds' to change line.",
-        "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\"."
+        "Sunbed firms must not downplay cancer risk, says watchdog.",
+        "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health."
       ],
       "vocab": [
         {
-          "w": "driver's",
+          "w": "downplay",
           "cn": "（查词典）"
         },
         {
-          "w": "seconds'",
+          "w": "watchdog",
           "cn": "（查词典）"
         },
         {
-          "w": "johnson",
+          "w": "advertising",
           "cn": "（查词典）"
         },
         {
-          "w": "intercom",
+          "w": "misleading",
           "cn": "（查词典）"
         },
         {
-          "w": "'there's",
+          "w": "sunbeds",
           "cn": "（查词典）"
         },
         {
-          "w": "knifeman",
+          "w": "conditions",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "Students passing university assessments …",
+      "title": "Russia-Ukraine talks turn to post-war se…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Students passing university assessments in minutes using AI, regulator warns.",
-        "The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\"."
+        "Russia-Ukraine talks turn to post-war security but end without breakthrough.",
+        "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
       ],
       "vocab": [
         {
-          "w": "students",
+          "w": "russia-ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "passing",
+          "w": "post-war",
           "cn": "（查词典）"
         },
         {
-          "w": "university",
+          "w": "security",
           "cn": "（查词典）"
         },
         {
-          "w": "assessments",
+          "w": "breakthrough",
           "cn": "（查词典）"
         },
         {
-          "w": "minutes",
+          "w": "centred",
           "cn": "（查词典）"
         },
         {
-          "w": "regulator",
+          "w": "europe's",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "Stickers and building sets help drive to…",
+      "title": "Burnham's push for closer EU ties causes…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Stickers and building sets help drive toy sales ahead of Christmas rush.",
-        "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity."
+        "Burnham's push for closer EU ties causes ripples in his party and others.",
+        "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy."
       ],
       "vocab": [
         {
-          "w": "stickers",
+          "w": "strategy",
+          "cn": "战略"
+        },
+        {
+          "w": "burnham's",
           "cn": "（查词典）"
         },
         {
-          "w": "building",
+          "w": "ripples",
           "cn": "（查词典）"
         },
         {
-          "w": "christmas",
+          "w": "relationship",
           "cn": "（查词典）"
         },
         {
-          "w": "intensifies",
+          "w": "minister's",
           "cn": "（查词典）"
         },
         {
-          "w": "connectivity",
+          "w": "causing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

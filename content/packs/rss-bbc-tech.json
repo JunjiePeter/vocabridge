@@ -1,93 +1,52 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-11",
+  "name": "BBC News · Technology · 2026-11-12",
   "type": "passage",
-  "generatedAt": "2026-11-11T02:16:16.561Z",
+  "generatedAt": "2026-11-12T02:23:09.334Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Robot vessels take on the dangerous work…",
+      "title": "New Indian mega library rocked by scanda…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Robot vessels take on the dangerous work of mine hunting.",
-        "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems."
+        "New Indian mega library rocked by scandal over 'AI-generated books'.",
+        "The Tamil Nadu government has ordered an internal audit of library collections across the state."
       ],
       "vocab": [
         {
-          "w": "autonomous",
-          "cn": "自治的"
-        },
-        {
-          "w": "vessels",
+          "w": "library",
           "cn": "（查词典）"
         },
         {
-          "w": "dangerous",
+          "w": "scandal",
           "cn": "（查词典）"
         },
         {
-          "w": "hunting",
+          "w": "'ai-generated",
           "cn": "（查词典）"
         },
         {
-          "w": "conflict",
+          "w": "government",
           "cn": "（查词典）"
         },
         {
-          "w": "opportunity",
+          "w": "ordered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "internal",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-tech-2",
-      "title": "Nvidia hires major US law firm to invest…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Nvidia hires major US law firm to investigate alleged Chinese spy affair.",
-        "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
-      ],
-      "vocab": [
-        {
-          "w": "investigate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "appointment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emerged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "believed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-3",
       "title": "What we know so far about Jensen Huang's…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +87,89 @@
       "audio": ""
     },
     {
+      "id": "rss-bbc-tech-3",
+      "title": "Robot vessels take on the dangerous work…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Robot vessels take on the dangerous work of mine hunting.",
+        "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems."
+      ],
+      "vocab": [
+        {
+          "w": "autonomous",
+          "cn": "自治的"
+        },
+        {
+          "w": "vessels",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dangerous",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hunting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "conflict",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opportunity",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
       "id": "rss-bbc-tech-4",
+      "title": "Nvidia hires major US law firm to invest…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Nvidia hires major US law firm to investigate alleged Chinese spy affair.",
+        "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
+      ],
+      "vocab": [
+        {
+          "w": "investigate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alleged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chinese",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "appointment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "emerged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "believed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
       "title": "Claude chatbot maker set for $1.3tn stoc…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +210,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-6",
       "title": "Faisal Islam: What the boss of US tech g…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-7",
       "title": "Trump says FBI investigating Nvidia boss…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -243,7 +284,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-8",
       "title": "Australia considers criminal penalties f…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -284,7 +325,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-9",
       "title": "Zoe Kleinman: Nvidia CEO's affair will c…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -325,7 +366,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-10",
       "title": "Nvidia shares tumble over investigation …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -366,7 +407,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-11",
       "title": "Who is the suspected Chinese spy at cent…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -407,7 +448,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-11",
+      "id": "rss-bbc-tech-12",
       "title": "Government 'looking seriously' at bannin…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -445,47 +486,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Can the Zelda remake capture the magic o…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Can the Zelda remake capture the magic of the original?.",
-        "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict."
-      ],
-      "vocab": [
-        {
-          "w": "capture",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "original",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nintendo",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "released",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "considered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "verdict",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
