@@ -1,19 +1,294 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-12",
+  "name": "BBC News · Business · 2026-11-13",
   "type": "passage",
-  "generatedAt": "2026-11-12T02:23:09.557Z",
+  "generatedAt": "2026-11-13T02:17:40.026Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Some under-25s should get less benefits,…",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quit…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil.",
+        "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      ],
+      "vocab": [
+        {
+          "w": "scandal-hit",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "plunging",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chipmaking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "turmoil",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lawmakers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "question",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Microsoft struggling to restore service …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Microsoft struggling to restore service as global outage affects Outlook and Teams.",
+        "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "struggling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "restore",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "service",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "affects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outlook",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "The rise of 'housefishing' - when does u…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The rise of 'housefishing' - when does using AI go from enhancing to misleading?.",
+        "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
+      ],
+      "vocab": [
+        {
+          "w": "enhance",
+          "cn": "提升"
+        },
+        {
+          "w": "'housefishing'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "enhancing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "misleading",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "experts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "property",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Who is Nvidia's interim CEO Colette Kres…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?.",
+        "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
+      ],
+      "vocab": [
+        {
+          "w": "potential",
+          "cn": "潜在的；潜力"
+        },
+        {
+          "w": "nvidia's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "interim",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "colette",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "permanently",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "financial",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Faisal Islam: Why the UK economy is surp…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Faisal Islam: Why the UK economy is surprisingly resilient.",
+        "The UK is seeing impressive growth, but will it last?"
+      ],
+      "vocab": [
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surprisingly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "resilient",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "impressive",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "UK economy grows at fastest rate for mor…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "UK economy grows at fastest rate for more than two years.",
+        "The UK economy grew by 0.7% in the three months to September, according to official figures."
+      ],
+      "vocab": [
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fastest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "september",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "official",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "figures",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Poundland gets more time to secure a res…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Poundland gets more time to secure a rescue deal as emergency talks continue.",
+        "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer."
+      ],
+      "vocab": [
+        {
+          "w": "deadline",
+          "cn": "截止时间"
+        },
+        {
+          "w": "poundland",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "emergency",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continue",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midnight",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "retailer",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Some under-25s should get fewer benefits…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Some under-25s should get less benefits, Milburn review to say.",
+        "Some under-25s should get fewer benefits, Milburn review to say.",
         "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
       ],
       "vocab": [
@@ -46,48 +321,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "Poundland set for more time to secure a …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Poundland set for more time to secure a rescue deal as emergency talks continue.",
-        "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
-      ],
-      "vocab": [
-        {
-          "w": "poundland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emergency",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continue",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "understands",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "discount",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "towards",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-9",
       "title": "Christmas toy rush being driven by squis…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -124,48 +358,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
-      "title": "'Not the answer': Labour MPs speak out a…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'Not the answer': Labour MPs speak out against Rosebank as decision looms.",
-        "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
-      ],
-      "vocab": [
-        {
-          "w": "answer'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rosebank",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decision",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "growing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expectation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "figures",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-10",
       "title": "Nvidia hires major US law firm to invest…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -206,44 +399,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-6",
-      "title": "From Paris to DC - why offices are being…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "From Paris to DC - why offices are being turned into apartments.",
-        "Office buildings with low occupancy rates are being transformed into flats."
-      ],
-      "vocab": [
-        {
-          "w": "offices",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "apartments",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "buildings",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "occupancy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transformed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
+      "id": "rss-bbc-biz-11",
       "title": "Claude chatbot maker set for $1.3tn stoc…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -284,7 +440,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-12",
       "title": "Sales of tinned food and bottled water j…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -322,166 +478,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Kim Kardashian's Skims offers refunds fo…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash.",
-        "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
-      ],
-      "vocab": [
-        {
-          "w": "kardashian's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "refunds",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "calendar",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "backlash",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "contents",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "keychains",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "US inflation higher than expected in Oct…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US inflation higher than expected in October - here's what is happening with prices.",
-        "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs."
-      ],
-      "vocab": [
-        {
-          "w": "inflation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "happening",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "increases",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shelter",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "I took Vinted to court to get my money b…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "I took Vinted to court to get my money back.",
-        "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets."
-      ],
-      "vocab": [
-        {
-          "w": "sellers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "describe",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "difficulties",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accessing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wallets",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Faisal Islam: What the boss of US tech g…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security.",
-        "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
-      ],
-      "vocab": [
-        {
-          "w": "national",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "important",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

@@ -1,11 +1,335 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-12",
+  "name": "BBC News · Technology · 2026-11-13",
   "type": "passage",
-  "generatedAt": "2026-11-12T02:23:09.334Z",
+  "generatedAt": "2026-11-13T02:17:39.983Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Microsoft struggling to restore service …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Microsoft struggling to restore service as global outage affects Outlook and Teams.",
+        "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "struggling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "restore",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "service",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "affects",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outlook",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "The rise of 'housefishing' - when does u…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The rise of 'housefishing' - when does using AI go from enhancing to misleading?.",
+        "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
+      ],
+      "vocab": [
+        {
+          "w": "enhance",
+          "cn": "提升"
+        },
+        {
+          "w": "'housefishing'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "enhancing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "misleading",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "experts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "property",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quit…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil.",
+        "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      ],
+      "vocab": [
+        {
+          "w": "scandal-hit",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "plunging",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chipmaking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "turmoil",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lawmakers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "question",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "The rise and fall of Jensen Huang - how …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal.",
+        "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
+      ],
+      "vocab": [
+        {
+          "w": "superstar",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scandal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "huang's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "seemingly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "untouchable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "leading",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "How AI visionary Jensen Huang was undone…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How AI visionary Jensen Huang was undone by his own bad decisions.",
+        "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days."
+      ],
+      "vocab": [
+        {
+          "w": "visionary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decisions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "kleinman",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "explains",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "everything",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-6",
+      "title": "What we know as Nvidia CEO Jensen Huang …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What we know as Nvidia CEO Jensen Huang resigns over affair allegations.",
+        "The billionaire tech executive has left the company following reports of a second extramarital affair."
+      ],
+      "vocab": [
+        {
+          "w": "resigns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "allegations",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "billionaire",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "executive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "following",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-7",
+      "title": "Who is Nvidia's interim CEO Colette Kres…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?.",
+        "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
+      ],
+      "vocab": [
+        {
+          "w": "potential",
+          "cn": "潜在的；潜力"
+        },
+        {
+          "w": "nvidia's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "interim",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "colette",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "permanently",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "financial",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-8",
+      "title": "Lego marketplace BrickLink offline after…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Lego marketplace BrickLink offline after 'unusual activity' detected.",
+        "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown."
+      ],
+      "vocab": [
+        {
+          "w": "marketplace",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bricklink",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "offline",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'unusual",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "activity'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "detected",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-9",
       "title": "New Indian mega library rocked by scanda…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,48 +370,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
-      "title": "What we know so far about Jensen Huang's…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What we know so far about Jensen Huang's affair with suspected Chinese spy.",
-        "The billionaire tech executive finds himself mired in a personal and national security scandal."
-      ],
-      "vocab": [
-        {
-          "w": "huang's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billionaire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "executive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "himself",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-10",
       "title": "Robot vessels take on the dangerous work…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +411,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-11",
       "title": "Nvidia hires major US law firm to invest…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +452,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-12",
       "title": "Claude chatbot maker set for $1.3tn stoc…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -207,285 +490,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-6",
-      "title": "Faisal Islam: What the boss of US tech g…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security.",
-        "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
-      ],
-      "vocab": [
-        {
-          "w": "national",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "important",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-7",
-      "title": "Trump says FBI investigating Nvidia boss…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy.",
-        "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-      ],
-      "vocab": [
-        {
-          "w": "investigating",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-8",
-      "title": "Australia considers criminal penalties f…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Australia considers criminal penalties for rogue AI in wake of OpenAI hack.",
-        "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
-      ],
-      "vocab": [
-        {
-          "w": "australia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "considers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "criminal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "penalties",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "regulator",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "created",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-9",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will c…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond.",
-        "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy."
-      ],
-      "vocab": [
-        {
-          "w": "kleinman",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ripples",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "extramarital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Nvidia shares tumble over investigation …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy.",
-        "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
-      ],
-      "vocab": [
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "huang's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dropped",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hundreds",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Who is the suspected Chinese spy at cent…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Who is the suspected Chinese spy at centre of the Nvidia investigation?.",
-        "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say."
-      ],
-      "vocab": [
-        {
-          "w": "suspected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "businesswoman",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "relationship",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reports",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Government 'looking seriously' at bannin…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Government 'looking seriously' at banning under-16s from Vinted and eBay.",
-        "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
-      ],
-      "vocab": [
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'looking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "seriously'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "banning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "culture",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

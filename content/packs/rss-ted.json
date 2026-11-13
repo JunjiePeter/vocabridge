@@ -1,11 +1,55 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-12",
+  "name": "TED Talks · Daily · 2026-11-13",
   "type": "passage",
-  "generatedAt": "2026-11-12T02:23:10.456Z",
+  "generatedAt": "2026-11-13T02:17:40.832Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "How we’ll actually ditch fossil fuels — …",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/michaelliebreich",
+      "sentences": [
+        "Have you heard the clean energy transition is failing?",
+        "Energy analyst Michael Liebreich says to look again.",
+        "Using a four-line spreadsheet model of the global energy system, he shows why fossil fuels will inevitably get squeezed out over time — with no bans required.",
+        "The shift is well underway, he explains: it just looks different than many of us expected.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "transition",
+          "cn": "转型"
+        },
+        {
+          "w": "failing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "analyst",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "michael",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "liebreich",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "four-line",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/michaelliebreich",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How to repair harm — in relationships an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -47,7 +91,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af38974ac84158342c9ed3d/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Your phone is disgusting. Here's how to …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -91,7 +135,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "How to rewire your brain — and find your…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -134,7 +178,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af1eb82e0d89bd85412a56b/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Sunday Pick: The science on improving yo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -177,7 +221,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee46b760a59de70fef4385/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "How to build the next wave of clean ener…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -217,49 +261,6 @@
       ],
       "link": "http://go.ted.com/jennifergranholm",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "The surprising beauty of mosquitos | Fel…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/felixhol",
-      "sentences": [
-        "Most people hate mosquitoes, but biotechnologist and TED Fellow Felix Hol thinks they're beautiful.",
-        "He takes us inside his lab, where his team developed some unusual ways to study how these blood-sucking insects find us and feed so fast.",
-        "He also explains why insecticides may send certain mosquitoes into overdrive — and how we can find smarter ways to curb the diseases they spread.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "mosquitoes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biotechnologist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "they're",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "beautiful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "developed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unusual",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/felixhol",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aedf666225208a74da728d2/media.mp3"
     }
   ]
 }

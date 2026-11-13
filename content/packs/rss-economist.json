@@ -1,250 +1,41 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-12",
+  "name": "The Economist · Latest · 2026-11-13",
   "type": "passage",
-  "generatedAt": "2026-11-12T02:23:09.633Z",
+  "generatedAt": "2026-11-13T02:17:40.192Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Despite recent misses, political polling…",
+      "title": "What to watch this week",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
+      "intro": "原文：https://www.economist.com/culture/2026/11/12/what-to-watch-this-week",
       "sentences": [
-        "Despite recent misses, political polling is more accurate than ever.",
-        "But elections in America and Brazil illustrate how hard the task is becoming"
+        "What to watch this week.",
+        "There are feuds and fights in our latest recommendations"
       ],
       "vocab": [
         {
-          "w": "despite",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "political",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "polling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accurate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "elections",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
+          "w": "recommendations",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
+      "link": "https://www.economist.com/culture/2026/11/12/what-to-watch-this-week",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Quebec’s strategic maple-syrup reserve i…",
+      "title": "How to prepare for an AI world",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/12/how-to-prepare-for-an-ai-world",
       "sentences": [
-        "Quebec’s strategic maple-syrup reserve is running dry.",
-        "The province’s cartel is losing its grip"
-      ],
-      "vocab": [
-        {
-          "w": "strategic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "maple-syrup",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reserve",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "running",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "province",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-3",
-      "title": "There has never been a corporate scandal…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/11/there-has-never-been-a-corporate-scandal-like-the-huang-affair",
-      "sentences": [
-        "There has never been a corporate scandal like the Huang affair.",
-        "A journey through the annals of company crises"
-      ],
-      "vocab": [
-        {
-          "w": "corporate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scandal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "journey",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-corporate-scandal-like-the-huang-affair",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Democrats’ strategy for ending the war i…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
-      "sentences": [
-        "Democrats’ strategy for ending the war in Iran.",
-        "An unsuccessful attempt to impeach Pete Hegseth is a sign of more trouble ahead"
-      ],
-      "vocab": [
-        {
-          "w": "strategy",
-          "cn": "战略"
-        },
-        {
-          "w": "democrats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unsuccessful",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "attempt",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "impeach",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hegseth",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "Xi Jinping’s chief ideologue is worried",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
-      "sentences": [
-        "Xi Jinping’s chief ideologue is worried.",
-        "Wang Huning describes threats to the Communist Party and country"
-      ],
-      "vocab": [
-        {
-          "w": "jinping",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ideologue",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "worried",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "describes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "threats",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "communist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "The company behind Barbie wants to be an…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
-      "sentences": [
-        "The company behind Barbie wants to be an entertainment giant.",
-        "But Mattel remains a struggling toymaker"
-      ],
-      "vocab": [
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "entertainment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "remains",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "struggling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "toymaker",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "AI eats science 4: lab work",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/11/ai-eats-science-4-lab-work",
-      "sentences": [
-        "Our podcast on science and technology.",
-        "This week, the final episode of our four-part series on how scientists are grappling with AI"
+        "Our podcast on markets, the economy and business.",
+        "This week, our interview with former commerce secretary Gina Raimondo"
       ],
       "vocab": [
         {
@@ -252,60 +43,278 @@
           "cn": "（查词典）"
         },
         {
-          "w": "science",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "technology",
+          "w": "economy",
           "cn": "（查词典）"
         },
         {
-          "w": "episode",
+          "w": "business",
           "cn": "（查词典）"
         },
         {
-          "w": "four-part",
+          "w": "interview",
           "cn": "（查词典）"
         },
         {
-          "w": "scientists",
+          "w": "commerce",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/11/ai-eats-science-4-lab-work",
+      "link": "https://www.economist.com/podcasts/2026/11/12/how-to-prepare-for-an-ai-world",
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
-      "title": "Indonesia’s vice-president resigns, esca…",
+      "id": "rss-economist-3",
+      "title": "Jensen Huang is out. His successor has t…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
+      "intro": "原文：https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
       "sentences": [
-        "Indonesia’s vice-president resigns, escalating a destabilising feud.",
-        "It could pit the country’s army and police against each other"
+        "His successor has the toughest job in tech.",
+        "A company built around one man must now learn to run without him"
       ],
       "vocab": [
         {
-          "w": "indonesia",
+          "w": "successor",
           "cn": "（查词典）"
         },
         {
-          "w": "vice-president",
+          "w": "toughest",
           "cn": "（查词典）"
         },
         {
-          "w": "resigns",
+          "w": "company",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Jack Preger wanted to serve no one but t…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/obituary/2026/11/12/jack-preger-wanted-to-serve-no-one-but-the-poor",
+      "sentences": [
+        "Jack Preger wanted to serve no one but the poor.",
+        "The doctor who tended Kolkata’s destitute died on October 31st, aged 96"
+      ],
+      "vocab": [
+        {
+          "w": "kolkata",
           "cn": "（查词典）"
         },
         {
-          "w": "escalating",
+          "w": "destitute",
           "cn": "（查词典）"
         },
         {
-          "w": "destabilising",
+          "w": "october",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/obituary/2026/11/12/jack-preger-wanted-to-serve-no-one-but-the-poor",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Why small dogs are so easy to love—and h…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/12/why-small-dogs-are-so-easy-to-love-and-hate",
+      "sentences": [
+        "Why small dogs are so easy to love—and hate.",
+        "Petite pups were the first modern pets, a new book argues"
+      ],
+      "vocab": [],
+      "link": "https://www.economist.com/culture/2026/11/12/why-small-dogs-are-so-easy-to-love-and-hate",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "The curious case of the surgeon who insp…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/12/the-curious-case-of-the-surgeon-who-inspired-sherlock-holmes",
+      "sentences": [
+        "The curious case of the surgeon who inspired Sherlock Holmes.",
+        "Joseph Bell, Arthur Conan Doyle’s professor, had an extraordinary gift for deduction"
+      ],
+      "vocab": [
+        {
+          "w": "curious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surgeon",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inspired",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sherlock",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "professor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "extraordinary",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/12/the-curious-case-of-the-surgeon-who-inspired-sherlock-holmes",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Plague, gruel and bad teeth: why do peop…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/12/plague-gruel-and-bad-teeth-why-do-people-idealise-the-olden-days",
+      "sentences": [
+        "Plague, gruel and bad teeth: why do people idealise the olden days?.",
+        "A rip-roaring rebuttal of the idea that progress is a myth"
+      ],
+      "vocab": [
+        {
+          "w": "idealise",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rip-roaring",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rebuttal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "progress",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/12/plague-gruel-and-bad-teeth-why-do-people-idealise-the-olden-days",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "The panic over personalised pricing is o…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
+      "sentences": [
+        "The panic over personalised pricing is overdone.",
+        "Lawmakers are getting ahead of themselves"
+      ],
+      "vocab": [
+        {
+          "w": "personalised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pricing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "overdone",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lawmakers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "getting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "themselves",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "Everything is going wrong for SoftBank",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
+      "sentences": [
+        "Everything is going wrong for SoftBank.",
+        "Masayoshi Son’s all-in bet on AI is looking shaky"
+      ],
+      "vocab": [
+        {
+          "w": "everything",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "softbank",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "masayoshi",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "looking",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "A franchise revolution is stirring in Ch…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
+      "sentences": [
+        "A franchise revolution is stirring in China.",
+        "It is bringing buzzy retail brands to every corner of the country—and beyond"
+      ],
+      "vocab": [
+        {
+          "w": "franchise",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revolution",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stirring",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bringing",
           "cn": "（查词典）"
         },
         {
@@ -313,141 +322,85 @@
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "AI has proved that a theory underpinning…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
-      "sentences": [
-        "AI has proved that a theory underpinning fundamental physics is trustworthy.",
-        "The key insights appear to have come from human physicists"
-      ],
-      "vocab": [
-        {
-          "w": "fundamental",
-          "cn": "根本的"
-        },
-        {
-          "w": "underpinning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "physics",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "trustworthy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "insights",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "physicists",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Cameras in space could help spot invasiv…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth",
-      "sentences": [
-        "Cameras in space could help spot invasive plants on Earth.",
-        "The trick lies in how the leaves of different species reflect light"
-      ],
-      "vocab": [
-        {
-          "w": "cameras",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "invasive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "different",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "species",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reflect",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth",
+      "link": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "The blood-brain barrier may contribute t…",
+      "title": "Ted Plafker, a stalwart of our China cov…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/11/the-blood-brain-barrier-may-contribute-to-cognitive-function",
+      "intro": "原文：https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
       "sentences": [
-        "The blood-brain barrier may contribute to cognitive function.",
-        "Studies in mice suggest it is more sophisticated than once thought"
+        "Ted Plafker, a stalwart of our China coverage, has died.",
+        "He was a giant among Western journalists in the country"
       ],
       "vocab": [
         {
-          "w": "blood-brain",
+          "w": "plafker",
           "cn": "（查词典）"
         },
         {
-          "w": "barrier",
+          "w": "stalwart",
           "cn": "（查词典）"
         },
         {
-          "w": "contribute",
+          "w": "coverage",
           "cn": "（查词典）"
         },
         {
-          "w": "cognitive",
+          "w": "western",
           "cn": "（查词典）"
         },
         {
-          "w": "function",
+          "w": "journalists",
           "cn": "（查词典）"
         },
         {
-          "w": "studies",
+          "w": "country",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/11/the-blood-brain-barrier-may-contribute-to-cognitive-function",
+      "link": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "Jensen Huang must resign",
+      "title": "China’s exports of clean tech to South-E…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+      "intro": "原文：https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
       "sentences": [
-        "And his should not be the only head to roll"
+        "China’s exports of clean tech to South-East Asia are soaring.",
+        "Unlike in the European Union, governments don’t fret about the influx"
       ],
-      "vocab": [],
-      "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+      "vocab": [
+        {
+          "w": "exports",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "south-east",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "soaring",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "european",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "governments",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
       "audio": ""
     }
   ]
