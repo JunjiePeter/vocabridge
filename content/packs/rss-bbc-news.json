@@ -1,307 +1,184 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-13",
+  "name": "BBC News · Top Stories · 2026-11-14",
   "type": "passage",
-  "generatedAt": "2026-11-13T02:17:39.951Z",
+  "generatedAt": "2026-11-14T02:16:49.218Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quit…",
+      "title": "'Miracle on Mississippi' - All passenger…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil.",
-        "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+        "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision.",
+        "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
       ],
       "vocab": [
         {
-          "w": "scandal-hit",
+          "w": "'miracle",
           "cn": "（查词典）"
         },
         {
-          "w": "plunging",
+          "w": "mississippi'",
           "cn": "（查词典）"
         },
         {
-          "w": "chipmaking",
+          "w": "passengers",
           "cn": "（查词典）"
         },
         {
-          "w": "turmoil",
+          "w": "rescued",
           "cn": "（查词典）"
         },
         {
-          "w": "lawmakers",
+          "w": "orleans",
           "cn": "（查词典）"
         },
         {
-          "w": "question",
+          "w": "collision",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "Russian warship hit by Ukrainian drone i…",
+      "title": "US Air Force says it responded to 'suspe…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Russian warship hit by Ukrainian drone in Gulf of Finland.",
-        "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+        "US Air Force says it responded to 'suspected drones' over RAF Lakenheath.",
+        "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
       ],
       "vocab": [
         {
-          "w": "russian",
+          "w": "responded",
           "cn": "（查词典）"
         },
         {
-          "w": "warship",
+          "w": "'suspected",
           "cn": "（查词典）"
         },
         {
-          "w": "ukrainian",
+          "w": "drones'",
           "cn": "（查词典）"
         },
         {
-          "w": "finland",
+          "w": "lakenheath",
           "cn": "（查词典）"
         },
         {
-          "w": "thought",
+          "w": "american",
           "cn": "（查词典）"
         },
         {
-          "w": "attacked",
+          "w": "military",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-3",
-      "title": "Junior doctor burnout putting maternity …",
+      "title": "Trump, Putin and Xi plan historic joint …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Junior doctor burnout putting maternity patients at risk, says regulator.",
-        "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests."
+        "Trump, Putin and Xi plan historic joint meeting in China next week, White House says.",
+        "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
       ],
       "vocab": [
         {
-          "w": "burnout",
-          "cn": "职业倦怠"
-        },
-        {
-          "w": "putting",
+          "w": "historic",
           "cn": "（查词典）"
         },
         {
-          "w": "maternity",
+          "w": "meeting",
           "cn": "（查词典）"
         },
         {
-          "w": "patients",
+          "w": "discuss",
           "cn": "（查词典）"
         },
         {
-          "w": "regulator",
+          "w": "reduction",
           "cn": "（查词典）"
         },
         {
-          "w": "trainee",
+          "w": "nuclear",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weapons",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-4",
-      "title": "Military base asylum plans granted plann…",
+      "title": "Police investigating David Walliams over…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Military base asylum plans granted planning approval.",
-        "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked."
+        "Police investigating David Walliams over reports alleging serious sexual offences.",
+        "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week."
       ],
       "vocab": [
         {
-          "w": "military",
+          "w": "investigating",
           "cn": "（查词典）"
         },
         {
-          "w": "granted",
+          "w": "walliams",
           "cn": "（查词典）"
         },
         {
-          "w": "planning",
+          "w": "reports",
           "cn": "（查词典）"
         },
         {
-          "w": "approval",
+          "w": "alleging",
           "cn": "（查词典）"
         },
         {
-          "w": "office's",
+          "w": "serious",
           "cn": "（查词典）"
         },
         {
-          "w": "application",
+          "w": "offences",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-5",
-      "title": "Zelensky welcomes US bringing Europe int…",
+      "title": "Microsoft 'deeply sorry' for global outa…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks.",
-        "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
-      ],
-      "vocab": [
-        {
-          "w": "zelensky",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "welcomes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bringing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "russia-ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukrainian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "president",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "The school where white working-class pup…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Politicians are worried about the outcomes of white, working-class pupils.",
-        "But one school in Sunderland seems to have defied gravity"
-      ],
-      "vocab": [
-        {
-          "w": "politicians",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "worried",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outcomes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "working-class",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sunderland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "gravity",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Timothée Chalamet among Hollywood stars …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need.",
-        "Viewers of the annual TV charity event will see the actor playing a prank on Rylan."
-      ],
-      "vocab": [
-        {
-          "w": "chalamet",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hollywood",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "charity",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stepping",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "children",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "viewers",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "Microsoft struggling to restore service …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Microsoft struggling to restore service as global outage affects Outlook and Teams.",
-        "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
+        "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption.",
+        "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
       ],
       "vocab": [
         {
@@ -309,179 +186,306 @@
           "cn": "（查词典）"
         },
         {
-          "w": "struggling",
+          "w": "'deeply",
           "cn": "（查词典）"
         },
         {
-          "w": "restore",
+          "w": "disruption",
           "cn": "（查词典）"
         },
         {
-          "w": "service",
+          "w": "experts",
           "cn": "（查词典）"
         },
         {
-          "w": "affects",
+          "w": "reminder",
           "cn": "（查词典）"
         },
         {
-          "w": "outlook",
+          "w": "heavily",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Goalkeeper involved in fatal collision g…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Goalkeeper involved in fatal collision gets 12-game ban.",
+        "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel."
+      ],
+      "vocab": [
+        {
+          "w": "goalkeeper",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "involved",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "collision",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suspension",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spanish",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "football",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Rosenberg: Uncompromising Putin ups dema…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine.",
+        "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+      ],
+      "vocab": [
+        {
+          "w": "rosenberg",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "uncompromising",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "demands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ukraine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "question",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "european",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Widespread frost and freezing fog foreca…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Widespread frost and freezing fog forecast as cold health alerts continue.",
+        "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday."
+      ],
+      "vocab": [
+        {
+          "w": "widespread",
+          "cn": "普遍的"
+        },
+        {
+          "w": "freezing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "forecast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continue",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weekend",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "saturday",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-9",
-      "title": "Burnham says 'win-win' deal can be agree…",
+      "title": "Nvidia scandal fallout widens as Trump's…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Burnham says 'win-win' deal can be agreed between UK and EU.",
-        "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016."
+        "Nvidia scandal fallout widens as Trump's treasury secretary blames colleague's cabinet.",
+        "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
       ],
       "vocab": [
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'win-win'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thought",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-10",
-      "title": "MI5 will need proof to be believed in fu…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c98r7dlj6v2go?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "MI5 will need proof to be believed in future, says Leveson after BBC investigation.",
-        "The BBC exposed how the security service had lied to three courts concerning Agent X."
-      ],
-      "vocab": [
-        {
-          "w": "believed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leveson",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exposed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "service",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-11",
-      "title": "Cricket sandpaper scandal claims '100% w…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Cricket sandpaper scandal claims '100% wrong', Australia captain says.",
-        "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”."
-      ],
-      "vocab": [
-        {
-          "w": "cricket",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sandpaper",
-          "cn": "（查词典）"
-        },
         {
           "w": "scandal",
           "cn": "（查词典）"
         },
         {
-          "w": "australia",
+          "w": "fallout",
           "cn": "（查词典）"
         },
         {
-          "w": "captain",
+          "w": "trump's",
           "cn": "（查词典）"
         },
         {
-          "w": "cummins",
+          "w": "treasury",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "colleague's",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-12",
-      "title": "Brand will face 'hell on earth' in Wands…",
+      "id": "rss-bbc-news-10",
+      "title": "New campaign against EU membership launc…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck7v25pp19m8o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Brand will face 'hell on earth' in Wandsworth prison, says former inmate.",
-        "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault."
+        "New campaign against EU membership launches ahead of UK-EU summit.",
+        "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week."
       ],
       "vocab": [
         {
-          "w": "wandsworth",
+          "w": "campaign",
           "cn": "（查词典）"
         },
         {
-          "w": "disgraced",
+          "w": "membership",
           "cn": "（查词典）"
         },
         {
-          "w": "entertainer",
+          "w": "launches",
           "cn": "（查词典）"
         },
         {
-          "w": "sentenced",
+          "w": "burnham",
           "cn": "（查词典）"
         },
         {
-          "w": "assault",
+          "w": "prepares",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "european",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-11",
+      "title": "Watch: Children in Need 2026... in 90 se…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Watch: Children in Need 2026...",
+        "Some of the key moments from Children In Need 2026, which raised nearly £40m by the end of Friday night's live programme."
+      ],
+      "vocab": [
+        {
+          "w": "children",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "moments",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "night's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "programme",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-12",
+      "title": "Brand, Walliams and MAFS: Is this a reck…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?.",
+        "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift."
+      ],
+      "vocab": [
+        {
+          "w": "walliams",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reckoning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "entertainment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "industry",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stories",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "represent",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

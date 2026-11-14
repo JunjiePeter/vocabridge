@@ -1,11 +1,315 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-13",
+  "name": "The Economist · Latest · 2026-11-14",
   "type": "passage",
-  "generatedAt": "2026-11-13T02:17:40.192Z",
+  "generatedAt": "2026-11-14T02:16:49.397Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "How badly did Republican gerrymandering …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/interactive/graphic-detail/2026/11/13/how-badly-did-republican-gerrymandering-fail",
+      "sentences": [
+        "How badly did Republican gerrymandering fail?.",
+        "Democrats cannot count on a big blue wave every election"
+      ],
+      "vocab": [
+        {
+          "w": "republican",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "gerrymandering",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "democrats",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "election",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/interactive/graphic-detail/2026/11/13/how-badly-did-republican-gerrymandering-fail",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "The Jensen Huang scandal reaches Donald …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+      "sentences": [
+        "The Jensen Huang scandal reaches Donald Trump’s cabinet.",
+        "Howard Lutnick, the commerce secretary, is in the firing line"
+      ],
+      "vocab": [
+        {
+          "w": "scandal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reaches",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cabinet",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lutnick",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "commerce",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Should women sync their lifestyle to the…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/13/should-women-sync-their-lifestyle-to-their-menstrual-cycle",
+      "sentences": [
+        "Should women sync their lifestyle to their menstrual cycle?.",
+        "What works for one woman may not suit another"
+      ],
+      "vocab": [
+        {
+          "w": "lifestyle",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "menstrual",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "another",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/13/should-women-sync-their-lifestyle-to-their-menstrual-cycle",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Cover Story newsletter: An AI crash, or …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath",
+      "sentences": [
+        "Cover Story newsletter: An AI crash, or a bull in the bath?.",
+        "An exclusive look at how we designed our cover"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "exclusive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "designed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "The Republican post-mortem",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/13/the-republican-post-mortem",
+      "sentences": [
+        "Our weekly podcast on America."
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/13/the-republican-post-mortem",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "Teaching kids to think for themselves in…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+      "sentences": [
+        "Teaching kids to think for themselves in the age of AI.",
+        "The Economist Educational Foundation helps schoolchildren around the world make sense of the news"
+      ],
+      "vocab": [
+        {
+          "w": "teaching",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "themselves",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "educational",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "foundation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "schoolchildren",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Invidious position: finding Jensen Huang…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/13/invidious-position-finding-jensen-huangs-successor",
+      "sentences": [
+        "Invidious position: finding Jensen Huang’s successor.",
+        "Also on the daily podcast: Russian propaganda takes root across Africa and remembering “Dr Jack” of Kolkata"
+      ],
+      "vocab": [
+        {
+          "w": "invidious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "position",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "finding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "successor",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "russian",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/13/invidious-position-finding-jensen-huangs-successor",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "The Economist is hiring a Production Man…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/britain/2026/11/13/the-economist-is-hiring-a-production-manager-live-insider-events",
+      "sentences": [
+        "The Economist is hiring a Production Manager, Live Insider Events.",
+        "Join our editorial video team"
+      ],
+      "vocab": [
+        {
+          "w": "economist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "production",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "manager",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "insider",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "editorial",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/britain/2026/11/13/the-economist-is-hiring-a-production-manager-live-insider-events",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "Sand, sea and surface-to-air missiles: l…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/interactive/1843/2026/11/13/sand-sea-and-surface-to-air-missiles-life-on-the-strait-of-hormuz",
+      "sentences": [
+        "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz.",
+        "Iranians on the front line of a war with no end in sight"
+      ],
+      "vocab": [
+        {
+          "w": "surface-to-air",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "missiles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "iranians",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/interactive/1843/2026/11/13/sand-sea-and-surface-to-air-missiles-life-on-the-strait-of-hormuz",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
       "title": "What to watch this week",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -26,7 +330,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-11",
       "title": "How to prepare for an AI world",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -67,7 +371,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-12",
       "title": "Jensen Huang is out. His successor has t…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -93,314 +397,6 @@
         }
       ],
       "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Jack Preger wanted to serve no one but t…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/obituary/2026/11/12/jack-preger-wanted-to-serve-no-one-but-the-poor",
-      "sentences": [
-        "Jack Preger wanted to serve no one but the poor.",
-        "The doctor who tended Kolkata’s destitute died on October 31st, aged 96"
-      ],
-      "vocab": [
-        {
-          "w": "kolkata",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "destitute",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/obituary/2026/11/12/jack-preger-wanted-to-serve-no-one-but-the-poor",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "Why small dogs are so easy to love—and h…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/12/why-small-dogs-are-so-easy-to-love-and-hate",
-      "sentences": [
-        "Why small dogs are so easy to love—and hate.",
-        "Petite pups were the first modern pets, a new book argues"
-      ],
-      "vocab": [],
-      "link": "https://www.economist.com/culture/2026/11/12/why-small-dogs-are-so-easy-to-love-and-hate",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "The curious case of the surgeon who insp…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/12/the-curious-case-of-the-surgeon-who-inspired-sherlock-holmes",
-      "sentences": [
-        "The curious case of the surgeon who inspired Sherlock Holmes.",
-        "Joseph Bell, Arthur Conan Doyle’s professor, had an extraordinary gift for deduction"
-      ],
-      "vocab": [
-        {
-          "w": "curious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "surgeon",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inspired",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "sherlock",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "professor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "extraordinary",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/12/the-curious-case-of-the-surgeon-who-inspired-sherlock-holmes",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Plague, gruel and bad teeth: why do peop…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/12/plague-gruel-and-bad-teeth-why-do-people-idealise-the-olden-days",
-      "sentences": [
-        "Plague, gruel and bad teeth: why do people idealise the olden days?.",
-        "A rip-roaring rebuttal of the idea that progress is a myth"
-      ],
-      "vocab": [
-        {
-          "w": "idealise",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rip-roaring",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rebuttal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "progress",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/12/plague-gruel-and-bad-teeth-why-do-people-idealise-the-olden-days",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "The panic over personalised pricing is o…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
-      "sentences": [
-        "The panic over personalised pricing is overdone.",
-        "Lawmakers are getting ahead of themselves"
-      ],
-      "vocab": [
-        {
-          "w": "personalised",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pricing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "overdone",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lawmakers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "getting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "themselves",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Everything is going wrong for SoftBank",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
-      "sentences": [
-        "Everything is going wrong for SoftBank.",
-        "Masayoshi Son’s all-in bet on AI is looking shaky"
-      ],
-      "vocab": [
-        {
-          "w": "everything",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "softbank",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "masayoshi",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "looking",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "A franchise revolution is stirring in Ch…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
-      "sentences": [
-        "A franchise revolution is stirring in China.",
-        "It is bringing buzzy retail brands to every corner of the country—and beyond"
-      ],
-      "vocab": [
-        {
-          "w": "franchise",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revolution",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stirring",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bringing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Ted Plafker, a stalwart of our China cov…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-      "sentences": [
-        "Ted Plafker, a stalwart of our China coverage, has died.",
-        "He was a giant among Western journalists in the country"
-      ],
-      "vocab": [
-        {
-          "w": "plafker",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stalwart",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "coverage",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "western",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "journalists",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "China’s exports of clean tech to South-E…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
-      "sentences": [
-        "China’s exports of clean tech to South-East Asia are soaring.",
-        "Unlike in the European Union, governments don’t fret about the influx"
-      ],
-      "vocab": [
-        {
-          "w": "exports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "south-east",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "soaring",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "european",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "governments",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
       "audio": ""
     }
   ]

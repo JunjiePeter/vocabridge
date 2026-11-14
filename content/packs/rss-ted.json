@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-13",
+  "name": "TED Talks · Daily · 2026-11-14",
   "type": "passage",
-  "generatedAt": "2026-11-13T02:17:40.832Z",
+  "generatedAt": "2026-11-14T02:16:49.664Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Could this ancient Greek idea make us be…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/ScottReich",
+      "sentences": [
+        "More than 2,000 years ago in ancient Athens, young citizens were required to complete “ephebeia,” a two-year civic service program that taught them the laws of the city and how to defend their democracy.",
+        "Author and historian Scott Reich believes this practice reflects something crucial we often forget: citizens aren’t born — they’re trained.",
+        "In a hopeful talk, he shares his plan to bring a modern version of this program to the United States and explains why it could benefit everyone.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "crucial",
+          "cn": "至关重要的"
+        },
+        {
+          "w": "ancient",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "citizens",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "required",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "complete",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ephebeia",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/ScottReich",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "How we’ll actually ditch fossil fuels — …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -49,7 +92,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "How to repair harm — in relationships an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -91,7 +134,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af38974ac84158342c9ed3d/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Your phone is disgusting. Here's how to …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -135,7 +178,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "How to rewire your brain — and find your…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -178,7 +221,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af1eb82e0d89bd85412a56b/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Sunday Pick: The science on improving yo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -219,48 +262,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee46b760a59de70fef4385/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "How to build the next wave of clean ener…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/jennifergranholm",
-      "sentences": [
-        "Jennifer Granholm steered Michigan through the auto industry's near-collapse and later ran the US Department of Energy during the largest clean energy investment in the country's history.",
-        "In conversation with climate investor Ryan Panchadsaram, she explains why the next chapter of clean energy is all about construction — and why local communities have more power than they may think.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "jennifer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "granholm",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "steered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "michigan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "industry's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "near-collapse",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/jennifergranholm",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aece3957cfe82faa47eb757/media.mp3"
     }
   ]
 }

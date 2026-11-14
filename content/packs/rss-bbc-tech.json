@@ -1,22 +1,461 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-13",
+  "name": "BBC News · Technology · 2026-11-14",
   "type": "passage",
-  "generatedAt": "2026-11-13T02:17:39.983Z",
+  "generatedAt": "2026-11-14T02:16:49.227Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Microsoft struggling to restore service …",
+      "title": "Even Grand Theft Auto's original creator…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Microsoft struggling to restore service as global outage affects Outlook and Teams.",
-        "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
+        "Even Grand Theft Auto's original creators haven't been able to play GTA 6.",
+        "The next title in the series is expected to be the biggest video game release ever."
       ],
       "vocab": [
+        {
+          "w": "original",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "creators",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "haven't",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "release",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "How the Jensen Huang scandal created a h…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How the Jensen Huang scandal created a headache for business-friendly Singapore.",
+        "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
+      ],
+      "vocab": [
+        {
+          "w": "scandal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "created",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "headache",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "business-friendly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "singapore",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spotlight",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "Microsoft outage 'stark reminder' of how…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Microsoft outage 'stark reminder' of how much we rely on tech.",
+        "Microsoft has apologised for the issue, which it said was due to a technical failure."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reminder'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "apologised",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "technical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "failure",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "Microsoft 'deeply sorry' for global outa…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption.",
+        "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'deeply",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "disruption",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "experts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reminder",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "heavily",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "Pressure grows on Trump's Commerce Secre…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal.",
+        "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
+      ],
+      "vocab": [
+        {
+          "w": "pressure",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "trump's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "commerce",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lutnick",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fallout",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-6",
+      "title": "Why is Microsoft's outage lasting so lon…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Why is Microsoft's outage lasting so long and will emails be lost?.",
+        "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lasting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continuing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "restore",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "services",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-7",
+      "title": "Courts, spies and MPs: How the Microsoft…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Courts, spies and MPs: How the Microsoft outage has been felt around the world.",
+        "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "governments",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "agencies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "australia",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-8",
+      "title": "NHS, schools and police forces hit by Mi…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "NHS, schools and police forces hit by Microsoft outage.",
+        "Major airports and intelligence services are unaffected, while the government is still assessing the impact."
+      ],
+      "vocab": [
+        {
+          "w": "schools",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "airports",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "intelligence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "services",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unaffected",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-9",
+      "title": "How a sex scandal at Nvidia is putting p…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How a sex scandal at Nvidia is putting pressure on the White House.",
+        "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
+      ],
+      "vocab": [
+        {
+          "w": "scandal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "putting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pressure",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "huang's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "personal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "triggered",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-10",
+      "title": "What we know so far about the Microsoft …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What we know so far about the Microsoft outage.",
+        "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "affecting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "services",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outlook",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "software",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "copilot",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-11",
+      "title": "Heat pumps: How much heat does your home…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Heat pumps: How much heat does your home really need?.",
+        "Knowing how much heat your home loses is important before installing a new heating system."
+      ],
+      "vocab": [
+        {
+          "w": "knowing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "important",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "installing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "heating",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-12",
+      "title": "What happened overnight with the Microso…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "What happened overnight with the Microsoft global outage?.",
+        "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+      ],
+      "vocab": [
+        {
+          "w": "happened",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "overnight",
+          "cn": "（查词典）"
+        },
         {
           "w": "microsoft",
           "cn": "（查词典）"
@@ -26,15 +465,7 @@
           "cn": "（查词典）"
         },
         {
-          "w": "restore",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "service",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affects",
+          "w": "services",
           "cn": "（查词典）"
         },
         {
@@ -42,454 +473,7 @@
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-2",
-      "title": "The rise of 'housefishing' - when does u…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The rise of 'housefishing' - when does using AI go from enhancing to misleading?.",
-        "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
-      ],
-      "vocab": [
-        {
-          "w": "enhance",
-          "cn": "提升"
-        },
-        {
-          "w": "'housefishing'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "enhancing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "misleading",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "property",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-3",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quit…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil.",
-        "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
-      ],
-      "vocab": [
-        {
-          "w": "scandal-hit",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "plunging",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chipmaking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "turmoil",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lawmakers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "question",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-4",
-      "title": "The rise and fall of Jensen Huang - how …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal.",
-        "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
-      ],
-      "vocab": [
-        {
-          "w": "superstar",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scandal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "huang's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "seemingly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "untouchable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "leading",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-5",
-      "title": "How AI visionary Jensen Huang was undone…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How AI visionary Jensen Huang was undone by his own bad decisions.",
-        "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days."
-      ],
-      "vocab": [
-        {
-          "w": "visionary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decisions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "kleinman",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explains",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "everything",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-6",
-      "title": "What we know as Nvidia CEO Jensen Huang …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What we know as Nvidia CEO Jensen Huang resigns over affair allegations.",
-        "The billionaire tech executive has left the company following reports of a second extramarital affair."
-      ],
-      "vocab": [
-        {
-          "w": "resigns",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "allegations",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "billionaire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "executive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "following",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-7",
-      "title": "Who is Nvidia's interim CEO Colette Kres…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?.",
-        "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
-      ],
-      "vocab": [
-        {
-          "w": "potential",
-          "cn": "潜在的；潜力"
-        },
-        {
-          "w": "nvidia's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interim",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "colette",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "permanently",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "financial",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-8",
-      "title": "Lego marketplace BrickLink offline after…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Lego marketplace BrickLink offline after 'unusual activity' detected.",
-        "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown."
-      ],
-      "vocab": [
-        {
-          "w": "marketplace",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bricklink",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "offline",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'unusual",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "activity'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "detected",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-9",
-      "title": "New Indian mega library rocked by scanda…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "New Indian mega library rocked by scandal over 'AI-generated books'.",
-        "The Tamil Nadu government has ordered an internal audit of library collections across the state."
-      ],
-      "vocab": [
-        {
-          "w": "library",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scandal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'ai-generated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ordered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "internal",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Robot vessels take on the dangerous work…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Robot vessels take on the dangerous work of mine hunting.",
-        "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems."
-      ],
-      "vocab": [
-        {
-          "w": "autonomous",
-          "cn": "自治的"
-        },
-        {
-          "w": "vessels",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dangerous",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hunting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "conflict",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "opportunity",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Nvidia hires major US law firm to invest…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Nvidia hires major US law firm to investigate alleged Chinese spy affair.",
-        "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
-      ],
-      "vocab": [
-        {
-          "w": "investigate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "appointment",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emerged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "believed",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Claude chatbot maker set for $1.3tn stoc…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning.",
-        "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected."
-      ],
-      "vocab": [
-        {
-          "w": "chatbot",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "despite",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'catastrophic'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "warning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
