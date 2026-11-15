@@ -1,11 +1,85 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-14",
+  "name": "BBC News · Technology · 2026-11-15",
   "type": "passage",
-  "generatedAt": "2026-11-14T02:16:49.227Z",
+  "generatedAt": "2026-11-15T02:19:26.740Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Italy fines Meta €805m over accessing us…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Italy fines Meta €805m over accessing users' photos.",
+        "The social media giant is accused of not informing 20 million users it had access to their photos."
+      ],
+      "vocab": [
+        {
+          "w": "accessing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accused",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "informing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "million",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Microsoft says services fully restored a…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Microsoft says services fully restored after day-long global outage.",
+        "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+      ],
+      "vocab": [
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "services",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "restored",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "day-long",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "efforts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "address",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
       "title": "Even Grand Theft Auto's original creator…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -46,7 +120,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-4",
       "title": "How the Jensen Huang scandal created a h…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +161,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-5",
       "title": "Microsoft outage 'stark reminder' of how…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -124,48 +198,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
-      "title": "Microsoft 'deeply sorry' for global outa…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption.",
-        "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
-      ],
-      "vocab": [
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'deeply",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disruption",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reminder",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "heavily",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-6",
       "title": "Pressure grows on Trump's Commerce Secre…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -206,7 +239,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-7",
       "title": "Why is Microsoft's outage lasting so lon…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -247,7 +280,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-8",
       "title": "Courts, spies and MPs: How the Microsoft…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -280,7 +313,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-9",
       "title": "NHS, schools and police forces hit by Mi…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -321,7 +354,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-10",
       "title": "How a sex scandal at Nvidia is putting p…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -362,7 +395,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-11",
       "title": "What we know so far about the Microsoft …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -403,7 +436,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-11",
+      "id": "rss-bbc-tech-12",
       "title": "Heat pumps: How much heat does your home…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -433,47 +466,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "What happened overnight with the Microso…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What happened overnight with the Microsoft global outage?.",
-        "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
-      ],
-      "vocab": [
-        {
-          "w": "happened",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "overnight",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "struggling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "services",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outlook",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

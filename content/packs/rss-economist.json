@@ -1,11 +1,122 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-14",
+  "name": "The Economist · Latest · 2026-11-15",
   "type": "passage",
-  "generatedAt": "2026-11-14T02:16:49.397Z",
+  "generatedAt": "2026-11-15T02:19:26.921Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "The Bottom Line newsletter: Nvidia will …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+      "sentences": [
+        "The Bottom Line newsletter: Nvidia will never be the same.",
+        "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang"
+      ],
+      "vocab": [
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shailesh",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chitnis",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chip-industry",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reflects",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Checks and Balance newsletter: What do b…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
+      "sentences": [
+        "Checks and Balance newsletter: What do ballot initiatives tell us about America?.",
+        "John Prideaux, our executive editor, explains why they can be used to take the pulse of the country"
+      ],
+      "vocab": [
+        {
+          "w": "balance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "newsletter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "initiatives",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prideaux",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "executive",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Why is it only the Manosphere talking ab…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/14/why-is-it-only-the-manosphere-talking-about-abuse-against-men",
+      "sentences": [
+        "Why is it only the Manosphere talking about abuse against men?.",
+        "How domestic abuse became part of the culture wars"
+      ],
+      "vocab": [
+        {
+          "w": "manosphere",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "talking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "domestic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "culture",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/14/why-is-it-only-the-manosphere-talking-about-abuse-against-men",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
       "title": "How badly did Republican gerrymandering …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -38,7 +149,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-5",
       "title": "The Jensen Huang scandal reaches Donald …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +190,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-6",
       "title": "Should women sync their lifestyle to the…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -108,7 +219,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-7",
       "title": "Cover Story newsletter: An AI crash, or …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -137,7 +248,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-8",
       "title": "The Republican post-mortem",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -161,7 +272,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-9",
       "title": "Teaching kids to think for themselves in…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -202,7 +313,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
+      "id": "rss-economist-10",
       "title": "Invidious position: finding Jensen Huang…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -243,7 +354,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-8",
+      "id": "rss-economist-11",
       "title": "The Economist is hiring a Production Man…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -280,7 +391,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-9",
+      "id": "rss-economist-12",
       "title": "Sand, sea and surface-to-air missiles: l…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -306,97 +417,6 @@
         }
       ],
       "link": "https://www.economist.com/interactive/1843/2026/11/13/sand-sea-and-surface-to-air-missiles-life-on-the-strait-of-hormuz",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "What to watch this week",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/12/what-to-watch-this-week",
-      "sentences": [
-        "What to watch this week.",
-        "There are feuds and fights in our latest recommendations"
-      ],
-      "vocab": [
-        {
-          "w": "recommendations",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/12/what-to-watch-this-week",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "How to prepare for an AI world",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/12/how-to-prepare-for-an-ai-world",
-      "sentences": [
-        "Our podcast on markets, the economy and business.",
-        "This week, our interview with former commerce secretary Gina Raimondo"
-      ],
-      "vocab": [
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "markets",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "business",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interview",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commerce",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/12/how-to-prepare-for-an-ai-world",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Jensen Huang is out. His successor has t…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-      "sentences": [
-        "His successor has the toughest job in tech.",
-        "A company built around one man must now learn to run without him"
-      ],
-      "vocab": [
-        {
-          "w": "successor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "toughest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
       "audio": ""
     }
   ]

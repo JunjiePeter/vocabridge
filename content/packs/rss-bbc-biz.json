@@ -1,20 +1,102 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-14",
+  "name": "BBC News · Business · 2026-11-15",
   "type": "passage",
-  "generatedAt": "2026-11-14T02:16:49.342Z",
+  "generatedAt": "2026-11-15T02:19:26.763Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Microsoft 'deeply sorry' for global outa…",
+      "title": "Beauty advent calendars can cost hundred…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Beauty advent calendars can cost hundreds - but are they value for money?.",
+        "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
+      ],
+      "vocab": [
+        {
+          "w": "calendars",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hundreds",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "christmas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "particularly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "popular",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shoppers",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "How the Jensen Huang scandal created a h…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How the Jensen Huang scandal created a headache for business-friendly Singapore.",
+        "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
+      ],
+      "vocab": [
+        {
+          "w": "scandal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "created",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "headache",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "business-friendly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "singapore",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spotlight",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Microsoft says services fully restored a…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption.",
-        "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+        "Microsoft says services fully restored after day-long global outage.",
+        "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
       ],
       "vocab": [
         {
@@ -22,23 +104,23 @@
           "cn": "（查词典）"
         },
         {
-          "w": "'deeply",
+          "w": "services",
           "cn": "（查词典）"
         },
         {
-          "w": "disruption",
+          "w": "restored",
           "cn": "（查词典）"
         },
         {
-          "w": "experts",
+          "w": "day-long",
           "cn": "（查词典）"
         },
         {
-          "w": "reminder",
+          "w": "efforts",
           "cn": "（查词典）"
         },
         {
-          "w": "heavily",
+          "w": "address",
           "cn": "（查词典）"
         }
       ],
@@ -46,7 +128,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-4",
       "title": "Why is Microsoft's outage lasting so lon…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -87,48 +169,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
-      "title": "How a sex scandal at Nvidia is putting p…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How a sex scandal at Nvidia is putting pressure on the White House.",
-        "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
-      ],
-      "vocab": [
-        {
-          "w": "scandal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "putting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pressure",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "huang's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "personal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "triggered",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-5",
       "title": "Pressure grows on Trump's Commerce Secre…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +210,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-6",
       "title": "The rise of 'housefishing' - when does u…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -210,7 +251,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-6",
+      "id": "rss-bbc-biz-7",
       "title": "Heat pumps: How much heat does your home…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -243,7 +284,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-7",
+      "id": "rss-bbc-biz-8",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to t…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -284,7 +325,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-9",
       "title": "Burnham says 'win-win' deal can be agree…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -317,7 +358,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-9",
+      "id": "rss-bbc-biz-10",
       "title": "Who is Nvidia's interim CEO Colette Kres…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -358,7 +399,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-10",
+      "id": "rss-bbc-biz-11",
       "title": "Faisal Islam: Why the UK economy is surp…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -391,7 +432,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-11",
+      "id": "rss-bbc-biz-12",
       "title": "UK economy grows at fastest rate for mor…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -425,47 +466,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Poundland gets more time to secure a res…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Poundland gets more time to secure a rescue deal as emergency talks continue.",
-        "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer."
-      ],
-      "vocab": [
-        {
-          "w": "deadline",
-          "cn": "截止时间"
-        },
-        {
-          "w": "poundland",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "emergency",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continue",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midnight",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "retailer",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

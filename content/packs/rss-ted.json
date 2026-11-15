@@ -1,11 +1,55 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-14",
+  "name": "TED Talks · Daily · 2026-11-15",
   "type": "passage",
-  "generatedAt": "2026-11-14T02:16:49.664Z",
+  "generatedAt": "2026-11-15T02:19:27.520Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "The digital detectives preserving the tr…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/hadialkhatib",
+      "sentences": [
+        "A lot of today’s war footage is shot on phones and posted to platforms that were never meant to permanently store it.",
+        "Digital archivist and TED Fellow Hadi Al Khatib founded Mnemonic to save these photos and videos before they vanish.",
+        "Learn how his team is turning people’s social media posts into evidence of crimes that holds up in court — and building an archive that ensures the truth outlasts the war.",
+        "(Note: this film contains disturbing footage of war.) Hosted on Acast.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "footage",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "platforms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "permanently",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "digital",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "archivist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "founded",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/hadialkhatib",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Could this ancient Greek idea make us be…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +92,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "How we’ll actually ditch fossil fuels — …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -92,7 +136,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "How to repair harm — in relationships an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -134,7 +178,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af38974ac84158342c9ed3d/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Your phone is disgusting. Here's how to …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -178,7 +222,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "How to rewire your brain — and find your…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -219,49 +263,6 @@
       ],
       "link": "http://go.ted.com/heatherberlin",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af1eb82e0d89bd85412a56b/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Sunday Pick: The science on improving yo…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：https://audiocollective.ted.com/",
-      "sentences": [
-        "When does normal aging end and something more concerning begins?",
-        "In this episode Shoshana invites neurologist Drs.",
-        "Ayesha and Dean Sherzai to discuss their studies on Alzheimer’s and Dementia.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "something",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "concerning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "episode",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shoshana",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "invites",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "neurologist",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://audiocollective.ted.com/",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee46b760a59de70fef4385/media.mp3"
     }
   ]
 }
