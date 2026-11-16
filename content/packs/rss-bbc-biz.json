@@ -1,11 +1,200 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-15",
+  "name": "BBC News · Business · 2026-11-16",
   "type": "passage",
-  "generatedAt": "2026-11-15T02:19:26.763Z",
+  "generatedAt": "2026-11-16T02:31:15.712Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
+      "title": "UK will have 'voice' but no vote on EU f…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "UK will have 'voice' but no vote on EU food rules in Brexit reset.",
+        "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
+      ],
+      "vocab": [
+        {
+          "w": "'voice'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "falconer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "insists",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "britain",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "influence",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "Cut national insurance for under-25s to …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Cut national insurance for under-25s to create jobs, Milburn report to say.",
+        "The report being launched this week will suggest gradually reducing employment costs over five years."
+      ],
+      "vocab": [
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "insurance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "milburn",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "launched",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "gradually",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Suspected China spy linked to Nvidia's e…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says.",
+        "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+      ],
+      "vocab": [
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nvidia's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ex-boss",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "megaspeed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scandal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "questions",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Black Friday and tax return scams - don'…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Black Friday and tax return scams - don't fall for these.",
+        "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund."
+      ],
+      "vocab": [
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reported",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "request",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Minister backs legal right to job suppor…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Minister backs legal right to job support for young people.",
+        "The work and pensions secretary said the level of support currently on offer was too vague."
+      ],
+      "vocab": [
+        {
+          "w": "minister",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "support",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pensions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "currently",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
       "title": "Beauty advent calendars can cost hundred…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -13,7 +202,7 @@
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Beauty advent calendars can cost hundreds - but are they value for money?.",
+        "Beauty advent calendars can cost hundreds but are they value for money?.",
         "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
       ],
       "vocab": [
@@ -46,7 +235,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
+      "id": "rss-bbc-biz-7",
       "title": "How the Jensen Huang scandal created a h…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +276,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
+      "id": "rss-bbc-biz-8",
       "title": "Microsoft says services fully restored a…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +317,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-9",
       "title": "Why is Microsoft's outage lasting so lon…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +358,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
+      "id": "rss-bbc-biz-10",
       "title": "Pressure grows on Trump's Commerce Secre…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -210,81 +399,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-6",
-      "title": "The rise of 'housefishing' - when does u…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The rise of 'housefishing' - when does using AI go from enhancing to misleading?.",
-        "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
-      ],
-      "vocab": [
-        {
-          "w": "enhance",
-          "cn": "提升"
-        },
-        {
-          "w": "'housefishing'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "enhancing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "misleading",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "experts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "property",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "Heat pumps: How much heat does your home…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Heat pumps: How much heat does your home really need?.",
-        "Knowing how much heat your home loses is important before installing a new heating system."
-      ],
-      "vocab": [
-        {
-          "w": "knowing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "important",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "installing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "heating",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
+      "id": "rss-bbc-biz-11",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to t…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -325,7 +440,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-9",
+      "id": "rss-bbc-biz-12",
       "title": "Burnham says 'win-win' deal can be agree…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -355,117 +470,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Who is Nvidia's interim CEO Colette Kres…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?.",
-        "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
-      ],
-      "vocab": [
-        {
-          "w": "potential",
-          "cn": "潜在的；潜力"
-        },
-        {
-          "w": "nvidia's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "interim",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "colette",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "permanently",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "financial",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Faisal Islam: Why the UK economy is surp…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Faisal Islam: Why the UK economy is surprisingly resilient.",
-        "The UK is seeing impressive growth, but will it last?"
-      ],
-      "vocab": [
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "surprisingly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "resilient",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "impressive",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "UK economy grows at fastest rate for mor…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK economy grows at fastest rate for more than two years.",
-        "The UK economy grew by 0.7% in the three months to September, according to official figures."
-      ],
-      "vocab": [
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fastest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "september",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "official",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "figures",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

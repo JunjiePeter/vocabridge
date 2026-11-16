@@ -1,11 +1,184 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-15",
+  "name": "The Economist · Latest · 2026-11-16",
   "type": "passage",
-  "generatedAt": "2026-11-15T02:19:26.921Z",
+  "generatedAt": "2026-11-16T02:31:15.806Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "Iran is functioning without a supreme le…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
+      "sentences": [
+        "Iran is functioning without a supreme leader.",
+        "Six men from a council of generals and bureaucrats now dominate decision making"
+      ],
+      "vocab": [
+        {
+          "w": "dominate",
+          "cn": "主导"
+        },
+        {
+          "w": "functioning",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "supreme",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "council",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "generals",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bureaucrats",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "Anthropic’s giant IPO puts the heat on O…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+      "sentences": [
+        "Anthropic’s giant IPO puts the heat on OpenAI.",
+        "Coding agents are big business."
+      ],
+      "vocab": [
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "business",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "A plan to end America’s most expensive b…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/by-invitation/2026/11/15/a-plan-to-end-americas-most-expensive-bottleneck",
+      "sentences": [
+        "A plan to end America’s most expensive bottleneck.",
+        "Reforming the permitting system would generate trillions of dollars of new economic activity, argues Martin Heinrich"
+      ],
+      "vocab": [
+        {
+          "w": "generate",
+          "cn": "产生"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expensive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bottleneck",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reforming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "permitting",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/by-invitation/2026/11/15/a-plan-to-end-americas-most-expensive-bottleneck",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Donald Trump will get a warm welcome in …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
+      "sentences": [
+        "Donald Trump will get a warm welcome in the Philippines.",
+        "He almost skipped about the only country that still adores him"
+      ],
+      "vocab": [
+        {
+          "w": "welcome",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "philippines",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "skipped",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "country",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "SpaceX achieves another historic first",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
+      "sentences": [
+        "SpaceX achieves another historic first.",
+        "It has caught the second stage of its Starship rocket"
+      ],
+      "vocab": [
+        {
+          "w": "achieves",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "another",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "historic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "starship",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
       "title": "The Bottom Line newsletter: Nvidia will …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -42,7 +215,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-7",
       "title": "Checks and Balance newsletter: What do b…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -83,7 +256,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-8",
       "title": "Why is it only the Manosphere talking ab…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -116,7 +289,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-9",
       "title": "How badly did Republican gerrymandering …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -149,7 +322,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-10",
       "title": "The Jensen Huang scandal reaches Donald …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -190,7 +363,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-6",
+      "id": "rss-economist-11",
       "title": "Should women sync their lifestyle to the…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -219,7 +392,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-7",
+      "id": "rss-economist-12",
       "title": "Cover Story newsletter: An AI crash, or …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -245,178 +418,6 @@
         }
       ],
       "link": "https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "The Republican post-mortem",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/13/the-republican-post-mortem",
-      "sentences": [
-        "Our weekly podcast on America."
-      ],
-      "vocab": [
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/13/the-republican-post-mortem",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Teaching kids to think for themselves in…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
-      "sentences": [
-        "Teaching kids to think for themselves in the age of AI.",
-        "The Economist Educational Foundation helps schoolchildren around the world make sense of the news"
-      ],
-      "vocab": [
-        {
-          "w": "teaching",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "themselves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "educational",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "foundation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "schoolchildren",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Invidious position: finding Jensen Huang…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/13/invidious-position-finding-jensen-huangs-successor",
-      "sentences": [
-        "Invidious position: finding Jensen Huang’s successor.",
-        "Also on the daily podcast: Russian propaganda takes root across Africa and remembering “Dr Jack” of Kolkata"
-      ],
-      "vocab": [
-        {
-          "w": "invidious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "position",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "finding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "successor",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "podcast",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "russian",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/13/invidious-position-finding-jensen-huangs-successor",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "The Economist is hiring a Production Man…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/britain/2026/11/13/the-economist-is-hiring-a-production-manager-live-insider-events",
-      "sentences": [
-        "The Economist is hiring a Production Manager, Live Insider Events.",
-        "Join our editorial video team"
-      ],
-      "vocab": [
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "production",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "manager",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "insider",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "editorial",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/britain/2026/11/13/the-economist-is-hiring-a-production-manager-live-insider-events",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Sand, sea and surface-to-air missiles: l…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/interactive/1843/2026/11/13/sand-sea-and-surface-to-air-missiles-life-on-the-strait-of-hormuz",
-      "sentences": [
-        "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz.",
-        "Iranians on the front line of a war with no end in sight"
-      ],
-      "vocab": [
-        {
-          "w": "surface-to-air",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "missiles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "iranians",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/interactive/1843/2026/11/13/sand-sea-and-surface-to-air-missiles-life-on-the-strait-of-hormuz",
       "audio": ""
     }
   ]

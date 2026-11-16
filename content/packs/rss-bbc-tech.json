@@ -1,11 +1,93 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-15",
+  "name": "BBC News · Technology · 2026-11-16",
   "type": "passage",
-  "generatedAt": "2026-11-15T02:19:26.740Z",
+  "generatedAt": "2026-11-16T02:31:15.700Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Suspected China spy linked to Nvidia's e…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says.",
+        "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+      ],
+      "vocab": [
+        {
+          "w": "suspected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nvidia's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ex-boss",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "megaspeed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scandal",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "questions",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "South Korea's top scorer in tax accounta…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "South Korea's top scorer in tax accountancy exam admits cheating.",
+        "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+      ],
+      "vocab": [
+        {
+          "w": "significant",
+          "cn": "重大的"
+        },
+        {
+          "w": "korea's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "accountancy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cheating",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "won-seok",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confessed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
       "title": "Italy fines Meta €805m over accessing us…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -38,7 +120,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-4",
       "title": "Microsoft says services fully restored a…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -79,7 +161,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-5",
       "title": "Even Grand Theft Auto's original creator…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -120,7 +202,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-6",
       "title": "How the Jensen Huang scandal created a h…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -161,7 +243,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-7",
       "title": "Microsoft outage 'stark reminder' of how…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -198,7 +280,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-8",
       "title": "Pressure grows on Trump's Commerce Secre…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -239,7 +321,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-7",
+      "id": "rss-bbc-tech-9",
       "title": "Why is Microsoft's outage lasting so lon…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -280,7 +362,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-8",
+      "id": "rss-bbc-tech-10",
       "title": "Courts, spies and MPs: How the Microsoft…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -313,7 +395,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-9",
+      "id": "rss-bbc-tech-11",
       "title": "NHS, schools and police forces hit by Mi…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -354,7 +436,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-10",
+      "id": "rss-bbc-tech-12",
       "title": "How a sex scandal at Nvidia is putting p…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -392,80 +474,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "What we know so far about the Microsoft …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "What we know so far about the Microsoft outage.",
-        "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
-      ],
-      "vocab": [
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "affecting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "services",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outlook",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "software",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "copilot",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Heat pumps: How much heat does your home…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Heat pumps: How much heat does your home really need?.",
-        "Knowing how much heat your home loses is important before installing a new heating system."
-      ],
-      "vocab": [
-        {
-          "w": "knowing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "important",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "installing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "heating",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

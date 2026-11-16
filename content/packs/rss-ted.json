@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-15",
+  "name": "TED Talks · Daily · 2026-11-16",
   "type": "passage",
-  "generatedAt": "2026-11-15T02:19:27.520Z",
+  "generatedAt": "2026-11-16T02:31:16.330Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Sunday Pick: How to challenge your self-…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：https://audiocollective.ted.com/",
+      "sentences": [
+        "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success.",
+        "In this episode, Shawn and Adam dive into the surprising connections between happiness and success, and discuss the science of optimism and pessimism.",
+        "Learn more about ReThinking at https://link.mgln.ai/qiLcC3 Hosted on Acast.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "beliefs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "yourself",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "relationships",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "success",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "episode",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surprising",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://audiocollective.ted.com/",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee1ada1ad1a30ae5d0bb39/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "The digital detectives preserving the tr…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -49,7 +92,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Could this ancient Greek idea make us be…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -92,7 +135,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "How we’ll actually ditch fossil fuels — …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -136,7 +179,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "How to repair harm — in relationships an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -178,7 +221,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af38974ac84158342c9ed3d/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Your phone is disgusting. Here's how to …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -220,49 +263,6 @@
       ],
       "link": "http://go.ted.com/lottitajouri",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "How to rewire your brain — and find your…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/heatherberlin",
-      "sentences": [
-        "When life gets uncertain, do you grip a little tighter?",
-        "Neuroscientist Heather Berlin explores a surprising paradox: the harder you try to control everything, the more likely you are to get in your own way.",
-        "Drawing on brain research and her own struggles with uncertainty, she shares practical ways to let go and make room for creativity, calm and flow.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "uncertain",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tighter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "neuroscientist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "heather",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explores",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "surprising",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/heatherberlin",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af1eb82e0d89bd85412a56b/media.mp3"
     }
   ]
 }

@@ -1,77 +1,28 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-15",
+  "name": "BBC News · Top Stories · 2026-11-16",
   "type": "passage",
-  "generatedAt": "2026-11-15T02:19:26.614Z",
+  "generatedAt": "2026-11-16T02:31:15.687Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "US has floated Ukraine ceding Donbas for…",
+      "title": "Cut national insurance for under-25s to …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says.",
-        "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+        "Cut national insurance for under-25s to create jobs, Milburn report to say.",
+        "The report being launched this week will suggest gradually reducing employment costs over five years."
       ],
       "vocab": [
         {
-          "w": "floated",
+          "w": "national",
           "cn": "（查词典）"
         },
         {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "membership",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "zelensky",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "confirmed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukrainian",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-2",
-      "title": "Neets review won't be for the faint-hear…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight.",
-        "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg."
-      ],
-      "vocab": [
-        {
-          "w": "welfare",
-          "cn": "福利"
-        },
-        {
-          "w": "faint-hearted",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "burnham's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "appetite",
+          "w": "insurance",
           "cn": "（查词典）"
         },
         {
@@ -79,32 +30,36 @@
           "cn": "（查词典）"
         },
         {
-          "w": "problem",
+          "w": "launched",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "suggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "gradually",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-3",
-      "title": "Alleged Russell Brand rape victim wants …",
+      "id": "rss-bbc-news-2",
+      "title": "Staggered age of consent to be discussed…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Alleged Russell Brand rape victim wants age of consent law changed.",
-        "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent."
+        "Staggered age of consent to be discussed after Brand case, minister says.",
+        "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal."
       ],
       "vocab": [
         {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "russell",
+          "w": "staggered",
           "cn": "（查词典）"
         },
         {
@@ -112,323 +67,89 @@
           "cn": "（查词典）"
         },
         {
-          "w": "changed",
+          "w": "discussed",
           "cn": "（查词典）"
         },
         {
-          "w": "convicted",
+          "w": "minister",
           "cn": "（查词典）"
         },
         {
-          "w": "staggered",
+          "w": "alleges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "comedian",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-3",
+      "title": "Zelensky urges US and Musk to lift Starl…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'.",
+        "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+      ],
+      "vocab": [
+        {
+          "w": "zelensky",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "starlink",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "restrictions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "history'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ukrainian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-4",
-      "title": "'Can you believe it?': SpaceX catches pa…",
+      "title": "Prince Harry praises war veterans on sur…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth.",
-        "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+        "Prince Harry praises war veterans on surprise visit to Ukraine.",
+        "He has been showing support for injured veterans in Ukraine and praising the country's resilience."
       ],
       "vocab": [
         {
-          "w": "believe",
+          "w": "resilience",
+          "cn": "抗压与复原力"
+        },
+        {
+          "w": "praises",
           "cn": "（查词典）"
         },
         {
-          "w": "catches",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "starship",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "performed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "historic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mechanical",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Copper wire upgrade caused nationwide fl…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Copper wire upgrade caused nationwide flight suspension, US transport secretary says.",
-        "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-      ],
-      "vocab": [
-        {
-          "w": "upgrade",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nationwide",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suspension",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transport",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "New Orleans port files $1m lawsuit over …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision.",
-        "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
-      ],
-      "vocab": [
-        {
-          "w": "orleans",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lawsuit",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'miracle",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mississippi'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "collision",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "officials",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Wales stun New Zealand to end 73-year lo…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Wales stun New Zealand to end 73-year losing streak.",
-        "Wales celebrate a first victory against New Zealand since 1953 with a brilliant 35-28 win to spark astonishing scenes in Cardiff."
-      ],
-      "vocab": [
-        {
-          "w": "zealand",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "celebrate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "victory",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "brilliant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "astonishing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cardiff",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "Beauty advent calendars can cost hundred…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Beauty advent calendars can cost hundreds - but are they value for money?.",
-        "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
-      ],
-      "vocab": [
-        {
-          "w": "calendars",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hundreds",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "christmas",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "particularly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "popular",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shoppers",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "How to shake hands and make eye contact …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How to shake hands and make eye contact - the lessons preparing pupils for the world of work.",
-        "Year 10 pupils are learning employability skills to reduce the number of young people who end up \"Neet\"."
-      ],
-      "vocab": [
-        {
-          "w": "contact",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lessons",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "preparing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "learning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "employability",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-10",
-      "title": "Holly Humberstone: People can't connect …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Holly Humberstone: People can't connect to a pop star who's 'too polished'.",
-        "The singer felt forced to compete with her female peers, until she realised the power of longevity."
-      ],
-      "vocab": [
-        {
-          "w": "humberstone",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "connect",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "polished'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "compete",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "realised",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "longevity",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-11",
-      "title": "Judo champion shakes up French president…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Judo champion shakes up French presidential race with surprise candidacy.",
-        "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him."
-      ],
-      "vocab": [
-        {
-          "w": "champion",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "presidential",
+          "w": "veterans",
           "cn": "（查词典）"
         },
         {
@@ -436,60 +157,327 @@
           "cn": "（查词典）"
         },
         {
-          "w": "candidacy",
+          "w": "ukraine",
           "cn": "（查词典）"
         },
         {
-          "w": "popular",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "figures",
+          "w": "showing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-12",
-      "title": "Hannah Fry feels 'unbelievably lucky' af…",
+      "id": "rss-bbc-news-5",
+      "title": "UK will have 'voice' but no vote on EU f…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment.",
-        "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties."
+        "UK will have 'voice' but no vote on EU food rules in Brexit reset.",
+        "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
       ],
       "vocab": [
         {
-          "w": "'unbelievably",
+          "w": "'voice'",
           "cn": "（查词典）"
         },
         {
-          "w": "cervical",
+          "w": "minister",
           "cn": "（查词典）"
         },
         {
-          "w": "treatment",
+          "w": "falconer",
           "cn": "（查词典）"
         },
         {
-          "w": "presenter",
+          "w": "insists",
           "cn": "（查词典）"
         },
         {
-          "w": "received",
+          "w": "britain",
           "cn": "（查词典）"
         },
         {
-          "w": "'five-year",
+          "w": "influence",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "Trident submarine returns home after rec…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Trident submarine returns home after record-breaking undersea patrol.",
+        "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel."
+      ],
+      "vocab": [
+        {
+          "w": "trident",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "submarine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "returns",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "record-breaking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "undersea",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "defence",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Cancer 'sponge' tests could be offered t…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Cancer 'sponge' tests could be offered to more people with bad indigestion.",
+        "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera."
+      ],
+      "vocab": [
+        {
+          "w": "'sponge'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "offered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "indigestion",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surgeries",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hospitals",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "endoscopy",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Brand moved from Wandsworth to category …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Brand moved from Wandsworth to category C prison, his wife confirms on podcast.",
+        "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders."
+      ],
+      "vocab": [
+        {
+          "w": "wandsworth",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "category",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confirms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "convicted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "littlehey",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Pope Leo rides in helicopter cockpit dur…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Pope Leo rides in helicopter cockpit during Peru trip.",
+        "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+      ],
+      "vocab": [
+        {
+          "w": "helicopter",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cockpit",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "arriving",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "penultimate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-10",
+      "title": "Tories pledge to halt screen-based schoo…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Tories pledge to halt screen-based school exams and cut coursework.",
+        "The party says its proposals for England aim to address excessive screen time and over-reliance on AI."
+      ],
+      "vocab": [
+        {
+          "w": "excessive",
+          "cn": "过多的"
+        },
+        {
+          "w": "screen-based",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "coursework",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "proposals",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "england",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "address",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-11",
+      "title": "Australian MP who lost both legs in alle…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Australian MP who lost both legs in alleged car attack discharged from hospital.",
+        "The MP was allegedly run down by a car outside her electorate office four weeks ago."
+      ],
+      "vocab": [
+        {
+          "w": "australian",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alleged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "discharged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hospital",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "allegedly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outside",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-12",
+      "title": "Black Friday and tax return scams - don'…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Black Friday and tax return scams - don't fall for these.",
+        "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund."
+      ],
+      "vocab": [
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reported",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "request",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
