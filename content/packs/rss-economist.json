@@ -1,275 +1,106 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-16",
+  "name": "The Economist · Latest · 2026-11-17",
   "type": "passage",
-  "generatedAt": "2026-11-16T02:31:15.806Z",
+  "generatedAt": "2026-11-17T02:27:22.563Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Iran is functioning without a supreme le…",
+      "title": "Hollywood is turning to YouTube for its …",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/hollywood-is-turning-to-youtube-for-its-next-big-hits",
       "sentences": [
-        "Iran is functioning without a supreme leader.",
-        "Six men from a council of generals and bureaucrats now dominate decision making"
+        "Hollywood is turning to YouTube for its next big hits.",
+        "The video platform is where new stars and stories prove their appeal"
       ],
       "vocab": [
         {
-          "w": "dominate",
-          "cn": "主导"
-        },
-        {
-          "w": "functioning",
+          "w": "hollywood",
           "cn": "（查词典）"
         },
         {
-          "w": "supreme",
+          "w": "turning",
           "cn": "（查词典）"
         },
         {
-          "w": "council",
+          "w": "youtube",
           "cn": "（查词典）"
         },
         {
-          "w": "generals",
+          "w": "platform",
           "cn": "（查词典）"
         },
         {
-          "w": "bureaucrats",
+          "w": "stories",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/hollywood-is-turning-to-youtube-for-its-next-big-hits",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Anthropic’s giant IPO puts the heat on O…",
+      "title": "Everyone is heading into space",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/everyone-is-heading-into-space",
       "sentences": [
-        "Anthropic’s giant IPO puts the heat on OpenAI.",
-        "Coding agents are big business."
+        "Everyone is heading into space.",
+        "It’s getting rather crowded up there"
       ],
       "vocab": [
         {
-          "w": "anthropic",
+          "w": "everyone",
           "cn": "（查词典）"
         },
         {
-          "w": "business",
+          "w": "heading",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "getting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "crowded",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/everyone-is-heading-into-space",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "A plan to end America’s most expensive b…",
+      "title": "Bond markets will test free-spending gov…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/by-invitation/2026/11/15/a-plan-to-end-americas-most-expensive-bottleneck",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/bond-markets-will-test-free-spending-governments",
       "sentences": [
-        "A plan to end America’s most expensive bottleneck.",
-        "Reforming the permitting system would generate trillions of dollars of new economic activity, argues Martin Heinrich"
+        "Bond markets will test free-spending governments.",
+        "Everyone is still talking about a reckoning"
       ],
       "vocab": [
         {
-          "w": "generate",
-          "cn": "产生"
-        },
-        {
-          "w": "america",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "expensive",
+          "w": "free-spending",
           "cn": "（查词典）"
         },
         {
-          "w": "bottleneck",
+          "w": "governments",
           "cn": "（查词典）"
         },
         {
-          "w": "reforming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "permitting",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/by-invitation/2026/11/15/a-plan-to-end-americas-most-expensive-bottleneck",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "Donald Trump will get a warm welcome in …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-      "sentences": [
-        "Donald Trump will get a warm welcome in the Philippines.",
-        "He almost skipped about the only country that still adores him"
-      ],
-      "vocab": [
-        {
-          "w": "welcome",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "philippines",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "skipped",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "SpaceX achieves another historic first",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
-      "sentences": [
-        "SpaceX achieves another historic first.",
-        "It has caught the second stage of its Starship rocket"
-      ],
-      "vocab": [
-        {
-          "w": "achieves",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "another",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "historic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "starship",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "The Bottom Line newsletter: Nvidia will …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
-      "sentences": [
-        "The Bottom Line newsletter: Nvidia will never be the same.",
-        "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang"
-      ],
-      "vocab": [
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shailesh",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chitnis",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chip-industry",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reflects",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Checks and Balance newsletter: What do b…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
-      "sentences": [
-        "Checks and Balance newsletter: What do ballot initiatives tell us about America?.",
-        "John Prideaux, our executive editor, explains why they can be used to take the pulse of the country"
-      ],
-      "vocab": [
-        {
-          "w": "balance",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "initiatives",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "prideaux",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "executive",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Why is it only the Manosphere talking ab…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/14/why-is-it-only-the-manosphere-talking-about-abuse-against-men",
-      "sentences": [
-        "Why is it only the Manosphere talking about abuse against men?.",
-        "How domestic abuse became part of the culture wars"
-      ],
-      "vocab": [
-        {
-          "w": "manosphere",
+          "w": "everyone",
           "cn": "（查词典）"
         },
         {
@@ -277,147 +108,288 @@
           "cn": "（查词典）"
         },
         {
-          "w": "domestic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "culture",
+          "w": "reckoning",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/14/why-is-it-only-the-manosphere-talking-about-abuse-against-men",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/bond-markets-will-test-free-spending-governments",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Slimming drugs are reshaping consumers—a…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/slimming-drugs-are-reshaping-consumers-and-their-behaviour",
+      "sentences": [
+        "Slimming drugs are reshaping consumers—and their behaviour.",
+        "The impact of “revenge shopping” goes beyond food and drink"
+      ],
+      "vocab": [
+        {
+          "w": "slimming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reshaping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "consumers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "behaviour",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revenge",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shopping",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/slimming-drugs-are-reshaping-consumers-and-their-behaviour",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "The year ahead will be crunch time for a…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence",
+      "sentences": [
+        "The year ahead will be crunch time for artificial intelligence.",
+        "It will decide much about the future of the technology"
+      ],
+      "vocab": [
+        {
+          "w": "artificial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "intelligence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "technology",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "The coming year will be the hottest ever",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/the-coming-year-will-be-the-hottest-ever",
+      "sentences": [
+        "The coming year will be the hottest ever.",
+        "Responses to El Niño have so far proved inadequate"
+      ],
+      "vocab": [
+        {
+          "w": "hottest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "responses",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inadequate",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/the-coming-year-will-be-the-hottest-ever",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "China still doesn’t know what to do abou…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/china-still-doesnt-know-what-to-do-about-taiwan",
+      "sentences": [
+        "China still doesn’t know what to do about Taiwan.",
+        "Should it act now, before a distracted Trump leaves power?"
+      ],
+      "vocab": [
+        {
+          "w": "distracted",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/china-still-doesnt-know-what-to-do-about-taiwan",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "There will be less war in the Middle Eas…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/there-will-be-less-war-in-the-middle-east-in-2027-but-little-real-peace",
+      "sentences": [
+        "There will be less war in the Middle East in 2027—but little real peace.",
+        "The war in Iran will have repercussions for regional politics, security, energy and more"
+      ],
+      "vocab": [
+        {
+          "w": "repercussions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "regional",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "politics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "security",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/there-will-be-less-war-in-the-middle-east-in-2027-but-little-real-peace",
       "audio": ""
     },
     {
       "id": "rss-economist-9",
-      "title": "How badly did Republican gerrymandering …",
+      "title": "Has populism reached its high-water mark…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/interactive/graphic-detail/2026/11/13/how-badly-did-republican-gerrymandering-fail",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/has-populism-reached-its-high-water-mark",
       "sentences": [
-        "How badly did Republican gerrymandering fail?.",
-        "Democrats cannot count on a big blue wave every election"
+        "Has populism reached its high-water mark?.",
+        "Four factors are boosting the influence of populists, in Europe and beyond"
       ],
       "vocab": [
         {
-          "w": "republican",
+          "w": "populism",
           "cn": "（查词典）"
         },
         {
-          "w": "gerrymandering",
+          "w": "reached",
           "cn": "（查词典）"
         },
         {
-          "w": "democrats",
+          "w": "high-water",
           "cn": "（查词典）"
         },
         {
-          "w": "election",
+          "w": "factors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "boosting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "influence",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/interactive/graphic-detail/2026/11/13/how-badly-did-republican-gerrymandering-fail",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/has-populism-reached-its-high-water-mark",
       "audio": ""
     },
     {
       "id": "rss-economist-10",
-      "title": "The Jensen Huang scandal reaches Donald …",
+      "title": "The Trump saga’s final chapter",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/the-trump-sagas-final-chapter",
       "sentences": [
-        "The Jensen Huang scandal reaches Donald Trump’s cabinet.",
-        "Howard Lutnick, the commerce secretary, is in the firing line"
+        "The Trump saga’s final chapter.",
+        "The president is on the way out, but do not expect him to go quietly"
       ],
       "vocab": [
         {
-          "w": "scandal",
+          "w": "chapter",
           "cn": "（查词典）"
         },
         {
-          "w": "reaches",
+          "w": "president",
           "cn": "（查词典）"
         },
         {
-          "w": "cabinet",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lutnick",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commerce",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
+          "w": "quietly",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/the-trump-sagas-final-chapter",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "Should women sync their lifestyle to the…",
+      "title": "Tom Standage’s ten trends to watch in 20…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/13/should-women-sync-their-lifestyle-to-their-menstrual-cycle",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/tom-standages-ten-trends-to-watch-in-2027",
       "sentences": [
-        "Should women sync their lifestyle to their menstrual cycle?.",
-        "What works for one woman may not suit another"
+        "Tom Standage’s ten trends to watch in 2027.",
+        "A letter from the editor of The World Ahead"
       ],
       "vocab": [
         {
-          "w": "lifestyle",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "menstrual",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "another",
+          "w": "standage",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/13/should-women-sync-their-lifestyle-to-their-menstrual-cycle",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/tom-standages-ten-trends-to-watch-in-2027",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "Cover Story newsletter: An AI crash, or …",
+      "title": "Trump Inc is in free fall",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath",
+      "intro": "原文：https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
       "sentences": [
-        "Cover Story newsletter: An AI crash, or a bull in the bath?.",
-        "An exclusive look at how we designed our cover"
+        "Trump Inc is in free fall.",
+        "Investors are souring on anything with ties to the president and his family"
       ],
       "vocab": [
         {
-          "w": "newsletter",
+          "w": "investors",
           "cn": "（查词典）"
         },
         {
-          "w": "exclusive",
+          "w": "souring",
           "cn": "（查词典）"
         },
         {
-          "w": "designed",
+          "w": "anything",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath",
+      "link": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
       "audio": ""
     }
   ]

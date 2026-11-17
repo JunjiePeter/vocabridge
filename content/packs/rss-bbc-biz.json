@@ -1,24 +1,284 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-16",
+  "name": "BBC News · Business · 2026-11-17",
   "type": "passage",
-  "generatedAt": "2026-11-16T02:31:15.712Z",
+  "generatedAt": "2026-11-17T02:27:22.489Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "UK will have 'voice' but no vote on EU f…",
+      "title": "'Complete system reset' needed to get 44…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'Complete system reset' needed to get 440,000 young people into work, says major review.",
+        "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems."
+      ],
+      "vocab": [
+        {
+          "w": "welfare",
+          "cn": "福利"
+        },
+        {
+          "w": "'complete",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "milburn's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sweeping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reforms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "education",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-2",
+      "title": "California sues OpenAI over Hugging Face…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "California sues OpenAI over Hugging Face attack.",
+        "Attorney General Rob Bonta alleges OpenAI misled and endangered the public"
+      ],
+      "vocab": [
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hugging",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "attorney",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "general",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "alleges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "endangered",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Aged 16-24 and looking for work? Use our…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Aged 16-24 and looking for work?",
+        "Use our look-up to find out which areas have the most jobs.",
+        "How many jobs are there where you live and in which sectors are you most likely to find an opening?"
+      ],
+      "vocab": [
+        {
+          "w": "looking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "look-up",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "sectors",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opening",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "We couldn't afford a house alone, so we …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "We couldn't afford a house alone, so we bought one with strangers.",
+        "People who can't afford to get on the housing ladder are buying homes with people they don't know."
+      ],
+      "vocab": [
+        {
+          "w": "couldn't",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "strangers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "housing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "Nvidia dismisses 'Bring Jensen Back' cam…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO.",
+        "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+      ],
+      "vocab": [
+        {
+          "w": "dismisses",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "campaign",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reinstate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "figures",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-6",
+      "title": "Create more jobs for under-25s by cuttin…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Create more jobs for under-25s by cutting National Insurance, key report urges.",
+        "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC."
+      ],
+      "vocab": [
+        {
+          "w": "cutting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "insurance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "parents",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "desperate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "children",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-7",
+      "title": "Customers report service outages at majo…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Customers report service outages at major US banks.",
+        "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
+      ],
+      "vocab": [
+        {
+          "w": "customers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "service",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outages",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "largest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "software",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "causing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Faisal Islam: What's in the Brexit reset…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "UK will have 'voice' but no vote on EU food rules in Brexit reset.",
+        "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?.",
         "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
       ],
       "vocab": [
         {
-          "w": "'voice'",
+          "w": "trade-offs",
           "cn": "（查词典）"
         },
         {
@@ -46,110 +306,98 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-2",
-      "title": "Cut national insurance for under-25s to …",
+      "id": "rss-bbc-biz-9",
+      "title": "Gas starts flowing from Jackdaw after go…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Cut national insurance for under-25s to create jobs, Milburn report to say.",
-        "The report being launched this week will suggest gradually reducing employment costs over five years."
+        "Gas starts flowing from Jackdaw after government green light.",
+        "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty."
       ],
       "vocab": [
         {
-          "w": "national",
+          "w": "flowing",
           "cn": "（查词典）"
         },
         {
-          "w": "insurance",
+          "w": "jackdaw",
           "cn": "（查词典）"
         },
         {
-          "w": "milburn",
+          "w": "government",
           "cn": "（查词典）"
         },
         {
-          "w": "launched",
+          "w": "ministers",
           "cn": "（查词典）"
         },
         {
-          "w": "suggest",
+          "w": "announced",
           "cn": "（查词典）"
         },
         {
-          "w": "gradually",
+          "w": "aberdeen",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
-      "title": "Suspected China spy linked to Nvidia's e…",
+      "id": "rss-bbc-biz-10",
+      "title": "Intel sued by investors after PC sales s…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says.",
-        "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+        "Intel sued by investors after PC sales slump hits share price.",
+        "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders."
       ],
       "vocab": [
         {
-          "w": "suspected",
+          "w": "investors",
           "cn": "（查词典）"
         },
         {
-          "w": "nvidia's",
+          "w": "proposed",
           "cn": "（查词典）"
         },
         {
-          "w": "ex-boss",
+          "w": "slowing",
           "cn": "（查词典）"
         },
         {
-          "w": "megaspeed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scandal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "questions",
+          "w": "shareholders",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
-      "title": "Black Friday and tax return scams - don'…",
+      "id": "rss-bbc-biz-11",
+      "title": "Avoid this Black Friday scam - how to ch…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Black Friday and tax return scams - don't fall for these.",
-        "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund."
+        "Avoid this Black Friday scam - how to check it's a real deal.",
+        "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out."
       ],
       "vocab": [
         {
-          "w": "thousands",
-          "cn": "（查词典）"
+          "w": "deadline",
+          "cn": "截止时间"
         },
         {
-          "w": "reported",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "request",
+          "w": "looming",
           "cn": "（查词典）"
         }
       ],
@@ -157,44 +405,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
-      "title": "Minister backs legal right to job suppor…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Minister backs legal right to job support for young people.",
-        "The work and pensions secretary said the level of support currently on offer was too vague."
-      ],
-      "vocab": [
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "support",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pensions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "currently",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
+      "id": "rss-bbc-biz-12",
       "title": "Beauty advent calendars can cost hundred…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -232,244 +443,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "How the Jensen Huang scandal created a h…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How the Jensen Huang scandal created a headache for business-friendly Singapore.",
-        "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
-      ],
-      "vocab": [
-        {
-          "w": "scandal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "created",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "headache",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "business-friendly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "singapore",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spotlight",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Microsoft says services fully restored a…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Microsoft says services fully restored after day-long global outage.",
-        "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
-      ],
-      "vocab": [
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "services",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "restored",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "day-long",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "efforts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "address",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "Why is Microsoft's outage lasting so lon…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Why is Microsoft's outage lasting so long and will emails be lost?.",
-        "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
-      ],
-      "vocab": [
-        {
-          "w": "microsoft's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lasting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "continuing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "restore",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "services",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "Pressure grows on Trump's Commerce Secre…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal.",
-        "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
-      ],
-      "vocab": [
-        {
-          "w": "pressure",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "trump's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commerce",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "secretary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lutnick",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "fallout",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to t…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy.",
-        "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
-      ],
-      "vocab": [
-        {
-          "w": "ex-nvidia",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "summoned",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "testify",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "congress",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleged",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Burnham says 'win-win' deal can be agree…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Burnham says 'win-win' deal can be agreed between UK and EU.",
-        "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016."
-      ],
-      "vocab": [
-        {
-          "w": "burnham",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'win-win'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thought",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

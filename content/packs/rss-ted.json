@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-16",
+  "name": "TED Talks · Daily · 2026-11-17",
   "type": "passage",
-  "generatedAt": "2026-11-16T02:31:16.330Z",
+  "generatedAt": "2026-11-17T02:27:22.913Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "What you hear when you stop talking | Jo…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/JohnLloyd",
+      "sentences": [
+        "Scientists have estimated how many colors we can see and how many scents we can smell … but director John Lloyd can’t find anyone who has counted how many sounds we can hear.",
+        "Drawing on a legendary career in radio, film and TV, he makes a funny case for paying closer attention to sound — and for listening more than you talk.",
+        "(Plus: find out why almost every frog noise you hear in movies sounds the same.) Hosted on Acast.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "scientists",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "estimated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "director",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "counted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "drawing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "legendary",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/JohnLloyd",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af7358772c084b0516a29b5/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "Sunday Pick: How to challenge your self-…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +91,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee1ada1ad1a30ae5d0bb39/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "The digital detectives preserving the tr…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -92,7 +135,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "Could this ancient Greek idea make us be…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -135,7 +178,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "How we’ll actually ditch fossil fuels — …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -179,7 +222,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "How to repair harm — in relationships an…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -219,50 +262,6 @@
       ],
       "link": "http://go.ted.com/ariaflorant",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af38974ac84158342c9ed3d/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Your phone is disgusting. Here's how to …",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/lottitajouri",
-      "sentences": [
-        "What’s dirtier: your phone or your hands?",
-        "Molecular biologist Lotti Tajouri says there’s a gaping hole in our hygiene routine.",
-        "We scrub our hands clean, then reach right for the phone — a warm, humid and mobile home for bacteria and viruses.",
-        "He explores the unnervingly vibrant microbial world living on your phone and shows how you can keep this “third hand” clean.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "dirtier",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "molecular",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biologist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tajouri",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hygiene",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "routine",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/lottitajouri",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af23934e1219d878fcb3b47/media.mp3"
     }
   ]
 }
