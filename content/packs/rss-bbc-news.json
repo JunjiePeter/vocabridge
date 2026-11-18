@@ -1,332 +1,102 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-17",
+  "name": "BBC News · Top Stories · 2026-11-18",
   "type": "passage",
-  "generatedAt": "2026-11-17T02:27:22.165Z",
+  "generatedAt": "2026-11-18T02:25:43.639Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "'Complete system reset' needed to get 44…",
+      "title": "As Trump and Xi meet, China's AI dreams …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "'Complete system reset' needed to get 440,000 young people into work, says major review.",
-        "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems."
+        "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal.",
+        "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
       ],
       "vocab": [
         {
-          "w": "welfare",
-          "cn": "福利"
+          "w": "restrict",
+          "cn": "限制"
         },
         {
-          "w": "'complete",
+          "w": "china's",
           "cn": "（查词典）"
         },
         {
-          "w": "milburn's",
+          "w": "unexpected",
           "cn": "（查词典）"
         },
         {
-          "w": "sweeping",
+          "w": "scandal",
           "cn": "（查词典）"
         },
         {
-          "w": "reforms",
+          "w": "worries",
           "cn": "（查词典）"
         },
         {
-          "w": "education",
+          "w": "pressure",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "The young people caught up in Britain's …",
+      "title": "American soldier arrested by UK police o…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "The young people caught up in Britain's Neets crisis.",
-        "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training."
+        "American soldier arrested by UK police on suspicion of spying taken into US military custody.",
+        "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations."
       ],
       "vocab": [
         {
-          "w": "britain's",
+          "w": "american",
           "cn": "（查词典）"
         },
         {
-          "w": "million",
+          "w": "soldier",
           "cn": "（查词典）"
         },
         {
-          "w": "education",
+          "w": "arrested",
           "cn": "（查词典）"
         },
         {
-          "w": "training",
+          "w": "suspicion",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "military",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "custody",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-3",
-      "title": "Robert Pattinson to replace Daniel Craig…",
+      "title": "Burnham to set out options next month fo…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Robert Pattinson to replace Daniel Craig as James Bond.",
-        "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey."
-      ],
-      "vocab": [
-        {
-          "w": "pattinson",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "replace",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "twilight",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "odyssey",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Cass report author says she does not sup…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Cass report author says she does not support draft conversion practices bill.",
-        "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists."
-      ],
-      "vocab": [
-        {
-          "w": "support",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "conversion",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "practices",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "wording",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "serious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unintended",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Forensic expert says his analysis of aut…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Forensic expert says his analysis of autopsy photos suggests Epstein was killed.",
-        "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide."
-      ],
-      "vocab": [
-        {
-          "w": "forensic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "analysis",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "autopsy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "suggests",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "epstein",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "professor",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Failed asylum seekers face removal witho…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Failed asylum seekers face removal without five-day notice period.",
-        "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance."
-      ],
-      "vocab": [
-        {
-          "w": "seekers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "removal",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "five-day",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "proposed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "telling",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "advance",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Landmark Crimea bridge hit as Russia rep…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war.",
-        "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
-      ],
-      "vocab": [
-        {
-          "w": "landmark",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biggest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukrainian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukraine",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "launched",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "Met Office yellow warning in place as sn…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Met Office yellow warning in place as snow could disrupt Tuesday morning travel.",
-        "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains."
-      ],
-      "vocab": [
-        {
-          "w": "warning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disrupt",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "tuesday",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "morning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transport",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disruption",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "UK lost more than it gained from Brexit,…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "UK lost more than it gained from Brexit, Burnham says ahead of EU summit.",
-        "The prime minister tells an audience at the Lord Mayor's Banquet that the \"Brexit we were given has not worked\"."
+        "Burnham to set out options next month for long-term EU relationship.",
+        "The prime minister says he will set out options for the future \"alongside\" his 10-year economic plan."
       ],
       "vocab": [
         {
@@ -334,146 +104,384 @@
           "cn": "（查词典）"
         },
         {
+          "w": "options",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "long-term",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "relationship",
+          "cn": "（查词典）"
+        },
+        {
           "w": "minister",
           "cn": "（查词典）"
         },
         {
-          "w": "audience",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mayor's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "banquet",
+          "w": "alongside",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-4",
+      "title": "The EU that Burnham is eyeing up is very…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Andy Burnham wants \"steps\" towards a closer EU alignment.",
+        "But the bloc has changed considerably since the UK left it"
+      ],
+      "vocab": [
+        {
+          "w": "alignment",
+          "cn": "对齐；共识"
+        },
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "towards",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "changed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "considerably",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-5",
+      "title": "Government backs welfare shake-up to pre…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Government backs welfare shake-up to prevent 'lost generation'.",
+        "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support."
+      ],
+      "vocab": [
+        {
+          "w": "welfare",
+          "cn": "福利"
+        },
+        {
+          "w": "benefits",
+          "cn": "福利"
+        },
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shake-up",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prevent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "generation'",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "William and Kate on Earthshot Prize gree…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "William and Kate on Earthshot Prize green carpet in Mumbai.",
+        "The pair arrived at the ceremony where five £1m prizes were awarded to projects aimed at solving climate challenges."
+      ],
+      "vocab": [
+        {
+          "w": "william",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "earthshot",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "arrived",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ceremony",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "awarded",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "projects",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Home secretary plans to tackle 'percepti…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Home secretary plans to tackle 'perception of two-tier policing'.",
+        "Shabana Mahmood will announce stronger guidance on police impartiality."
+      ],
+      "vocab": [
+        {
+          "w": "secretary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'perception",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "two-tier",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "policing'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shabana",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mahmood",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "Watch: Eruption at California landfill s…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cm782w62v8qdo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Watch: Eruption at California landfill sends black substance spewing into the air.",
+        "A drilling operation at the Chiquita Canyon Landfill triggered a large release of gas and decomposing waste that neighbours are voicing concerns over."
+      ],
+      "vocab": [
+        {
+          "w": "eruption",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "landfill",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "substance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "spewing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "drilling",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/cm782w62v8qdo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Government risks missing climate targets…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Government risks missing climate targets if EV rules weakened, adviser warns.",
+        "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns"
+      ],
+      "vocab": [
+        {
+          "w": "government",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "missing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "climate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "targets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weakened",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "adviser",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-10",
-      "title": "Imran Khan seeks urgent medical care fea…",
+      "title": "Largest British study to check social me…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Imran Khan seeks urgent medical care fearing he 'may not return alive'.",
-        "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice."
+        "Largest British study to check social media ban's effect on youth mental health.",
+        "Ten different research teams will look at how well teenagers are coping without social media."
       ],
       "vocab": [
         {
-          "w": "medical",
+          "w": "largest",
           "cn": "（查词典）"
         },
         {
-          "w": "fearing",
+          "w": "british",
           "cn": "（查词典）"
         },
         {
-          "w": "pakistan's",
+          "w": "different",
           "cn": "（查词典）"
         },
         {
-          "w": "ex-prime",
+          "w": "research",
           "cn": "（查词典）"
         },
         {
-          "w": "minister",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "justice",
+          "w": "teenagers",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-11",
-      "title": "Russell Brand prison message 'appalling'…",
+      "title": "Thomas Markle charged over child sex abu…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Russell Brand prison message 'appalling' and being investigated, No 10 says.",
-        "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\"."
+        "Thomas Markle charged over child sex abuse material in Philippines.",
+        "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
       ],
       "vocab": [
         {
-          "w": "russell",
+          "w": "charged",
           "cn": "（查词典）"
         },
         {
-          "w": "message",
+          "w": "material",
           "cn": "（查词典）"
         },
         {
-          "w": "'appalling'",
+          "w": "philippines",
           "cn": "（查词典）"
         },
         {
-          "w": "investigated",
+          "w": "custody",
           "cn": "（查词典）"
         },
         {
-          "w": "brand's",
+          "w": "previously",
           "cn": "（查词典）"
         },
         {
-          "w": "comments",
+          "w": "allegations",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-12",
-      "title": "New Zealand tricks and annual leave - th…",
+      "title": "'It's hard to keep going': Neets speak t…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6.",
-        "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox"
+        "'It's hard to keep going': Neets speak to BBC about struggling to get a job.",
+        "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?"
       ],
       "vocab": [
         {
-          "w": "zealand",
+          "w": "struggling",
           "cn": "（查词典）"
         },
         {
-          "w": "lengths",
+          "w": "government-backed",
           "cn": "（查词典）"
         },
         {
-          "w": "estimates",
+          "w": "proposed",
           "cn": "（查词典）"
         },
         {
-          "w": "already",
+          "w": "wide-ranging",
           "cn": "（查词典）"
         },
         {
-          "w": "pre-orders",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "playstation",
+          "w": "measures",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

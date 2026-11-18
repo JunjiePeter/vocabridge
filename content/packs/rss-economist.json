@@ -1,395 +1,440 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-17",
+  "name": "The Economist · Latest · 2026-11-18",
   "type": "passage",
-  "generatedAt": "2026-11-17T02:27:22.563Z",
+  "generatedAt": "2026-11-18T02:25:43.842Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Hollywood is turning to YouTube for its …",
+      "title": "Jensen Huang’s departure will cause last…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/hollywood-is-turning-to-youtube-for-its-next-big-hits",
+      "intro": "原文：https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
       "sentences": [
-        "Hollywood is turning to YouTube for its next big hits.",
-        "The video platform is where new stars and stories prove their appeal"
+        "Jensen Huang’s departure will cause lasting damage to Nvidia.",
+        "The full toll will only become clear with time"
       ],
       "vocab": [
         {
-          "w": "hollywood",
+          "w": "departure",
           "cn": "（查词典）"
         },
         {
-          "w": "turning",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "youtube",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "platform",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stories",
+          "w": "lasting",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/hollywood-is-turning-to-youtube-for-its-next-big-hits",
+      "link": "https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Everyone is heading into space",
+      "title": "Why startups still go public, eventually",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/everyone-is-heading-into-space",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
       "sentences": [
-        "Everyone is heading into space.",
-        "It’s getting rather crowded up there"
+        "Why startups still go public, eventually.",
+        "Costly regulation is not a big deterrent to IPOs"
       ],
       "vocab": [
         {
-          "w": "everyone",
+          "w": "startups",
           "cn": "（查词典）"
         },
         {
-          "w": "heading",
+          "w": "eventually",
           "cn": "（查词典）"
         },
         {
-          "w": "getting",
+          "w": "regulation",
           "cn": "（查词典）"
         },
         {
-          "w": "crowded",
+          "w": "deterrent",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/everyone-is-heading-into-space",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "Bond markets will test free-spending gov…",
+      "title": "Middle East Dispatch: Where is Gaza’s bo…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/bond-markets-will-test-free-spending-governments",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/17/middle-east-dispatch-where-is-gazas-board-of-peace",
       "sentences": [
-        "Bond markets will test free-spending governments.",
-        "Everyone is still talking about a reckoning"
+        "Middle East Dispatch: Where is Gaza’s board of peace?.",
+        "Nick Pelham, our Middle East correspondent, on Gaza’s stalled reconstruction"
       ],
       "vocab": [
         {
-          "w": "markets",
+          "w": "dispatch",
           "cn": "（查词典）"
         },
         {
-          "w": "free-spending",
+          "w": "correspondent",
           "cn": "（查词典）"
         },
         {
-          "w": "governments",
+          "w": "stalled",
           "cn": "（查词典）"
         },
         {
-          "w": "everyone",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "talking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reckoning",
+          "w": "reconstruction",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/bond-markets-will-test-free-spending-governments",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/middle-east-dispatch-where-is-gazas-board-of-peace",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "Slimming drugs are reshaping consumers—a…",
+      "title": "Does Donald Trump care about the economy…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/slimming-drugs-are-reshaping-consumers-and-their-behaviour",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
       "sentences": [
-        "Slimming drugs are reshaping consumers—and their behaviour.",
-        "The impact of “revenge shopping” goes beyond food and drink"
+        "Does Donald Trump care about the economy?.",
+        "His economic advisers have gone missing after a bruising midterm defeat"
       ],
       "vocab": [
         {
-          "w": "slimming",
+          "w": "economy",
           "cn": "（查词典）"
         },
         {
-          "w": "reshaping",
+          "w": "economic",
           "cn": "（查词典）"
         },
         {
-          "w": "consumers",
+          "w": "advisers",
           "cn": "（查词典）"
         },
         {
-          "w": "behaviour",
+          "w": "missing",
           "cn": "（查词典）"
         },
         {
-          "w": "revenge",
+          "w": "bruising",
           "cn": "（查词典）"
         },
         {
-          "w": "shopping",
+          "w": "midterm",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/slimming-drugs-are-reshaping-consumers-and-their-behaviour",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
       "audio": ""
     },
     {
       "id": "rss-economist-5",
-      "title": "The year ahead will be crunch time for a…",
+      "title": "What hit podcasts reveal about China’s y…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/17/what-hit-podcasts-reveal-about-chinas-youth",
       "sentences": [
-        "The year ahead will be crunch time for artificial intelligence.",
-        "It will decide much about the future of the technology"
+        "Our weekly podcast on China.",
+        "This week, podcasts are becoming a source of guidance for gloomy youngsters.",
+        "How long will it last?"
       ],
       "vocab": [
         {
-          "w": "artificial",
+          "w": "podcast",
           "cn": "（查词典）"
         },
         {
-          "w": "intelligence",
+          "w": "podcasts",
           "cn": "（查词典）"
         },
         {
-          "w": "technology",
+          "w": "becoming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "guidance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "youngsters",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence",
+      "link": "https://www.economist.com/podcasts/2026/11/17/what-hit-podcasts-reveal-about-chinas-youth",
       "audio": ""
     },
     {
       "id": "rss-economist-6",
-      "title": "The coming year will be the hottest ever",
+      "title": "The incredible shrinking legacy of Donal…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/the-coming-year-will-be-the-hottest-ever",
+      "intro": "原文：https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
       "sentences": [
-        "The coming year will be the hottest ever.",
-        "Responses to El Niño have so far proved inadequate"
+        "The incredible shrinking legacy of Donald J Trump.",
+        "A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America"
       ],
       "vocab": [
         {
-          "w": "hottest",
+          "w": "diminish",
+          "cn": "减少"
+        },
+        {
+          "w": "incredible",
           "cn": "（查词典）"
         },
         {
-          "w": "responses",
+          "w": "shrinking",
           "cn": "（查词典）"
         },
         {
-          "w": "inadequate",
+          "w": "three-way",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vladimir",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "jinping",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/the-coming-year-will-be-the-hottest-ever",
+      "link": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
       "audio": ""
     },
     {
       "id": "rss-economist-7",
-      "title": "China still doesn’t know what to do abou…",
+      "title": "Climate change is making some African de…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/china-still-doesnt-know-what-to-do-about-taiwan",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
       "sentences": [
-        "China still doesn’t know what to do about Taiwan.",
-        "Should it act now, before a distracted Trump leaves power?"
+        "Climate change is making some African deserts greener.",
+        "That could help farmers but will also bring dangerous floods"
       ],
       "vocab": [
         {
-          "w": "distracted",
+          "w": "climate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "african",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "deserts",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "greener",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "farmers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dangerous",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/china-still-doesnt-know-what-to-do-about-taiwan",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
       "audio": ""
     },
     {
       "id": "rss-economist-8",
-      "title": "There will be less war in the Middle Eas…",
+      "title": "Analysing Africa newsletter: Why Kenya’s…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/there-will-be-less-war-in-the-middle-east-in-2027-but-little-real-peace",
+      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/17/analysing-africa-newsletter-why-kenyas-rift-valley-is-underwater",
       "sentences": [
-        "There will be less war in the Middle East in 2027—but little real peace.",
-        "The war in Iran will have repercussions for regional politics, security, energy and more"
+        "Analysing Africa newsletter: Why Kenya’s Rift Valley is underwater.",
+        "Tom Gardner, our Africa correspondent, on the mystery of Kenya’s rising lakes"
       ],
       "vocab": [
         {
-          "w": "repercussions",
+          "w": "analysing",
           "cn": "（查词典）"
         },
         {
-          "w": "regional",
+          "w": "newsletter",
           "cn": "（查词典）"
         },
         {
-          "w": "politics",
+          "w": "underwater",
           "cn": "（查词典）"
         },
         {
-          "w": "security",
+          "w": "gardner",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "correspondent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mystery",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/there-will-be-less-war-in-the-middle-east-in-2027-but-little-real-peace",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/analysing-africa-newsletter-why-kenyas-rift-valley-is-underwater",
       "audio": ""
     },
     {
       "id": "rss-economist-9",
-      "title": "Has populism reached its high-water mark…",
+      "title": "Audiences are sick of movie franchises",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/has-populism-reached-its-high-water-mark",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/audiences-are-sick-of-movie-franchises",
       "sentences": [
-        "Has populism reached its high-water mark?.",
-        "Four factors are boosting the influence of populists, in Europe and beyond"
+        "Audiences are sick of movie franchises.",
+        "But a shrinking box office is giving producers more incentives to make them anyway"
       ],
       "vocab": [
         {
-          "w": "populism",
+          "w": "audiences",
           "cn": "（查词典）"
         },
         {
-          "w": "reached",
+          "w": "franchises",
           "cn": "（查词典）"
         },
         {
-          "w": "high-water",
+          "w": "shrinking",
           "cn": "（查词典）"
         },
         {
-          "w": "factors",
+          "w": "producers",
           "cn": "（查词典）"
         },
         {
-          "w": "boosting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "influence",
+          "w": "incentives",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/has-populism-reached-its-high-water-mark",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/17/audiences-are-sick-of-movie-franchises",
       "audio": ""
     },
     {
       "id": "rss-economist-10",
-      "title": "The Trump saga’s final chapter",
+      "title": "Asia Bulletin newsletter: Xi, Trump, Put…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/the-trump-sagas-final-chapter",
+      "intro": "原文：https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
       "sentences": [
-        "The Trump saga’s final chapter.",
-        "The president is on the way out, but do not expect him to go quietly"
+        "Asia Bulletin newsletter: Xi, Trump, Putin and a theme park.",
+        "Jeremy Page, Chief China correspondent, on why Shenzhen is China’s window on the world"
       ],
       "vocab": [
         {
-          "w": "chapter",
+          "w": "bulletin",
           "cn": "（查词典）"
         },
         {
-          "w": "president",
+          "w": "newsletter",
           "cn": "（查词典）"
         },
         {
-          "w": "quietly",
+          "w": "correspondent",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shenzhen",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/the-trump-sagas-final-chapter",
+      "link": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "Tom Standage’s ten trends to watch in 20…",
+      "title": "The next stop for Europe’s failed asylum…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/tom-standages-ten-trends-to-watch-in-2027",
+      "intro": "原文：https://www.economist.com/europe/2026/11/17/the-next-stop-for-europes-failed-asylum-seekers-rwanda",
       "sentences": [
-        "Tom Standage’s ten trends to watch in 2027.",
-        "A letter from the editor of The World Ahead"
+        "The next stop for Europe’s failed asylum-seekers: Rwanda.",
+        "The plan is the latest sign of hardening migration policy across the continent"
       ],
       "vocab": [
         {
-          "w": "standage",
+          "w": "asylum-seekers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hardening",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "migration",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "continent",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/tom-standages-ten-trends-to-watch-in-2027",
+      "link": "https://www.economist.com/europe/2026/11/17/the-next-stop-for-europes-failed-asylum-seekers-rwanda",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "Trump Inc is in free fall",
+      "title": "The decline of Nelson Mandela’s party",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/17/the-decline-of-nelson-mandelas-party",
       "sentences": [
-        "Trump Inc is in free fall.",
-        "Investors are souring on anything with ties to the president and his family"
+        "The decline of Nelson Mandela’s party.",
+        "A handpicked article read aloud from the latest issue of The Economist"
       ],
       "vocab": [
         {
-          "w": "investors",
+          "w": "decline",
           "cn": "（查词典）"
         },
         {
-          "w": "souring",
+          "w": "mandela",
           "cn": "（查词典）"
         },
         {
-          "w": "anything",
+          "w": "handpicked",
           "cn": "（查词典）"
         },
         {
-          "w": "president",
+          "w": "article",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economist",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+      "link": "https://www.economist.com/podcasts/2026/11/17/the-decline-of-nelson-mandelas-party",
       "audio": ""
     }
   ]

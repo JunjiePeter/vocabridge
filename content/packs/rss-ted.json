@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-17",
+  "name": "TED Talks · Daily · 2026-11-18",
   "type": "passage",
-  "generatedAt": "2026-11-17T02:27:22.913Z",
+  "generatedAt": "2026-11-18T02:25:44.347Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "My search for proof aliens exist | Avi L…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/AviLoeb",
+      "sentences": [
+        "Why have we not yet found proof of alien life?",
+        "According to astrophysicist Avi Loeb, we simply haven't dedicated the proper resources.",
+        "Diving into unidentified phenomena such as the Oumuamua asteroid, he explores his scientific search for extraterrestrial technology, envisioning a future where a higher interstellar intelligence helps us improve life here on Earth.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "astrophysicist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "haven't",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dedicated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "resources",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unidentified",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "phenomena",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/AviLoeb",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afb5767f1fb73f380bc6633/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "What you hear when you stop talking | Jo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +91,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af7358772c084b0516a29b5/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "Sunday Pick: How to challenge your self-…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -91,7 +134,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee1ada1ad1a30ae5d0bb39/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "The digital detectives preserving the tr…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -135,7 +178,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Could this ancient Greek idea make us be…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -178,7 +221,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "How we’ll actually ditch fossil fuels — …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -220,48 +263,6 @@
       ],
       "link": "http://go.ted.com/michaelliebreich",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5e8e843d8776fbbb21b34/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "How to repair harm — in relationships an…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/ariaflorant",
-      "sentences": [
-        "Aria Florant cofounded a nonprofit to help accelerate the reparations movement in the US … but less than a year in, her partnership with her own cofounder fell apart.",
-        "Most people think reparations are all about money, she says, but true repair goes far beyond the financial.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "accelerate",
-          "cn": "加速"
-        },
-        {
-          "w": "florant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cofounded",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "nonprofit",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reparations",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "movement",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/ariaflorant",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af38974ac84158342c9ed3d/media.mp3"
     }
   ]
 }
