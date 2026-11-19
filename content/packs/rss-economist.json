@@ -1,153 +1,312 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-18",
+  "name": "The Economist · Latest · 2026-11-19",
   "type": "passage",
-  "generatedAt": "2026-11-18T02:25:43.842Z",
+  "generatedAt": "2026-11-19T02:24:33.246Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Jensen Huang’s departure will cause last…",
+      "title": "Corporate spin-offs are getting out of c…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
+      "intro": "原文：https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
       "sentences": [
-        "Jensen Huang’s departure will cause lasting damage to Nvidia.",
-        "The full toll will only become clear with time"
+        "Corporate spin-offs are getting out of control.",
+        "Some are enormously successful, but certainly not all"
       ],
       "vocab": [
         {
-          "w": "departure",
+          "w": "corporate",
           "cn": "（查词典）"
         },
         {
-          "w": "lasting",
+          "w": "spin-offs",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "getting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "control",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "enormously",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "successful",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
+      "link": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Why startups still go public, eventually",
+      "title": "Meet the European Central Bank’s new squ…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
       "sentences": [
-        "Why startups still go public, eventually.",
-        "Costly regulation is not a big deterrent to IPOs"
+        "Meet the European Central Bank’s new squad.",
+        "A Spaniard, a German and a Frenchwoman"
       ],
       "vocab": [
         {
-          "w": "startups",
+          "w": "european",
           "cn": "（查词典）"
         },
         {
-          "w": "eventually",
+          "w": "central",
           "cn": "（查词典）"
         },
         {
-          "w": "regulation",
+          "w": "spaniard",
           "cn": "（查词典）"
         },
         {
-          "w": "deterrent",
+          "w": "frenchwoman",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
       "audio": ""
     },
     {
       "id": "rss-economist-3",
-      "title": "Middle East Dispatch: Where is Gaza’s bo…",
+      "title": "“Grand Theft Auto VI” may mark the end o…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/17/middle-east-dispatch-where-is-gazas-board-of-peace",
+      "intro": "原文：https://www.economist.com/culture/2026/11/18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming",
       "sentences": [
-        "Middle East Dispatch: Where is Gaza’s board of peace?.",
-        "Nick Pelham, our Middle East correspondent, on Gaza’s stalled reconstruction"
+        "“Grand Theft Auto VI” may mark the end of an era in gaming.",
+        "Studios face shrinking incentives to make top-tier titles"
       ],
       "vocab": [
         {
-          "w": "dispatch",
+          "w": "studios",
           "cn": "（查词典）"
         },
         {
-          "w": "correspondent",
+          "w": "shrinking",
           "cn": "（查词典）"
         },
         {
-          "w": "stalled",
+          "w": "incentives",
           "cn": "（查词典）"
         },
         {
-          "w": "reconstruction",
+          "w": "top-tier",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/middle-east-dispatch-where-is-gazas-board-of-peace",
+      "link": "https://www.economist.com/culture/2026/11/18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming",
       "audio": ""
     },
     {
       "id": "rss-economist-4",
-      "title": "Does Donald Trump care about the economy…",
+      "title": "America must get serious about Chinese c…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+      "intro": "原文：https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
       "sentences": [
-        "Does Donald Trump care about the economy?.",
-        "His economic advisers have gone missing after a bruising midterm defeat"
+        "America must get serious about Chinese chip spying.",
+        "The Jensen Huang affair exposes an AI underworld"
       ],
       "vocab": [
         {
-          "w": "economy",
+          "w": "america",
           "cn": "（查词典）"
         },
         {
-          "w": "economic",
+          "w": "serious",
           "cn": "（查词典）"
         },
         {
-          "w": "advisers",
+          "w": "chinese",
           "cn": "（查词典）"
         },
         {
-          "w": "missing",
+          "w": "exposes",
           "cn": "（查词典）"
         },
         {
-          "w": "bruising",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterm",
+          "w": "underworld",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+      "link": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
       "audio": ""
     },
     {
       "id": "rss-economist-5",
-      "title": "What hit podcasts reveal about China’s y…",
+      "title": "The return of measles in America",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/17/what-hit-podcasts-reveal-about-chinas-youth",
+      "intro": "原文：https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
       "sentences": [
-        "Our weekly podcast on China.",
-        "This week, podcasts are becoming a source of guidance for gloomy youngsters.",
-        "How long will it last?"
+        "The return of measles in America.",
+        "Reversing an absurd, unnecessary failure will be expensive and slow"
+      ],
+      "vocab": [
+        {
+          "w": "measles",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reversing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unnecessary",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "failure",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expensive",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "LLMs are developing filthy mouths",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths",
+      "sentences": [
+        "LLMs are developing filthy mouths.",
+        "More challenging tasks may be to blame"
+      ],
+      "vocab": [
+        {
+          "w": "developing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "challenging",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Some grasshoppers fly like butterflies t…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/18/some-grasshoppers-fly-like-butterflies-to-mislead-predators",
+      "sentences": [
+        "Some grasshoppers fly like butterflies to mislead predators.",
+        "It is a rare example of motion-related mimicry"
+      ],
+      "vocab": [
+        {
+          "w": "grasshoppers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "butterflies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mislead",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "predators",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "example",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "motion-related",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/18/some-grasshoppers-fly-like-butterflies-to-mislead-predators",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "America has slashed funding for biomedic…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/18/america-has-slashed-funding-for-biomedical-science-abroad",
+      "sentences": [
+        "America has slashed funding for biomedical science abroad.",
+        "It has also weakened oversight of how future grants are spent"
+      ],
+      "vocab": [
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "slashed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "funding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biomedical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "science",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weakened",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/18/america-has-slashed-funding-for-biomedical-science-abroad",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "The technologies that will define 2027",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/18/the-technologies-that-will-define-2027",
+      "sentences": [
+        "Our podcast on science and technology.",
+        "This week, our correspondents make their predictions for the coming year"
       ],
       "vocab": [
         {
@@ -155,286 +314,138 @@
           "cn": "（查词典）"
         },
         {
-          "w": "podcasts",
+          "w": "science",
           "cn": "（查词典）"
         },
         {
-          "w": "becoming",
+          "w": "technology",
           "cn": "（查词典）"
         },
         {
-          "w": "guidance",
+          "w": "correspondents",
           "cn": "（查词典）"
         },
         {
-          "w": "youngsters",
+          "w": "predictions",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/17/what-hit-podcasts-reveal-about-chinas-youth",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "The incredible shrinking legacy of Donal…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
-      "sentences": [
-        "The incredible shrinking legacy of Donald J Trump.",
-        "A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America"
-      ],
-      "vocab": [
-        {
-          "w": "diminish",
-          "cn": "减少"
-        },
-        {
-          "w": "incredible",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shrinking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "three-way",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vladimir",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jinping",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Climate change is making some African de…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
-      "sentences": [
-        "Climate change is making some African deserts greener.",
-        "That could help farmers but will also bring dangerous floods"
-      ],
-      "vocab": [
-        {
-          "w": "climate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "african",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "deserts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "greener",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "farmers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dangerous",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Analysing Africa newsletter: Why Kenya’s…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/middle-east-and-africa/2026/11/17/analysing-africa-newsletter-why-kenyas-rift-valley-is-underwater",
-      "sentences": [
-        "Analysing Africa newsletter: Why Kenya’s Rift Valley is underwater.",
-        "Tom Gardner, our Africa correspondent, on the mystery of Kenya’s rising lakes"
-      ],
-      "vocab": [
-        {
-          "w": "analysing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "newsletter",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "underwater",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "gardner",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "correspondent",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mystery",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/analysing-africa-newsletter-why-kenyas-rift-valley-is-underwater",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "Audiences are sick of movie franchises",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/17/audiences-are-sick-of-movie-franchises",
-      "sentences": [
-        "Audiences are sick of movie franchises.",
-        "But a shrinking box office is giving producers more incentives to make them anyway"
-      ],
-      "vocab": [
-        {
-          "w": "audiences",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "franchises",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shrinking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "producers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "incentives",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/17/audiences-are-sick-of-movie-franchises",
+      "link": "https://www.economist.com/podcasts/2026/11/18/the-technologies-that-will-define-2027",
       "audio": ""
     },
     {
       "id": "rss-economist-10",
-      "title": "Asia Bulletin newsletter: Xi, Trump, Put…",
+      "title": "Muslims may outnumber Christians by 2035",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
+      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/18/muslims-may-outnumber-christians-by-2035",
       "sentences": [
-        "Asia Bulletin newsletter: Xi, Trump, Putin and a theme park.",
-        "Jeremy Page, Chief China correspondent, on why Shenzhen is China’s window on the world"
+        "Muslims may outnumber Christians by 2035.",
+        "But new projections show inflammatory talk of a takeover is bunk"
       ],
       "vocab": [
         {
-          "w": "bulletin",
+          "w": "muslims",
           "cn": "（查词典）"
         },
         {
-          "w": "newsletter",
+          "w": "outnumber",
           "cn": "（查词典）"
         },
         {
-          "w": "correspondent",
+          "w": "christians",
           "cn": "（查词典）"
         },
         {
-          "w": "shenzhen",
+          "w": "projections",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "inflammatory",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "takeover",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
+      "link": "https://www.economist.com/graphic-detail/2026/11/18/muslims-may-outnumber-christians-by-2035",
       "audio": ""
     },
     {
       "id": "rss-economist-11",
-      "title": "The next stop for Europe’s failed asylum…",
+      "title": "Just how central should one person be to…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/europe/2026/11/17/the-next-stop-for-europes-failed-asylum-seekers-rwanda",
+      "intro": "原文：https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
       "sentences": [
-        "The next stop for Europe’s failed asylum-seekers: Rwanda.",
-        "The plan is the latest sign of hardening migration policy across the continent"
+        "Just how central should one person be to an organisation?.",
+        "From founder mode to bounder mode"
       ],
       "vocab": [
         {
-          "w": "asylum-seekers",
+          "w": "central",
           "cn": "（查词典）"
         },
         {
-          "w": "hardening",
+          "w": "organisation",
           "cn": "（查词典）"
         },
         {
-          "w": "migration",
+          "w": "founder",
           "cn": "（查词典）"
         },
         {
-          "w": "continent",
+          "w": "bounder",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/europe/2026/11/17/the-next-stop-for-europes-failed-asylum-seekers-rwanda",
+      "link": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
       "audio": ""
     },
     {
       "id": "rss-economist-12",
-      "title": "The decline of Nelson Mandela’s party",
+      "title": "Ten business trends for 2027, and foreca…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/17/the-decline-of-nelson-mandelas-party",
+      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/18/ten-business-trends-for-2027-and-forecasts-for-16-industries",
       "sentences": [
-        "The decline of Nelson Mandela’s party.",
-        "A handpicked article read aloud from the latest issue of The Economist"
+        "Ten business trends for 2027, and forecasts for 16 industries.",
+        "A global round-up from The Economist Intelligence Unit"
       ],
       "vocab": [
         {
-          "w": "decline",
+          "w": "business",
           "cn": "（查词典）"
         },
         {
-          "w": "mandela",
+          "w": "forecasts",
           "cn": "（查词典）"
         },
         {
-          "w": "handpicked",
+          "w": "industries",
           "cn": "（查词典）"
         },
         {
-          "w": "article",
+          "w": "round-up",
           "cn": "（查词典）"
         },
         {
           "w": "economist",
           "cn": "（查词典）"
+        },
+        {
+          "w": "intelligence",
+          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/podcasts/2026/11/17/the-decline-of-nelson-mandelas-party",
+      "link": "https://www.economist.com/the-world-ahead/2026/11/18/ten-business-trends-for-2027-and-forecasts-for-16-industries",
       "audio": ""
     }
   ]

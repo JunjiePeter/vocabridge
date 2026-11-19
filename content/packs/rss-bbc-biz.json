@@ -1,192 +1,196 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-18",
+  "name": "BBC News · Business · 2026-11-19",
   "type": "passage",
-  "generatedAt": "2026-11-18T02:25:43.679Z",
+  "generatedAt": "2026-11-19T02:24:33.107Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Nvidia says it won't reinstate Huang as …",
+      "title": "Claude-maker Anthropic poised for stock …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Nvidia says it won't reinstate Huang as firm reports bumper results.",
-        "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+        "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn.",
+        "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
       ],
       "vocab": [
         {
-          "w": "reinstate",
+          "w": "claude-maker",
           "cn": "（查词典）"
         },
         {
-          "w": "reports",
+          "w": "anthropic",
           "cn": "（查词典）"
         },
         {
-          "w": "results",
+          "w": "started",
           "cn": "（查词典）"
         },
         {
-          "w": "reported",
+          "w": "biggest",
           "cn": "（查词典）"
         },
         {
-          "w": "quarterly",
+          "w": "artificial",
           "cn": "（查词典）"
         },
         {
-          "w": "earnings",
+          "w": "intelligence",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-2",
-      "title": "Jensen Huang says he would be 'honoured'…",
+      "title": "Can Anthropic's record-breaking IPO stop…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him.",
-        "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
+        "Can Anthropic's record-breaking IPO stop the AI bubble bursting?.",
+        "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
       ],
       "vocab": [
         {
-          "w": "'honoured'",
+          "w": "anthropic's",
           "cn": "（查词典）"
         },
         {
-          "w": "outpouring",
+          "w": "record-breaking",
           "cn": "（查词典）"
         },
         {
-          "w": "investors",
+          "w": "bursting",
           "cn": "（查词典）"
         },
         {
-          "w": "calling",
+          "w": "anticipated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "valuable",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-3",
-      "title": "Government backs welfare shake-up to pre…",
+      "title": "The seven Anthropic founders who are abo…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Government backs welfare shake-up to prevent 'lost generation'.",
-        "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support."
+        "The seven Anthropic founders who are about to become multi-billionaires.",
+        "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
       ],
       "vocab": [
         {
-          "w": "welfare",
-          "cn": "福利"
-        },
-        {
-          "w": "benefits",
-          "cn": "福利"
-        },
-        {
-          "w": "government",
+          "w": "anthropic",
           "cn": "（查词典）"
         },
         {
-          "w": "shake-up",
+          "w": "founders",
           "cn": "（查词典）"
         },
         {
-          "w": "prevent",
+          "w": "multi-billionaires",
           "cn": "（查词典）"
         },
         {
-          "w": "generation'",
+          "w": "company",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-4",
-      "title": "We can't afford to hire under-25s, say f…",
+      "title": "Elon Musk says record spending on US mid…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "We can't afford to hire under-25s, say firms.",
-        "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says."
+        "Elon Musk says record spending on US midterms was 'pretty foolish'.",
+        "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
       ],
       "vocab": [
         {
-          "w": "proposal",
+          "w": "spending",
           "cn": "（查词典）"
         },
         {
-          "w": "employers'",
+          "w": "midterms",
           "cn": "（查词典）"
         },
         {
-          "w": "national",
+          "w": "'pretty",
           "cn": "（查词典）"
         },
         {
-          "w": "insurance",
+          "w": "foolish'",
           "cn": "（查词典）"
         },
         {
-          "w": "essential",
+          "w": "multi-billionaire",
           "cn": "（查词典）"
         },
         {
-          "w": "tackling",
+          "w": "distancing",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-5",
-      "title": "Where are the most jobs for 18-24 year-o…",
+      "title": "McDonald's sex abuse: 'They were waiting…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Where are the most jobs for 18-24 year-olds?.",
-        "How many jobs are there where you live and in which sectors are you most likely to find an opening?"
+        "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'.",
+        "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead."
       ],
       "vocab": [
         {
-          "w": "year-olds",
+          "w": "mcdonald's",
           "cn": "（查词典）"
         },
         {
-          "w": "sectors",
+          "w": "waiting",
           "cn": "（查词典）"
         },
         {
-          "w": "opening",
+          "w": "younger",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "employees",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
@@ -220,236 +224,232 @@
     },
     {
       "id": "rss-bbc-biz-7",
-      "title": "Speed camera fault may have allowed driv…",
+      "title": "Gilts v kilts: What is happening with Sc…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Speed camera fault may have allowed drivers to escape fines.",
-        "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence."
+        "Gilts v kilts: What is happening with Scottish government bonds?.",
+        "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?"
       ],
       "vocab": [
         {
-          "w": "allowed",
+          "w": "happening",
           "cn": "（查词典）"
         },
         {
-          "w": "drivers",
+          "w": "scottish",
           "cn": "（查词典）"
         },
         {
-          "w": "revoked",
+          "w": "government",
           "cn": "（查词典）"
         },
         {
-          "w": "approval",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "footage",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "cameras",
+          "w": "government's",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-8",
-      "title": "We couldn't afford a house alone, so we …",
+      "title": "Why has Waymo pulled all its driverless …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "We couldn't afford a house alone, so we bought one with strangers.",
-        "People who can't afford to get on the housing ladder are buying homes with someone they don't know."
+        "Why has Waymo pulled all its driverless cars from US freeways?.",
+        "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles."
       ],
       "vocab": [
         {
-          "w": "couldn't",
+          "w": "driverless",
           "cn": "（查词典）"
         },
         {
-          "w": "strangers",
+          "w": "freeways",
           "cn": "（查词典）"
         },
         {
-          "w": "housing",
+          "w": "vehicles",
           "cn": "（查词典）"
         },
         {
-          "w": "someone",
+          "w": "currently",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "operate",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "freeway",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-9",
-      "title": "How new US chip restrictions on South Ea…",
+      "title": "Typical energy bill forecast to go up by…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "How new US chip restrictions on South East Asia will hit China.",
-        "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."
+        "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again.",
+        "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year."
       ],
       "vocab": [
         {
-          "w": "restrict",
-          "cn": "限制"
-        },
-        {
-          "w": "restrictions",
+          "w": "typical",
           "cn": "（查词典）"
         },
         {
-          "w": "exports",
+          "w": "forecast",
           "cn": "（查词典）"
         },
         {
-          "w": "computing",
+          "w": "january",
           "cn": "（查词典）"
         },
         {
-          "w": "heavily",
+          "w": "inflation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "household",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-10",
-      "title": "US government confirms investigation int…",
+      "title": "Heating bills, chocolate and cat food: W…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "US government confirms investigation into tech firm Megaspeed.",
-        "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
+        "Heating bills, chocolate and cat food: What the inflation figures mean for you.",
+        "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way."
       ],
       "vocab": [
         {
-          "w": "government",
+          "w": "heating",
           "cn": "（查词典）"
         },
         {
-          "w": "confirms",
+          "w": "chocolate",
           "cn": "（查词典）"
         },
         {
-          "w": "investigation",
+          "w": "inflation",
           "cn": "（查词典）"
         },
         {
-          "w": "megaspeed",
+          "w": "figures",
           "cn": "（查词典）"
         },
         {
-          "w": "singapore-based",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
+          "w": "fastest",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-11",
-      "title": "Government must act now or lose Royal Ma…",
+      "title": "Nvidia says it won't reinstate Huang as …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Government must act now or lose Royal Mail, former minister warns.",
-        "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\"."
+        "Nvidia says it won't reinstate Huang as it reports soaring sales.",
+        "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
       ],
       "vocab": [
         {
-          "w": "government",
+          "w": "reinstate",
           "cn": "（查词典）"
         },
         {
-          "w": "minister",
+          "w": "reports",
           "cn": "（查词典）"
         },
         {
-          "w": "business",
+          "w": "soaring",
           "cn": "（查词典）"
         },
         {
-          "w": "secretary",
+          "w": "reported",
           "cn": "（查词典）"
         },
         {
-          "w": "undercutting",
+          "w": "quarterly",
           "cn": "（查词典）"
         },
         {
-          "w": "unviable",
+          "w": "earnings",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-12",
-      "title": "OpenAI sued by California over Hugging F…",
+      "title": "How important are Nvidia and Jensen Huan…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "OpenAI sued by California over Hugging Face attack.",
-        "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public."
+        "How important are Nvidia and Jensen Huang to the US economy?.",
+        "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
       ],
       "vocab": [
         {
-          "w": "california",
+          "w": "important",
           "cn": "（查词典）"
         },
         {
-          "w": "hugging",
+          "w": "economy",
           "cn": "（查词典）"
         },
         {
-          "w": "attorney",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "general",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleges",
+          "w": "executive",
           "cn": "（查词典）"
         },
         {
           "w": "artificial",
           "cn": "（查词典）"
+        },
+        {
+          "w": "intelligence",
+          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

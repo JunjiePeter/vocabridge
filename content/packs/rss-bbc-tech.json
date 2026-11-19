@@ -1,11 +1,401 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-18",
+  "name": "BBC News · Technology · 2026-11-19",
   "type": "passage",
-  "generatedAt": "2026-11-18T02:25:43.657Z",
+  "generatedAt": "2026-11-19T02:24:33.089Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
+      "title": "Claude-maker Anthropic poised for stock …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn.",
+        "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
+      ],
+      "vocab": [
+        {
+          "w": "claude-maker",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "started",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "artificial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "intelligence",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Elon Musk says record spending on US mid…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Elon Musk says record spending on US midterms was 'pretty foolish'.",
+        "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
+      ],
+      "vocab": [
+        {
+          "w": "spending",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "midterms",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'pretty",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "foolish'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "multi-billionaire",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "distancing",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "The seven Anthropic founders who are abo…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "The seven Anthropic founders who are about to become multi-billionaires.",
+        "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+      ],
+      "vocab": [
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "founders",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "multi-billionaires",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "Grand Theft Auto 6 is a masterpiece, say…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Grand Theft Auto 6 is a masterpiece, say critics.",
+        "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
+      ],
+      "vocab": [
+        {
+          "w": "masterpiece",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "critics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "whether",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anticipated",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "Hacks, AI or just overdue updates - why …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Hacks, AI or just overdue updates - why have there been so many outages?.",
+        "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving."
+      ],
+      "vocab": [
+        {
+          "w": "overdue",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "updates",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outages",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "evidence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "constant",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "disruptions",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-6",
+      "title": "British hacker who stole $11m through te…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "British hacker who stole $11m through text message scheme jailed for six years in US.",
+        "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager."
+      ],
+      "vocab": [
+        {
+          "w": "british",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "message",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "buchanan",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "notorious",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "scattered",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hacking",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-7",
+      "title": "Security flaw found in Java, world's thi…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Security flaw found in Java, world's third-largest programming language.",
+        "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
+      ],
+      "vocab": [
+        {
+          "w": "security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "world's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "third-largest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "programming",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "language",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "start-up",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-8",
+      "title": "How important are Nvidia and Jensen Huan…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "How important are Nvidia and Jensen Huang to the US economy?.",
+        "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
+      ],
+      "vocab": [
+        {
+          "w": "important",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "executive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "artificial",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "intelligence",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-9",
+      "title": "Watch: Marco Rubio says recent tech outa…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another.",
+        "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches."
+      ],
+      "vocab": [
+        {
+          "w": "outages",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "'completely",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unrelated'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "another",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "microsoft",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "traffic",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-10",
+      "title": "Waymo pulls driverless taxis from all US…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Waymo pulls driverless taxis from all US freeways.",
+        "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
+      ],
+      "vocab": [
+        {
+          "w": "driverless",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "freeways",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "decision",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "california",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "waymo's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vehicles",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-11",
       "title": "Nvidia says it won't reinstate Huang as …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -13,7 +403,7 @@
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Nvidia says it won't reinstate Huang as firm reports bumper results.",
+        "Nvidia says it won't reinstate Huang as it reports soaring sales.",
         "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
       ],
       "vocab": [
@@ -26,7 +416,7 @@
           "cn": "（查词典）"
         },
         {
-          "w": "results",
+          "w": "soaring",
           "cn": "（查词典）"
         },
         {
@@ -46,7 +436,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-12",
       "title": "Europe plans to catch the next computer …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -72,396 +462,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-3",
-      "title": "How new US chip restrictions on South Ea…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How new US chip restrictions on South East Asia will hit China.",
-        "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."
-      ],
-      "vocab": [
-        {
-          "w": "restrict",
-          "cn": "限制"
-        },
-        {
-          "w": "restrictions",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "computing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "heavily",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-4",
-      "title": "NHS data contract to stay with Palantir …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "NHS data contract to stay with Palantir until 2029.",
-        "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029."
-      ],
-      "vocab": [
-        {
-          "w": "contract",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "palantir",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "despite",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "arrangement",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ministers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "awarded",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-5",
-      "title": "Pretending to be in New Zealand, booking…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6.",
-        "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox"
-      ],
-      "vocab": [
-        {
-          "w": "pretending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "zealand",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "booking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "consoles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lengths",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "estimates",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-6",
-      "title": "US government confirms investigation int…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "US government confirms investigation into tech firm Megaspeed.",
-        "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
-      ],
-      "vocab": [
-        {
-          "w": "government",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "confirms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "megaspeed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "singapore-based",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-7",
-      "title": "'We're a capitalist society': Grindr def…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'We're a capitalist society': Grindr defends $120 a month premium tier.",
-        "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future."
-      ],
-      "vocab": [
-        {
-          "w": "capitalist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "society'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "defends",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "premium",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ultra-premium",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "service",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-8",
-      "title": "Nvidia dismisses 'Bring Jensen Back' cam…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss.",
-        "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
-      ],
-      "vocab": [
-        {
-          "w": "dismisses",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "campaign",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reinstate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "figures",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-9",
-      "title": "The AI start-ups fixing India's broken r…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The AI start-ups fixing India's broken roads and messy land records.",
-        "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges."
-      ],
-      "vocab": [
-        {
-          "w": "start-ups",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "india's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "records",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "legal-tech",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "healthcare",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "solving",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "OpenAI sued by California over Hugging F…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "OpenAI sued by California over Hugging Face attack.",
-        "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public."
-      ],
-      "vocab": [
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hugging",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "attorney",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "general",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "alleges",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "artificial",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "GTA 6 hacker pleads guilty after release…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "GTA 6 hacker pleads guilty after release from secure hospital.",
-        "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."
-      ],
-      "vocab": [
-        {
-          "w": "release",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hospital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "-year-old",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "pleaded",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rockstar",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "carried",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Intel sued by investors after PC sales s…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Intel sued by investors after PC sales slump hits share price.",
-        "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders."
-      ],
-      "vocab": [
-        {
-          "w": "investors",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "proposed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "slowing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shareholders",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
