@@ -1,44 +1,204 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-19",
+  "name": "BBC News · Technology · 2026-11-20",
   "type": "passage",
-  "generatedAt": "2026-11-19T02:24:33.089Z",
+  "generatedAt": "2026-11-20T02:26:06.782Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "Claude-maker Anthropic poised for stock …",
+      "title": "GTA 6 breaks records as sales top $2bn -…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "GTA 6 breaks records as sales top $2bn - industry estimate.",
+        "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
+      ],
+      "vocab": [
+        {
+          "w": "estimate",
+          "cn": "估计"
+        },
+        {
+          "w": "records",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "industry",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rockstar",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biggest",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "Tens of thousands of UK fridges secured …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Tens of thousands of UK fridges secured from hackers in secret nationwide operation.",
+        "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe."
+      ],
+      "vocab": [
+        {
+          "w": "thousands",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "fridges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "secured",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "hackers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "nationwide",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "operation",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "Anthropic becomes one of world's most va…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Anthropic becomes one of world's most valuable public companies in stock market debut.",
+        "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+      ],
+      "vocab": [
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "becomes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "world's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "valuable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "companies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-4",
+      "title": "Dutch watchdog tells people not to buy A…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Dutch watchdog tells people not to buy AI smart glasses.",
+        "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance"
+      ],
+      "vocab": [
+        {
+          "w": "watchdog",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "glasses",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "misread",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "medicine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "instructions",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pretended",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "Anthropic raises $81bn in record-breakin…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn.",
-        "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
+        "Anthropic raises $81bn in record-breaking stock market debut.",
+        "The company behind the Claude chatbot will become one of the most valuable firms in the world."
       ],
       "vocab": [
-        {
-          "w": "claude-maker",
-          "cn": "（查词典）"
-        },
         {
           "w": "anthropic",
           "cn": "（查词典）"
         },
         {
-          "w": "started",
+          "w": "record-breaking",
           "cn": "（查词典）"
         },
         {
-          "w": "biggest",
+          "w": "company",
           "cn": "（查词典）"
         },
         {
-          "w": "artificial",
+          "w": "chatbot",
           "cn": "（查词典）"
         },
         {
-          "w": "intelligence",
+          "w": "valuable",
           "cn": "（查词典）"
         }
       ],
@@ -46,15 +206,56 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
-      "title": "Elon Musk says record spending on US mid…",
+      "id": "rss-bbc-tech-6",
+      "title": "UK joins in GTA 6 frenzy as game becomes…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "UK joins in GTA 6 frenzy as game becomes available worldwide.",
+        "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever."
+      ],
+      "vocab": [
+        {
+          "w": "becomes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "available",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "worldwide",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "development",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "world's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "popular",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-7",
+      "title": "Elon Musk says record $446m spending on …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Elon Musk says record spending on US midterms was 'pretty foolish'.",
+        "Elon Musk says record $446m spending on US midterms was 'pretty foolish'.",
         "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
       ],
       "vocab": [
@@ -87,7 +288,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-8",
       "title": "The seven Anthropic founders who are abo…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -120,7 +321,48 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-9",
+      "title": "Simon Jack: Can Anthropic's record-break…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?.",
+        "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
+      ],
+      "vocab": [
+        {
+          "w": "anthropic's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "record-breaking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "bursting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anticipated",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "valuable",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-10",
       "title": "Grand Theft Auto 6 is a masterpiece, say…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -153,7 +395,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-11",
       "title": "Hacks, AI or just overdue updates - why …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -194,7 +436,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-12",
       "title": "British hacker who stole $11m through te…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -232,236 +474,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-7",
-      "title": "Security flaw found in Java, world's thi…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Security flaw found in Java, world's third-largest programming language.",
-        "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
-      ],
-      "vocab": [
-        {
-          "w": "security",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "world's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "third-largest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "programming",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "language",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "start-up",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-8",
-      "title": "How important are Nvidia and Jensen Huan…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "How important are Nvidia and Jensen Huang to the US economy?.",
-        "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
-      ],
-      "vocab": [
-        {
-          "w": "important",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economy",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "executive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "artificial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "intelligence",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-9",
-      "title": "Watch: Marco Rubio says recent tech outa…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another.",
-        "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches."
-      ],
-      "vocab": [
-        {
-          "w": "outages",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'completely",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unrelated'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "another",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "microsoft",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "traffic",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Waymo pulls driverless taxis from all US…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Waymo pulls driverless taxis from all US freeways.",
-        "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
-      ],
-      "vocab": [
-        {
-          "w": "driverless",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "freeways",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "decision",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "california",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "waymo's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vehicles",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Nvidia says it won't reinstate Huang as …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Nvidia says it won't reinstate Huang as it reports soaring sales.",
-        "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
-      ],
-      "vocab": [
-        {
-          "w": "reinstate",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reports",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "soaring",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reported",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "quarterly",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "earnings",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "Europe plans to catch the next computer …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Europe plans to catch the next computer chip wave.",
-        "Europe hopes to be a leader in a new generation of computer chips which use light to process data."
-      ],
-      "vocab": [
-        {
-          "w": "computer",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "generation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "process",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

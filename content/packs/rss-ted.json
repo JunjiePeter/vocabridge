@@ -1,11 +1,53 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-19",
+  "name": "TED Talks · Daily · 2026-11-20",
   "type": "passage",
-  "generatedAt": "2026-11-19T02:24:33.708Z",
+  "generatedAt": "2026-11-20T02:26:07.725Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "A letter to the end of time | Lau Noah",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/launoah",
+      "sentences": [
+        "You’ve likely never met composer Lau Noah, but she has a wish for you: that someday you’ll look back on your life and feel at peace.",
+        "In a soulful performance that’s part concert, part story hour, she weaves together songs and short fables that celebrate love, friendship and the natural world.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "composer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "someday",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "soulful",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "performance",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "concert",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "together",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/launoah",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aff1debc1a867006b449928/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "The “godfather of AI” on the risks that …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -48,7 +90,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afc7f5d22c8b5ded545df81/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "My search for proof aliens exist | Avi L…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -91,7 +133,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afb5767f1fb73f380bc6633/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "What you hear when you stop talking | Jo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -134,7 +176,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af7358772c084b0516a29b5/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "Sunday Pick: How to challenge your self-…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -177,7 +219,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee1ada1ad1a30ae5d0bb39/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "The digital detectives preserving the tr…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -219,49 +261,6 @@
       ],
       "link": "http://go.ted.com/hadialkhatib",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "Could this ancient Greek idea make us be…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/ScottReich",
-      "sentences": [
-        "More than 2,000 years ago in ancient Athens, young citizens were required to complete “ephebeia,” a two-year civic service program that taught them the laws of the city and how to defend their democracy.",
-        "Author and historian Scott Reich believes this practice reflects something crucial we often forget: citizens aren’t born — they’re trained.",
-        "In a hopeful talk, he shares his plan to bring a modern version of this program to the United States and explains why it could benefit everyone.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "crucial",
-          "cn": "至关重要的"
-        },
-        {
-          "w": "ancient",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "citizens",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "required",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "complete",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ephebeia",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/ScottReich",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f82c43d8776fbbb21b35/media.mp3"
     }
   ]
 }

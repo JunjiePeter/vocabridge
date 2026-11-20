@@ -1,410 +1,147 @@
 {
   "id": "rss-bbc-news",
-  "name": "BBC News · Top Stories · 2026-11-19",
+  "name": "BBC News · Top Stories · 2026-11-20",
   "type": "passage",
-  "generatedAt": "2026-11-19T02:24:33.071Z",
+  "generatedAt": "2026-11-20T02:26:06.652Z",
   "items": [
     {
       "id": "rss-bbc-news-1",
-      "title": "Inside the old gas pipeline where Ukrain…",
+      "title": "Woman drugged and advertised for sex by …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia.",
-        "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+        "Woman drugged and advertised for sex by husband speaks out as abusers found guilty.",
+        "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\"."
       ],
       "vocab": [
         {
-          "w": "pipeline",
+          "w": "drugged",
           "cn": "（查词典）"
         },
         {
-          "w": "ukraine",
+          "w": "advertised",
           "cn": "（查词典）"
         },
         {
-          "w": "fighting",
+          "w": "husband",
           "cn": "（查词典）"
         },
         {
-          "w": "underground",
+          "w": "abusers",
           "cn": "（查词典）"
         },
         {
-          "w": "jonathan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "ukrainian",
+          "w": "actions",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-news-2",
-      "title": "McDonald's sex abuse: 'They were waiting…",
+      "title": "Tens of thousands of UK fridges secured …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'.",
-        "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead."
+        "Tens of thousands of UK fridges secured from hackers in secret nationwide operation.",
+        "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe."
       ],
       "vocab": [
         {
-          "w": "mcdonald's",
+          "w": "thousands",
           "cn": "（查词典）"
         },
         {
-          "w": "waiting",
+          "w": "fridges",
           "cn": "（查词典）"
         },
         {
-          "w": "younger",
+          "w": "secured",
           "cn": "（查词典）"
         },
         {
-          "w": "employees",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-3",
-      "title": "'Feudal' leasehold system set to be scra…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "'Feudal' leasehold system set to be scrapped in England and Wales.",
-        "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250."
-      ],
-      "vocab": [
-        {
-          "w": "'feudal'",
+          "w": "hackers",
           "cn": "（查词典）"
         },
         {
-          "w": "leasehold",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scrapped",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "england",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "proposed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "commonhold",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-4",
-      "title": "Claude-maker Anthropic poised for stock …",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn.",
-        "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
-      ],
-      "vocab": [
-        {
-          "w": "claude-maker",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anthropic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "started",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biggest",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "artificial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "intelligence",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-5",
-      "title": "Crew unaware of risks before Bayesian ya…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Crew unaware of risks before Bayesian yacht accident, say investigators.",
-        "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch."
-      ],
-      "vocab": [
-        {
-          "w": "unaware",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bayesian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "accident",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigators",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "northern",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "killing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-6",
-      "title": "Prince Harry says he would rejoin army a…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Prince Harry says he would rejoin army as he warns of Russia threat.",
-        "The Duke of Sussex thought people should be ready to serve again for their country if needed."
-      ],
-      "vocab": [
-        {
-          "w": "thought",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "country",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-7",
-      "title": "Gamers react as New Zealand first to see…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/videos/cmg4652xzexvo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Gamers react as New Zealand first to see Grand Theft Auto 6.",
-        "The new game has now been launched in New Zealand with countries around the world set to be able to download it from midnight local time."
-      ],
-      "vocab": [
-        {
-          "w": "zealand",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "launched",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "countries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "download",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midnight",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/videos/cmg4652xzexvo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-8",
-      "title": "William and Kate meet PM Modi as they wr…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "William and Kate meet PM Modi as they wrap up India tour.",
-        "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
-      ],
-      "vocab": [
-        {
-          "w": "william",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "meeting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "addition",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "couple's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "included",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "appearance",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-news-9",
-      "title": "Israeli military launches rare ground op…",
-      "source": "BBC News · Top Stories · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Israeli military launches rare ground operation in Gaza beyond Yellow Line.",
-        "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
-      ],
-      "vocab": [
-        {
-          "w": "israeli",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "military",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "launches",
+          "w": "nationwide",
           "cn": "（查词典）"
         },
         {
           "w": "operation",
           "cn": "（查词典）"
-        },
-        {
-          "w": "condemns",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "incursion",
-          "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-10",
-      "title": "Google rejects UK request for Russell Br…",
+      "id": "rss-bbc-news-3",
+      "title": "Anthropic becomes one of world's most va…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Google rejects UK request for Russell Brand YouTube video to be removed, sources say.",
-        "This comes after Brand's wife shared a message from him in which he claimed his innocence."
+        "Anthropic becomes one of world's most valuable public companies in stock market debut.",
+        "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
       ],
       "vocab": [
         {
-          "w": "rejects",
+          "w": "anthropic",
           "cn": "（查词典）"
         },
         {
-          "w": "request",
+          "w": "becomes",
           "cn": "（查词典）"
         },
         {
-          "w": "russell",
+          "w": "world's",
           "cn": "（查词典）"
         },
         {
-          "w": "youtube",
+          "w": "valuable",
           "cn": "（查词典）"
         },
         {
-          "w": "removed",
+          "w": "companies",
           "cn": "（查词典）"
         },
         {
-          "w": "sources",
+          "w": "company",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-11",
-      "title": "Myanmar faces historic genocide verdict …",
+      "id": "rss-bbc-news-4",
+      "title": "Bowen: Myanmar genocide verdict is histo…",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Myanmar faces historic genocide verdict at UN court over Rohingya massacres.",
-        "No state has ever been found guilty by an international court of committing genocide."
+        "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications.",
+        "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor."
       ],
       "vocab": [
+        {
+          "w": "crucial",
+          "cn": "至关重要的"
+        },
         {
           "w": "myanmar",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "historic",
           "cn": "（查词典）"
         },
         {
@@ -416,53 +153,299 @@
           "cn": "（查词典）"
         },
         {
-          "w": "rohingya",
+          "w": "historic",
           "cn": "（查词典）"
         },
         {
-          "w": "massacres",
+          "w": "far-reaching",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-news-12",
-      "title": "Is your child lying to you? That might n…",
+      "id": "rss-bbc-news-5",
+      "title": "Watch: What did Trump, Xi and Putin get …",
       "source": "BBC News · Top Stories · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "时事新闻",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Is your child lying to you?",
-        "That might not be a bad thing.",
-        "Parents may be annoyed when their kids lie but experts explain why it is part of their development."
+        "Watch: What did Trump, Xi and Putin get out of their historic meeting?.",
+        "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?"
       ],
       "vocab": [
         {
-          "w": "parents",
+          "w": "historic",
           "cn": "（查词典）"
         },
         {
-          "w": "annoyed",
+          "w": "meeting",
           "cn": "（查词典）"
         },
         {
-          "w": "experts",
+          "w": "declaration",
           "cn": "（查词典）"
         },
         {
-          "w": "explain",
+          "w": "historical",
           "cn": "（查词典）"
         },
         {
-          "w": "development",
+          "w": "trilateral",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-6",
+      "title": "'I tell my son it's just fireworks': Peo…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC.",
+        "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
+      ],
+      "vocab": [
+        {
+          "w": "fireworks'",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "besieged",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "trapped",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "houthis",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-7",
+      "title": "Massive hope for pancreatic cancer pill …",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Massive hope for pancreatic cancer pill after trial saw tumours vanish.",
+        "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers."
+      ],
+      "vocab": [
+        {
+          "w": "eliminate",
+          "cn": "消除"
+        },
+        {
+          "w": "massive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pancreatic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "tumours",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "daraxonrasib",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "appears",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-8",
+      "title": "EU-UK talks going down to the wire, says…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "EU-UK talks going down to the wire, says No 10.",
+        "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday."
+      ],
+      "vocab": [
+        {
+          "w": "expected",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-9",
+      "title": "Next round of BBC cuts will be more noti…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Next round of BBC cuts will be more noticeable to audiences, report warns.",
+        "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target."
+      ],
+      "vocab": [
+        {
+          "w": "noticeable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "audiences",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "already",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "programmes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "services",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "further",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-10",
+      "title": "Airbnb's divisive new house rules come i…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Airbnb's divisive new house rules come into force.",
+        "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
+      ],
+      "vocab": [
+        {
+          "w": "airbnb's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "divisive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reasonably",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "customers",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-11",
+      "title": "Judge finds Thomas Markle mentally fit t…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges.",
+        "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
+      ],
+      "vocab": [
+        {
+          "w": "competent",
+          "cn": "有能力的"
+        },
+        {
+          "w": "mentally",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "charges",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "possessing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "evaluation",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "court-appointed",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-news-12",
+      "title": "Europe ready for talks with Russia on en…",
+      "source": "BBC News · Top Stories · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "时事新闻",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Europe ready for talks with Russia on ending war in Ukraine, leaders say.",
+        "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+      ],
+      "vocab": [
+        {
+          "w": "ukraine",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "leaders",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "european",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "negotiating",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "position",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

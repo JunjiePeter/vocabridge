@@ -1,312 +1,45 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-19",
+  "name": "The Economist · Latest · 2026-11-20",
   "type": "passage",
-  "generatedAt": "2026-11-19T02:24:33.246Z",
+  "generatedAt": "2026-11-20T02:26:07.143Z",
   "items": [
     {
       "id": "rss-economist-1",
-      "title": "Corporate spin-offs are getting out of c…",
+      "title": "Anthropic soars, but it may soon be back…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+      "intro": "原文：https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
       "sentences": [
-        "Corporate spin-offs are getting out of control.",
-        "Some are enormously successful, but certainly not all"
+        "Anthropic soars, but it may soon be back, cap in hand.",
+        "The biggest IPO of all time is just a start"
       ],
       "vocab": [
         {
-          "w": "corporate",
+          "w": "anthropic",
           "cn": "（查词典）"
         },
         {
-          "w": "spin-offs",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "getting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "control",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "enormously",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "successful",
+          "w": "biggest",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+      "link": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
       "audio": ""
     },
     {
       "id": "rss-economist-2",
-      "title": "Meet the European Central Bank’s new squ…",
+      "title": "Anthropic goes to Wall Street",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
       "level": "7.0-8.5",
       "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/19/anthropic-goes-to-wall-street",
       "sentences": [
-        "Meet the European Central Bank’s new squad.",
-        "A Spaniard, a German and a Frenchwoman"
-      ],
-      "vocab": [
-        {
-          "w": "european",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "central",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "spaniard",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "frenchwoman",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-3",
-      "title": "“Grand Theft Auto VI” may mark the end o…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming",
-      "sentences": [
-        "“Grand Theft Auto VI” may mark the end of an era in gaming.",
-        "Studios face shrinking incentives to make top-tier titles"
-      ],
-      "vocab": [
-        {
-          "w": "studios",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "shrinking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "incentives",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "top-tier",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-4",
-      "title": "America must get serious about Chinese c…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
-      "sentences": [
-        "America must get serious about Chinese chip spying.",
-        "The Jensen Huang affair exposes an AI underworld"
-      ],
-      "vocab": [
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "serious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chinese",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "exposes",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "underworld",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-5",
-      "title": "The return of measles in America",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
-      "sentences": [
-        "The return of measles in America.",
-        "Reversing an absurd, unnecessary failure will be expensive and slow"
-      ],
-      "vocab": [
-        {
-          "w": "measles",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reversing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "unnecessary",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "failure",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expensive",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "LLMs are developing filthy mouths",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths",
-      "sentences": [
-        "LLMs are developing filthy mouths.",
-        "More challenging tasks may be to blame"
-      ],
-      "vocab": [
-        {
-          "w": "developing",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "challenging",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Some grasshoppers fly like butterflies t…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/18/some-grasshoppers-fly-like-butterflies-to-mislead-predators",
-      "sentences": [
-        "Some grasshoppers fly like butterflies to mislead predators.",
-        "It is a rare example of motion-related mimicry"
-      ],
-      "vocab": [
-        {
-          "w": "grasshoppers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "butterflies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "mislead",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "predators",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "example",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "motion-related",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/18/some-grasshoppers-fly-like-butterflies-to-mislead-predators",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "America has slashed funding for biomedic…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/18/america-has-slashed-funding-for-biomedical-science-abroad",
-      "sentences": [
-        "America has slashed funding for biomedical science abroad.",
-        "It has also weakened oversight of how future grants are spent"
-      ],
-      "vocab": [
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "slashed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "funding",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "biomedical",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "science",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "weakened",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/science-and-technology/2026/11/18/america-has-slashed-funding-for-biomedical-science-abroad",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "The technologies that will define 2027",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/podcasts/2026/11/18/the-technologies-that-will-define-2027",
-      "sentences": [
-        "Our podcast on science and technology.",
-        "This week, our correspondents make their predictions for the coming year"
+        "Our podcast on markets, the economy and business.",
+        "This week, the largest-ever IPO"
       ],
       "vocab": [
         {
@@ -314,138 +47,360 @@
           "cn": "（查词典）"
         },
         {
-          "w": "science",
+          "w": "markets",
           "cn": "（查词典）"
         },
         {
-          "w": "technology",
+          "w": "economy",
           "cn": "（查词典）"
         },
-        {
-          "w": "correspondents",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "predictions",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/podcasts/2026/11/18/the-technologies-that-will-define-2027",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "Muslims may outnumber Christians by 2035",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/graphic-detail/2026/11/18/muslims-may-outnumber-christians-by-2035",
-      "sentences": [
-        "Muslims may outnumber Christians by 2035.",
-        "But new projections show inflammatory talk of a takeover is bunk"
-      ],
-      "vocab": [
-        {
-          "w": "muslims",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outnumber",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "christians",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "projections",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "inflammatory",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "takeover",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/graphic-detail/2026/11/18/muslims-may-outnumber-christians-by-2035",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "Just how central should one person be to…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
-      "sentences": [
-        "Just how central should one person be to an organisation?.",
-        "From founder mode to bounder mode"
-      ],
-      "vocab": [
-        {
-          "w": "central",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "organisation",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "founder",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bounder",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "Ten business trends for 2027, and foreca…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-ahead/2026/11/18/ten-business-trends-for-2027-and-forecasts-for-16-industries",
-      "sentences": [
-        "Ten business trends for 2027, and forecasts for 16 industries.",
-        "A global round-up from The Economist Intelligence Unit"
-      ],
-      "vocab": [
         {
           "w": "business",
           "cn": "（查词典）"
         },
         {
-          "w": "forecasts",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "industries",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "round-up",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "intelligence",
+          "w": "largest-ever",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.economist.com/the-world-ahead/2026/11/18/ten-business-trends-for-2027-and-forecasts-for-16-industries",
+      "link": "https://www.economist.com/podcasts/2026/11/19/anthropic-goes-to-wall-street",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "What to watch this week",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/19/what-to-watch-this-week",
+      "sentences": [
+        "What to watch this week.",
+        "Dictators, spies and shootings feature on our list"
+      ],
+      "vocab": [
+        {
+          "w": "dictators",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shootings",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "feature",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/19/what-to-watch-this-week",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "Myanmar’s regime is convicted of genocid…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+      "sentences": [
+        "Myanmar’s regime is convicted of genocide.",
+        "The International Court of Justice rules that Myanmar set out to destroy the Rohingyas"
+      ],
+      "vocab": [
+        {
+          "w": "myanmar",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "convicted",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "genocide",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "international",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "justice",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "destroy",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "The best video games of 2026",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/19/the-best-video-games-of-2026",
+      "sentences": [
+        "The best video games of 2026.",
+        "Play as Bond or a crook, a mountaineer or a penguin"
+      ],
+      "vocab": [
+        {
+          "w": "mountaineer",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "penguin",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/19/the-best-video-games-of-2026",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "Cartoon: The meeting of Donald Trump, Xi…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin",
+      "sentences": [
+        "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin.",
+        "A lighter take on the news"
+      ],
+      "vocab": [
+        {
+          "w": "cartoon",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "meeting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "jinping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "vladimir",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "lighter",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "Vladimir Uglev saw his life’s work denie…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/obituary/2026/11/19/vladimir-uglev-saw-his-lifes-work-denied-by-russia",
+      "sentences": [
+        "Vladimir Uglev saw his life’s work denied by Russia.",
+        "The chemist turned dissident died on October 26th, aged 80"
+      ],
+      "vocab": [
+        {
+          "w": "vladimir",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "chemist",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "dissident",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/obituary/2026/11/19/vladimir-uglev-saw-his-lifes-work-denied-by-russia",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
+      "title": "Why there are so many bizarre national d…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/19/why-there-are-so-many-bizarre-national-days",
+      "sentences": [
+        "Why there are so many bizarre national days."
+      ],
+      "vocab": [
+        {
+          "w": "bizarre",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "national",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/19/why-there-are-so-many-bizarre-national-days",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-9",
+      "title": "The most important economics mind you’ve…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/19/the-most-important-economics-mind-youve-never-heard-of",
+      "sentences": [
+        "The most important economics mind you’ve never heard of.",
+        "Maria Edgeworth thought literature could help teach economics, as a new book shows"
+      ],
+      "vocab": [
+        {
+          "w": "important",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "edgeworth",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "thought",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "literature",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/19/the-most-important-economics-mind-youve-never-heard-of",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-10",
+      "title": "The oddball who founded UPS—and changed …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/culture/2026/11/19/the-oddball-who-founded-ups-and-changed-the-world",
+      "sentences": [
+        "The oddball who founded UPS—and changed the world.",
+        "James Casey’s obsession with efficiency helped make next-day delivery possible"
+      ],
+      "vocab": [
+        {
+          "w": "oddball",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "founded",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "changed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "obsession",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "efficiency",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "next-day",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/culture/2026/11/19/the-oddball-who-founded-ups-and-changed-the-world",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-11",
+      "title": "The world’s carmakers are revving up in …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
+      "sentences": [
+        "The world’s carmakers are revving up in America.",
+        "Donald Trump’s policies are only part of the explanation"
+      ],
+      "vocab": [
+        {
+          "w": "carmakers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "revving",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "policies",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "explanation",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-12",
+      "title": "The global south’s smartphone king goes …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
+      "sentences": [
+        "The global south’s smartphone king goes big on AI.",
+        "Faced with stiffening competition and rising costs, Transsion plans its next act"
+      ],
+      "vocab": [
+        {
+          "w": "smartphone",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stiffening",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "competition",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "transsion",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
       "audio": ""
     }
   ]
