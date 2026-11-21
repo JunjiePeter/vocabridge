@@ -1,85 +1,208 @@
 {
   "id": "rss-bbc-biz",
-  "name": "BBC News · Business · 2026-11-20",
+  "name": "BBC News · Business · 2026-11-21",
   "type": "passage",
-  "generatedAt": "2026-11-20T02:26:06.929Z",
+  "generatedAt": "2026-11-21T08:23:38.213Z",
   "items": [
     {
       "id": "rss-bbc-biz-1",
-      "title": "Anthropic becomes one of world's most va…",
+      "title": "Tech stock sell-off drags markets down a…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Anthropic becomes one of world's most valuable public companies in stock market debut.",
-        "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+        "Tech stock sell-off drags markets down as Anthropic shares slide.",
+        "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
       ],
       "vocab": [
+        {
+          "w": "sell-off",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "markets",
+          "cn": "（查词典）"
+        },
         {
           "w": "anthropic",
           "cn": "（查词典）"
         },
         {
-          "w": "becomes",
+          "w": "pressures",
           "cn": "（查词典）"
         },
         {
-          "w": "world's",
+          "w": "weighed",
           "cn": "（查词典）"
         },
         {
-          "w": "valuable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "companies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
+          "w": "industrial",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
       "id": "rss-bbc-biz-2",
-      "title": "GTA 6 breaks records as sales top $2bn -…",
+      "title": "UK to explore even closer ties with EU a…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "UK to explore even closer ties with EU after agreeing deal, says Burnham.",
+        "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+      ],
+      "vocab": [
+        {
+          "w": "explore",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "agreeing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "british",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "exports",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "emissions",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-3",
+      "title": "Faisal Islam: This cost-cutting UK-EU de…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow.",
+        "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+      ],
+      "vocab": [
+        {
+          "w": "cost-cutting",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "doesn't",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "unlikely",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "shoppers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "economy",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "post-brexit",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-4",
+      "title": "Trump threatens ban on US firms building…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Trump threatens ban on US firms building AI data centres overseas.",
+        "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+      ],
+      "vocab": [
+        {
+          "w": "potential",
+          "cn": "潜在的；潜力"
+        },
+        {
+          "w": "threatens",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "building",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "centres",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "overseas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-5",
+      "title": "GTA 6 sales hit $3.8bn in a single day -…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
       "intro": "原文：https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "GTA 6 breaks records as sales top $2bn - industry estimate.",
-        "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
+        "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history.",
+        "The mammoth figure surpasses every video game launch and single-day film box office record."
       ],
       "vocab": [
         {
-          "w": "estimate",
-          "cn": "估计"
-        },
-        {
-          "w": "records",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "industry",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rockstar",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
           "w": "biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "entertainment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "history",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mammoth",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surpasses",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "single-day",
           "cn": "（查词典）"
         }
       ],
@@ -87,48 +210,172 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-3",
-      "title": "California targets Nvidia in China AI ch…",
+      "id": "rss-bbc-biz-6",
+      "title": "Should AI be judging our credit worthine…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "California targets Nvidia in China AI chip probe.",
-        "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+        "Should AI be judging our credit worthiness?.",
+        "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?"
       ],
       "vocab": [
         {
-          "w": "california",
+          "w": "judging",
           "cn": "（查词典）"
         },
         {
-          "w": "targets",
+          "w": "worthiness",
           "cn": "（查词典）"
         },
         {
-          "w": "chipmaker",
+          "w": "whether",
           "cn": "（查词典）"
         },
         {
-          "w": "headquarters",
+          "w": "mortgage",
           "cn": "（查词典）"
         },
         {
-          "w": "follows",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "huang's",
+          "w": "contract",
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-4",
+      "id": "rss-bbc-biz-7",
+      "title": "Tinned food and long-life milk boost ret…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch.",
+        "People stocking up on long-life food drove retail sales higher October, according to official data."
+      ],
+      "vocab": [
+        {
+          "w": "long-life",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "campaign",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stocking",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "october",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "official",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-8",
+      "title": "Fish and eggs al desko? The dos and don'…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Fish and eggs al desko?",
+        "The dos and don'ts of lunch at work.",
+        "The dos and don'ts of lunch at work"
+      ],
+      "vocab": [],
+      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-9",
+      "title": "Airbnb's divisive new house rules come i…",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Airbnb's divisive new house rules come into force.",
+        "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
+      ],
+      "vocab": [
+        {
+          "w": "airbnb's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "divisive",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reasonably",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "customers",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-10",
+      "title": "Mouldy, infested housing for vulnerable …",
+      "source": "BBC News · Business · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "商业",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Mouldy, infested housing for vulnerable people sold as ethical investments abroad.",
+        "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds."
+      ],
+      "vocab": [
+        {
+          "w": "vulnerable",
+          "cn": "脆弱的"
+        },
+        {
+          "w": "infested",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "housing",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "ethical",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "investments",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "properties",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-biz-11",
       "title": "Tens of thousands of UK fridges secured …",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
@@ -169,194 +416,16 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-biz-5",
-      "title": "Airbnb's divisive new house rules come i…",
+      "id": "rss-bbc-biz-12",
+      "title": "Anthropic becomes one of world's most va…",
       "source": "BBC News · Business · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "Airbnb's divisive new house rules come into force.",
-        "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
-      ],
-      "vocab": [
-        {
-          "w": "airbnb's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "divisive",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "reasonably",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "customers",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-6",
-      "title": "Fish and eggs al desko? The dos and don'…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Fish and eggs al desko?",
-        "The dos and don'ts of the lunch break.",
-        "What is acceptable to eat at your desk, without annoying your colleagues?"
-      ],
-      "vocab": [
-        {
-          "w": "acceptable",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "annoying",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "colleagues",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-7",
-      "title": "Viagogo may have broken law on hidden fe…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Viagogo may have broken law on hidden fees, watchdog provisionally finds.",
-        "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing."
-      ],
-      "vocab": [
-        {
-          "w": "viagogo",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "watchdog",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "provisionally",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "competition",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "initial",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "findings",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-8",
-      "title": "Simon Jack: Can Anthropic's record-break…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?.",
-        "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
-      ],
-      "vocab": [
-        {
-          "w": "anthropic's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "record-breaking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bursting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anticipated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "valuable",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-9",
-      "title": "McDonald's sex abuse: 'They were waiting…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'.",
-        "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead."
-      ],
-      "vocab": [
-        {
-          "w": "mcdonald's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "waiting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "younger",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "employees",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-10",
-      "title": "The seven Anthropic founders who are abo…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The seven Anthropic founders who are about to become multi-billionaires.",
-        "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+        "Anthropic becomes one of world's most valuable public companies in stock market debut.",
+        "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
       ],
       "vocab": [
         {
@@ -364,11 +433,19 @@
           "cn": "（查词典）"
         },
         {
-          "w": "founders",
+          "w": "becomes",
           "cn": "（查词典）"
         },
         {
-          "w": "multi-billionaires",
+          "w": "world's",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "valuable",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "companies",
           "cn": "（查词典）"
         },
         {
@@ -376,89 +453,7 @@
           "cn": "（查词典）"
         }
       ],
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-11",
-      "title": "Crew unaware of risks before Mike Lynch'…",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators.",
-        "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch."
-      ],
-      "vocab": [
-        {
-          "w": "unaware",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lynch's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bayesian",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "investigators",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "northern",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "killing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-biz-12",
-      "title": "Elon Musk says record $446m spending on …",
-      "source": "BBC News · Business · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "商业",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Elon Musk says record $446m spending on US midterms was 'pretty foolish'.",
-        "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
-      ],
-      "vocab": [
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'pretty",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "foolish'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "multi-billionaire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "distancing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]

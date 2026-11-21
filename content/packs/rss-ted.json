@@ -1,11 +1,54 @@
 {
   "id": "rss-ted",
-  "name": "TED Talks · Daily · 2026-11-20",
+  "name": "TED Talks · Daily · 2026-11-21",
   "type": "passage",
-  "generatedAt": "2026-11-20T02:26:07.725Z",
+  "generatedAt": "2026-11-21T08:23:39.061Z",
   "items": [
     {
       "id": "rss-ted-1",
+      "title": "Who should profit when AI comes to town?…",
+      "source": "TED Talks · Daily · 个人学习用",
+      "accent": "en-US",
+      "level": "6.5-8.0",
+      "topic": "演讲与观点",
+      "intro": "原文：http://go.ted.com/BrianJanous",
+      "sentences": [
+        "AI data centers are popping up across the US — and the people living next to them are increasingly upset.",
+        "Brian Janous, whose company finds land for some of the biggest data centers, hears those objections firsthand.",
+        "He proposes a solution that would change who benefits from the AI boom, putting a bigger share of the wealth directly into the hands of local communities.",
+        "See acast.com/privacy for more information."
+      ],
+      "vocab": [
+        {
+          "w": "benefits",
+          "cn": "福利"
+        },
+        {
+          "w": "centers",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "popping",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "increasingly",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "company",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biggest",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "http://go.ted.com/BrianJanous",
+      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afdeb0309ab149ef043dc8e/media.mp3"
+    },
+    {
+      "id": "rss-ted-2",
       "title": "A letter to the end of time | Lau Noah",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -47,7 +90,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aff1debc1a867006b449928/media.mp3"
     },
     {
-      "id": "rss-ted-2",
+      "id": "rss-ted-3",
       "title": "The “godfather of AI” on the risks that …",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -90,7 +133,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afc7f5d22c8b5ded545df81/media.mp3"
     },
     {
-      "id": "rss-ted-3",
+      "id": "rss-ted-4",
       "title": "My search for proof aliens exist | Avi L…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -133,7 +176,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afb5767f1fb73f380bc6633/media.mp3"
     },
     {
-      "id": "rss-ted-4",
+      "id": "rss-ted-5",
       "title": "What you hear when you stop talking | Jo…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -176,7 +219,7 @@
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af7358772c084b0516a29b5/media.mp3"
     },
     {
-      "id": "rss-ted-5",
+      "id": "rss-ted-6",
       "title": "Sunday Pick: How to challenge your self-…",
       "source": "TED Talks · Daily · 个人学习用",
       "accent": "en-US",
@@ -217,50 +260,6 @@
       ],
       "link": "https://audiocollective.ted.com/",
       "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aee1ada1ad1a30ae5d0bb39/media.mp3"
-    },
-    {
-      "id": "rss-ted-6",
-      "title": "The digital detectives preserving the tr…",
-      "source": "TED Talks · Daily · 个人学习用",
-      "accent": "en-US",
-      "level": "6.5-8.0",
-      "topic": "演讲与观点",
-      "intro": "原文：http://go.ted.com/hadialkhatib",
-      "sentences": [
-        "A lot of today’s war footage is shot on phones and posted to platforms that were never meant to permanently store it.",
-        "Digital archivist and TED Fellow Hadi Al Khatib founded Mnemonic to save these photos and videos before they vanish.",
-        "Learn how his team is turning people’s social media posts into evidence of crimes that holds up in court — and building an archive that ensures the truth outlasts the war.",
-        "(Note: this film contains disturbing footage of war.) Hosted on Acast.",
-        "See acast.com/privacy for more information."
-      ],
-      "vocab": [
-        {
-          "w": "footage",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "platforms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "permanently",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "digital",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "archivist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "founded",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "http://go.ted.com/hadialkhatib",
-      "audio": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6af5f8aa43d8776fbbb21b36/media.mp3"
     }
   ]
 }

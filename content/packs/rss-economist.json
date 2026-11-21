@@ -1,11 +1,221 @@
 {
   "id": "rss-economist",
-  "name": "The Economist · Latest · 2026-11-20",
+  "name": "The Economist · Latest · 2026-11-21",
   "type": "passage",
-  "generatedAt": "2026-11-20T02:26:07.143Z",
+  "generatedAt": "2026-11-21T08:23:38.340Z",
   "items": [
     {
       "id": "rss-economist-1",
+      "title": "The real tech addicts",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/21/the-real-tech-addicts",
+      "sentences": [
+        "Why some people are falling down the digital rabbit hole"
+      ],
+      "vocab": [
+        {
+          "w": "falling",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "digital",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/21/the-real-tech-addicts",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-2",
+      "title": "AI may have solved the most important pr…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "sentences": [
+        "AI may have solved the most important problem in mathematics.",
+        "Humans spent 167 years trying to prove the Riemann hypothesis"
+      ],
+      "vocab": [
+        {
+          "w": "hypothesis",
+          "cn": "假设"
+        },
+        {
+          "w": "important",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "problem",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mathematics",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "riemann",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-3",
+      "title": "Andy Burnham’s EU deal is only a start",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/britain/2026/11/20/andy-burnhams-eu-deal-is-only-a-start",
+      "sentences": [
+        "Andy Burnham’s EU deal is only a start.",
+        "That is a problem—because expanding it will be difficult"
+      ],
+      "vocab": [
+        {
+          "w": "burnham",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "problem",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "expanding",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "difficult",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/britain/2026/11/20/andy-burnhams-eu-deal-is-only-a-start",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-4",
+      "title": "How can Democrats build on the midterms?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/20/how-can-democrats-build-on-the-midterms",
+      "sentences": [
+        "Our weekly podcast on America.",
+        "This week, the party starts to prepare for 2028"
+      ],
+      "vocab": [
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "america",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "prepare",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/20/how-can-democrats-build-on-the-midterms",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-5",
+      "title": "Are some salts healthier than others?",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/science-and-technology/2026/11/20/are-some-salts-healthier-than-others",
+      "sentences": [
+        "Are some salts healthier than others?.",
+        "The claim has more than a grain of truth"
+      ],
+      "vocab": [
+        {
+          "w": "healthier",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/science-and-technology/2026/11/20/are-some-salts-healthier-than-others",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-6",
+      "title": "Delayed but not denied: justice for the …",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/podcasts/2026/11/20/delayed-but-not-denied-justice-for-the-rohingyas",
+      "sentences": [
+        "Delayed but not denied: justice for the Rohingyas.",
+        "Also on the daily podcast: AI’s cyber-security opportunity and the man who helped create Novichok"
+      ],
+      "vocab": [
+        {
+          "w": "delayed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "justice",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "rohingyas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "podcast",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "opportunity",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/podcasts/2026/11/20/delayed-but-not-denied-justice-for-the-rohingyas",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-7",
+      "title": "A hustler’s odyssey through America’s wa…",
+      "source": "The Economist · Latest · 个人学习用",
+      "accent": "en-GB",
+      "level": "7.0-8.5",
+      "topic": "商业与时事",
+      "intro": "原文：https://www.economist.com/1843/2026/11/20/a-hustlers-odyssey-through-americas-wars-in-the-middle-east",
+      "sentences": [
+        "He made a packet in Afghanistan.",
+        "Now he’s marooned in Qatar"
+      ],
+      "vocab": [
+        {
+          "w": "afghanistan",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "marooned",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.economist.com/1843/2026/11/20/a-hustlers-odyssey-through-americas-wars-in-the-middle-east",
+      "audio": ""
+    },
+    {
+      "id": "rss-economist-8",
       "title": "Anthropic soars, but it may soon be back…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -30,7 +240,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-2",
+      "id": "rss-economist-9",
       "title": "Anthropic goes to Wall Street",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -67,7 +277,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-3",
+      "id": "rss-economist-10",
       "title": "What to watch this week",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -96,7 +306,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-4",
+      "id": "rss-economist-11",
       "title": "Myanmar’s regime is convicted of genocid…",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -137,7 +347,7 @@
       "audio": ""
     },
     {
-      "id": "rss-economist-5",
+      "id": "rss-economist-12",
       "title": "The best video games of 2026",
       "source": "The Economist · Latest · 个人学习用",
       "accent": "en-GB",
@@ -159,248 +369,6 @@
         }
       ],
       "link": "https://www.economist.com/culture/2026/11/19/the-best-video-games-of-2026",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-6",
-      "title": "Cartoon: The meeting of Donald Trump, Xi…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin",
-      "sentences": [
-        "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin.",
-        "A lighter take on the news"
-      ],
-      "vocab": [
-        {
-          "w": "cartoon",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "meeting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "jinping",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "vladimir",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "lighter",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-7",
-      "title": "Vladimir Uglev saw his life’s work denie…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/obituary/2026/11/19/vladimir-uglev-saw-his-lifes-work-denied-by-russia",
-      "sentences": [
-        "Vladimir Uglev saw his life’s work denied by Russia.",
-        "The chemist turned dissident died on October 26th, aged 80"
-      ],
-      "vocab": [
-        {
-          "w": "vladimir",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "chemist",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "dissident",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "october",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/obituary/2026/11/19/vladimir-uglev-saw-his-lifes-work-denied-by-russia",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-8",
-      "title": "Why there are so many bizarre national d…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/19/why-there-are-so-many-bizarre-national-days",
-      "sentences": [
-        "Why there are so many bizarre national days."
-      ],
-      "vocab": [
-        {
-          "w": "bizarre",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "national",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/19/why-there-are-so-many-bizarre-national-days",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-9",
-      "title": "The most important economics mind you’ve…",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/19/the-most-important-economics-mind-youve-never-heard-of",
-      "sentences": [
-        "The most important economics mind you’ve never heard of.",
-        "Maria Edgeworth thought literature could help teach economics, as a new book shows"
-      ],
-      "vocab": [
-        {
-          "w": "important",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "economics",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "edgeworth",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "thought",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "literature",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/19/the-most-important-economics-mind-youve-never-heard-of",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-10",
-      "title": "The oddball who founded UPS—and changed …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/culture/2026/11/19/the-oddball-who-founded-ups-and-changed-the-world",
-      "sentences": [
-        "The oddball who founded UPS—and changed the world.",
-        "James Casey’s obsession with efficiency helped make next-day delivery possible"
-      ],
-      "vocab": [
-        {
-          "w": "oddball",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "founded",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "changed",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "obsession",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "efficiency",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "next-day",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/culture/2026/11/19/the-oddball-who-founded-ups-and-changed-the-world",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-11",
-      "title": "The world’s carmakers are revving up in …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
-      "sentences": [
-        "The world’s carmakers are revving up in America.",
-        "Donald Trump’s policies are only part of the explanation"
-      ],
-      "vocab": [
-        {
-          "w": "carmakers",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "revving",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "america",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "policies",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "explanation",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
-      "audio": ""
-    },
-    {
-      "id": "rss-economist-12",
-      "title": "The global south’s smartphone king goes …",
-      "source": "The Economist · Latest · 个人学习用",
-      "accent": "en-GB",
-      "level": "7.0-8.5",
-      "topic": "商业与时事",
-      "intro": "原文：https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
-      "sentences": [
-        "The global south’s smartphone king goes big on AI.",
-        "Faced with stiffening competition and rising costs, Transsion plans its next act"
-      ],
-      "vocab": [
-        {
-          "w": "smartphone",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "stiffening",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "competition",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "transsion",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
       "audio": ""
     }
   ]

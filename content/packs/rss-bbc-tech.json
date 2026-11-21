@@ -1,44 +1,102 @@
 {
   "id": "rss-bbc-tech",
-  "name": "BBC News · Technology · 2026-11-20",
+  "name": "BBC News · Technology · 2026-11-21",
   "type": "passage",
-  "generatedAt": "2026-11-20T02:26:06.782Z",
+  "generatedAt": "2026-11-21T08:23:38.193Z",
   "items": [
     {
       "id": "rss-bbc-tech-1",
-      "title": "GTA 6 breaks records as sales top $2bn -…",
+      "title": "Can AI really help spot Black Friday dea…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Can AI really help spot Black Friday deals?",
+        "We put it to the test.",
+        "We put four AI models to the test to see if they could save us money on a new TV."
+      ],
+      "vocab": [],
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-2",
+      "title": "In a year of AI solving maths problems, …",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "In a year of AI solving maths problems, Anthropic may have just solved the biggest.",
+        "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+      ],
+      "vocab": [
+        {
+          "w": "hypothesis",
+          "cn": "假设"
+        },
+        {
+          "w": "solving",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "problems",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mathematician",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-3",
+      "title": "GTA 6 sales hit $3.8bn in a single day -…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
       "level": "6.5-7.5",
       "topic": "科技",
       "intro": "原文：https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "sentences": [
-        "GTA 6 breaks records as sales top $2bn - industry estimate.",
-        "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
+        "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history.",
+        "The mammoth figure surpasses every video game launch and single-day film box office record."
       ],
       "vocab": [
         {
-          "w": "estimate",
-          "cn": "估计"
-        },
-        {
-          "w": "records",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "industry",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "rockstar",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
           "w": "biggest",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "entertainment",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "history",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mammoth",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "surpasses",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "single-day",
           "cn": "（查词典）"
         }
       ],
@@ -46,7 +104,167 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-2",
+      "id": "rss-bbc-tech-4",
+      "title": "Tech stock sell-off drags markets down a…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Tech stock sell-off drags markets down as Anthropic shares slide.",
+        "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+      ],
+      "vocab": [
+        {
+          "w": "sell-off",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "markets",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "anthropic",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "pressures",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "weighed",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "industrial",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-5",
+      "title": "Trump threatens ban on US firms building…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Trump threatens ban on US firms building AI data centres overseas.",
+        "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+      ],
+      "vocab": [
+        {
+          "w": "potential",
+          "cn": "潜在的；潜力"
+        },
+        {
+          "w": "threatens",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "building",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "centres",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "overseas",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "president",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-6",
+      "title": "White House removes cyber-security chief…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "White House removes cyber-security chief after series of tech outages.",
+        "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
+      ],
+      "vocab": [
+        {
+          "w": "removes",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "cyber-security",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "outages",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "confidence",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "stephen",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "reports",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-7",
+      "title": "Should AI be judging our credit worthine…",
+      "source": "BBC News · Technology · 个人学习用",
+      "accent": "en-GB",
+      "level": "6.5-7.5",
+      "topic": "科技",
+      "intro": "原文：https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "sentences": [
+        "Should AI be judging our credit worthiness?.",
+        "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?"
+      ],
+      "vocab": [
+        {
+          "w": "judging",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "worthiness",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "whether",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "mortgage",
+          "cn": "（查词典）"
+        },
+        {
+          "w": "contract",
+          "cn": "（查词典）"
+        }
+      ],
+      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "audio": ""
+    },
+    {
+      "id": "rss-bbc-tech-8",
       "title": "Tens of thousands of UK fridges secured …",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -87,7 +305,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-3",
+      "id": "rss-bbc-tech-9",
       "title": "Anthropic becomes one of world's most va…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -128,7 +346,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-4",
+      "id": "rss-bbc-tech-10",
       "title": "Dutch watchdog tells people not to buy A…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -169,7 +387,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-5",
+      "id": "rss-bbc-tech-11",
       "title": "Anthropic raises $81bn in record-breakin…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -206,7 +424,7 @@
       "audio": ""
     },
     {
-      "id": "rss-bbc-tech-6",
+      "id": "rss-bbc-tech-12",
       "title": "UK joins in GTA 6 frenzy as game becomes…",
       "source": "BBC News · Technology · 个人学习用",
       "accent": "en-GB",
@@ -244,236 +462,6 @@
         }
       ],
       "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-7",
-      "title": "Elon Musk says record $446m spending on …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Elon Musk says record $446m spending on US midterms was 'pretty foolish'.",
-        "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
-      ],
-      "vocab": [
-        {
-          "w": "spending",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "midterms",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "'pretty",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "foolish'",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "multi-billionaire",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "distancing",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-8",
-      "title": "The seven Anthropic founders who are abo…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "The seven Anthropic founders who are about to become multi-billionaires.",
-        "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
-      ],
-      "vocab": [
-        {
-          "w": "anthropic",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "founders",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "multi-billionaires",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "company",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-9",
-      "title": "Simon Jack: Can Anthropic's record-break…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?.",
-        "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
-      ],
-      "vocab": [
-        {
-          "w": "anthropic's",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "record-breaking",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "bursting",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anticipated",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "expected",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "valuable",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-10",
-      "title": "Grand Theft Auto 6 is a masterpiece, say…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Grand Theft Auto 6 is a masterpiece, say critics.",
-        "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
-      ],
-      "vocab": [
-        {
-          "w": "masterpiece",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "critics",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "whether",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "anticipated",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-11",
-      "title": "Hacks, AI or just overdue updates - why …",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "Hacks, AI or just overdue updates - why have there been so many outages?.",
-        "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving."
-      ],
-      "vocab": [
-        {
-          "w": "overdue",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "updates",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "outages",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "evidence",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "constant",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "disruptions",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "audio": ""
-    },
-    {
-      "id": "rss-bbc-tech-12",
-      "title": "British hacker who stole $11m through te…",
-      "source": "BBC News · Technology · 个人学习用",
-      "accent": "en-GB",
-      "level": "6.5-7.5",
-      "topic": "科技",
-      "intro": "原文：https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "sentences": [
-        "British hacker who stole $11m through text message scheme jailed for six years in US.",
-        "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager."
-      ],
-      "vocab": [
-        {
-          "w": "british",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "message",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "buchanan",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "notorious",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "scattered",
-          "cn": "（查词典）"
-        },
-        {
-          "w": "hacking",
-          "cn": "（查词典）"
-        }
-      ],
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
       "audio": ""
     }
   ]
